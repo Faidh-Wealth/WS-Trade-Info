@@ -15,3 +15,7 @@ Currently lists *1523* American assets traded in the NASDAQ, from `Appian Corp (
 
 ### NYSE
 Currently lists *2134* American assets traded in the NYSE, from `Agilent Technologies Inc.` (A) to `Zymeworks Inc` (ZYME)
+
+# Recently Changed / Added
+
+The `change_info` folder contains information about assets that went through change recently. For example, it contains recent and to be added IPOs. It also contains all the de-listed and split stocks. This info might not be up to date at the time of your reading, since it requires daily changes. Last updated October 7th 2020.
