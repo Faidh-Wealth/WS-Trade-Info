@@ -376,7 +376,6 @@ CNS,Cohen & Steers Inc.,NYSE
 CNX,CNX Resources Corp,NYSE
 COF,Capital One Financial Corp.,NYSE
 COG,Cabot Oil & Gas Corp.,NYSE
-COP,Conoco Phillips,NYSE
 COPX,Global X Copper Miners ETF,NYSE
 COR,CoreSite Realty Corporation,NYSE
 CORR,CorEnergy Infrastructure Trust Inc,NYSE
@@ -505,7 +504,6 @@ DLR,Digital Realty Trust Inc,NYSE
 DLS,WisdomTree International SmallCap Dividend Fund,NYSE
 DLX,Deluxe Corp.,NYSE
 DNB,Dun & Bradstreet Holdings Inc,NYSE
-DNI,Dividend and Income Fund,NYSE
 DNOW,NOW Inc,NYSE
 DNP,DNP Select Income Fund Inc.,NYSE
 DOG,ProShares Short Dow30,NYSE
@@ -804,6 +802,7 @@ GLDM,SPDR Gold MiniShares Trust,NYSE
 GLIN,VanEck Vectors India Growth Leaders ETF,NYSE
 GLL,ProShares UltraShort Gold,NYSE
 GLOG,GasLog Ltd,NYSE
+GLT,Glatfelter Corporation,NYSE
 GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,NYSE
 GLW,"Corning, Inc.",NYSE
 GM,General Motors Company,NYSE
@@ -1223,7 +1222,6 @@ MMS,Maximus Inc.,NYSE
 MMT,MFS Multimarket Income Trust,NYSE
 MMU,Western Asset Managed Municipals Fund Inc,NYSE
 MN,Manning & Napier Inc (Class A),NYSE
-MNK,Mallinckrodt Plc,NYSE
 MNR,Monmouth Real Estate Investment Corp. (Class A),NYSE
 MO,Altria Group Inc.,NYSE
 MOD,Modine Manufacturing Co.,NYSE
@@ -1437,7 +1435,6 @@ PHG,Koninklijke Philips N.V.,NYSE
 PHI,PLDT Inc,NYSE
 PHM,PulteGroup Inc,NYSE
 PHT,Pioneer High Income Trust,NYSE
-PHX,Panhandle Oil and Gas Inc (Class A),NYSE
 PII,Polaris Inc,NYSE
 PIM,Putnam Master Intermediate Income Trust,NYSE
 PIN,Invesco India ETF,NYSE
@@ -1761,6 +1758,7 @@ STC,Stewart Information Services Corp.,NYSE
 STE,Steris Plc,NYSE
 STIP,BTC iShares 0-5 Year TIPS Bond ETF,NYSE
 STL,Sterling Bancorp.,NYSE
+STM,New York Shares,NYSE
 STNG,Scorpio Tankers Inc,NYSE
 STON,StoneMor Inc,NYSE
 STOR,Store Capital Corp,NYSE
@@ -1877,13 +1875,14 @@ TSE,Trinseo S.A.,NYSE
 TSI,TCW Strategic Income Fund Inc,NYSE
 TSM,Taiwan Semiconductor Manufacturing,NYSE
 TSN,"Tyson Foods, Inc. (Class A)",NYSE
-TSU,TIM Participacoes S.A.,NYSE
 TT,Trane Technologies plc (Class A),NYSE
 TTC,Toro Co.,NYSE
 TTI,"Tetra Technologies, Inc.",NYSE
 TTM,Tata Motors Ltd.,NYSE
 TUP,Tupperware Brands Corporation,NYSE
+TV,#NAME?,NYSE
 TWI,"Titan International, Inc.",NYSE
+TWLO,Class A,NYSE
 TWM,ProShares UltraShort Russell2000,NYSE
 TWO,Two Harbors Investment Corp,NYSE
 TWTR,Twitter Inc,NYSE
@@ -1921,6 +1920,7 @@ UIS,Unisys Corp.,NYSE
 UL,Unilever plc,NYSE
 ULE,ProShares Ultra Euro,NYSE
 UMH,UMH Properties Inc,NYSE
+UN,New York Shares,NYSE
 UNF,Unifirst Corp.,NYSE
 UNFI,United Natural Foods Inc.,NYSE
 UNG,ed States Natural Gas Fund,NYSE
@@ -1993,6 +1993,7 @@ VNE,Veoneer Inc,NYSE
 VNO,Vornado Realty Trust,NYSE
 VNQ,"Vanguard Group, Inc. - Vanguard Real Estate Index Fund ETF",NYSE
 VNRX,VolitionRX Ltd,NYSE
+VNT,Vontier Corporation,NYSE
 VO,Vanguard Mid-Cap ETF,NYSE
 VOE,"Vanguard Group, Inc. - Vanguard Mid-Cap Value ETF",NYSE
 VOLT,"Volt Information Sciences, Inc.",NYSE
@@ -2004,7 +2005,6 @@ VPL,"Vanguard Group, Inc. - Vanguard FTSE Pacific ETF",NYSE
 VPU,"Vanguard Group, Inc. - Vanguard Utilities ETF",NYSE
 VRTV,Veritiv Corp,NYSE
 VSH,"Vishay Intertechnology, Inc.",NYSE
-VSLR,Vivint Solar Inc,NYSE
 VSS,"Vanguard Group, Inc. - Vanguard FTSE All-World Ex-US Small Capital Index Fund ETF",NYSE
 VST,Vistra Energy Corp,NYSE
 VSTO,Vista Outdoor Inc,NYSE
@@ -2114,6 +2114,7 @@ XTN,SSgA SPDR S&P Transportation ETF,NYSE
 XTNT,Xtant Medical Holdings Inc,NYSE
 XXII,22nd Century Group Inc,NYSE
 XYL,Xylem Inc,NYSE
+Y,Alleghany Corp.,NYSE
 YANG,Direxion Daily FTSE China Bear 3X Shares,NYSE
 YCS,ProShares UltraShort Yen,NYSE
 YELP,Yelp Inc,NYSE

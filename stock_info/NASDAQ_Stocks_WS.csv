@@ -37,6 +37,7 @@ AEGN,Aegion Corp,NASDAQ
 AEHR,Aehr Test Systems,NASDAQ
 AEIS,Advanced Energy Industries Inc.,NASDAQ
 AEMD,Aethlon Medical Inc,NASDAQ
+AEP,American Electric Power Company Inc.,NASDAQ
 AERI,Aerie Pharmaceuticals Inc,NASDAQ
 AEY,Addvantage Technologies Group,NASDAQ
 AEYE,AudioEye Inc,NASDAQ
@@ -50,7 +51,6 @@ AIMC,Altra Industrial Motion Corp,NASDAQ
 AIRR,First Trust RBA American Industrial Renaissance ETF,NASDAQ
 AKAM,Akamai Technologies Inc,NASDAQ
 AKBA,Akebia Therapeutics Inc.,NASDAQ
-AKCA,Akcea Therapeutics Inc,NASDAQ
 AKER,Akers Biosciences Inc,NASDAQ
 AKTX,Akari Therapeutics Plc,NASDAQ
 ALBO,Albireo Pharma Inc,NASDAQ
@@ -548,6 +548,7 @@ GAIA,Gaia Inc (Class A),NASDAQ
 GALT,Galectin Therapeutics Inc,NASDAQ
 GBCI,"Glacier Bancorp, Inc.",NASDAQ
 GDEN,Golden Entertainment Inc,NASDAQ
+GDRX,GoodRx Holdings Inc (Class A),NASDAQ
 GENE,Genetic Technologies Ltd.,NASDAQ
 GEOS,Geospace Technologies Corp,NASDAQ
 GERN,Geron Corp.,NASDAQ
@@ -791,10 +792,10 @@ LLNW,Limelight Networks Inc,NASDAQ
 LMNR,Limoneira Co,NASDAQ
 LMNX,Luminex Corp,NASDAQ
 LNDC,Landec Corp.,NASDAQ
+LNSR,LENSAR Inc,NASDAQ
 LNT,Alliant Energy Corp.,NASDAQ
 LNTH,Lantheus Holdings Inc,NASDAQ
 LOGI,Logitech International S.A.,NASDAQ
-LONE,Lonestar Resources US Inc (Class A),NASDAQ
 LOOP,Loop Industries Inc,NASDAQ
 LORL,Loral Space & Communications Inc,NASDAQ
 LPCN,Lipocine Inc,NASDAQ
@@ -887,6 +888,7 @@ MRVL,Marvell Technology Group Ltd,NASDAQ
 MSFT,Microsoft Corporation,NASDAQ
 MSON,Misonix Inc,NASDAQ
 MSTR,Microstrategy Inc. (Class A),NASDAQ
+MTCH,#NAME?,NASDAQ
 MTEM,Molecular Templates Inc,NASDAQ
 MTP,Midatech Pharma Plc,NASDAQ
 MTRX,Matrix Service Co.,NASDAQ
@@ -959,7 +961,6 @@ NXPI,NXP Semiconductors NV,NASDAQ
 NXTD,Nxt-ID Inc,NASDAQ
 NYMT,New York Mortgage Trust Inc,NASDAQ
 NYMX,Nymox Pharmaceutical Corp,NASDAQ
-OAS,Oasis Petroleum Inc.,NASDAQ
 OBSV,ObsEva SA.,NASDAQ
 OCFC,OceanFirst Financial Corp.,NASDAQ
 OCSL,Oaktree Specialty Lending Corp,NASDAQ
@@ -989,6 +990,7 @@ OPHC,Optimumbank Holdings Inc.,NASDAQ
 OPI,Office Properties Income Trust,NASDAQ
 OPK,Opko Health Inc,NASDAQ
 OPRX,OptimizeRx Corp,NASDAQ
+OPTT,#NAME?,NASDAQ
 ORBC,Orbcomm Inc,NASDAQ
 ORLY,"O`Reilly Automotive, Inc.",NASDAQ
 ORMP,"Oramed Pharmaceuticals, Inc",NASDAQ
@@ -1118,6 +1120,7 @@ RADA,Rada Electronic Industries,NASDAQ
 RAIL,FreightCar America Inc,NASDAQ
 RAVE,Rave Restaurant Group Inc,NASDAQ
 RAVN,"Raven Industries, Inc.",NASDAQ
+RBBN,#NAME?,NASDAQ
 RCII,Rent-a-Center Inc.,NASDAQ
 RCM,R1 RCM Inc,NASDAQ
 RDFN,Redfin Corp,NASDAQ
@@ -1209,7 +1212,7 @@ SFM,Sprouts Farmers Market Inc,NASDAQ
 SFNC,Simmons First National Corp. (Class A),NASDAQ
 SGBX,SG Blocks Inc,NASDAQ
 SGC,Superior Group of Companies Inc..,NASDAQ
-SGEN,Seattle Genetics Inc,NASDAQ
+SGEN,Seagen Inc,NASDAQ
 SGH,SMART Global Holdings Inc,NASDAQ
 SGLB,Sigma Labs Inc,NASDAQ
 SGMO,Sangamo Therapeutics Inc,NASDAQ
@@ -1228,7 +1231,6 @@ SIMO,Silicon Motion Technology Corp,NASDAQ
 SINA,Sina Corp.,NASDAQ
 SIRI,Sirius XM Holdings Inc,NASDAQ
 SIVB,SVB Financial Group,NASDAQ
-SKYS,Sky Solar Holdings Ltd,NASDAQ
 SKYW,Skywest Inc.,NASDAQ
 SKYY,First Trust Cloud Computing ETF,NASDAQ
 SLAB,Silicon Laboratories Inc,NASDAQ
@@ -1368,7 +1370,6 @@ TTOO,T2 Biosystems Inc,NASDAQ
 TTWO,"Take-Two Interactive Software, Inc.",NASDAQ
 TUR,BTC iShares MSCI Turkey ETF,NASDAQ
 TVTY,Tivity Health Inc,NASDAQ
-TWMC,Kaspien Holdings Inc,NASDAQ
 TWNK,Hostess Brands Inc (Class A),NASDAQ
 TWOU,2U Inc,NASDAQ
 TXG,10x Genomics Inc (Class A),NASDAQ
@@ -1396,7 +1397,6 @@ UPWK,Upwork Inc,NASDAQ
 URBN,"Urban Outfitters, Inc.",NASDAQ
 URGN,UroGen Pharma Ltd,NASDAQ
 USAK,"USA Truck, Inc.",NASDAQ
-USAU,U.S. Gold Corp,NASDAQ
 USEG,U.S. Energy Corp.,NASDAQ
 USIG,iShares Broad USD Investment Grade Corporate Bond ETF,NASDAQ
 USIO,Usio Inc,NASDAQ
