@@ -1,7 +1,8 @@
 ﻿symbol,name,primary_exchange
 A,Agilent Technologies Inc.,NYSE
 AA,Alcoa Corp,NYSE
-AAN,Aaron`s Inc,NYSE
+AAIC,Arlington Asset Investment Corp (Class A),NYSE
+AAN,Aarons Holdings Company Inc,NYSE
 AAP,Advance Auto Parts Inc,NYSE
 AB,AllianceBernstein Holding Lp,NYSE
 ABB,ABB Ltd.,NYSE
@@ -46,7 +47,6 @@ AGRO,Adecoagro S.A.,NYSE
 AGX,"Argan, Inc.",NYSE
 AGZ,BTC iShares Agency Bond ETF,NYSE
 AHT,Ashford Hospitality Trust Inc,NYSE
-AI,Arlington Asset Investment Corp (Class A),NYSE
 AIEQ,AI Powered Equity ETF,NYSE
 AIG,American International Group Inc,NYSE
 AIM,AIM ImmunoTech Inc,NYSE
@@ -333,7 +333,6 @@ CI,Cigna Corp.,NYSE
 CIA,"Citizens, Inc. (Class A)",NYSE
 CIEN,CIENA Corp.,NYSE
 CIF,MFS Intermediate High Income Fund,NYSE
-CIG,Preference Shares,NYSE
 CIK,Credit Suisse Asset Management Income Fund Inc.,NYSE
 CIM,Chimera Investment Corp,NYSE
 CIO,City Office REIT Inc,NYSE
@@ -374,10 +373,9 @@ CNP,Centerpoint Energy Inc.,NYSE
 CNR,Cornerstone Building Brands Inc,NYSE
 CNS,Cohen & Steers Inc.,NYSE
 CNX,CNX Resources Corp,NYSE
+CODI,Compass Diversified Holdings,NYSE
 COF,Capital One Financial Corp.,NYSE
 COG,Cabot Oil & Gas Corp.,NYSE
-COPX,Global X Copper Miners ETF,NYSE
-COR,CoreSite Realty Corporation,NYSE
 CORR,CorEnergy Infrastructure Trust Inc,NYSE
 COTY,Coty Inc (Class A),NYSE
 CPA,Copa Holdings S.A. (Class A),NYSE
@@ -549,6 +547,7 @@ DXC,DXC Technology Co,NYSE
 DXD,ProShares UltraShort Dow30,NYSE
 DXJ,WisdomTree Japan Hedged Equity Fund,NYSE
 DY,"Dycom Industries, Inc.",NYSE
+E,Eni Spa,NYSE
 EAT,"Brinker International, Inc.",NYSE
 EB,Eventbrite Inc (Class A),NYSE
 EBF,Ennis Inc.,NYSE
@@ -793,6 +792,7 @@ GGB,Gerdau S.A.,NYSE
 GGG,Graco Inc.,NYSE
 GGN,GAMCO Global Gold Natural Resources & Income Trust,NYSE
 GHL,Greenhill & Co Inc,NYSE
+GHLD,Guild Holdings Co (Class A),NYSE
 GII,SSgA Active Trust - SSgA SPDR S&P Global Infrastructure ETF,NYSE
 GIM,Templeton Global Income Fund Inc,NYSE
 GIS,"General Mills, Inc.",NYSE
@@ -983,7 +983,6 @@ IOO,BTC iShares Global 100 ETF,NYSE
 IP,International Paper Co.,NYSE
 IPAY,ETFMG Prime Mobile Payments ETF,NYSE
 IPG,"Interpublic Group Of Cos., Inc.",NYSE
-IPHI,Inphi Corp,NYSE
 IPI,Intrepid Potash Inc,NYSE
 IQI,Invesco Quality Municipal Income Trust,NYSE
 IQV,IQVIA Holdings Inc,NYSE
@@ -1111,7 +1110,6 @@ KW,Kennedy-Wilson Holdings Inc,NYSE
 KWEB,KraneShares CSI China Internet ETF,NYSE
 KWR,Quaker Chemical Corp.,NYSE
 KXI,BTC iShares Global Consumer Staples ETF,NYSE
-L,Loews Corp.,NYSE
 LAD,"Lithia Motors, Inc. (Class A)",NYSE
 LAZ,Lazard Ltd. (Class A),NYSE
 LB,L Brands Inc,NYSE
@@ -1170,7 +1168,6 @@ LYB,LyondellBasell Industries NV (Class A),NYSE
 LYG,Lloyds Banking Group plc,NYSE
 LYV,Live Nation Entertainment Inc,NYSE
 LZB,La-Z-Boy Inc.,NYSE
-M,Macy`s Inc,NYSE
 MA,Mastercard Incorporated (Class A),NYSE
 MAA,"Mid-America Apartment Communities, Inc.",NYSE
 MAC,Macerich Co.,NYSE
@@ -1200,6 +1197,7 @@ MFG,"Mizuho Financial Group, Inc.",NYSE
 MFGP,Micro Focus International Plc,NYSE
 MG,Mistras Group Inc,NYSE
 MGC,"Vanguard Group, Inc. - Vanguard Mega Cap 300 Index ETF",NYSE
+MGF,MFS Government Markets Income Trust,NYSE
 MGK,Vanguard Mega Cap Growth ETF,NYSE
 MGM,MGM Resorts International,NYSE
 MGP,MGM Growth Properties LLC (Class A),NYSE
@@ -1249,6 +1247,7 @@ MSGN,MSG Networks Inc (Class A),NYSE
 MSGS,Madison Square Garden Sports Corp (Class A),NYSE
 MSI,Motorola Solutions Inc,NYSE
 MSM,"MSC Industrial Direct Co., Inc. (Class A)",NYSE
+MSP,Datto Holding Corp,NYSE
 MT,New York Shares - Level III,NYSE
 MTB,M & T Bank Corp,NYSE
 MTD,"Mettler-Toledo International, Inc.",NYSE
@@ -1340,6 +1339,7 @@ NVO,Novo Nordisk,NYSE
 NVS,Novartis AG,NYSE
 NVST,Envista Holdings Corp,NYSE
 NVTA,Invitae Corp,NYSE
+NWE,Northwestern Corp.,NYSE
 NWG,NatWest Group Plc,NYSE
 NWHM,New Home Company Inc (The),NYSE
 NWN,Northwest Natural Holding Co,NYSE
@@ -1435,6 +1435,7 @@ PHG,Koninklijke Philips N.V.,NYSE
 PHI,PLDT Inc,NYSE
 PHM,PulteGroup Inc,NYSE
 PHT,Pioneer High Income Trust,NYSE
+PHX,PHX Minerals Inc (Class A),NYSE
 PII,Polaris Inc,NYSE
 PIM,Putnam Master Intermediate Income Trust,NYSE
 PIN,Invesco India ETF,NYSE
@@ -1580,7 +1581,6 @@ RRD,R.R. Donnelley & Sons Co.,NYSE
 RS,Reliance Steel & Aluminum Co.,NYSE
 RSG,"Republic Services, Inc.",NYSE
 RSP,Invesco S&P 500 Equal Weight ETF,NYSE
-RST,Rosetta Stone Inc,NYSE
 RTM,Invesco S&P 500 Equal Weight Materials ETF,NYSE
 RTX,Raytheon Technologies Corporation,NYSE
 RUSL,Direxion Daily Russia Bull 2X Shares,NYSE
@@ -1827,6 +1827,7 @@ THG,Hanover Insurance Group Inc,NYSE
 THO,"Thor Industries, Inc.",NYSE
 THS,Treehouse Foods Inc,NYSE
 TIF,Tiffany & Co.,NYSE
+TIMB,TIM SA - ADR,NYSE
 TIP,BTC iShares TIPS Bond ETF,NYSE
 TISI,"Team, Inc.",NYSE
 TJX,"TJX Companies, Inc.",NYSE
@@ -1933,6 +1934,7 @@ URA,Global X Uranium ETF,NYSE
 URE,ProShares Ultra Real Estate,NYSE
 URI,"United Rentals, Inc.",NYSE
 USA,Liberty All-Star Equity Fund,NYSE
+USB,U.S. Bancorp.,NYSE
 USD,ProShares Ultra Semiconductors,NYSE
 USFD,US Foods Holding Corp,NYSE
 USL,ed States 12 Month Oil Fund LP,NYSE
@@ -1993,7 +1995,6 @@ VNE,Veoneer Inc,NYSE
 VNO,Vornado Realty Trust,NYSE
 VNQ,"Vanguard Group, Inc. - Vanguard Real Estate Index Fund ETF",NYSE
 VNRX,VolitionRX Ltd,NYSE
-VNT,Vontier Corporation,NYSE
 VO,Vanguard Mid-Cap ETF,NYSE
 VOE,"Vanguard Group, Inc. - Vanguard Mid-Cap Value ETF",NYSE
 VOLT,"Volt Information Sciences, Inc.",NYSE
@@ -2114,7 +2115,6 @@ XTN,SSgA SPDR S&P Transportation ETF,NYSE
 XTNT,Xtant Medical Holdings Inc,NYSE
 XXII,22nd Century Group Inc,NYSE
 XYL,Xylem Inc,NYSE
-Y,Alleghany Corp.,NYSE
 YANG,Direxion Daily FTSE China Bear 3X Shares,NYSE
 YCS,ProShares UltraShort Yen,NYSE
 YELP,Yelp Inc,NYSE

@@ -34,6 +34,7 @@ ADSK,Autodesk Inc.,NASDAQ
 ADTN,Adtran Inc.,NASDAQ
 ADXS,"Advaxis, Inc.",NASDAQ
 AEGN,Aegion Corp,NASDAQ
+AEHL,Antelope Enterprise Holdings Ltd,NASDAQ
 AEHR,Aehr Test Systems,NASDAQ
 AEIS,Advanced Energy Industries Inc.,NASDAQ
 AEMD,Aethlon Medical Inc,NASDAQ
@@ -109,6 +110,7 @@ ARCB,ArcBest Corp,NASDAQ
 ARCC,Ares Capital Corp,NASDAQ
 ARLP,"Alliance Resource Partners, LP",NASDAQ
 ARNA,Arena Pharmaceuticals Inc,NASDAQ
+ARRY,Array Technologies Inc,NASDAQ
 ARTW,Art`s-way Manufacturing Co. Inc.,NASDAQ
 ARWR,Arrowhead Pharmaceuticals Inc.,NASDAQ
 ASML,New York Shares,NASDAQ
@@ -241,7 +243,6 @@ CBLI,Cleveland BioLabs Inc,NASDAQ
 CBPO,China Biologic Products Holdings Inc,NASDAQ
 CBRL,Cracker Barrel Old Country Store Inc,NASDAQ
 CBSH,"Commerce Bancshares, Inc.",NASDAQ
-CCCL,China Ceramics Co Ltd,NASDAQ
 CCMP,CMC Materials Inc,NASDAQ
 CCNE,CNB Financial Corp (PA),NASDAQ
 CCOI,Cogent Communications Holdings Inc,NASDAQ
@@ -264,7 +265,6 @@ CENX,Century Aluminum Co.,NASDAQ
 CERC,Cerecor Inc,NASDAQ
 CERN,Cerner Corp.,NASDAQ
 CERS,Cerus Corp.,NASDAQ
-CETV,Central European Media Enterprises (Class A),NASDAQ
 CEVA,Ceva Inc.,NASDAQ
 CFFN,Capitol Federal Financial,NASDAQ
 CFMS,Conformis Inc.,NASDAQ
@@ -303,7 +303,7 @@ CMCSA,Comcast Corp (Class A),NASDAQ
 CME,CME Group Inc (Class A),NASDAQ
 CMTL,Comtech Telecommunications Corp.,NASDAQ
 CNDT,Conduent Inc,NASDAQ
-CNET,ChinaNet Online Holdings Inc,NASDAQ
+CNET,ZW Data Action Technologies Inc,NASDAQ
 CNOB,ConnectOne Bancorp Inc.,NASDAQ
 CNSL,Consolidated Communications Holdings Inc,NASDAQ
 CNTY,Century Casinos Inc.,NASDAQ
@@ -681,7 +681,6 @@ IMBI,iMedia Brands Inc (Class A),NASDAQ
 IMGN,"Immunogen, Inc.",NASDAQ
 IMKTA,"Ingles Markets, Inc. (Class A)",NASDAQ
 IMMR,Immersion Corp,NASDAQ
-IMMU,"Immunomedics, Inc.",NASDAQ
 INCY,Incyte Corp.,NASDAQ
 INDB,Independent Bank Corp.,NASDAQ
 INDY,BTC iShares India 50 ETF,NASDAQ
@@ -792,7 +791,6 @@ LLNW,Limelight Networks Inc,NASDAQ
 LMNR,Limoneira Co,NASDAQ
 LMNX,Luminex Corp,NASDAQ
 LNDC,Landec Corp.,NASDAQ
-LNSR,LENSAR Inc,NASDAQ
 LNT,Alliant Energy Corp.,NASDAQ
 LNTH,Lantheus Holdings Inc,NASDAQ
 LOGI,Logitech International S.A.,NASDAQ
@@ -832,6 +830,7 @@ MBII,Marrone Bio Innovations Inc,NASDAQ
 MBOT,Microbot Medical Inc,NASDAQ
 MBRX,Moleculin Biotech Inc,NASDAQ
 MCBC,Macatawa Bank Corp.,NASDAQ
+MCFE,McAfee Corp (Class A),NASDAQ
 MCHI,BTC iShares MSCI China ETF,NASDAQ
 MCHP,"Microchip Technology, Inc.",NASDAQ
 MCHX,Marchex Inc (Class B),NASDAQ
@@ -1296,13 +1295,13 @@ STCN,Steel Connect Inc,NASDAQ
 STKS,ONE Group Hospitality Inc,NASDAQ
 STLD,Steel Dynamics Inc.,NASDAQ
 STMP,Stamps.com Inc.,NASDAQ
-STND,Standard AVB Financial Corp,NASDAQ
 STRA,Strategic Education Inc,NASDAQ
 STRL,"Sterling Construction Company, Inc.",NASDAQ
 STRM,"Streamline Health Solutions, Inc",NASDAQ
 SUMO,Sumo Logic Inc,NASDAQ
 SUNW,Sunworks Inc,NASDAQ
 SUPN,Supernus Pharmaceuticals Inc,NASDAQ
+SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF,NASDAQ
 SVC,Service Properties Trust,NASDAQ
 SVRA,Savara Inc,NASDAQ
 SWBI,Smith & Wesson Brands Inc,NASDAQ
@@ -1341,7 +1340,6 @@ TLT,BTC iShares 20+ Year Treasury Bond ETF,NASDAQ
 TMUS,T-Mobile US Inc,NASDAQ
 TNAV,Telenav Inc,NASDAQ
 TNXP,Tonix Pharmaceuticals Holding Corp,NASDAQ
-TOMZ,TOMI Environmental Solutions Inc,NASDAQ
 TOPS,Top Ships Inc,NASDAQ
 TOUR,Tuniu Corp,NASDAQ
 TOWN,Townebank Portsmouth VA,NASDAQ
@@ -1372,6 +1370,7 @@ TUR,BTC iShares MSCI Turkey ETF,NASDAQ
 TVTY,Tivity Health Inc,NASDAQ
 TWNK,Hostess Brands Inc (Class A),NASDAQ
 TWOU,2U Inc,NASDAQ
+TWST,Twist Bioscience Corp,NASDAQ
 TXG,10x Genomics Inc (Class A),NASDAQ
 TXMD,TherapeuticsMD Inc,NASDAQ
 TXN,Texas Instruments Inc.,NASDAQ
@@ -1479,7 +1478,6 @@ WRLD,World Acceptance Corp.,NASDAQ
 WSBC,"Wesbanco, Inc.",NASDAQ
 WSC,WillScot Mobile Mini Holdings Corp,NASDAQ
 WSFS,WSFS Financial Corp.,NASDAQ
-WSTL,"Westell Technologies, Inc. (Class A)",NASDAQ
 WTFC,Wintrust Financial Corp.,NASDAQ
 WTRH,Waitr Holdings Inc,NASDAQ
 WW,WW International Inc,NASDAQ

@@ -1,6 +1,5 @@
 ﻿symbol,name,primary_exchange
 AAG,Aftermath Silver Ltd,TSX-V
-AAN,Aton Resources Inc,TSX-V
 AAV,Advantage Oil & Gas Ltd.,TSX
 ABT,Absolute Software Corp,TSX
 ABX,Barrick Gold Corp.,TSX
@@ -29,6 +28,7 @@ AIM,Aimia Inc,TSX
 AKT.A,Akita Drilling Ltd. (Class A),TSX
 ALA,AltaGas Ltd,TSX
 ALFA,Accelerate Private Equity Alpha Fund,TSX
+ALM,Alliance Mining Corp,TSX-V
 ALS,Altius Minerals Corp.,TSX
 ALY,AnalytixInsight Inc,TSX-V
 AMC,Arizona Metals Corp,TSX-V
@@ -175,6 +175,7 @@ CFP,Canfor Corp.,TSX
 CFW,Calfrac Well Services Ltd.,TSX
 CG,Centerra Gold Inc.,TSX
 CGAA,CI First Asset Global Asset Allocation ETF,TSX
+CGC,Caldas Gold Corp,TSX-V
 CGG,China Gold International Resources Corp Ltd,TSX
 CGL,BlackRock iShares Gold Bullion ETF CAD-Hedged,TSX
 CGL.C,BlackRock iShares Gold Bullion ETF Non-Hedged,TSX
@@ -201,6 +202,7 @@ CJ,Cardinal Energy Ltd,TSX
 CJP,BlackRock iShares Japan Fundamental Index ETF CAD-Hedged,NEO
 CJR.B,"Corus Entertainment, Inc. (Class B)",TSX
 CJT,Cargojet Inc. Common and Variable Voting Shares,TSX
+CKI,Clarke Inc,TSX
 CLF,BlackRock iShares 1-5 Year Laddered Government Bond Index ETF,TSX
 CLG,BlackRock iShares 1-10 Year Laddered Government Bond Index ETF,TSX
 CLH,Coral Gold Resources Ltd.,TSX-V
@@ -238,7 +240,6 @@ CRH,CRH Medical Corporation,TSX
 CRON,Cronos Group Inc,TSX
 CRQ,BlackRock iShares Canadian Fundamental Index ETF,NEO
 CRR.UN,Crombie Real Estate Investment Trust,TSX
-CRRX,CareRx Corporation,TSX
 CRT.UN,CT Real Estate Investment Trust,TSX
 CS,Capstone Mining Corporation,TSX
 CSD,BlackRock iShares Short Duration High Income ETF CAD-Hedged,TSX
@@ -249,6 +250,7 @@ CTS,Converge Technology Solutions Corp.,TSX-V
 CU,Canadian Utilities Ltd. (Class A),TSX
 CUD,BlackRock iShares US Dividend Growers Index ETF CAD-Hedged,TSX
 CUF.UN,Cominar Real Estate Investment Trust,TSX
+CUP.RT.U,Caribbean Utilities Co Tradeable Rights Sep 2020,TSX
 CUR,International Consolidated Uranium Inc,TSX-V
 CVB,Compass Gold Corp,TSX-V
 CVD,BlackRock iShares Convertible Bond Index ETF,TSX
@@ -304,7 +306,7 @@ DPM,Dundee Precious Metals Inc.,TSX
 DQD,CI Investments Inc - CI WisdomTree U.S. Quality Dividend Growth Variably Hedged Index ETF,TSX
 DQI,CI Investments Inc - CI WisdomTree International Qty Divi Growth Variably Hedged Index ETF,TSX
 DR,Medical Facilities Corp,TSX
-DRA.UN,Dream Hard Asset Alternatives Trust,TSX
+DRA.UN,Dream Impact Trust,TSX
 DRCU,Desjardins RI Active Canadian Bond - Low CO2 ETF,TSX
 DRFC,Desjardins RI Canada Multifactor - Low CO2 ETF,TSX
 DRFD,Desjardins RI Developed ex USA ex-Canada Multifactor - Low CO2 ETF,TSX
@@ -417,7 +419,6 @@ FAO,CI First Asset Active Credit ETF,TSX
 FAO.U,CI First Asset Active Credit ETF,TSX
 FBE,CI First Asset Canadian Buyback Index ETF,TSX
 FBU,CI First Asset U.S. Buyback Index ETF,TSX
-FCA.UN,Firm Capital Apartment Real Estate Investment Trust,TSX-V
 FCCB,Fidelity Systematic Canadian Bond Index ETF Ser L,TSX
 FCCD,Fidelity Canadian High Dividend Index ETF,TSX
 FCCL,Fidelity Canadian Low Volatility Index ETF,TSX
@@ -515,6 +516,7 @@ FPR,CI First Asset Preferred Share ETF,TSX
 FPX,FPX Nickel Corp,TSX-V
 FQC,CI First Asset MSCI Canada Quality Index Class ETF,TSX
 FR,First Majestic Silver Corporation,TSX
+FRI,Freeport Resources Inc.,TSX-V
 FRII,Freshii Inc (Class A),TSX
 FRO.UN,Fronsac Real Estate Investment Trust,TSX-V
 FRU,Freehold Royalties Ltd,TSX
@@ -625,6 +627,7 @@ HBLK,Blockchain Technologies ETF Class A units,TSX
 HBM,Hudbay Minerals Inc.,TSX
 HBU,BetaPro Gold Bullion 2x Daily Bull ETF,TSX
 HCA,Hamilton Canadian Bank Mean Reversion Index ETF,TSX
+HCAL,Hamilton Canadian Bank 1.25x Leverage ETF Class E,TSX
 HCG,Home Capital Group Inc.,TSX
 HCN,Horizons China High Dividend Yield Index ETF,TSX
 HCON,Horizons Conservative TRI ETF Portfolio Class A,TSX
@@ -693,6 +696,7 @@ HSD,BetaPro S&P 500 -2x Daily Bear ETF,TSX
 HSE,Husky Energy Inc.,TSX
 HSH,Horizons S&P 500 CAD Hedged Index ETF,TSX
 HSL,Horizons ETFs Management Canada Inc (Class E),TSX
+HSTR,Heliostar Metals Ltd,TSX-V
 HSU,BetaPro S&P 500 2x Daily Bull ETF,TSX
 HTA,Tech Achievers Growth & Income ETF (Class A),TSX
 HTA.B,Harvest Tech Achievers Growth & Income ETF  Unhedged,TSX
@@ -715,7 +719,6 @@ HUT,Hut 8 Mining Corp,TSX
 HUTL,Harvest Equal Weight Global Utilities Income ETF,TSX
 HUV,BetaPro S&P 500 VIX ShortTerm Futures ETF,TSX
 HUZ,Horizons Silver ETF,TSX
-HVT,Harvest One Cannabis Inc,TSX-V
 HWF,Middlefield Ltd - Middlefield Health & Wellness ETF,TSX
 HWO,High Arctic Energy Services Inc,TSX
 HWX,Headwater Exploration Inc,TSX
@@ -754,12 +757,12 @@ IMO,Imperial Oil Ltd.,TSX
 IMV,IMV Inc,TSX
 INE,Innergex Renewable Energy Inc,TSX
 INOC,Horizons Inovestor Canadian Equity Index ETF Class A,TSX
+INP,Input Capital Corp,TSX-V
 INV,INV Metals Inc,TSX
 IO,Inca One Gold Corp,TSX-V
 ION,Ion Energy Ltd.,TSX-V
 IPA,ImmunoPrecise Antibodies Ltd,TSX-V
 IPL,Inter Pipeline Ltd,TSX
-IPLP,IPL Plastics Inc,TSX
 IPO,InPlay Oil Corp,TSX
 IPT,Impact Silver Corp.,TSX-V
 IQD,CI Investments Inc - CI WisdomTree International Qlty Divi Growth Index ETF(Hedged Units),TSX
@@ -777,6 +780,7 @@ JNH,Jack Nathan Medical Corp.,TSX-V
 JOSE,Josemaria Resources Inc,TSX
 JWEL,Jamieson Wellness Inc,TSX
 K,Kinross Gold Corp.,TSX
+KANA,Kanadario Gold Inc.,TSX-V
 KDK,Kodiak Copper Corp,TSX-V
 KEL,Kelt Exploration Ltd,TSX
 KEY,Keyera Corp,TSX
@@ -786,14 +790,12 @@ KILO.B,Purpose Gold Bullion Fund Non-Currency Hedged,TSX
 KILO.U,Purpose Gold Bullion Fund Non-Currency Hedged,TSX
 KL,Kirkland Lake Gold Ltd,TSX
 KMP.UN,Killam Apartment Reit,TSX
-KNC,K9 Gold Corp.,TSX-V
 KNT,K92 Mining Inc,TSX-V
 KOR,Corvus Gold Inc,TSX
 KORE,Kore Mining Ltd,TSX-V
 KRR,Karora Resources Inc,TSX
 KTN,Kootenay Silver Inc,TSX-V
 KTO,K2 Gold Corp,TSX-V
-KWE,KWESST Micro Systems Inc.,TSX-V
 KXS,Kinaxis Inc,TSX
 L,Loblaw Cos. Ltd.,TSX
 LAB,Labrador Gold Corp,TSX-V
@@ -816,6 +818,7 @@ LONG,CI Global Longevity Economy Fund,TSX
 LS,Middlefield Healthcare & Life Sciences ETF,TSX
 LSPD,Lightspeed POS Inc,TSX
 LTE,Lite Access Technologies Inc,TSX-V
+LTV,LeoNovus Inc,TSX-V
 LUC,Lucara Diamond Corp,TSX
 LUG,Lundin Gold Inc,TSX
 LUM,Lumina Gold Corp,TSX-V
@@ -824,10 +827,12 @@ LXE,Leucrotta Exploration Inc.,TSX-V
 LXG,Lexagene Holdings Inc,TSX-V
 MAG,MAG Silver Corp.,TSX
 MAI,Minera Alamos Inc,TSX-V
+MAU,Montage Gold Corp,TSX-V
 MAW,Mawson Gold Ltd,TSX
 MAX,Midas Gold Corp,TSX
 MAXR,Maxar Technologies Inc,TSX
 MAYB.F,First Trust Cboe Vest U.S. Equity Buffer ETF - May Hedged,TSX
+MBAL,Mackenzie Balanced Allocation ETF,TSX
 MCLC,Manulife Multifactor Canadian Large Cap Index ETF Unhedged,TSX
 MCLD,mCloud Technologies Corp,TSX-V
 MCSB,Mackenzie Canadian Short Term Fixed Income ETF Series E,TSX
@@ -845,9 +850,11 @@ MFC,Manulife Financial Corp.,TSX
 MFI,Maple Leaf Foods Inc.,TSX
 MFT,Mackenzie Floating Rate Income ETF,TSX
 MG,Magna International Inc.,TSX
+MGAB,Mackenzie Global Fixed Income Allocation ETF,TSX
 MGB,Mackenzie Core Plus Global Fixed Income ETF,TSX
 MGG,Minaurum Gold Inc,TSX-V
 MGR,Magna Gold Corp,TSX-V
+MGRW,Mackenzie Growth Allocation ETF,TSX
 MHYB,Mackenzie Global High Yield Fixed Income ETF,NEO
 MI.UN,Minto Apartment Real Estate Investment Trust,TSX
 MIC,Genworth MI Canada Inc,TSX
@@ -919,7 +926,6 @@ NGT,Newmont Corp,TSX
 NHK,Nighthawk Gold Corp,TSX
 NHYB,NBI High Yield Bond ETF,TSX
 NLC,Neo Lithium Corp,TSX-V
-NM,Newcrest Mining,TSX
 NNO,Nano One Materials Corp,TSX-V
 NOA,North American Construction Group Ltd,TSX
 NOVB.F,First Trust Cboe Vest U.S. Equity Buffer ETF - November Hedged,TSX
@@ -930,6 +936,7 @@ NREA,NBI Global Real Assets Income ETF,TSX
 NRTH,48North Cannabis Corp.,TSX-V
 NSCB,NBI Sustainable Canadian Bond ETF,TSX
 NSCE,NBI Sustainable Canadian Equity ETF,TSX
+NSE,New Stratus Energy Inc,TSX-V
 NSGE,NBI Sustainable Global Equity ETF,TSX
 NSR,Nomad Royalty Company Ltd,TSX
 NTR,Nutrien Ltd,TSX
@@ -956,6 +963,7 @@ OGN,Orogen Royalties Inc,TSX-V
 OIII,O3 Mining Inc,TSX-V
 OLA,Orla Mining Ltd,TSX
 OM,Osisko Metals Incorporated,TSX-V
+OMI,Orosur Mining Inc,TSX
 OMM,Omineca Mining and Metals Ltd,TSX-V
 ONC,"Oncolytics Biotech, Inc.",TSX
 ONEB,CI Investments Inc - CI ONE North American Core Plus Bond ETF,TSX
@@ -1084,7 +1092,6 @@ QCD,AGFiQ Canadian Equity ETF,TSX
 QCE,Mackenzie Canadian Large Cap Equity Index ETF Series E,TSX
 QCH,Mackenzie China A-Shares CSI 300 Index ETF,NEO
 QCN,Mackenzie Canadian Equity Index ETF Series E,TSX
-QCX,QCX Gold Corp.,TSX-V
 QDX,Mackenzie International Equity Index ETF Series E,TSX
 QDXB,Mackenzie Developed ex-North America Aggregate Bond Index ETF CAD-Hedg,TSX
 QDXH,Mackenzie International Equity Index ETF CAD-Hedged Series E,TSX
@@ -1094,7 +1101,6 @@ QEF,AGFiQ Global ESG Factors ETF,NEO
 QEM,AGFiQ Emerging Markets Equity ETF,TSX
 QEX,QuestEx Gold & Copper Ltd.,TSX-V
 QGB,AGFiQ Global Multi-Sector Bond ETF,NEO
-QGL,AGFiQ Global Equity ETF,TSX
 QGR,Q-Gold Resources Ltd.,TSX-V
 QHY,Mackenzie US High Yield Bond Index ETF CAD-Hedged Series E,TSX
 QIE,AGFiQ International Equity ETF,TSX
@@ -1103,13 +1109,14 @@ QINF,MackenzieGlobal Infrastructure Index ETF,TSX
 QMA,AGFiQ Global Balanced ETF,TSX
 QMY,AGFiQ Global Income ETF,TSX
 QQC.F,Invesco QQQ Index ETF,TSX
+QRC,Queen`s Road Capital Investment Ltd,TSX-V
 QRET,Mackenzie Developed Markets Real Estate Index ETF,TSX
 QSB,Mackenzie Canadian Short-Term Bond Index ETF Series E,TSX
+QSC,QuestCap Inc,NEO
 QSR,Restaurant Brands International Inc,TSX
 QTIP,Mackenzie US TIPS Index ETF CAD-Hedged Ser E,NEO
 QTRH,Quarterhill Inc,TSX
 QUB,Mackenzie U.S. Aggregate Bond Index ETF CAD-Hedged,TSX
-QUDV,AGFiQ US Long/Short Dividend Income CAD-Hedged ETF,TSX
 QUIG,Mackenzie US Investment Grade Corporate Bond Index ETF CAD-Hedged,TSX
 QUIS,Quisitive Technology Solutions Inc,TSX-V
 QUS,AGFiQ U.S. Equity ETF,TSX
@@ -1233,13 +1240,11 @@ SFIX,Scotia Strategic Fixed Income ETF Portfolio,TSX
 SGI,Superior Gold Inc,TSX-V
 SGR.UN,Slate Grocery REIT,TSX
 SGY,Surge Energy Inc,TSX
-SHLE,Source Energy Services Ltd,TSX
 SHOP,Shopify Inc (Class A),TSX
 SIA,Sienna Senior Living Inc,TSX
 SID,CI First Asset U.S. TrendLeaders Index ETF,TSX
 SII,Sprott Inc,TSX
 SIL,SilverCrest Metals Inc,TSX
-SIM,Siyata Mobile Inc,TSX-V
 SINT,Scotia Strategic International Equity ETF Portfolio,TSX
 SIS,Savaria Corp.,TSX
 SJ,Stella-Jones Inc.,TSX
@@ -1250,6 +1255,7 @@ SLL,Standard Lithium Ltd,TSX-V
 SLV.H,Stealth Ventures Inc,TSX-V
 SLVR,Silver Tiger Metals Inc,TSX-V
 SMD,Strategic Metals Ltd,TSX-V
+SMP,Southern Empire Resources Corp,TSX-V
 SMU.UN,Summit Industrial Income REIT,TSX
 SMVEN,Silver Maple Ventures Inc,NEO
 SNC,SNC - Lavalin Group Inc.,TSX
@@ -1272,7 +1278,6 @@ STPL,BMO Global Consumer Staples Hedged to CAD Index ETF,TSX
 SU,"Suncor Energy, Inc.",TSX
 SUP,Northern Superior Resources Inc,TSX-V
 SUSA,Scotia Strategic U.S. Equity ETF Portfolio,TSX
-SVB,Silver Bull Resources Inc,TSX
 SVI,Storagevault Canada Inc,TSX-V
 SVM,Silvercorp Metals Inc,TSX
 SVR,BlackRock iShares Silver Bullion ETF Hedged,TSX
@@ -1280,6 +1285,8 @@ SVR.C,BlackRock iShares Silver Bullion ETF Non-Hedged,TSX
 SW,Sierra Wireless Inc,TSX
 SWA,Sarama Resources Ltd,TSX-V
 SYLD,Purpose Strategic Yield Fund ETF,TSX
+SZLS,StageZero Life Sciences Ltd,TSX
+T,Telus Corp.,TSX
 TA,Transalta Corp.,TSX
 TAL,PetroTal Corp,TSX-V
 TBP,Tetra Bio-Pharma Inc,TSX
@@ -1333,17 +1340,18 @@ TPAY,TD Income Builder ETF,TSX
 TPE,TD International Equity Index ETF,TSX
 TPRF,TD Active Preferred Share ETF,TSX
 TPU,TD U.S. Equity Index ETF,TSX
+TPZ,Topaz Energy Corp,TSX
 TQCD,TD Q Canadian Dividend ETF,TSX
 TQGD,TD Q Global Dividend ETF,TSX
 TQGM,TD Q Global Multifactor ETF,TSX
 TQSM,TD Q U.S. Small-Mid-Cap Equity ETF,TSX
-TRC,Tisdale Resources Corp.,TSX-V
 TRI,Thomson-Reuters Corp,TSX
 TRIL,Trillium Therapeutics Inc,TSX
 TRL,Trilogy International Partners Inc,TSX
 TRP,TC Energy Corporation,TSX
 TRQ,Turquoise Hill Resources Ltd,TSX
 TRZ,"Transat A.T., Inc.",TSX
+TSK,Talisker Resources Ltd,TSX
 TTP,TD Canadian Equity Index ETF,TSX
 TUD,Tudor Gold Corp,TSX-V
 TUED,TD Active U.S. Enhanced Dividend ETF  CAD,TSX
@@ -1416,7 +1424,6 @@ VLE,Valeura Energy Inc,TSX
 VLNS,Valens Company Inc (The),TSX
 VMD,Viemed Healthcare Inc,TSX
 VMO,Vanguard Global Momentum Factor ETF,TSX
-VOX,Vox Royalty Corp,TSX-V
 VRE,Vanguard FTSE Canadian Capped REIT Index ETF,TSX
 VRIF,Vanguard Retirement Income ETF Portfolio,TSX
 VSB,Vanguard Canadian Short-Term Bond Index ETF,TSX
@@ -1606,7 +1613,6 @@ ZEB,BMO Equal Weight Banks Index ETF,TSX
 ZEF,BMO Emerging Markets Bond Hedged to CAD Index ETF,TSX
 ZEM,BMO MSCI Emerging Markets Index ETF,TSX
 ZEN,ZEN Graphene Solutions Ltd,TSX-V
-ZENA,Zenabis Global Inc.,TSX
 ZEO,BMO Equal Weight Oil & Gas Index ETF,TSX
 ZEQ,BMO MSCI Europe High Quality Hedged to CAD Index ETF,TSX
 ZESG,BMO Balanced ESG ETF,TSX
