@@ -1,2136 +1,1560 @@
-﻿symbol,name,primary_exchange
-A,Agilent Technologies Inc.,NYSE
-AA,Alcoa Corp,NYSE
-AAIC,Arlington Asset Investment Corp (Class A),NYSE
-AAN,Aarons Holdings Company Inc,NYSE
-AAP,Advance Auto Parts Inc,NYSE
-AB,AllianceBernstein Holding Lp,NYSE
-ABB,ABB Ltd.,NYSE
-ABBV,Abbvie Inc,NYSE
-ABC,Amerisource Bergen Corp.,NYSE
-ABEV,Ambev S.A.,NYSE
-ABG,Asbury Automotive Group Inc,NYSE
-ABM,ABM Industries Inc.,NYSE
-ABR,Arbor Realty Trust Inc.,NYSE
-ABT,Abbott Laboratories,NYSE
-ACA,Arcosa Inc,NYSE
-ACCO,Acco Brands Corporation,NYSE
-ACH,Aluminum Corporation Of China Limited.,NYSE
-ACI,Albertsons Companies Inc (Class A),NYSE
-ACM,AECOM,NYSE
-ACN,Accenture plc (Class A),NYSE
-ACRE,Ares Commercial Real Estate Corp,NYSE
-ADC,Agree Realty Corp.,NYSE
-ADM,Archer Daniels Midland Co.,NYSE
-ADNT,Adient plc,NYSE
-ADS,Alliance Data System,NYSE
-ADT,ADT Inc,NYSE
-ADX,Adams Diversified Equity Fund,NYSE
-AEE,Ameren Corp.,NYSE
-AEG,New York Shares,NYSE
-AEL,American Equity Investment Life Holding Co,NYSE
-AEO,American Eagle Outfitters Inc.,NYSE
-AER,Aercap Holdings N.V.,NYSE
-AES,AES Corp.,NYSE
-AFG,American Financial Group Inc,NYSE
-AFI,Armstrong Flooring Inc,NYSE
-AFK,VanEck Vectors Africa Index ETF,NYSE
-AFL,Aflac Inc.,NYSE
-AGCO,AGCO Corp.,NYSE
-AGE,AgeX Therapeutics Inc,NYSE
-AGG,BTC iShares Core U.S. Aggregate Bond ETF,NYSE
-AGM,Federal Agricultural Mortgage Corp. (Class C),NYSE
-AGO,Assured Guaranty Ltd,NYSE
-AGQ,ProShares Ultra Silver,NYSE
-AGR,Avangrid Inc,NYSE
-AGRO,Adecoagro S.A.,NYSE
-AGX,"Argan, Inc.",NYSE
-AGZ,BTC iShares Agency Bond ETF,NYSE
-AHT,Ashford Hospitality Trust Inc,NYSE
-AIEQ,AI Powered Equity ETF,NYSE
-AIG,American International Group Inc,NYSE
-AIM,AIM ImmunoTech Inc,NYSE
-AIN,Albany International Corp. (Class A),NYSE
-AIR,AAR Corp.,NYSE
-AIT,Applied Industrial Technologies Inc.,NYSE
-AIV,Apartment Investment & Management Co. (Class A),NYSE
-AIZ,Assurant Inc,NYSE
-AJG,Arthur J. Gallagher & Co.,NYSE
-AJRD,Aerojet Rocketdyne Holdings Inc,NYSE
-AKR,Acadia Realty Trust,NYSE
-AL,Air Lease Corp (Class A),NYSE
-ALB,Albemarle Corp.,NYSE
-ALC,Alcon Inc.,NYSE
-ALE,"Allete, Inc.",NYSE
-ALK,Alaska Air Group Inc.,NYSE
-ALL,Allstate Corp (The),NYSE
-ALLE,Allegion plc,NYSE
-ALLY,Ally Financial Inc,NYSE
-ALSN,Allison Transmission Holdings Inc,NYSE
-ALV,Autoliv Inc.,NYSE
-AM,Antero Midstream Corp,NYSE
-AMBC,AMBAC Financial Group Inc.,NYSE
-AMBO,Ambow Education Holding Ltd,NYSE
-AMC,AMC Entertainment Holdings Inc (Class A),NYSE
-AMCR,Amcor Plc,NYSE
-AME,Ametek Inc,NYSE
-AMG,Affiliated Managers Group Inc.,NYSE
-AMK,Assetmark Financial Holdings Inc,NYSE
-AMLP,ALPS Alerian MLP ETF,NYSE
-AMN,AMN Healthcare Services Inc.,NYSE
-AMP,Ameriprise Financial Inc,NYSE
-AMPE,Ampio Pharmaceuticals Inc,NYSE
-AMPY,Amplify Energy Corp.,NYSE
-AMRC,Ameresco Inc. (Class A),NYSE
-AMRX,Amneal Pharmaceuticals Inc (Class A),NYSE
-AMS,American Shared Hospital Services,NYSE
-AMWL,American Well Corporation (Class A),NYSE
-AMX,America Movil S.A.B.DE C.V. (Series L),NYSE
-AMZA,Etfis InfraCap MLP ETF,NYSE
-AN,Autonation Inc.,NYSE
-ANET,Arista Networks Inc,NYSE
-ANF,Abercrombie & Fitch Co. (Class A),NYSE
-ANH,Anworth Mortgage Asset Corp.,NYSE
-ANTM,Anthem Inc,NYSE
-AOA,BTC iShares Core Aggressive Allocation ETF,NYSE
-AON,Aon plc. - Ordinary Shares - Class A,NYSE
-AOR,BTC iShares Core Growth Allocation ETF,NYSE
-AOS,A.O. Smith Corp.,NYSE
-AP,Ampco-Pittsburgh Corp.,NYSE
-APD,Air Products & Chemicals Inc.,NYSE
-APH,Amphenol Corp. (Class A),NYSE
-APLE,Apple Hospitality REIT Inc,NYSE
-APO,Apollo Global Management Inc (Class A),NYSE
-APRN,Blue Apron Holdings Inc (Class A),NYSE
-APT,Alpha Pro Tech Ltd.,NYSE
-APTS,Preferred Apartment Communities Inc (Class A),NYSE
-APTV,Aptiv PLC,NYSE
-AQUA,Evoqua Water Technologies Corp,NYSE
-AR,Antero Resources Corp,NYSE
-ARA,American Renal Associates Holdings Inc.,NYSE
-ARC,ARC Document Solutions Inc,NYSE
-ARCH,Arch Resources Inc (Class A),NYSE
-ARCO,Arcos Dorados Holdings Inc (Class A),NYSE
-ARE,Alexandria Real Estate Equities Inc.,NYSE
-ARES,Ares Management Corp (Class A),NYSE
-ARGO,Argo Group International Holdings Ltd,NYSE
-ARGT,Global X MSCI Argentina ETF,NYSE
-ARI,Apollo Commercial Real Estate Finance Inc,NYSE
-ARKF,ARK Fintech Innovation ETF,NYSE
-ARKK,ARK Investment Management LLC - ARK Innovation ETF,NYSE
-ARLO,Arlo Technologies Inc,NYSE
-ARMK,Aramark,NYSE
-ARNC,Arconic Corporation,NYSE
-AROC,Archrock Inc,NYSE
-ARR,ARMOUR Residential REIT Inc,NYSE
-ARW,Arrow Electronics Inc.,NYSE
-ASAN,Asana Inc (Class A),NYSE
-ASB,Associated Banc-Corp.,NYSE
-ASC,Ardmore Shipping Corp,NYSE
-ASGN,ASGN Inc,NYSE
-ASH,Ashland Global Holdings Inc,NYSE
-ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,NYSE
-ASIX,AdvanSix Inc,NYSE
-ASR,Grupo Aeroportuario Del Sureste S.A.,NYSE
-ASX,ASE Technology Holding Co.Ltd,NYSE
-ATCO,Atlas Corp.,NYSE
-ATEN,A10 Networks Inc,NYSE
-ATGE,Adtalem Global Education Inc,NYSE
-ATH,Athene Holding Ltd (Class A),NYSE
-ATHM,Autohome Inc,NYSE
-ATI,Allegheny Technologies Inc,NYSE
-ATNM,Actinium Pharmaceuticals Inc,NYSE
-ATO,Atmos Energy Corp.,NYSE
-ATR,Aptargroup Inc.,NYSE
-AU,AngloGold Ashanti Ltd,NYSE
-AVA,Avista Corp.,NYSE
-AVAL,Grupo Aval Acciones y Valores S.A.,NYSE
-AVB,Avalonbay Communities Inc.,NYSE
-AVD,American Vanguard Corp.,NYSE
-AVK,Advent Convertible and Income Fund,NYSE
-AVNS,Avanos Medical Inc,NYSE
-AVNT,Avient Corp,NYSE
-AVTR,Avantor Inc.,NYSE
-AVY,Avery Dennison Corp.,NYSE
-AVYA,Avaya Holdings Corp.,NYSE
-AWF,AllianceBernstein Global High Income Fund Inc,NYSE
-AWI,Armstrong World Industries Inc.,NYSE
-AWK,American Water Works Co. Inc.,NYSE
-AWR,American States Water Co.,NYSE
-AWX,Avalon Holdings Corp. (Class A),NYSE
-AX,Axos Financial Inc.,NYSE
-AXL,American Axle & Manufacturing Holdings Inc,NYSE
-AXP,American Express Co.,NYSE
-AXS,Axis Capital Holdings Ltd,NYSE
-AXTA,Axalta Coating Systems Ltd,NYSE
-AYI,"Acuity Brands, Inc.",NYSE
-AYX,Alteryx Inc (Class A),NYSE
-AZO,Autozone Inc.,NYSE
-B,Barnes Group Inc.,NYSE
-BA,Boeing Co.,NYSE
-BAB,Invesco Taxable Municipal Bond ETF,NYSE
-BABA,Alibaba Group Holding Ltd,NYSE
-BAC,Bank Of America Corp.,NYSE
-BAH,Booz Allen Hamilton Holding Corp (Class A),NYSE
-BANC,Banc of California Inc,NYSE
-BAP,Credicorp Ltd,NYSE
-BAR,GraniteShares Gold Shares,NYSE
-BAX,Baxter International Inc.,NYSE
-BBAR,BBVA Argentina,NYSE
-BBD,Banco Bradesco S.A.,NYSE
-BBL,BHP Group Plc,NYSE
-BBVA,Banco Bilbao Vizcaya Argentaria.,NYSE
-BBW,Build A Bear Workshop Inc,NYSE
-BBY,Best Buy Co. Inc.,NYSE
-BC,Brunswick Corp.,NYSE
-BCEI,Bonanza Creek Energy Inc,NYSE
-BCH,Banco de Chile,NYSE
-BCO,Brink`s Co.,NYSE
-BCS,Barclays plc,NYSE
-BDC,Belden Inc,NYSE
-BDN,Brandywine Realty Trust,NYSE
-BDR,Blonder Tongue Laboratories Inc.,NYSE
-BDX,"Becton, Dickinson And Co.",NYSE
-BE,Bloom Energy Corp (Class A),NYSE
-BEN,"Franklin Resources, Inc.",NYSE
-BERY,Berry Global Group Inc,NYSE
-BEST,BEST Inc,NYSE
-BF.A,Brown-Forman Corp. (Class A),NYSE
-BF.B,Brown-Forman Corp. (Class B),NYSE
-BFS,"Saul Centers, Inc.",NYSE
-BFZ,BlackRock California Municipal Income Trust,NYSE
-BG,Bunge Ltd.,NYSE
-BGI,Birks Group Inc (Class A),NYSE
-BGS,"B&G Foods, Inc",NYSE
-BHE,Benchmark Electronics Inc.,NYSE
-BHK,BlackRock Core Bond Trust,NYSE
-BHLB,Berkshire Hills Bancorp Inc.,NYSE
-BHP,BHP Group Limited,NYSE
-BHR,Braemar Hotels & Resorts Inc,NYSE
-BHVN,Biohaven Pharmaceutical Holding Company Ltd,NYSE
-BIG,Big Lots Inc,NYSE
-BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,NYSE
-BILL,Bill.com Holdings Inc,NYSE
-BIO,Bio-Rad Laboratories Inc. (Class A),NYSE
-BITA,BitAuto Holdings Company,NYSE
-BIV,"Vanguard Group, Inc. - Vanguard Intermediate-Term Bond ETF",NYSE
-BJ,BJ`s Wholesale Club Holdings Inc,NYSE
-BK,Bank Of New York Mellon Corp,NYSE
-BKD,Brookdale Senior Living Inc,NYSE
-BKE,"Buckle, Inc.",NYSE
-BKF,BTC iShares MSCI BRIC ETF,NYSE
-BKH,Black Hills Corporation,NYSE
-BKI,Black Knight Inc (Class A),NYSE
-BKLN,Invesco Senior Loan ETF,NYSE
-BKR,Baker Hughes Co (Class A),NYSE
-BKT,BlackRock Income Trust Inc,NYSE
-BKU,BankUnited Inc,NYSE
-BLD,TopBuild Corp,NYSE
-BLK,Blackrock Inc.,NYSE
-BLL,Ball Corp.,NYSE
-BLOK,Amplify Transformational Data Sharing ETF,NYSE
-BLV,Vanguard Long-Term Bond ETF,NYSE
-BLX,Banco Latinoamericano De Comercio Exterior SA (Class E),NYSE
-BMI,Badger Meter Inc.,NYSE
-BMY,Bristol-Myers Squibb Co.,NYSE
-BNED,Barnes & Noble Education Inc,NYSE
-BNL,Broadstone Net Lease Inc (Class A),NYSE
-BNO,ed States Brent Crude Oil Fund,NYSE
-BOH,Bank of Hawaii Corp.,NYSE
-BOND,PIMCO Active Bond ETF,NYSE
-BORR,Borr Drilling Ltd,NYSE
-BOX,Box Inc (Class A),NYSE
-BP,BP plc,NYSE
-BPT,BP Prudhoe Bay Royalty Trust,NYSE
-BR,"Broadridge Financial Solutions, Inc.",NYSE
-BRC,Brady Corp. (Class A),NYSE
-BRF,VanEck Vectors Brazil Small-Cap ETF,NYSE
-BRFS,BRF S.A.,NYSE
-BRK.B,Berkshire Hathaway Inc. (Class B),NYSE
-BRO,"Brown & Brown, Inc.",NYSE
-BRT,BRT Apartments Corp,NYSE
-BSAC,Banco Santander Chile SA,NYSE
-BSBR,Banco Santander Brasil S.A.,NYSE
-BSMX,Banco Santander Mexico S.A.,NYSE
-BSV,Vanguard Short-Term Bond ETF,NYSE
-BSX,Boston Scientific Corp.,NYSE
-BTI,British American Tobacco Plc,NYSE
-BTO,John Hancock Financial Opportunities Fund,NYSE
-BUD,Anheuser-Busch In Bev SA/NV,NYSE
-BURL,Burlington Stores Inc,NYSE
-BVH,Bluegreen Vacations Holding Corporation (Class A),NYSE
-BVN,Compania de Minas Buenaventura S.A.,NYSE
-BW,Babcock & Wilcox Enterprises Inc,NYSE
-BWA,BorgWarner Inc,NYSE
-BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,NYSE
-BWXT,BWX Technologies Inc,NYSE
-BWZ,SPDR Bloomberg Barclays Short Term International Treasury Bond ETF,NYSE
-BX,Blackstone Group Inc (Class A),NYSE
-BXC,Bluelinx Hldgs Inc,NYSE
-BXMT,Blackstone Mortgage Trust Inc (Class A),NYSE
-BXP,"Boston Properties, Inc.",NYSE
-BXS,BancorpSouth Bank,NYSE
-BYD,Boyd Gaming Corp.,NYSE
-BZH,Beazer Homes USA Inc.,NYSE
-BZQ,ProShares UltraShort MSCI Brazil Capped ETF,NYSE
-CACI,Caci International Inc. (Class A),NYSE
-CADE,Cadence Bancorporation (Class A),NYSE
-CAG,Conagra Brands Inc,NYSE
-CAH,"Cardinal Health, Inc.",NYSE
-CAI,Cai International Inc,NYSE
-CAJ,Canon Inc,NYSE
-CAL,Caleres Inc,NYSE
-CALX,Calix Inc,NYSE
-CANE,Teucrium Sugar Fund,NYSE
-CANF,Can-Fite Biopharma Ltd,NYSE
-CARR,Carrier Global Corp,NYSE
-CARS,Cars.com,NYSE
-CAT,Caterpillar Inc.,NYSE
-CATO,Cato Corp. (Class A),NYSE
-CB,Chubb Limited,NYSE
-CBB,"Cincinnati Bell, Inc.",NYSE
-CBL,"CBL& Associates Properties, Inc.",NYSE
-CBRE,CBRE Group Inc (Class A),NYSE
-CBT,Cabot Corp.,NYSE
-CBU,"Community Bank System, Inc.",NYSE
-CBZ,Cbiz Inc,NYSE
-CC,Chemours Company,NYSE
-CCEP,Coca-Cola European Partners plc,NYSE
-CCI,Crown Castle International Corp,NYSE
-CCK,"Crown Holdings, Inc.",NYSE
-CCL,Carnival Corp.,NYSE
-CCO,Clear Channel Outdoor Holdings Inc.,NYSE
-CCS,Century Communities Inc,NYSE
-CCU,Compania Cervecerias Unidas S.A.,NYSE
-CDE,Coeur Mining Inc,NYSE
-CDOR,Condor Hospitality Trust Inc,NYSE
-CDR,Cedar Realty Trust Inc,NYSE
-CE,Celanese Corp (Series A),NYSE
-CEI,Camber Energy Inc,NYSE
-CEIX,Consol Energy Inc,NYSE
-CEQP,Crestwood Equity Partners LP,NYSE
-CEW,WisdomTree Emerging Currency Strategy Fund,NYSE
-CF,CF Industries Holdings Inc,NYSE
-CFG,Citizens Financial Group Inc,NYSE
-CFR,Cullen Frost Bankers Inc.,NYSE
-CFX,Colfax Corp,NYSE
-CGW,Invesco S&P Global Water Index ETF,NYSE
-CHA,China Telecom Corporation,NYSE
-CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,NYSE
-CHD,"Church & Dwight Co., Inc.",NYSE
-CHE,Chemed Corp.,NYSE
-CHGG,Chegg Inc,NYSE
-CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,NYSE
-CHH,"Choice Hotels International, Inc.",NYSE
-CHIQ,Global X MSCI China Consumer Discretionary ETF,NYSE
-CHIX,Global X MSCI China Financials ETF,NYSE
-CHL,China Mobile Limited,NYSE
-CHS,"Chico`s Fas, Inc.",NYSE
-CHU,China Unicom Hong Kong Ltd,NYSE
-CHWY,Chewy Inc (Class A),NYSE
-CHX,ChampionX Corporation,NYSE
-CI,Cigna Corp.,NYSE
-CIA,"Citizens, Inc. (Class A)",NYSE
-CIEN,CIENA Corp.,NYSE
-CIF,MFS Intermediate High Income Fund,NYSE
-CIK,Credit Suisse Asset Management Income Fund Inc.,NYSE
-CIM,Chimera Investment Corp,NYSE
-CIO,City Office REIT Inc,NYSE
-CL,Colgate-Palmolive Co.,NYSE
-CLB,Core Laboratories N.V.,NYSE
-CLDR,Cloudera Inc,NYSE
-CLDT,Chatham Lodging Trust,NYSE
-CLF,Cleveland-Cliffs Inc,NYSE
-CLGX,CoreLogic Inc,NYSE
-CLH,"Clean Harbors, Inc.",NYSE
-CLI,Mack-Cali Realty Corp.,NYSE
-CLM,Cornerstone Strategic Value Fund,NYSE
-CLNY,Colony Capital Inc. (Class A),NYSE
-CLR,Continental Resources Inc (OKLA),NYSE
-CLW,Clearwater Paper Corp,NYSE
-CLX,Clorox Co.,NYSE
-CMA,"Comerica, Inc.",NYSE
-CMC,Commercial Metals Co.,NYSE
-CMCM,Cheetah Mobile Inc,NYSE
-CMD,Cantel Medical Corp,NYSE
-CMF,BTC iShares California Muni Bond ETF,NYSE
-CMG,Chipotle Mexican Grill,NYSE
-CMI,Cummins Inc.,NYSE
-CMO,Capstead Mortgage Corp.,NYSE
-CMP,Compass Minerals International Inc,NYSE
-CMRE,Costamare Inc,NYSE
-CMS,CMS Energy Corporation,NYSE
-CMT,Core Molding Technologies,NYSE
-CMU,MFS High Yield Municipal Trust,NYSE
-CNA,CNA Financial Corp.,NYSE
-CNC,Centene Corp.,NYSE
-CNHI,CNH Industrial NV,NYSE
-CNK,Cinemark Holdings Inc,NYSE
-CNMD,Conmed Corp.,NYSE
-CNNE,Cannae Holdings Inc,NYSE
-CNO,CNO Financial Group Inc,NYSE
-CNP,Centerpoint Energy Inc.,NYSE
-CNR,Cornerstone Building Brands Inc,NYSE
-CNS,Cohen & Steers Inc.,NYSE
-CNX,CNX Resources Corp,NYSE
-CODI,Compass Diversified Holdings,NYSE
-COF,Capital One Financial Corp.,NYSE
-COG,Cabot Oil & Gas Corp.,NYSE
-CORR,CorEnergy Infrastructure Trust Inc,NYSE
-COTY,Coty Inc (Class A),NYSE
-CPA,Copa Holdings S.A. (Class A),NYSE
-CPB,Campbell Soup Co.,NYSE
-CPE,Callon Petroleum Co.,NYSE
-CPF,Central Pacific Financial Corp.,NYSE
-CPHI,China Pharma Holdings Inc.,NYSE
-CPK,Chesapeake Utilities Corp,NYSE
-CPLG,CorePoint Lodging Inc,NYSE
-CPRI,Capri Holdings Ltd,NYSE
-CPT,Camden Property Trust,NYSE
-CQP,Cheniere Energy Partners LP,NYSE
-CR,Crane Co.,NYSE
-CRBN,BTC iShares MSCI ACWI Low Carbon Target ETF,NYSE
-CRF,Cornerstone Total Return Fund,NYSE
-CRH,CRH Plc,NYSE
-CRI,Carters Inc,NYSE
-CRK,"Comstock Resources, Inc.",NYSE
-CRL,Charles River Laboratories International Inc.,NYSE
-CRM,Salesforce.Com Inc,NYSE
-CRS,Carpenter Technology Corp.,NYSE
-CRY,"Cryolife, Inc.",NYSE
-CS,Credit Suisse Group AG,NYSE
-CSD,Invesco S&P Spin-Off ETF,NYSE
-CSL,Carlisle Companies Inc.,NYSE
-CSLT,Castlight Health Inc (Class B),NYSE
-CSPR,Casper Sleep Inc,NYSE
-CSTM,Constellium SE (Class A),NYSE
-CSU,Capital Senior Living Corp.,NYSE
-CSV,"Carriage Services, Inc.",NYSE
-CTB,Cooper Tire & Rubber Co.,NYSE
-CTEK,CynergisTek Inc,NYSE
-CTS,CTS Corp.,NYSE
-CTVA,Corteva Inc,NYSE
-CUB,Cubic Corp.,NYSE
-CUBE,CubeSmart,NYSE
-CUK,Carnival plc,NYSE
-CUT,Invesco MSCI Global Timber ETF,NYSE
-CUZ,Cousins Properties Inc.,NYSE
-CVA,Covanta Holding Corporation,NYSE
-CVEO,Civeo Corp,NYSE
-CVI,CVR Energy Inc,NYSE
-CVM,Cel-Sci Corp.,NYSE
-CVNA,Carvana Co. (Class A),NYSE
-CVS,CVS Health Corp,NYSE
-CVU,CPI Aerostructures Inc,NYSE
-CVX,Chevron Corp.,NYSE
-CVY,Invesco Zacks Multi-Asset Income ETF,NYSE
-CW,Curtiss-Wright Corp.,NYSE
-CWB,SPDR Bloomberg Barclays Convertible Securities ETF,NYSE
-CWH,Camping World Holdings Inc (Class A),NYSE
-CWT,California Water Service Group,NYSE
-CX,Cemex S.A.B. De C.V.,NYSE
-CXE,MFS High Income Municipal Trust,NYSE
-CXO,Concho Resources Inc,NYSE
-CXW,CoreCivic Inc,NYSE
-CYB,WisdomTree Chinese Yuan Strategy Fund,NYSE
-CYD,China Yuchai International,NYSE
-CYH,"Community Health Systems, Inc.",NYSE
-CZA,Invesco Zacks Mid-Cap ETF,NYSE
-CZZ,Cosan Ltd (Class A),NYSE
-D,Dominion Energy Inc,NYSE
-DAC,Danaos Corporation,NYSE
-DAL,"Delta Air Lines, Inc.",NYSE
-DAN,Dana Inc,NYSE
-DAR,Darling Ingredients Inc,NYSE
-DB,Deutsche Bank AG,NYSE
-DBA,Invesco DB Agriculture Fund,NYSE
-DBB,Invesco DB Base Metals Fund,NYSE
-DBC,DB Commodity Services LLC - Invesco DB Commodity Index Tracking Fund,NYSE
-DBD,Diebold Nixdorf Inc,NYSE
-DBE,Invesco DB Energy Fund,NYSE
-DBEU,Xtrackers MSCI Europe Hedged Equity ETF,NYSE
-DBI,Designer Brands Inc (Class A),NYSE
-DBO,Invesco DB Oil Fund,NYSE
-DBP,Invesco DB Precious Metals Fund,NYSE
-DBS,Invesco DB Silver Fund,NYSE
-DBV,Invesco DB G10 Currency Harvest Fund,NYSE
-DCI,Donaldson Co. Inc.,NYSE
-DCO,Ducommun Inc.,NYSE
-DCP,DCP Midstream LP,NYSE
-DD,DuPont de Nemours Inc,NYSE
-DDD,3D Systems Corp.,NYSE
-DDG,ProShares Short Oil & Gas,NYSE
-DDM,ProShares Ultra Dow30,NYSE
-DDS,Dillard`s Inc. (Class A),NYSE
-DE,Deere & Co.,NYSE
-DECK,Deckers Outdoor Corp.,NYSE
-DEF,Invesco Defensive Equity ETF,NYSE
-DELL,Dell Technologies Inc (Class C),NYSE
-DEM,WisdomTree Emerging Markets High Dividend Fund,NYSE
-DEO,Diageo plc,NYSE
-DES,WisdomTree U.S. SmallCap Dividend Fund,NYSE
-DESP,Despegar.com Corp,NYSE
-DEW,WisdomTree Global High Dividend Fund,NYSE
-DFE,WisdomTree Europe SmallCap Dividend Fund,NYSE
-DFIN,Donnelley Financial Solutions Inc,NYSE
-DFJ,WisdomTree Japan SmallCap Dividend Fund,NYSE
-DFS,Discover Financial Services,NYSE
-DG,Dollar General Corp.,NYSE
-DGL,Invesco DB Gold Fund,NYSE
-DGRO,BTC iShares Core Dividend Growth ETF,NYSE
-DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,NYSE
-DGT,SSgA SPDR Global Dow ETF,NYSE
-DGX,"Quest Diagnostics, Inc.",NYSE
-DHF,BNY Mellon High Yield Strategies Fund,NYSE
-DHI,D.R. Horton Inc.,NYSE
-DHR,Danaher Corp.,NYSE
-DHS,WisdomTree U.S. High Dividend Fund,NYSE
-DHT,DHT Holdings Inc,NYSE
-DHX,DHI Group Inc,NYSE
-DHY,Credit Suisse High Yield Bond Fund,NYSE
-DIA,SPDR Dow Jones Industrial Average ETF,NYSE
-DIG,ProShares Ultra Oil & Gas,NYSE
-DIM,WisdomTree International MidCap Dividend Fund,NYSE
-DIN,Dine Brands Global Inc,NYSE
-DIV,Global X SuperDividend U.S. ETF,NYSE
-DK,Delek US Holdings Inc,NYSE
-DKS,"Dicks Sporting Goods, Inc.",NYSE
-DLB,Dolby Laboratories Inc (Class A),NYSE
-DLN,WisdomTree U.S. LargeCap Dividend Fund,NYSE
-DLNG,Dynagas LNG Partners LP,NYSE
-DLR,Digital Realty Trust Inc,NYSE
-DLS,WisdomTree International SmallCap Dividend Fund,NYSE
-DLX,Deluxe Corp.,NYSE
-DNB,Dun & Bradstreet Holdings Inc,NYSE
-DNOW,NOW Inc,NYSE
-DNP,DNP Select Income Fund Inc.,NYSE
-DOG,ProShares Short Dow30,NYSE
-DOL,WisdomTree International LargeCap Dividend Index,NYSE
-DON,WisdomTree U.S. MidCap Dividend Fund,NYSE
-DOO,WisdomTree International Dividend Ex-Financials Fund,NYSE
-DOOR,Masonite International Corp,NYSE
-DOV,Dover Corp.,NYSE
-DOW,Dow Inc,NYSE
-DPW,DPW Holdings Inc,NYSE
-DPZ,Dominos Pizza Inc,NYSE
-DRD,DRDGold Ltd.,NYSE
-DRE,Duke Realty Corp,NYSE
-DRH,Diamondrock Hospitality Co.,NYSE
-DRI,"Darden Restaurants, Inc.",NYSE
-DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Sh,NYSE
-DRN,Direxion Real Estate Bull 3x Shares,NYSE
-DRQ,"Dril-Quip, Inc.",NYSE
-DRV,Direxion Daily Real Estate Bear 3X Shares,NYSE
-DRW,WisdomTree Global ex-US Real Estate Fund,NYSE
-DS,Drive Shack Inc,NYSE
-DSI,BTC iShares MSCI KLD 400 Social Index Fund,NYSE
-DSS,"Document Security Systems, Inc.",NYSE
-DSSI,Diamond S Shipping Inc,NYSE
-DSX,Diana Shipping Inc,NYSE
-DT,Dynatrace Inc,NYSE
-DTD,WisdomTree U.S. Total Dividend Fund,NYSE
-DTE,DTE Energy Co.,NYSE
-DTH,WisdomTree International High Dividend Fund,NYSE
-DTN,WisdomTree U.S. Dividend Ex-Financials Fund,NYSE
-DUG,ProShares UltraShort Oil & Gas,NYSE
-DUK,Duke Energy Corp.,NYSE
-DUST,Direxion Daily Gold Miners Index Bear 2X Shares,NYSE
-DVA,DaVita Inc,NYSE
-DVD,Dover Motorsports Inc,NYSE
-DVN,Devon Energy Corp.,NYSE
-DVYA,BTC iShares Asia/Pacific Dividend ETF,NYSE
-DVYE,BTC iShares Emerging Markets Dividend ETF,NYSE
-DWM,WisdomTree International Equity Fund,NYSE
-DWX,SSgA SPDR S&P International Dividend ETF,NYSE
-DX,"Dynex Capital, Inc.",NYSE
-DXC,DXC Technology Co,NYSE
-DXD,ProShares UltraShort Dow30,NYSE
-DXJ,WisdomTree Japan Hedged Equity Fund,NYSE
-DY,"Dycom Industries, Inc.",NYSE
-E,Eni Spa,NYSE
-EAT,"Brinker International, Inc.",NYSE
-EB,Eventbrite Inc (Class A),NYSE
-EBF,Ennis Inc.,NYSE
-EBS,Emergent Biosolutions Inc,NYSE
-EC,Ecopetrol SA,NYSE
-ECL,"Ecolab, Inc.",NYSE
-ECOM,ChannelAdvisor Corp,NYSE
-ECON,Columbia Emerging Markets Consumer ETF,NYSE
-ED,"Consolidated Edison, Inc.",NYSE
-EDC,Direxion Daily Emerging Markets Bull 3X Shares,NYSE
-EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc,NYSE
-EDIV,SSgA SPDR S&P Emerging Markets Dividend ETF,NYSE
-EDU,New Oriental Education & Technology,NYSE
-EDV,Vanguard Extended Duration Treasury ETF,NYSE
-EDZ,Direxion Daily MSCI Emerging Markets Bear 3X Shares,NYSE
-EELV,Invesco S&P Emerging Markets Low Volatility ETF,NYSE
-EEM,BTC iShares MSCI Emerging Markets ETF,NYSE
-EES,WisdomTree U.S. SmallCap Fund,NYSE
-EEV,ProShares UltraShort MSCI Emerging Markets,NYSE
-EFA,BTC iShares MSCI EAFE ETF,NYSE
-EFU,ProShares UltraShort MSCI EAFE,NYSE
-EFX,"Equifax, Inc.",NYSE
-EFZ,ProShares Short MSCI EAFE,NYSE
-EGHT,8X8 Inc.,NYSE
-EGP,"Eastgroup Properties, Inc.",NYSE
-EGPT,VanEck Vectors Egypt Index ETF,NYSE
-EGY,"VAALCO Energy, Inc.",NYSE
-EHC,Encompass Health Corp,NYSE
-EHI,Western Asset Global High Income Fund Inc,NYSE
-EIDO,BTC iShares MSCI Indonesia ETF,NYSE
-EINC,VanEck Vectors Energy Income ETF,NYSE
-EIRL,iShares MSCI Ireland ETF,NYSE
-EIS,iShares MSCI Israel ETF,NYSE
-EIX,Edison International,NYSE
-EL,"Estee Lauder Cos., Inc. (Class A)",NYSE
-ELA,Envela Corp,NYSE
-ELD,WisdomTree Emerging Market Local Debt Fund,NYSE
-ELF,e.l.f. Beauty Inc,NYSE
-ELP,Cia Paranaense De Energia Copel (Class B),NYSE
-ELY,Callaway Golf Co.,NYSE
-EMAN,EMagin Corp,NYSE
-EME,"Emcor Group, Inc.",NYSE
-EMLC,VanEck Vectors J.P. Morgan EM Local Currency Bond ETF,NYSE
-EMN,Eastman Chemical Co,NYSE
-EMQQ,ETCT EMQQ The Emerging Markets Internet and Ecommerce ETF,NYSE
-EMR,Emerson Electric Co.,NYSE
-ENBL,Enable Midstream Partners LP,NYSE
-ENIA,Enel Americas SA,NYSE
-ENIC,Enel Chile S.A.,NYSE
-ENLC,Enlink Midstream LLC,NYSE
-ENR,Energizer Holdings Inc,NYSE
-ENS,Enersys,NYSE
-ENV,Envestnet Inc.,NYSE
-ENVA,Enova International Inc.,NYSE
-ENZ,"Enzo Biochem, Inc.",NYSE
-EOD,Wells Fargo Global Dividend Opportunity Fund,NYSE
-EOG,"EOG Resources, Inc.",NYSE
-EPAC,Enerpac Tool Group Corp (Class A),NYSE
-EPAM,EPAM Systems Inc,NYSE
-EPC,Edgewell Personal Care Co,NYSE
-EPD,Enterprise Products Partners L P,NYSE
-EPHE,BTC iShares MSCI Philippines ETF,NYSE
-EPI,WisdomTree India Earnings Fund,NYSE
-EPM,Evolution Petroleum Corporation,NYSE
-EPOL,iShares MSCI Poland ETF,NYSE
-EPP,BTC iShares MSCI Pacific ex Japan ETF,NYSE
-EPR,EPR Properties,NYSE
-EPU,iShares MSCI Peru ETF,NYSE
-EPV,ProShares UltraShort FTSE Europe,NYSE
-EQC,Equity Commonwealth,NYSE
-EQNR,Equinor ASA,NYSE
-EQR,Equity Residential Properties Trust,NYSE
-EQT,EQT Corp,NYSE
-EQWL,Invesco Russell Top 200 Equal Weight ETF,NYSE
-ERX,Direxion Daily Energy Bull 2X Shares,NYSE
-ERY,Direxion Daily Energy Bear 2X Shares,NYSE
-ES,Eversource Energy,NYSE
-ESE,"Esco Technologies, Inc.",NYSE
-ESGC,Eros STX Global Corporation (Class A),NYSE
-ESI,Element Solutions Inc,NYSE
-ESNT,Essent Group Ltd,NYSE
-ESS,"Essex Property Trust, Inc.",NYSE
-ESTE,Earthstone Energy Inc (Class A),NYSE
-ET,Energy Transfer LP,NYSE
-ETH,"Ethan Allen Interiors, Inc.",NYSE
-ETN,Eaton Corporation plc,NYSE
-ETR,Entergy Corp.,NYSE
-ETRN,Equitrans Midstream Corporation,NYSE
-EUM,ProShares Short MSCI Emerging Markets,NYSE
-EUO,ProShares UltraShort Euro,NYSE
-EURN,Euronav NV,NYSE
-EV,Eaton Vance Corp.,NYSE
-EVA,Enviva Partners LP,NYSE
-EVF,Eaton Vance Senior Income Trust,NYSE
-EVH,Evolent Health Inc (Class A),NYSE
-EVN,Eaton Vance Municipal Income Trust,NYSE
-EVR,Evercore Inc (Class A),NYSE
-EVRG,Evergy Inc,NYSE
-EVRI,Everi Holdings Inc,NYSE
-EW,Edwards Lifesciences Corp,NYSE
-EWA,BTC iShares MSCI Australia ETF,NYSE
-EWC,BTC iShares MSCI Canada ETF,NYSE
-EWD,iShares MSCI Sweden ETF,NYSE
-EWG,BTC iShares MSCI Germany ETF,NYSE
-EWH,BTC iShares MSCI Hong Kong ETF,NYSE
-EWI,iShares MSCI Italy ETF,NYSE
-EWJ,BTC iShares MSCI Japan ETF,NYSE
-EWK,iShares MSCI Belgium ETF,NYSE
-EWL,iShares MSCI Switzerland ETF,NYSE
-EWM,BTC iShares MSCI Malaysia ETF,NYSE
-EWN,BTC iShares MSCI Netherlands ETF,NYSE
-EWO,iShares MSCI Austria ETF,NYSE
-EWP,iShares MSCI Spain ETF,NYSE
-EWQ,BTC iShares MSCI France ETF,NYSE
-EWRE,Invesco S&P 500 Equal Weight Real Estate ETF,NYSE
-EWS,iShares MSCI Singapore ETF,NYSE
-EWT,iShares MSCI Taiwan ETF,NYSE
-EWU,BTC iShares MSCI ed Kingdom ETF,NYSE
-EWV,ProShares UltraShort MSCI Japan,NYSE
-EWW,iShares MSCI Mexico ETF,NYSE
-EWX,SSgA Active Trust - SSgA SPDR S&P Emerging Markets Small Cap ETF,NYSE
-EWY,iShares MSCI South Korea ETF,NYSE
-EWZ,iShares MSCI Brazil ETF,NYSE
-EXI,BTC iShares Global Industrials ETF,NYSE
-EXP,Eagle Materials Inc.,NYSE
-EXPR,Express Inc.,NYSE
-EXR,Extra Space Storage Inc.,NYSE
-EZA,BTC iShares MSCI South Africa ETF,NYSE
-F,Ford Motor Co.,NYSE
-FAF,First American Financial Corp,NYSE
-FAN,First Trust Global Wind Energy ETF,NYSE
-FAS,Direxion Daily Financial Bull 3x Shares,NYSE
-FAX,Aberdeen Asia-Pacific Income Fund Inc,NYSE
-FAZ,Direxion Daily Financial Bear 3x Shares,NYSE
-FBC,"Flagstar Bancorp, Inc.",NYSE
-FBHS,Fortune Brands Home & Security Inc,NYSE
-FBP,First Bancorp PR,NYSE
-FBT,First Trust NYSE Arca Biotechnology Index Fund,NYSE
-FC,Franklin Covey Co.,NYSE
-FCAU,Fiat Chrysler Automobiles NV,NYSE
-FCF,First Commonwealth Financial Corp.,NYSE
-FCG,First Trust Natural Gas ETF,NYSE
-FCN,FTI Consulting Inc.,NYSE
-FCPT,Four Corners Property Trust Inc,NYSE
-FCX,Freeport-McMoRan Inc,NYSE
-FDD,First Trust STOXX European Select Dividend Income Fund,NYSE
-FDM,First Trust Dow Jones Select Microcap Index Fund,NYSE
-FDN,First Trust Dow Jones Internet Index Fund,NYSE
-FDP,Fresh Del Monte Produce Inc,NYSE
-FDS,Factset Research Systems Inc.,NYSE
-FDX,Fedex Corp,NYSE
-FE,Firstenergy Corp.,NYSE
-FENG,Phoenix New Media Ltd,NYSE
-FET,Forum Energy Technologies Inc,NYSE
-FEZ,SPDR EURO Stoxx 50 ETF,NYSE
-FF,Futurefuel Corp,NYSE
-FFG,"FBL Financial Group, Inc. (Class A)",NYSE
-FFR,First Trust FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,NYSE
-FFTY,Innovator IBD 50 ETF,NYSE
-FGD,First Trust Dow Jones Global Select Dividend Index Fund,NYSE
-FHI,Federated Hermes Inc (Class B),NYSE
-FHLC,Fidelity MSCI Health Care Index ETF,NYSE
-FHN,First Horizon National Corp.,NYSE
-FICO,"Fair, Isaac Corp.",NYSE
-FIS,"Fidelity National Information Services, Inc.",NYSE
-FIT,Fitbit Inc (Class A),NYSE
-FIW,First Trust Water ETF,NYSE
-FIX,"Comfort Systems USA, Inc.",NYSE
-FL,Foot Locker Inc,NYSE
-FLM,First Trust Global Engineering and Construction ETF,NYSE
-FLO,"Flowers Foods, Inc.",NYSE
-FLOW,SPX FLOW Inc,NYSE
-FLR,Fluor Corporation,NYSE
-FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,NYSE
-FLS,Flowserve Corp.,NYSE
-FLT,Fleetcor Technologies Inc,NYSE
-FM,BTC iShares MSCI Frontier 100 Fund,NYSE
-FMC,FMC Corp.,NYSE
-FMS,Fresenius Medical Care AG & Co. KGaA,NYSE
-FMX,Fomento Economico Mexicano S.A.B. de C.V.,NYSE
-FN,Fabrinet,NYSE
-FNB,F.N.B. Corp.,NYSE
-FND,Floor & Decor Holdings Inc (Class A),NYSE
-FNF,Fidelity National Financial Inc,NYSE
-FNI,First Trust Exchange-Traded Fund III - First Trust Chindia ETF,NYSE
-FOE,Ferro Corp.,NYSE
-FOUR,Shift4 Payments Inc (Class A),NYSE
-FPX,First Trust US Equity Opportunities ETF,NYSE
-FR,"First Industrial Realty Trust, Inc.",NYSE
-FRI,First Trust S&P REIT Index Fund,NYSE
-FRO,Frontline Ltd,NYSE
-FRT,Federal Realty Investment Trust,NYSE
-FSLY,Fastly Inc (Class A),NYSE
-FSS,Federal Signal Corp.,NYSE
-FTI,TechnipFMC plc,NYSE
-FTK,Flotek Industries Inc,NYSE
-FTSI,FTS International Inc.,NYSE
-FTV,Fortive Corp,NYSE
-FUL,H.B. Fuller Company,NYSE
-FUN,Cedar Fair L.P.,NYSE
-FVAC,Fortress Value Acquisition Corp (Class A),NYSE
-FVD,First Trust Value Line Dividend Index Fund,NYSE
-FVL,First Trust Value Line 100 ETF,NYSE
-FVRR,Fiverr International Ltd,NYSE
-FXA,Invesco CurrencyShares Australian Dollar Trust,NYSE
-FXB,Invesco CurrencyShares British Pound Sterling Trust,NYSE
-FXC,Invesco CurrencyShares Canadian Dollar Trust,NYSE
-FXD,First Trust Consumer Discretionary AlphaDEX Fund,NYSE
-FXE,Invesco CurrencyShares Euro Trust,NYSE
-FXF,Invesco CurrencyShares Swiss Franc Trust,NYSE
-FXG,First Trust Consumer Staples AlphaDEX Fund,NYSE
-FXH,First Trust Health Care AlphaDEX Fund,NYSE
-FXI,BlackRock Institutional Trust Company N.A. - BTC iShares China Large-Cap ETF,NYSE
-FXL,First Trust Technology AlphaDEX Fund,NYSE
-FXN,First Trust Energy AlphaDEX Fund,NYSE
-FXO,First Trust Financials AlphaDEX Fund,NYSE
-FXP,ProShares UltraShort FTSE China 50,NYSE
-FXU,First Trust Utilities AlphaDEX Fund,NYSE
-FXY,Invesco CurrencyShares Japanese Yen Trust,NYSE
-FXZ,First Trust Materials AlphaDEX Fund,NYSE
-G,Genpact Ltd,NYSE
-GAB,Gabelli Equity Trust Inc.,NYSE
-GAMR,Wedbush ETFMG Video Game Tech ETF,NYSE
-GBF,BTC iShares Barclays Government/Credit Bond Fund,NYSE
-GBX,"Greenbrier Cos., Inc.",NYSE
-GCC,WisdomTree Continuous Commodity Index Fund,NYSE
-GCI,Gannett Co Inc.,NYSE
-GCO,Genesco Inc.,NYSE
-GCP,GCP Applied Technologies Inc,NYSE
-GD,General Dynamics Corp.,NYSE
-GDX,VanEck Vectors Gold Miners ETF,NYSE
-GDXJ,VanEck Vectors Junior Gold Miners ETF,NYSE
-GE,General Electric Co.,NYSE
-GEF,Greif Inc (Class A),NYSE
-GEL,Genesis Energy L.P.,NYSE
-GEN,Genesis Healthcare Inc (Class A),NYSE
-GEO,"Geo Group, Inc.",NYSE
-GES,Guess Inc.,NYSE
-GFF,Griffon Corp.,NYSE
-GFI,#NAME?,NYSE
-GGB,Gerdau S.A.,NYSE
-GGG,Graco Inc.,NYSE
-GGN,GAMCO Global Gold Natural Resources & Income Trust,NYSE
-GHL,Greenhill & Co Inc,NYSE
-GHLD,Guild Holdings Co (Class A),NYSE
-GII,SSgA Active Trust - SSgA SPDR S&P Global Infrastructure ETF,NYSE
-GIM,Templeton Global Income Fund Inc,NYSE
-GIS,"General Mills, Inc.",NYSE
-GL,Globe Life Inc,NYSE
-GLD,SSgA SPDR Gold Shares,NYSE
-GLDM,SPDR Gold MiniShares Trust,NYSE
-GLIN,VanEck Vectors India Growth Leaders ETF,NYSE
-GLL,ProShares UltraShort Gold,NYSE
-GLOG,GasLog Ltd,NYSE
-GLT,Glatfelter Corporation,NYSE
-GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,NYSE
-GLW,"Corning, Inc.",NYSE
-GM,General Motors Company,NYSE
-GME,Gamestop Corporation (Class A),NYSE
-GMED,Globus Medical Inc (Class A),NYSE
-GMF,SSgA Active Trust - SSgA SPDR S&P Emerging Asia Pacific ETF,NYSE
-GNE,Genie Energy Ltd (Class B),NYSE
-GNK,Genco Shipping & Trading Limited,NYSE
-GNRC,Generac Holdings Inc,NYSE
-GNW,Genworth Financial Inc (Class A),NYSE
-GOEX,Global X Gold Explorers ETF,NYSE
-GOF,Guggenheim Strategic Opportunities Fund,NYSE
-GOL,Gol Linhas Aereas Inteligentes S.A.,NYSE
-GOLF,Acushnet Holdings Corp,NYSE
-GORO,Gold Resource Corporation,NYSE
-GPC,Genuine Parts Co.,NYSE
-GPI,"Group 1 Automotive, Inc.",NYSE
-GPK,Graphic Packaging Holding Co,NYSE
-GPM,Guggenheim Enhanced Equity Income Fund,NYSE
-GPMT,Granite Point Mortgage Trust Inc,NYSE
-GPN,"Global Payments, Inc.",NYSE
-GPRK,Geopark Limited,NYSE
-GPS,"Gap, Inc.",NYSE
-GRA,W.R. Grace & Co.,NYSE
-GRC,Gorman-Rupp Co.,NYSE
-GREK,Global X MSCI Greece ETF,NYSE
-GRUB,GrubHub Inc,NYSE
-GS,"Goldman Sachs Group, Inc.",NYSE
-GSAT,Globalstar Inc.,NYSE
-GSG,BTC iShares S&P GSCI Commodity-Indexed Trust,NYSE
-GSK,Glaxosmithkline plc,NYSE
-GSL,Global Ship Lease Inc (Class A),NYSE
-GSX,Gsx Techedu Inc,NYSE
-GTT,GTT Communications Inc,NYSE
-GTY,Getty Realty Corp.,NYSE
-GURU,Global X Guru Index ETF,NYSE
-GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,NYSE
-GV,Goldfield Corp.,NYSE
-GVA,Granite Construction Inc.,NYSE
-GWRE,Guidewire Software Inc,NYSE
-GWW,W.W. Grainger Inc.,NYSE
-GWX,SSgA Active Trust - SSgA SPDR S&P International Small Cap ETF,NYSE
-GXC,SSgA Active Trust - SSgA SPDR S&P China ETF,NYSE
-GXG,Global X MSCI Colombia ETF,NYSE
-H,Hyatt Hotels Corporation (Class A),NYSE
-HACK,ETFMG Prime Cyber Security ETF,NYSE
-HAE,Haemonetics Corp.,NYSE
-HAL,Halliburton Co.,NYSE
-HAP,VanEck Vectors Natural Resources ETF,NYSE
-HASI,Hannon Armstrong Sustainable Infrastructure capital Inc,NYSE
-HBB,Hamilton Beach Brands Holding Co (Class A),NYSE
-HBI,Hanesbrands Inc,NYSE
-HCA,HCA Healthcare Inc,NYSE
-HCHC,HC2 Holdings Inc,NYSE
-HD,"Home Depot, Inc.",NYSE
-HDB,HDFC Bank Ltd.,NYSE
-HDGE,AdvisorShares Ranger Equity Bear ETF,NYSE
-HDV,BTC iShares Core High Dividend ETF,NYSE
-HE,"Hawaiian Electric Industries, Inc.",NYSE
-HEDJ,WisdomTree Europe Hedged Equity Fund,NYSE
-HEI,Heico Corp.,NYSE
-HEI.A,Heico Corp. (Class A),NYSE
-HEP,Holly Energy Partners L.P.,NYSE
-HES,Hess Corporation,NYSE
-HEWJ,BTC iShares Currency Hedged MSCI Japan ETF,NYSE
-HEZU,BTC iShares Currency Hedged MSCI EMU ETF,NYSE
-HFC,HollyFrontier Corp,NYSE
-HGV,Hilton Grand Vacations Inc,NYSE
-HHC,Howard Hughes Corporation,NYSE
-HI,Hillenbrand Inc,NYSE
-HIG,Hartford Financial Services Group Inc.,NYSE
-HII,Huntington Ingalls Industries Inc,NYSE
-HIL,Hill International Inc,NYSE
-HIO,Western Asset High Income Opportunity Fund Inc,NYSE
-HIW,"Highwoods Properties, Inc.",NYSE
-HIX,Western Asset High Income Fund II Inc,NYSE
-HKIB,Amtd International Inc,NYSE
-HL,Hecla Mining Co.,NYSE
-HLF,Herbalife Nutrition Ltd,NYSE
-HLI,Houlihan Lokey Inc (Class A),NYSE
-HLT,Hilton Worldwide Holdings Inc,NYSE
-HLX,Helix Energy Solutions Group Inc,NYSE
-HMC,Honda Motor,NYSE
-HMN,Horace Mann Educators Corp.,NYSE
-HMY,Harmony Gold Mining Co Ltd,NYSE
-HNGR,Hanger Inc,NYSE
-HNI,HNI Corp.,NYSE
-HOG,"Harley-Davidson, Inc.",NYSE
-HOME,At Home Group Inc,NYSE
-HON,Honeywell International Inc,NYSE
-HOV,"Hovnanian Enterprises, Inc. (Class A)",NYSE
-HP,"Helmerich & Payne, Inc.",NYSE
-HPE,Hewlett Packard Enterprise Co,NYSE
-HPI,John Hancock Preferred Income Fund,NYSE
-HPQ,HP Inc,NYSE
-HPR,HighPoint Resources Corp,NYSE
-HQL,Tekla Life Sciences Investors,NYSE
-HR,"Healthcare Realty Trust, Inc.",NYSE
-HRB,H&R Block Inc.,NYSE
-HRC,Hill-Rom Holdings Inc,NYSE
-HRI,Herc Holdings Inc,NYSE
-HRL,Hormel Foods Corp.,NYSE
-HSBC,HSBC Holdings plc,NYSE
-HSC,Harsco Corp.,NYSE
-HST,Host Hotels & Resorts Inc,NYSE
-HSY,Hershey Company,NYSE
-HT,Hersha Hospitality Trust,NYSE
-HTA,Healthcare Trust of America Inc (Class A),NYSE
-HTGC,Hercules Capital Inc,NYSE
-HTH,Hilltop Holdings Inc,NYSE
-HTZ,Hertz Global Holdings Inc.,NYSE
-HUBB,Hubbell Inc.,NYSE
-HUBS,HubSpot Inc,NYSE
-HUM,Humana Inc.,NYSE
-HUN,Huntsman Corp,NYSE
-HVT,"Haverty Furniture Cos., Inc.",NYSE
-HWM,Howmet Aerospace Inc,NYSE
-HXL,Hexcel Corp.,NYSE
-HY,Hyster-Yale Materials Handling Inc (Class A),NYSE
-HYG,BTC iShares iBoxx USD High Yield Corporate Bond ETF,NYSE
-HYLD,High Yield ETF,NYSE
-HYLN,Hyliion Holdings Corporation (Class A),NYSE
-HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund,NYSE
-HZO,"Marinemax, Inc.",NYSE
-IAA,IAA Inc,NYSE
-IAI,BTC iShares U.S. Broker-Dealers ETF,NYSE
-IAK,BTC iShares U.S. Insurance ETF,NYSE
-IAT,BTC iShares U.S. Regional Banks ETF,NYSE
-IAU,BTC iShares Gold Trust,NYSE
-IBIO,iBio Inc,NYSE
-IBM,International Business Machines Corp.,NYSE
-IBN,ICICI Bank Ltd.,NYSE
-IBND,SPDR Bloomberg Barclays International Corporate Bond ETF,NYSE
-ICD,Independence Contract Drilling Inc,NYSE
-ICE,Intercontinental Exchange Inc,NYSE
-IDA,"Idacorp, Inc.",NYSE
-IDHQ,Invesco S&P International Developed Quality ETF,NYSE
-IDLV,Invesco S&P International Developed Low Volatility ETF,NYSE
-IDOG,ALPS International Sector Dividend Dogs ETF,NYSE
-IDT,IDT Corp. (Class B),NYSE
-IDU,BTC iShares U.S. Utilities ETF,NYSE
-IDX,VanEck Vectors Indonesia Index ETF,NYSE
-IEMG,BTC iShares Core MSCI Emerging Markets ETF,NYSE
-IEUR,BTC iShares Core MSCI Europe ETF,NYSE
-IEV,BTC iShares Europe ETF,NYSE
-IEX,Idex Corporation,NYSE
-IEZ,BTC iShares U.S. Oil Equipment & Services ETF,NYSE
-IFF,International Flavors & Fragrances Inc.,NYSE
-IFS,Intercorp Financial Services Inc,NYSE
-IGM,iShares Expanded Tech Sector ETF,NYSE
-IGN,BTC iShares North American Tech-Multimedia Networking ETF,NYSE
-IGT,International Game Technology PLC,NYSE
-IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,NYSE
-IHE,BTC iShares U.S. Pharmaceuticals ETF,NYSE
-IHF,BTC iShares U.S. Healthcare Providers ETF,NYSE
-IHG,Intercontinental Hotels Group,NYSE
-IHI,BTC iShares U.S. Medical Devices ETF,NYSE
-IIM,Invesco Value Municipal Income Trust,NYSE
-IJH,BTC iShares Core S&P Mid-Cap ETF,NYSE
-IJJ,BTC iShares S&P Mid-Cap 400 Value ETF,NYSE
-IJK,BTC iShares S&P Mid-Cap 400 Growth ETF,NYSE
-IJR,BTC iShares Core S&P Small-Cap ETF,NYSE
-IJS,BTC iShares S&P Small-Cap 600 Value ETF,NYSE
-ILF,BTC iShares Latin America 40 ETF,NYSE
-ILTB,BTC iShares Core 10+ Year USD Bond ETF,NYSE
-IMAX,Imax Corp,NYSE
-IMH,"Impac Mortgage Holdings, Inc.",NYSE
-INFO,IHS Markit Ltd,NYSE
-INFU,InfuSystem Holdings Inc,NYSE
-INFY,Infosys Ltd,NYSE
-ING,ING Groep N.V.,NYSE
-INGR,Ingredion Inc,NYSE
-INT,World Fuel Services Corp.,NYSE
-INUV,Inuvo Inc,NYSE
-INVH,Invitation Homes Inc,NYSE
-IO,ION Geophysical Corp,NYSE
-IOO,BTC iShares Global 100 ETF,NYSE
-IP,International Paper Co.,NYSE
-IPAY,ETFMG Prime Mobile Payments ETF,NYSE
-IPG,"Interpublic Group Of Cos., Inc.",NYSE
-IPI,Intrepid Potash Inc,NYSE
-IQI,Invesco Quality Municipal Income Trust,NYSE
-IQV,IQVIA Holdings Inc,NYSE
-IR,Ingersoll-Rand Inc,NYSE
-IRET,Investors Real Estate Trust,NYSE
-IRM,Iron Mountain Inc.,NYSE
-IRR,Voya Natural Resources Equity Income Fund,NYSE
-IRS,IRSA,NYSE
-IRT,Independence Realty Trust Inc,NYSE
-ISDR,Issuer Direct Corp,NYSE
-ISR,"Isoray, Inc.",NYSE
-ISRA,VanEck Vectors Israel ETF,NYSE
-IT,"Gartner, Inc.",NYSE
-ITGR,Integer Holdings Corp,NYSE
-ITOT,BTC iShares Core S&P Total U.S. Stock Market ETF,NYSE
-ITP,IT Tech Packaging Inc,NYSE
-ITT,ITT Inc,NYSE
-ITUB,Itau Unibanco Holding S.A.,NYSE
-ITW,"Illinois Tool Works, Inc.",NYSE
-IVC,Invacare Corp.,NYSE
-IVE,BTC iShares S&P 500 Value ETF,NYSE
-IVR,Invesco Mortgage Capital Inc,NYSE
-IVV,BTC iShares Core S&P 500 ETF,NYSE
-IVW,BTC iShares S&P 500 Growth ETF,NYSE
-IVZ,Invesco Ltd,NYSE
-IWB,BTC iShares Russell 1000 ETF,NYSE
-IWC,BTC iShares Micro-Cap ETF,NYSE
-IWD,BTC iShares Russell 1000 Value ETF,NYSE
-IWF,BTC iShares Russell 1000 Growth ETF,NYSE
-IWM,BTC iShares Russell 2000 ETF,NYSE
-IWN,BTC iShares Russell 2000 Value ETF,NYSE
-IWO,BTC iShares Russell 2000 Growth ETF,NYSE
-IWP,BTC iShares Russell Mid-Cap Growth ETF,NYSE
-IWR,BTC iShares Russell Mid-Cap ETF,NYSE
-IWS,BTC iShares Russell Mid-Cap Value ETF,NYSE
-IWV,BTC iShares Russell 3000 ETF,NYSE
-IXC,BTC iShares Global Energy ETF,NYSE
-IXG,BTC iShares Global Financials ETF,NYSE
-IXJ,BTC iShares Global Healthcare ETF,NYSE
-IXN,BTC iShares Global Tech ETF,NYSE
-IXP,iShares Global Comm Services ETF,NYSE
-IYC,BTC iShares U.S. Consumer Services ETF,NYSE
-IYE,BTC iShares U.S. Energy ETF,NYSE
-IYF,BTC iShares U.S. Financials ETF,NYSE
-IYG,BTC iShares U.S. Financial Services ETF,NYSE
-IYH,BTC iShares U.S. Healthcare ETF,NYSE
-IYK,BTC iShares U.S. Consumer Goods ETF,NYSE
-IYM,BTC iShares U.S. Basic Materials ETF,NYSE
-IYR,BTC iShares U.S. Real Estate ETF,NYSE
-IYW,BTC iShares U.S. Technology ETF,NYSE
-IYY,BTC iShares Dow Jones U.S. ETF,NYSE
-J,"Jacobs Engineering Group, Inc.",NYSE
-JAX,J. Alexanders Holdings Inc,NYSE
-JBGS,JBG SMITH Properties,NYSE
-JBL,Jabil Inc,NYSE
-JBT,John Bean Technologies Corp,NYSE
-JCE,Nuveen Core Equity Alpha Fund,NYSE
-JCI,Johnson Controls International plc,NYSE
-JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,NYSE
-JEF,Jefferies Financial Group Inc,NYSE
-JKD,BTC iShares Morningstar Large-Cap ETF,NYSE
-JKE,BTC iShares Morningstar Large-Cap Growth ETF,NYSE
-JKF,BTC iShares Morningstar Large-Cap Value ETF,NYSE
-JKG,BTC iShares Morningstar Mid-Cap ETF,NYSE
-JKH,BTC iShares Morningstar Mid-Cap Growth ETF,NYSE
-JKJ,BTC iShares Morningstar Small-Cap ETF,NYSE
-JKK,BTC iShares Morningstar Small-Cap Growth ETF,NYSE
-JKL,BTC iShares Morningstar Small-Cap Value ETF,NYSE
-JKS,JinkoSolar Holding Co. Ltd,NYSE
-JLL,Jones Lang Lasalle Inc.,NYSE
-JMIA,Jumia Technologies Ag,NYSE
-JNJ,Johnson & Johnson,NYSE
-JNK,SPDR Bloomberg Barclays High Yield Bond ETF,NYSE
-JNPR,Juniper Networks Inc,NYSE
-JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,NYSE
-JOB,GEE Group Inc,NYSE
-JOE,St. Joe Co.,NYSE
-JPM,JPMorgan Chase & Co.,NYSE
-JPS,Nuveen Preferred & Income Securities Fund,NYSE
-JPXN,BTC iShares JPX-Nikkei 400 ETF,NYSE
-JWN,"Nordstrom, Inc.",NYSE
-JXI,BTC iShares Global Utilities ETF,NYSE
-K,Kellogg Co,NYSE
-KAI,"Kadant, Inc.",NYSE
-KAR,KAR Auction Services Inc,NYSE
-KB,KB Financial Group Inc,NYSE
-KBA,KraneShares Bosera MSCI China A ETF,NYSE
-KBE,SPDR S&P Bank ETF,NYSE
-KBH,KB Home,NYSE
-KBR,KBR Inc,NYSE
-KCAC,Kensington Capital Acquisition Corp (Class A),NYSE
-KCE,SPDR S&P Capital Markets ETF,NYSE
-KCNY,KraneShares E Fund China Commercial Paper ETF,NYSE
-KEP,Korea Electric Power,NYSE
-KEX,Kirby Corp.,NYSE
-KEY,Keycorp,NYSE
-KEYS,Keysight Technologies Inc,NYSE
-KFY,Korn Ferry,NYSE
-KIE,SPDR S&P Insurance ETF,NYSE
-KIM,Kimco Realty Corp.,NYSE
-KKR,KKR & Co. Inc.,NYSE
-KMB,Kimberly-Clark Corp.,NYSE
-KMI,Kinder Morgan Inc (Class P),NYSE
-KMPR,Kemper Corporation,NYSE
-KMT,Kennametal Inc.,NYSE
-KMX,Carmax Inc,NYSE
-KN,Knowles Corp,NYSE
-KNX,Knight-Swift Transportation Holdings Inc (Class A),NYSE
-KO,Coca-Cola Co,NYSE
-KODK,Eastman Kodak Co.,NYSE
-KOF,Coca-Cola Femsa S.A.B. DE C.V.,NYSE
-KOL,VanEck Vectors Coal ETF,NYSE
-KOP,Koppers Holdings Inc,NYSE
-KR,Kroger Co.,NYSE
-KRA,Kraton Corp,NYSE
-KRC,Kilroy Realty Corp.,NYSE
-KRE,SPDR S&P Regional Banking ETF,NYSE
-KRG,Kite Realty Group Trust,NYSE
-KRO,"Kronos Worldwide, Inc.",NYSE
-KSS,Kohl`s Corp.,NYSE
-KSU,Kansas City Southern,NYSE
-KT,KT Corporation,NYSE
-KTB,Kontoor Brands Inc,NYSE
-KW,Kennedy-Wilson Holdings Inc,NYSE
-KWEB,KraneShares CSI China Internet ETF,NYSE
-KWR,Quaker Chemical Corp.,NYSE
-KXI,BTC iShares Global Consumer Staples ETF,NYSE
-LAD,"Lithia Motors, Inc. (Class A)",NYSE
-LAZ,Lazard Ltd. (Class A),NYSE
-LB,L Brands Inc,NYSE
-LC,LendingClub Corp,NYSE
-LCI,"Lannett Co., Inc.",NYSE
-LCII,LCI Industries,NYSE
-LCTX,Lineage Cell Therapeutics Inc,NYSE
-LDL,"Lydall, Inc.",NYSE
-LDOS,Leidos Holdings Inc,NYSE
-LEA,Lear Corp.,NYSE
-LEE,"Lee Enterprises, Inc.",NYSE
-LEG,"Leggett & Platt, Inc.",NYSE
-LEJU,Leju Holdings Ltd,NYSE
-LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,NYSE
-LEN,Lennar Corp. (Class A),NYSE
-LEN.B,Lennar Corp. (Class B),NYSE
-LEU,Centrus Energy Corp (Class A),NYSE
-LEVI,Levi Strauss & Co.,NYSE
-LFC,China Life Insurance Co,NYSE
-LGF.A,Lions Gate Entertainment Corp. (Class A),NYSE
-LGF.B,Lions Gate Entertainment Corp. (Class B),NYSE
-LGVWU,Longview Acquisition Corp 1 Ord Share Class A & 1/3 War,NYSE
-LH,Laboratory Corp. Of America Holdings,NYSE
-LHX,L3Harris Technologies Inc,NYSE
-LII,Lennox International Inc,NYSE
-LIN,Linde Plc,NYSE
-LINX,Linx S.A.,NYSE
-LIT,Global X Lithium & Battery Tech ETF,NYSE
-LITB,LightInTheBox Holding Co Ltd,NYSE
-LL,Lumber Liquidators Holdings Inc,NYSE
-LLY,Lilly(Eli) & Co,NYSE
-LMND,Lemonade Inc,NYSE
-LMT,Lockheed Martin Corp.,NYSE
-LNC,Lincoln National Corp.,NYSE
-LNG,Cheniere Energy Inc.,NYSE
-LNN,Lindsay Corporation,NYSE
-LODE,Comstock Mining Inc,NYSE
-LOW,"Lowe`s Cos., Inc.",NYSE
-LPI,Laredo Petroleum Inc.,NYSE
-LPL,LG Display Co Ltd.,NYSE
-LPX,Louisiana-Pacific Corp.,NYSE
-LQD,BTC iShares iBoxx USD Investment Grade Corporate Bond ETF,NYSE
-LRN,K12 Inc,NYSE
-LSI,Life Storage Inc,NYSE
-LTC,"LTC Properties, Inc.",NYSE
-LTHM,Livent Corp,NYSE
-LTPZ,PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund,NYSE
-LUB,"Luby`s, Inc.",NYSE
-LUMN,Lumen Technologies Inc.,NYSE
-LUV,Southwest Airlines Co,NYSE
-LVS,Las Vegas Sands Corp,NYSE
-LW,Lamb Weston Holdings Inc,NYSE
-LXP,Lexington Realty Trust,NYSE
-LXU,"LSB Industries, Inc.",NYSE
-LYB,LyondellBasell Industries NV (Class A),NYSE
-LYG,Lloyds Banking Group plc,NYSE
-LYV,Live Nation Entertainment Inc,NYSE
-LZB,La-Z-Boy Inc.,NYSE
-MA,Mastercard Incorporated (Class A),NYSE
-MAA,"Mid-America Apartment Communities, Inc.",NYSE
-MAC,Macerich Co.,NYSE
-MAIN,Main Street Capital Corporation,NYSE
-MAN,ManpowerGroup,NYSE
-MANU,Manchester ed Plc. (Class A),NYSE
-MAS,Masco Corp.,NYSE
-MBI,MBIA Inc.,NYSE
-MBT,Mobile Telesystems PJSC,NYSE
-MCD,McDonald`s Corp,NYSE
-MCF,Contango Oil & Gas Company,NYSE
-MCK,Mckesson Corporation,NYSE
-MCO,Moody`s Corp.,NYSE
-MCR,MFS Charter Income Trust,NYSE
-MCS,Marcus Corp.,NYSE
-MCY,Mercury General Corp.,NYSE
-MD,MEDNAX Inc,NYSE
-MDC,"M.D.C. Holdings, Inc.",NYSE
-MDLA,Medallia Inc,NYSE
-MDT,Medtronic Plc,NYSE
-MDYG,SSgA SPDR S&P 400 Mid Cap Growth ETF,NYSE
-MED,Medifast Inc,NYSE
-MEI,"Methode Electronics, Inc.",NYSE
-MET,Metlife Inc,NYSE
-MFA,MFA Financial Inc,NYSE
-MFG,"Mizuho Financial Group, Inc.",NYSE
-MFGP,Micro Focus International Plc,NYSE
-MG,Mistras Group Inc,NYSE
-MGC,"Vanguard Group, Inc. - Vanguard Mega Cap 300 Index ETF",NYSE
-MGF,MFS Government Markets Income Trust,NYSE
-MGK,Vanguard Mega Cap Growth ETF,NYSE
-MGM,MGM Resorts International,NYSE
-MGP,MGM Growth Properties LLC (Class A),NYSE
-MHK,"Mohawk Industries, Inc.",NYSE
-MHO,MI Homes Inc.,NYSE
-MIC,Macquarie Infrastructure Corp,NYSE
-MIDU,Direxion Daily Mid Cap Bull 3x Shares,NYSE
-MIN,MFS Intermediate Income Trust,NYSE
-MITT,AG Mortgage Investment Trust Inc,NYSE
-MJ,ETFMG Alternative Harvest ETF,NYSE
-MKC,"McCormick & Co., Inc.",NYSE
-MLI,"Mueller Industries, Inc.",NYSE
-MLM,"Martin Marietta Materials, Inc.",NYSE
-MLR,Miller Industries Inc.,NYSE
-MLSS,Milestone Scientific Inc.,NYSE
-MMC,"Marsh & McLennan Cos., Inc.",NYSE
-MMM,3M Co.,NYSE
-MMP,Magellan Midstream Partners L.P.,NYSE
-MMS,Maximus Inc.,NYSE
-MMT,MFS Multimarket Income Trust,NYSE
-MMU,Western Asset Managed Municipals Fund Inc,NYSE
-MN,Manning & Napier Inc (Class A),NYSE
-MNR,Monmouth Real Estate Investment Corp. (Class A),NYSE
-MO,Altria Group Inc.,NYSE
-MOD,Modine Manufacturing Co.,NYSE
-MODN,Model N Inc,NYSE
-MOG.A,"Moog, Inc. (Class A)",NYSE
-MOH,Molina Healthcare Inc,NYSE
-MOO,VanEck Vectors Agribusiness ETF,NYSE
-MORT,VanEck Vectors Mortgage REIT Income ETF,NYSE
-MOS,Mosaic Company,NYSE
-MOV,"Movado Group, Inc.",NYSE
-MPC,Marathon Petroleum Corp,NYSE
-MPLX,MPLX LP,NYSE
-MPW,Medical Properties Trust Inc,NYSE
-MPX,Marine Products Corp,NYSE
-MR,Montage Resources Corp,NYSE
-MRC,MRC Global Inc,NYSE
-MRK,Merck & Co Inc,NYSE
-MRO,Marathon Oil Corporation,NYSE
-MS,Morgan Stanley,NYSE
-MSA,MSA Safety Inc,NYSE
-MSB,Mesabi Trust,NYSE
-MSCI,MSCI Inc,NYSE
-MSGE,Madison Square Garden Entertainment Corp (Class A),NYSE
-MSGN,MSG Networks Inc (Class A),NYSE
-MSGS,Madison Square Garden Sports Corp (Class A),NYSE
-MSI,Motorola Solutions Inc,NYSE
-MSM,"MSC Industrial Direct Co., Inc. (Class A)",NYSE
-MSP,Datto Holding Corp,NYSE
-MT,New York Shares - Level III,NYSE
-MTB,M & T Bank Corp,NYSE
-MTD,"Mettler-Toledo International, Inc.",NYSE
-MTDR,Matador Resources Co,NYSE
-MTG,MGIC Investment Corp,NYSE
-MTH,Meritage Homes Corp.,NYSE
-MTL,Mechel PJSC,NYSE
-MTN,Vail Resorts Inc.,NYSE
-MTOR,Meritor Inc,NYSE
-MTRN,Materion Corp,NYSE
-MTW,"Manitowoc Co., Inc.",NYSE
-MTX,"Minerals Technologies, Inc.",NYSE
-MTZ,Mastec Inc.,NYSE
-MUB,BTC iShares National Muni Bond ETF,NYSE
-MUC,BlackRock MuniHoldings California Quality Fund Inc,NYSE
-MUFG,"Mitsubishi UFJ Financial Group, Inc.",NYSE
-MUR,Murphy Oil Corp.,NYSE
-MUSA,Murphy USA Inc,NYSE
-MVV,ProShares Ultra MidCap400,NYSE
-MWA,Mueller Water Products Inc (Series A),NYSE
-MX,MagnaChip Semiconductor Corp,NYSE
-MXC,Mexco Energy Corp,NYSE
-MXI,BTC iShares Global Materials ETF,NYSE
-MXL,MaxLinear Inc,NYSE
-MYD,BlackRock MuniYield Fund Inc,NYSE
-MYE,Myers Industries Inc.,NYSE
-MYO,Myomo Inc,NYSE
-MYOV,Myovant Sciences Ltd,NYSE
-MYY,ProShares Short Midcap400,NYSE
-MZZ,ProShares UltraShort MidCap400,NYSE
-NACP,Impact Shares NAACP Minority Empowerment ETF,NYSE
-NAD,Nuveen Quality Municipal Income Fund,NYSE
-NAT,Nordic American Tankers Ltd,NYSE
-NAV,Navistar International Corp.,NYSE
-NAVB,Navidea Biopharmaceuticals Inc,NYSE
-NBR,Nabors Industries Ltd,NYSE
-NBY,Novabay Pharmaceuticals Inc,NYSE
-NCLH,Norwegian Cruise Line Holdings Ltd,NYSE
-NCR,NCR Corp.,NYSE
-NEE,NextEra Energy Inc,NYSE
-NET,Cloudflare Inc (Class A),NYSE
-NFG,National Fuel Gas Co.,NYSE
-NFJ,AllianzGI Dividend Interest & Premium Strategy Fund,NYSE
-NGG,National Grid Plc,NYSE
-NGL,NGL Energy Partners LP,NYSE
-NGS,"Natural Gas Services Group, Inc.",NYSE
-NGVC,Natural Grocers by Vitamin Cottage Inc,NYSE
-NGVT,Ingevity Corp,NYSE
-NHF,NexPoint Strategic Opportunities Fund,NYSE
-NHI,"National Health Investors, Inc.",NYSE
-NI,Nisource Inc. (Holding Co.),NYSE
-NINE,Nine Energy Service Inc,NYSE
-NJR,New Jersey Resources Corporation,NYSE
-NKE,"Nike, Inc. (Class B)",NYSE
-NLR,VanEck Vectors Uranium+Nuclear Energy ETF,NYSE
-NLS,Nautilus Inc,NYSE
-NLSN,Nielsen Holdings plc,NYSE
-NLY,Annaly Capital Management Inc,NYSE
-NMR,Nomura Holdings Inc.,NYSE
-NNA,Navios Maritime Acquisition Corp,NYSE
-NNN,National Retail Properties Inc,NYSE
-NNVC,NanoViricides Inc,NYSE
-NOAH,Noah Holdings Limited,NYSE
-NOC,Northrop Grumman Corp.,NYSE
-NOG,Northern Oil and Gas Inc.,NYSE
-NOK,Nokia Corp,NYSE
-NOMD,Nomad Foods Limited,NYSE
-NORW,Global X MSCI Norway ETF,NYSE
-NOV,National Oilwell Varco Inc.,NYSE
-NOVA,Sunnova Energy International Inc,NYSE
-NOW,ServiceNow Inc,NYSE
-NP,Neenah Inc,NYSE
-NPK,"National Presto Industries, Inc.",NYSE
-NPO,EnPro Industries Inc,NYSE
-NR,"Newpark Resources, Inc.",NYSE
-NRG,NRG Energy Inc.,NYSE
-NRZ,New Residential Investment Corp,NYSE
-NS,Nustar Energy L P,NYSE
-NSC,Norfolk Southern Corp.,NYSE
-NSP,Insperity Inc,NYSE
-NTN,NTN Buzztime Inc,NYSE
-NTP,Nam Tai Property Inc,NYSE
-NTZ,Natuzzi S.P.A.,NYSE
-NUE,Nucor Corp.,NYSE
-NUGT,Direxion Daily Gold Miners Index Bull 2X Shares,NYSE
-NUS,"Nu Skin Enterprises, Inc. (Class A)",NYSE
-NUV,Nuveen Municipal Value Fund Inc.,NYSE
-NVO,Novo Nordisk,NYSE
-NVS,Novartis AG,NYSE
-NVST,Envista Holdings Corp,NYSE
-NVTA,Invitae Corp,NYSE
-NWE,Northwestern Corp.,NYSE
-NWG,NatWest Group Plc,NYSE
-NWHM,New Home Company Inc (The),NYSE
-NWN,Northwest Natural Holding Co,NYSE
-NX,Quanex Building Products Corp,NYSE
-NXRT,NexPoint Residential Trust Inc,NYSE
-NYCB,New York Community Bancorp Inc.,NYSE
-NYT,New York Times Co. (Class A),NYSE
-OBLG,Oblong Inc,NYSE
-OC,Owens Corning,NYSE
-OCFT,Oneconnect Financial Technology Co Ltd,NYSE
-OCN,Ocwen Financial Corp.,NYSE
-OCX,OncoCyte Corp,NYSE
-OEF,BTC iShares S&P 100 ETF,NYSE
-OFC,Corporate Office Properties Trust,NYSE
-OFG,OFG Bancorp,NYSE
-OGE,Oge Energy Corp.,NYSE
-OGEN,Oragenics Inc,NYSE
-OGS,ONE Gas Inc,NYSE
-OHI,"Omega Healthcare Investors, Inc.",NYSE
-OI,O-I Glass Inc,NYSE
-OIA,Invesco Municipal Income Opportunities Trust,NYSE
-OIBR.C,Representing 5,NYSE
-OIH,VanEck Vectors Oil Services ETF,NYSE
-OII,"Oceaneering International, Inc.",NYSE
-OIS,"Oil States International, Inc.",NYSE
-OKE,Oneok Inc.,NYSE
-OLN,Olin Corp.,NYSE
-OLP,"One Liberty Properties, Inc.",NYSE
-OMC,"Omnicom Group, Inc.",NYSE
-OMF,OneMain Holdings Inc,NYSE
-OMI,"Owens & Minor, Inc.",NYSE
-ONTO,Onto Innovation Inc.,NYSE
-OPY,Oppenheimer Holdings Inc (Class A),NYSE
-ORA,Ormat Technologies Inc,NYSE
-ORCL,Oracle Corp.,NYSE
-ORI,Old Republic International Corp.,NYSE
-OSH,Oak Street Health Inc,NYSE
-OSK,Oshkosh Corp,NYSE
-OTIS,Otis Worldwide Corp,NYSE
-OUT,Outfront Media Inc,NYSE
-OXM,"Oxford Industries, Inc.",NYSE
-OXY,Occidental Petroleum Corp.,NYSE
-PAA,Plains All American Pipeline LP,NYSE
-PAC,Grupo Aeroportuario Del Pacifico SAB de CV,NYSE
-PAG,Penske Automotive Group Inc,NYSE
-PALL,Aberdeen Standard Physical Palladium Shares ETF,NYSE
-PAM,Pampa Energia SA,NYSE
-PANW,Palo Alto Networks Inc,NYSE
-PAR,Par Technology Corp.,NYSE
-PAYC,Paycom Software Inc,NYSE
-PB,Prosperity Bancshares Inc.,NYSE
-PBD,Invesco Global Clean Energy ETF,NYSE
-PBE,Invesco Dynamic Biotechnology & Genome ETF,NYSE
-PBF,PBF Energy Inc (Class A),NYSE
-PBH,Prestige Consumer Healthcare Inc,NYSE
-PBI,"Pitney Bowes, Inc.",NYSE
-PBJ,Invesco Dynamic Food & Beverage ETF,NYSE
-PBP,Invesco S&P 500 BuyWrite ETF,NYSE
-PBR,Petroleo Brasileiro S.A. Petrobras,NYSE
-PBR.A,Petroleo Brasileiro S.A.- Petrobras American Depositary Shares,NYSE
-PBS,Invesco Dynamic Media ETF,NYSE
-PBT,Permian Basin Royalty Trust,NYSE
-PBW,Invesco WilderHill Clean Energy ETF,NYSE
-PCEF,Invesco CEF Income Composite ETF,NYSE
-PCG,PG&E Corp.,NYSE
-PCN,PIMCO Corporate & Income Strategy Fund,NYSE
-PCY,Invesco Emerging Markets Sovereign Debt ETF,NYSE
-PD,Pagerduty Inc,NYSE
-PDI,PIMCO Dynamic Income Fund,NYSE
-PDM,Piedmont Office Realty Trust Inc (Class A),NYSE
-PDN,Invesco Capital Management LLC - Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,NYSE
-PE,Parsley Energy Inc (Class A),NYSE
-PEAK,Healthpeak Properties Inc,NYSE
-PEB,Pebblebrook Hotel Trust,NYSE
-PED,PEDEVCO Corp,NYSE
-PEG,Public Service Enterprise Group Inc.,NYSE
-PEI,Pennsylvania Real Estate Investment Trust,NYSE
-PEJ,Invesco Dynamic Leisure and Entertainment ETF,NYSE
-PEN,Penumbra Inc,NYSE
-PEO,Adams Natural Resources Fund Inc,NYSE
-PFE,Pfizer Inc.,NYSE
-PFGC,Performance Food Group Company,NYSE
-PFS,Provident Financial Services Inc,NYSE
-PFSI,PennyMac Financial Services Inc.,NYSE
-PG,Procter & Gamble Co.,NYSE
-PGF,Invesco Financial Preferred ETF,NYSE
-PGR,Progressive Corp.,NYSE
-PGTI,PGT Innovations Inc,NYSE
-PGX,Invesco Preferred ETF,NYSE
-PH,Parker-Hannifin Corp.,NYSE
-PHB,Invesco Fundamental High Yield Corporate Bond ETF,NYSE
-PHG,Koninklijke Philips N.V.,NYSE
-PHI,PLDT Inc,NYSE
-PHM,PulteGroup Inc,NYSE
-PHT,Pioneer High Income Trust,NYSE
-PHX,PHX Minerals Inc (Class A),NYSE
-PII,Polaris Inc,NYSE
-PIM,Putnam Master Intermediate Income Trust,NYSE
-PIN,Invesco India ETF,NYSE
-PING,Ping Identity Holding Corp,NYSE
-PINS,Pinterest Inc (Class A),NYSE
-PIPR,Piper Sandler Co`s,NYSE
-PJP,Invesco Dynamic Pharmaceuticals ETF,NYSE
-PJT,PJT Partners Inc (Class A),NYSE
-PK,Park Hotels & Resorts Inc,NYSE
-PKE,Park Aerospace Corp,NYSE
-PKG,Packaging Corp Of America,NYSE
-PKI,"Perkinelmer, Inc.",NYSE
-PKX,Posco,NYSE
-PLD,Prologis Inc,NYSE
-PLNT,Planet Fitness Inc (Class A),NYSE
-PLOW,Douglas Dynamics Inc,NYSE
-PLT,"Plantronics, Inc.",NYSE
-PLTR,Palantir Technologies Inc (Class A) ,NYSE
-PLX,Protalix BioTherapeutics Inc.,NYSE
-PM,Philip Morris International Inc,NYSE
-PMM,Putnam Managed Municipal Income Trust.,NYSE
-PMT,Pennymac Mortgage Investment Trust,NYSE
-PNC,PNC Financial Services Group,NYSE
-PNM,PNM Resources Inc,NYSE
-PNR,Pentair plc,NYSE
-PNW,Pinnacle West Capital Corp.,NYSE
-POR,Portland General Electric Co,NYSE
-POST,Post Holdings Inc,NYSE
-PPA,Invesco Aerospace & Defense ETF,NYSE
-PPG,"PPG Industries, Inc.",NYSE
-PPL,PPL Corp,NYSE
-PPLT,Aberdeen Standard Physical Platinum Shares ETF,NYSE
-PPT,Putnam Premier Income Trust,NYSE
-PRA,Proassurance Corporation,NYSE
-PRF,Invesco FTSE RAFI US 1000 ETF,NYSE
-PRGO,Perrigo Company plc,NYSE
-PRI,Primerica Inc,NYSE
-PRK,Park National Corp.,NYSE
-PRLB,Proto Labs Inc,NYSE
-PRSP,Perspecta Inc,NYSE
-PRTY,Party City Holdco Inc,NYSE
-PRU,Prudential Financial Inc.,NYSE
-PSA,Public Storage,NYSE
-PSB,"PS Business Parks, Inc.",NYSE
-PSI,Invesco Dynamic Semiconductors ETF,NYSE
-PSJ,Invesco Dynamic Software ETF,NYSE
-PSK,SSgA SPDR Wells Fargo Preferred Stock ETF,NYSE
-PSN,Parsons Corp,NYSE
-PSO,Pearson plc,NYSE
-PSP,Invesco Global Listed Private Equity ETF,NYSE
-PSQ,ProShares Short QQQ,NYSE
-PST,PowerShares UltraShort Lehman 7-10 + Year Treasury ProShares,NYSE
-PSTG,Pure Storage Inc (Class A),NYSE
-PSX,Phillips 66,NYSE
-PSXP,Phillips 66 Partners LP,NYSE
-PTN,Palatin Technologies Inc.,NYSE
-PTR,PetroChina Co. Ltd.,NYSE
-PUK,Prudential plc,NYSE
-PUMP,ProPetro Holding Corp,NYSE
-PVH,PVH Corp,NYSE
-PVI,Invesco VRDO Tax-Free Weekly ETF,NYSE
-PWC,Invesco Dynamic Market ETF,NYSE
-PWR,"Quanta Services, Inc.",NYSE
-PWZ,Invesco California AMT-Free Municipal Bond ETF,NYSE
-PXD,Pioneer Natural Resources Co.,NYSE
-PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,NYSE
-PXH,Invesco Capital Management LLC - Invesco FTSE RAFI Emerging Markets ETF,NYSE
-PXJ,Invesco Dynamic Oil & Gas Services ETF,NYSE
-PXQ,Invesco Dynamic Networking ETF,NYSE
-PZA,Invesco National AMT-Free Municipal Bond ETF,NYSE
-PZD,Invesco Cleantech ETF,NYSE
-PZG,Paramount Gold Nevada Corp,NYSE
-PZT,Invesco New York AMT-Free Municipal Bond ETF,NYSE
-QD,Qudian Inc,NYSE
-QEP,QEP Resources Inc,NYSE
-QGEN,Qiagen NV,NYSE
-QID,ProShares UltraShort QQQ,NYSE
-QLD,ProShares Ultra QQQ,NYSE
-QSY,WisdomTree U.S. Quality Shareholder Yield Fund,NYSE
-QTS,Qts Realty Trust Inc (Class A),NYSE
-QUAD,Quad/Graphics Inc (Class A),NYSE
-R,"Ryder System, Inc.",NYSE
-RACE,Ferrari N.V.,NYSE
-RAD,Rite Aid Corp.,NYSE
-RAMP,LiveRamp Holdings Inc,NYSE
-RBC,Regal Beloit Corp,NYSE
-RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,NYSE
-RCL,Royal Caribbean Group,NYSE
-RDN,"Radian Group, Inc.",NYSE
-RDOG,ALPS REIT Dividend Dogs ETF,NYSE
-RDY,Dr. Reddy`s Laboratories Ltd.,NYSE
-RE,Everest Re Group Ltd,NYSE
-REET,BTC iShares Global REIT ETF,NYSE
-REI,Ring Energy Inc,NYSE
-RELX,RELX Plc,NYSE
-REMX,VanEck Vectors Rare Earth/Strategic Metals ETF,NYSE
-RENN,Renren Inc,NYSE
-RES,"RPC, Inc.",NYSE
-RESI,Front Yard Residential Corp,NYSE
-REV,"Revlon, Inc. (Class A)",NYSE
-REVG,REV Group Inc,NYSE
-REW,ProShares UltraShort Technology,NYSE
-REZ,iShares Residential Real Estate,NYSE
-REZI,Resideo Technologies Inc,NYSE
-RF,Regions Financial Corp.,NYSE
-RFG,Invesco S&P MidCap 400 Pure Growth ETF,NYSE
-RFI,Cohen & Steers Total Return Realty Fund Inc,NYSE
-RFV,Invesco S&P MidCap 400 Pure Value ETF,NYSE
-RGA,"Reinsurance Group Of America, Inc.",NYSE
-RGI,Invesco S&P 500 Equal Weight Industrials ETF,NYSE
-RGR,"Sturm, Ruger & Co., Inc.",NYSE
-RGS,Regis Corp.,NYSE
-RH,RH (Class A),NYSE
-RHI,Robert Half International Inc.,NYSE
-RHP,Ryman Hospitality Properties Inc,NYSE
-RHS,Invesco S&P 500 Equal Weight Consumer Staples ETF,NYSE
-RIG,Transocean Ltd,NYSE
-RIO,Rio Tinto plc,NYSE
-RJF,"Raymond James Financial, Inc.",NYSE
-RKT,Class A,NYSE
-RL,Ralph Lauren Corp (Class A),NYSE
-RLGT,"Radiant Logistics, Inc.",NYSE
-RLGY,Realogy Holdings Corp,NYSE
-RLI,RLI Corp.,NYSE
-RMAX,RE/MAX Holdings Inc (Class A),NYSE
-RMD,Resmed Inc.,NYSE
-RMT,Royce Micro-Cap Trust Inc,NYSE
-RNG,RingCentral Inc. (Class A),NYSE
-RNR,RenaissanceRe Holdings Ltd,NYSE
-ROBO,ETCT ROBO Global Robotics and Automation Index ETF,NYSE
-ROG,Rogers Corp.,NYSE
-ROK,Rockwell Automation Inc,NYSE
-ROL,"Rollins, Inc.",NYSE
-ROM,ProShares Ultra Technology,NYSE
-ROP,Roper Technologies Inc,NYSE
-RPG,Invesco S&P 500 Pure Growth ETF,NYSE
-RPM,"RPM International, Inc.",NYSE
-RPT,RPT Realty,NYSE
-RPV,Invesco S&P 500 Pure Value ETF,NYSE
-RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",NYSE
-RRC,Range Resources Corp,NYSE
-RRD,R.R. Donnelley & Sons Co.,NYSE
-RS,Reliance Steel & Aluminum Co.,NYSE
-RSG,"Republic Services, Inc.",NYSE
-RSP,Invesco S&P 500 Equal Weight ETF,NYSE
-RTM,Invesco S&P 500 Equal Weight Materials ETF,NYSE
-RTX,Raytheon Technologies Corporation,NYSE
-RUSL,Direxion Daily Russia Bull 2X Shares,NYSE
-RVI,Retail Value Inc,NYSE
-RVLV,Revolve Group Inc (Class A),NYSE
-RVP,Retractable Technologies Inc,NYSE
-RWJ,Invesco S&P SmallCap 600 Revenue ETF,NYSE
-RWK,Invesco S&P MidCap 400 Revenue ETF,NYSE
-RWL,Invesco S&P 500 Revenue ETF,NYSE
-RWM,ProShares Short Russell2000,NYSE
-RWO,SSgA SPDR Dow Jones Global Real Estate ETF,NYSE
-RWR,SPDR DJ Wilshire REIT ETF,NYSE
-RWT,Redwood Trust Inc.,NYSE
-RWX,SSgA SPDR Dow Jones International Real Estate ETF,NYSE
-RXD,ProShares UltraShort Health Care,NYSE
-RXI,BTC iShares Global Consumer Discretionary ETF,NYSE
-RXL,ProShares Ultra Health Care,NYSE
-RYAM,Rayonier Advanced Materials Inc,NYSE
-RYE,Invesco S&P 500 Equal Weight Energy ETF,NYSE
-RYF,Invesco S&P 500 Equal Weight Financials ETF,NYSE
-RYH,Invesco S&P 500 Equal Weight Health Care ETF,NYSE
-RYJ,Invesco Raymond James SB-1 Equity ETF,NYSE
-RYN,Rayonier Inc.,NYSE
-RYT,Invesco S&P 500 Equal Weight Technology ETF,NYSE
-RZG,Invesco S&P SmallCap 600 Pure Growth ETF,NYSE
-SAA,ProShares Ultra SmallCap600,NYSE
-SAH,"Sonic Automotive, Inc. (Class A)",NYSE
-SAIC,Science Applications International Corp.,NYSE
-SAIL,SailPoint Technologies Holdings Inc,NYSE
-SAM,"Boston Beer Co., Inc. (Class A)",NYSE
-SAN,Banco Santander S.A.,NYSE
-SAP,Sap SE,NYSE
-SB,"Safe Bulkers, Inc",NYSE
-SBB,ProShares Short SmallCap600,NYSE
-SBH,Sally Beauty Holdings Inc,NYSE
-SBIO,ALPS Medical Breakthroughs ETF,NYSE
-SBOW,SilverBow Resources Inc,NYSE
-SBS,Companhia de Saneamento Basico do Estado de Sao Paulo.,NYSE
-SCC,ProShares UltraShort Consumer Services,NYSE
-SCCO,Southern Copper Corporation,NYSE
-SCD,LMP Capital and Income Fund Inc,NYSE
-SCHA,CSIM Schwab U.S. Small-Cap ETF,NYSE
-SCHB,CSIM Schwab U.S. Broad Market ETF,NYSE
-SCHD,CSIM Schwab US Dividend Equity ETF,NYSE
-SCHM,CSIM Schwab U.S. Mid-Cap ETF,NYSE
-SCHO,CSIM Schwab Short-Term U.S. Treasury ETF,NYSE
-SCHP,CSIM Schwab U.S. Tips ETF,NYSE
-SCHR,CSIM Schwab Intermediate-Term U.S. Treasury ETF,NYSE
-SCHW,Charles Schwab Corp.,NYSE
-SCHZ,CSIM Schwab US Aggregate Bond ETF,NYSE
-SCI,Service Corp. International,NYSE
-SCJ,BTC iShares MSCI Japan Small-Cap ETF,NYSE
-SCL,Stepan Co.,NYSE
-SCO,ProShares UltraShort Bloomberg Crude Oil,NYSE
-SCS,"Steelcase, Inc. (Class A)",NYSE
-SCU,Sculptor Capital Management Inc (Class A),NYSE
-SDD,ProShares UltraShort SmallCap600,NYSE
-SDIV,Global X SuperDividend ETF,NYSE
-SDOG,ALPS Sector Dividend Dogs ETF,NYSE
-SDOW,ProShares UltraPro Short Dow30,NYSE
-SDP,ProShares UltraShort Utilities,NYSE
-SDS,ProShares UltraShort S&P500,NYSE
-SDY,SSgA SPDR Dividend ETF,NYSE
-SE,Sea Ltd,NYSE
-SEAS,SeaWorld Entertainment Inc,NYSE
-SEE,Sealed Air Corp.,NYSE
-SEF,ProShares Short Financials,NYSE
-SEM,Select Medical Holdings Corporation,NYSE
-SF,Stifel Financial Corp.,NYSE
-SFE,"Safeguard Scientifics, Inc.",NYSE
-SFL,SFL Corporation Ltd,NYSE
-SGDM,Sprott Gold Miners ETF,NYSE
-SGOL,Aberdeen Standard Physical Gold Shares ETF,NYSE
-SGU,Star Group L.P.,NYSE
-SH,ProShares Short S&P500,NYSE
-SHAK,Shake Shack Inc (Class A),NYSE
-SHE,SPDR SSGA Gender Diversity Index ETF,NYSE
-SHG,Shinhan Financial Group Co. Ltd.,NYSE
-SHI,Sinopec Shanghai Petrochemical Co. Ltd.,NYSE
-SHO,Sunstone Hotel Investors Inc,NYSE
-SHW,Sherwin-Williams Co.,NYSE
-SHYG,BTC iShares 0-5 Year High Yield Corporate Bond ETF,NYSE
-SID,Companhia Siderurgica Nacional,NYSE
-SIG,Signet Jewelers Ltd,NYSE
-SIJ,ProShares UltraShort Industrials,NYSE
-SIL,Global X Silver Miners ETF,NYSE
-SITC,SITE Centers Corp,NYSE
-SIVR,Aberdeen Standard Physical Silver Shares ETF,NYSE
-SIX,Six Flags Entertainment Corp,NYSE
-SJB,ProShares Short High Yield,NYSE
-SJI,South Jersey Industries Inc.,NYSE
-SJM,J.M. Smucker Co.,NYSE
-SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,NYSE
-SJT,San Juan Basin Royalty Trust,NYSE
-SJW,SJW Group,NYSE
-SKF,ProShares UltraShort Financials,NYSE
-SKM,SK Telecom Co Ltd,NYSE
-SKT,"Tanger Factory Outlet Centers, Inc.",NYSE
-SKX,"Skechers U S A, Inc. (Class A)",NYSE
-SKY,Skyline Champion Corp,NYSE
-SLB,Schlumberger Ltd.,NYSE
-SLCA,U.S. Silica Holdings Inc,NYSE
-SLG,SL Green Realty Corp.,NYSE
-SLV,BTC iShares Silver Trust,NYSE
-SLX,VanEck Vectors Steel ETF,NYSE
-SLYG,SSgA SPDR S&P 600 Small Cap Growth ETF,NYSE
-SLYV,SSqA SPDR S&P 600 Small Cap Value ETF,NYSE
-SM,SM Energy Co,NYSE
-SMAR,Smartsheet Inc (Class A),NYSE
-SMFG,Sumitomo Mitsui Financial Group Inc,NYSE
-SMG,Scotts Miracle-Gro Company (Class A),NYSE
-SMN,ProShares UltraShort Basic Materials,NYSE
-SMOG,VanEck Vectors Low Carbon Energy ETF,NYSE
-SMP,"Standard Motor Products, Inc.",NYSE
-SNA,"Snap-on, Inc.",NYSE
-SNAP,Snap Inc (Class A),NYSE
-SNE,Sony Corporation.,NYSE
-SNMP,Sanchez Midstream Partners LP,NYSE
-SNN,Smith & Nephew plc,NYSE
-SNOW,Snowflake Inc (Class A),NYSE
-SNP,China Petroleum & Chemical Corp,NYSE
-SNR,New Senior Investment Group Inc,NYSE
-SNV,Synovus Financial Corp.,NYSE
-SNX,Synnex Corp,NYSE
-SO,Southern Company,NYSE
-SOL,Renesola,NYSE
-SON,Sonoco Products Co.,NYSE
-SOXL,Direxion Daily Semiconductor Bull 3X Shares,NYSE
-SOXS,Direxion Daily Semiconductor Bear 3X Shares,NYSE
-SOYB,Teucrium Soybean Fund,NYSE
-SPAB,SPDR Portfolio Aggregate Bond ETF,NYSE
-SPAQ,Spartan Energy Acquisition Corp (Class A),NYSE
-SPB,Spectrum Brands Holdings Inc.,NYSE
-SPCE,Virgin Galactic Holdings Inc (Class A),NYSE
-SPDW,SPDR Portfolio Developed World ex-US ETF,NYSE
-SPEM,SSgA Active Trust - SPDR Portfolio Emerging Markets ETF,NYSE
-SPEU,SPDR Portfolio Europe ETF,NYSE
-SPG,"Simon Property Group, Inc.",NYSE
-SPGI,S&P Global Inc,NYSE
-SPH,Suburban Propane Partners LP,NYSE
-SPHB,Invesco Capital Management LLC - Invesco S&P 500 High Beta ETF,NYSE
-SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,NYSE
-SPLG,SPDR Portfolio S&P 500 ETF,NYSE
-SPLV,Invesco S&P 500 Low Volatility ETF,NYSE
-SPOT,Spotify Technology S.A.,NYSE
-SPR,Spirit Aerosystems Holdings Inc (Class A),NYSE
-SPTL,SPDR Portfolio Long Term Treasury ETF,NYSE
-SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,NYSE
-SPTS,SPDR Portfolio Short Term Treasury ETF,NYSE
-SPXC,SPX Corp.,NYSE
-SPXL,Direxion Daily S&P 500 Bull 3X Shares,NYSE
-SPXS,Direxion Daily S&P 500 Bear 3X Shares,NYSE
-SPXU,ProShares UltraPro Short S&P 500 ETF,NYSE
-SPY,SSGA SPDR S&P 500 ETF,NYSE
-SPYG,SPDR Portfolio S&P 500 Growth ETF,NYSE
-SPYV,SPDR Portfolio S&P 500 Value ETF,NYSE
-SPYX,SSGA SPDR S&P 500 Fossil Fuel Free ETF,NYSE
-SQ,Square Inc (Class A),NYSE
-SQM,Sociedad Quimica Y Minera de Chile S.A.,NYSE
-SR,Spire Inc.,NYSE
-SRC,Spirit Realty Capital Inc,NYSE
-SRE,Sempra Energy,NYSE
-SRG,Seritage Growth Properties (Class A),NYSE
-SRI,Stoneridge Inc.,NYSE
-SRS,ProShares UltraShort Real Estate,NYSE
-SRTY,ProShares UltraPro Short Russell2000,NYSE
-SSD,"Simpson Manufacturing Co., Inc.",NYSE
-SSG,ProShares UltraShort Semiconductors,NYSE
-SSL,Sasol Ltd,NYSE
-SSO,ProShares Ultra S&P500,NYSE
-SSTK,Shutterstock Inc,NYSE
-STAG,STAG Industrial Inc,NYSE
-STAR,iStar Inc,NYSE
-STC,Stewart Information Services Corp.,NYSE
-STE,Steris Plc,NYSE
-STIP,BTC iShares 0-5 Year TIPS Bond ETF,NYSE
-STL,Sterling Bancorp.,NYSE
-STM,New York Shares,NYSE
-STNG,Scorpio Tankers Inc,NYSE
-STON,StoneMor Inc,NYSE
-STOR,Store Capital Corp,NYSE
-STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,NYSE
-STT,State Street Corp.,NYSE
-STWD,Starwood Property Trust Inc,NYSE
-STXS,Stereotaxis Inc,NYSE
-STZ,Constellation Brands Inc (Class A),NYSE
-SUI,"Sun Communities, Inc.",NYSE
-SUN,Sunoco LP,NYSE
-SUP,"Superior Industries International, Inc.",NYSE
-SUSA,BTC MSCI USA ESG Select ETF,NYSE
-SVXY,ProShares Short VIX Short-Term Futures ETF,NYSE
-SWCH,Switch Inc (Class A),NYSE
-SWK,Stanley Black & Decker Inc,NYSE
-SWM,"Schweitzer-Mauduit International, Inc.",NYSE
-SWN,Southwestern Energy Company,NYSE
-SWX,Southwest Gas Holdings Inc,NYSE
-SXI,Standex International Corp.,NYSE
-SXT,Sensient Technologies Corp.,NYSE
-SYF,Synchrony Financial,NYSE
-SYK,Stryker Corp.,NYSE
-SYN,Synthetic Biologics Inc,NYSE
-SYX,"Systemax, Inc.",NYSE
-SYY,Sysco Corp.,NYSE
-T,"AT&T, Inc.",NYSE
-TAGS,Teucrium Agricultural Fund,NYSE
-TAK,Takeda Pharmaceutical Co,NYSE
-TAL,TAL Education Group,NYSE
-TALO,Talos Energy Inc,NYSE
-TAN,Invesco Solar ETF,NYSE
-TAP,Molson Coors Beverage Company (Class B),NYSE
-TBF,ProShares Short 20+ Year Treasury,NYSE
-TBI,TrueBlue Inc,NYSE
-TBT,PowerShares UltraShort Lehman 20+ Year Treasury ProShares,NYSE
-TCO,"Taubman Centers, Inc.",NYSE
-TCP,"TC Pipelines, LP",NYSE
-TCS,Container Store Group Inc,NYSE
-TDC,Teradata Corp,NYSE
-TDG,Transdigm Group Incorporated,NYSE
-TDOC,Teladoc Health Inc,NYSE
-TDS,"Telephone And Data Systems, Inc.",NYSE
-TDY,Teledyne Technologies Inc,NYSE
-TECL,Direxion Daily Technology Bull 3X Shares,NYSE
-TECS,Direxion Daily Technology Bear 3X Shares,NYSE
-TEF,Telefonica S.A,NYSE
-TEI,Templeton Emerging Markets Income Fund Inc,NYSE
-TEL,TE Connectivity Ltd,NYSE
-TEN,"Tenneco, Inc. (Class A)",NYSE
-TEO,Telecom Argentina S.A.,NYSE
-TEVA,Teva- Pharmaceutical Industries Ltd.,NYSE
-TEX,Terex Corp.,NYSE
-TFC,Truist Financial Corporation,NYSE
-TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,NYSE
-TFX,Teleflex Incorporated,NYSE
-TG,Tredegar Corp.,NYSE
-TGH,Textainer Group Holdings Limited,NYSE
-TGI,Triumph Group Inc.,NYSE
-TGNA,TEGNA Inc,NYSE
-TGP,Teekay LNG Partners LP,NYSE
-TGS,Transportadora de Gas del Sur,NYSE
-TGT,Target Corp,NYSE
-THC,Tenet Healthcare Corp.,NYSE
-THD,iShares MSCI Thailand ETF,NYSE
-THG,Hanover Insurance Group Inc,NYSE
-THO,"Thor Industries, Inc.",NYSE
-THS,Treehouse Foods Inc,NYSE
-TIF,Tiffany & Co.,NYSE
-TIMB,TIM SA - ADR,NYSE
-TIP,BTC iShares TIPS Bond ETF,NYSE
-TISI,"Team, Inc.",NYSE
-TJX,"TJX Companies, Inc.",NYSE
-TK,Teekay Corp,NYSE
-TKC,Turkcell Iletisim Hizmetleri A.S.,NYSE
-TKR,Timken Co.,NYSE
-TLH,BTC iShares 10-20 Year Treasury Bond ETF,NYSE
-TLK,Telekomunikasi,NYSE
-TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,NYSE
-TLYS,Tillys Inc (Class A),NYSE
-TM,Toyota Motor Corporation,NYSE
-TMBR,Timber Pharmaceuticals Inc,NYSE
-TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares,NYSE
-TMHC,Taylor Morrison Home Corp.,NYSE
-TMO,Thermo Fisher Scientific Inc.,NYSE
-TMP,Tompkins Financial Corp,NYSE
-TMST,TimkenSteel Corp,NYSE
-TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares,NYSE
-TNA,Direxion Dialy Small Cap Bull 3X Shares,NYSE
-TNC,Tennant Co.,NYSE
-TNET,TriNet Group Inc,NYSE
-TNK,Teekay Tankers Ltd (Class A),NYSE
-TNP,Tsakos Energy Navigation Limited,NYSE
-TOK,BTC iShares MSCI KLD 400 Social ETF,NYSE
-TOL,Toll Brothers Inc.,NYSE
-TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,NYSE
-TOT,Total SE,NYSE
-TPC,Tutor Perini Corp,NYSE
-TPH,TRI Pointe Group Inc,NYSE
-TPR,Tapestry Inc,NYSE
-TPRE,Third Point Reinsurance Ltd,NYSE
-TPX,Tempur Sealy International Inc,NYSE
-TR,"Tootsie Roll Industries, Inc.",NYSE
-TRC,Tejon Ranch Co.,NYSE
-TREC,Trecora Resources,NYSE
-TREX,"TREX Co., Inc.",NYSE
-TRGP,Targa Resources Corp,NYSE
-TRN,"Trinity Industries, Inc.",NYSE
-TROX,Tronox Holdings plc (Class A),NYSE
-TRTN,Triton International Ltd,NYSE
-TRU,TransUnion,NYSE
-TRV,Travelers Companies Inc.,NYSE
-TRXC,TransEnterix Inc,NYSE
-TS,Tenaris S.A.,NYSE
-TSE,Trinseo S.A.,NYSE
-TSI,TCW Strategic Income Fund Inc,NYSE
-TSM,Taiwan Semiconductor Manufacturing,NYSE
-TSN,"Tyson Foods, Inc. (Class A)",NYSE
-TT,Trane Technologies plc (Class A),NYSE
-TTC,Toro Co.,NYSE
-TTI,"Tetra Technologies, Inc.",NYSE
-TTM,Tata Motors Ltd.,NYSE
-TUP,Tupperware Brands Corporation,NYSE
-TV,#NAME?,NYSE
-TWI,"Titan International, Inc.",NYSE
-TWLO,Class A,NYSE
-TWM,ProShares UltraShort Russell2000,NYSE
-TWO,Two Harbors Investment Corp,NYSE
-TWTR,Twitter Inc,NYSE
-TX,Ternium S.A.,NYSE
-TXT,Textron Inc.,NYSE
-TYD,Direxion Daily 7-10 Year Treasury Bull 3X Shares,NYSE
-TYG,Tortoise Energy Infrastructure Corp,NYSE
-TYL,"Tyler Technologies, Inc.",NYSE
-TZA,Direxion Daily Small Cap Bear 3X Shares,NYSE
-U,Unity Software Inc,NYSE
-UA,Under Armour Inc (Class C),NYSE
-UAA,Under Armour Inc (Class A),NYSE
-UAMY,United States Antimony Corp.,NYSE
-UAN,CVR Partners LP,NYSE
-UAVS,AgEagle Aerial Systems Inc.,NYSE
-UBA,"Urstadt Biddle Properties, Inc. (Class A)",NYSE
-UBER,Uber Technologies Inc,NYSE
-UBS,UBS Group AG,NYSE
-UCC,ProShares Ultra Consumer Services,NYSE
-UCO,ProShares Ultra Bloomberg Crude Oil,NYSE
-UDN,Invesco DB US Dollar Index Bearish Fund,NYSE
-UDOW,ProShares UltraPro Dow30,NYSE
-UDR,UDR Inc,NYSE
-UE,Urban Edge Properties,NYSE
-UEC,Uranium Energy Corp,NYSE
-UFI,"UNIFI, Inc.",NYSE
-UGA,ed States Gasoline Fund LP,NYSE
-UGE,ProShares Ultra Consumer Goods,NYSE
-UGI,UGI Corp.,NYSE
-UGL,ProShares Ultra Gold,NYSE
-UGP,Ultrapar Participacoes S.A.,NYSE
-UHS,"Universal Health Services, Inc. (Class B)",NYSE
-UI,Ubiquiti Inc,NYSE
-UIS,Unisys Corp.,NYSE
-UL,Unilever plc,NYSE
-ULE,ProShares Ultra Euro,NYSE
-UMH,UMH Properties Inc,NYSE
-UN,New York Shares,NYSE
-UNF,Unifirst Corp.,NYSE
-UNFI,United Natural Foods Inc.,NYSE
-UNG,ed States Natural Gas Fund,NYSE
-UNH,Unitedhealth Group Inc,NYSE
-UNM,Unum Group,NYSE
-UNP,Union Pacific Corp.,NYSE
-UPS,"United Parcel Service, Inc. (Class B)",NYSE
-UPW,ProShares Ultra Utilities,NYSE
-URA,Global X Uranium ETF,NYSE
-URE,ProShares Ultra Real Estate,NYSE
-URI,"United Rentals, Inc.",NYSE
-USA,Liberty All-Star Equity Fund,NYSE
-USB,U.S. Bancorp.,NYSE
-USD,ProShares Ultra Semiconductors,NYSE
-USFD,US Foods Holding Corp,NYSE
-USL,ed States 12 Month Oil Fund LP,NYSE
-USM,United States Cellular Corporation,NYSE
-USNA,Usana Health Sciences Inc,NYSE
-USO,United States Oil Fund,NYSE
-USPH,"U.S. Physical Therapy, Inc.",NYSE
-USRT,BTC iShares Core U.S. REIT ETF,NYSE
-UTI,Universal Technical Institute Inc,NYSE
-UTL,Unitil Corp.,NYSE
-UUP,Invesco DB US Dollar Index Bullish Fund,NYSE
-UUU,"Universal Security Instruments, Inc.",NYSE
-UVE,Universal Insurance Holdings Inc,NYSE
-UVV,Universal Corp.,NYSE
-UVXY,ProShares Ultra VIX Short-Term Futures ETF,NYSE
-UWM,ProShares Ultra Russell2000,NYSE
-UXI,ProShares Ultra Industrials,NYSE
-UYG,ProShares Ultra Financials,NYSE
-UYM,ProShares Ultra Basic Materials,NYSE
-V,Visa Inc (Class A),NYSE
-VAC,Marriott Vacations Worldwide Corp,NYSE
-VAR,"Varian Medical Systems, Inc.",NYSE
-VAW,"Vanguard Group, Inc. - Vanguard Materials ETF",NYSE
-VB,"Vanguard Group, Inc. - Vanguard Small Cap ETF",NYSE
-VBK,"Vanguard Group, Inc. - Vanguard Small Cap Growth ETF",NYSE
-VBR,"Vanguard Group, Inc. - Vanguard Small Cap Value ETF",NYSE
-VCR,Vanguard Consumer Discretionary ETF,NYSE
-VDC,"Vanguard Group, Inc. - Vanguard Consumer Staples ETF",NYSE
-VDE,"Vanguard Group, Inc. - Vanguard Energy ETF",NYSE
-VEA,"Vanguard Group, Inc. - Vanguard FTSE Developed Markets ETF",NYSE
-VEC,Vectrus Inc,NYSE
-VEEV,Veeva Systems Inc (Class A),NYSE
-VEGN,US Vegan Climate ETF,NYSE
-VER,VEREIT Inc,NYSE
-VEU,"Vanguard Group, Inc. - Vanguard FTSE All-World ex-US ETF",NYSE
-VFC,VF Corp.,NYSE
-VFH,"Vanguard Group, Inc. - Vanguard Financials ETF",NYSE
-VGK,"Vanguard Group, Inc. - Vanguard FTSE Europe ETF",NYSE
-VGR,Vector Group Ltd,NYSE
-VGT,"Vanguard Group, Inc. - Vanguard Information Technology ETF",NYSE
-VHC,Virnetx Holding Corp,NYSE
-VHT,Vanguard Health Care ETF,NYSE
-VICI,VICI Properties Inc,NYSE
-VIDI,WisdomTree Vident International Equity Fund,NYSE
-VIG,Vanguard Dividend Appreciation FTF,NYSE
-VIOO,Vanguard S&P Small-Cap 600 ETF,NYSE
-VIPS,Vipshop Holdings Ltd,NYSE
-VIS,"Vanguard Group, Inc. - Vanguard Industrials ETF",NYSE
-VIV,"Telefonica Brasil S.A.,",NYSE
-VIXY,ProShares VIX Short-Term Futures ETF,NYSE
-VKI,Invesco Advantage Municipal Income Trust II,NYSE
-VLO,Valero Energy Corp.,NYSE
-VMC,Vulcan Materials Co,NYSE
-VMI,"Valmont Industries, Inc.",NYSE
-VMO,Invesco Municipal Opportunity Trust,NYSE
-VMW,Vmware Inc. (Class A),NYSE
-VNE,Veoneer Inc,NYSE
-VNO,Vornado Realty Trust,NYSE
-VNQ,"Vanguard Group, Inc. - Vanguard Real Estate Index Fund ETF",NYSE
-VNRX,VolitionRX Ltd,NYSE
-VO,Vanguard Mid-Cap ETF,NYSE
-VOE,"Vanguard Group, Inc. - Vanguard Mid-Cap Value ETF",NYSE
-VOLT,"Volt Information Sciences, Inc.",NYSE
-VOO,Vanguard S&P 500 ETF,NYSE
-VOT,Vanguard Mid-Cap Growth ETF,NYSE
-VOYA,Voya Financial Inc,NYSE
-VPG,Vishay Precision Group Inc,NYSE
-VPL,"Vanguard Group, Inc. - Vanguard FTSE Pacific ETF",NYSE
-VPU,"Vanguard Group, Inc. - Vanguard Utilities ETF",NYSE
-VRTV,Veritiv Corp,NYSE
-VSH,"Vishay Intertechnology, Inc.",NYSE
-VSS,"Vanguard Group, Inc. - Vanguard FTSE All-World Ex-US Small Capital Index Fund ETF",NYSE
-VST,Vistra Energy Corp,NYSE
-VSTO,Vista Outdoor Inc,NYSE
-VT,Vanguard Total World Stock ETF,NYSE
-VTI,"Vanguard Group, Inc. - Vanguard Total Stock Market ETF",NYSE
-VTOL,Bristow Group Inc.,NYSE
-VTR,Ventas Inc,NYSE
-VTV,"Vanguard Group, Inc. - Vanguard Value ETF",NYSE
-VUG,"Vanguard Group, Inc. - Vanguard Growth ETF",NYSE
-VV,"Vanguard Group, Inc. - Vanguard Large Cap ETF",NYSE
-VVI,Viad Corp.,NYSE
-VVV,Valvoline Inc,NYSE
-VWO,"Vanguard Group, Inc. - Vanguard FTSE Emerging Markets ETF",NYSE
-VXF,Vanguard Extended Market Index ETF,NYSE
-VYM,"Vanguard Group, Inc. - Vanguard High Dividend Yield Indx ETF",NYSE
-VZ,Verizon Communications Inc,NYSE
-W,Wayfair Inc (Class A),NYSE
-WAB,Westinghouse Air Brake Technologies Corp,NYSE
-WAL,Western Alliance Bancorp,NYSE
-WAT,Waters Corp.,NYSE
-WBAI,500.com Ltd,NYSE
-WBK,Westpac Banking Corp,NYSE
-WBS,Webster Financial Corp.,NYSE
-WBT,Welbilt Inc,NYSE
-WCC,"Wesco International, Inc.",NYSE
-WD,Walker & Dunlop Inc,NYSE
-WDIV,SSgA SPDR S&P Global Dividend ETF,NYSE
-WDR,"Waddell & Reed Financial, Inc. (Class A)",NYSE
-WEAT,Teucrium Wheat Fund,NYSE
-WEC,WEC Energy Group Inc,NYSE
-WELL,Welltower Inc,NYSE
-WES,Western Midstream Partners LP,NYSE
-WEX,WEX Inc,NYSE
-WFC,Wells Fargo & Co.,NYSE
-WGO,"Winnebago Industries, Inc.",NYSE
-WH,Wyndham Hotels & Resorts Inc,NYSE
-WHR,Whirlpool Corp.,NYSE
-WIA,Western Asset Inflation-Linked Income Fund,NYSE
-WIP,SPDR Citi International Government Inflation-Protected Bond ETF,NYSE
-WIT,Wipro Ltd.,NYSE
-WIW,Western Asset Inflation-Linked Opportunities & Income Fund,NYSE
-WLK,Westlake Chemical Corp,NYSE
-WLL,Whiting Petroleum Corp,NYSE
-WM,"Waste Management, Inc.",NYSE
-WMB,Williams Cos Inc,NYSE
-WMK,"Weis Markets, Inc.",NYSE
-WMT,Walmart Inc,NYSE
-WNC,Wabash National Corp.,NYSE
-WNS,WNS Holdings Limited,NYSE
-WOR,"Worthington Industries, Inc.",NYSE
-WORK,Slack Technologies Inc (Class A),NYSE
-WPG,Washington Prime Group Inc,NYSE
-WPP,WPP Plc.,NYSE
-WPS,BTC iShares International Developed Property ETF,NYSE
-WPX,WPX Energy Inc,NYSE
-WRB,W.R. Berkley Corp.,NYSE
-WRE,Washington Real Estate Investment Trust,NYSE
-WRI,Weingarten Realty Investors,NYSE
-WRK,WestRock Co,NYSE
-WSM,"Williams-Sonoma, Inc.",NYSE
-WSO,Watsco Inc. (Class A),NYSE
-WSR,Whitestone REIT,NYSE
-WST,"West Pharmaceutical Services, Inc.",NYSE
-WTI,W & T Offshore Inc,NYSE
-WTRG,Essential Utilities Inc,NYSE
-WTS,"Watts Water Technologies, Inc. (Class A)",NYSE
-WU,Western Union Company,NYSE
-WWE,"World Wrestling Entertainment, Inc. (Class A)",NYSE
-WWW,"Wolverine World Wide, Inc.",NYSE
-WY,Weyerhaeuser Co.,NYSE
-WYND,Wyndham Destinations Inc,NYSE
-WYY,Widepoint Corp,NYSE
-X,United States Steel Corp.,NYSE
-XAN,Exantas Capital Corp,NYSE
-XAR,SSGA SPDR S&P Aerospace & Defense ETF,NYSE
-XBI,SSgA SPDR Biotech,NYSE
-XEC,Cimarex Energy Co.,NYSE
-XES,SSgA SPDR Oil & Gas Equipment and Services,NYSE
-XHB,SSgA Active Trust - SSgA SPDR Homebuilders,NYSE
-XIN,Xinyuan Real Estate Co. Ltd.,NYSE
-XLB,SSgA Materials Select Sector SPDR,NYSE
-XLE,SSgA Energy Select Sector SPDR,NYSE
-XLF,SSgA Financial Select Sector SPDR,NYSE
-XLI,SSgA Industrial Select Sector SPDR,NYSE
-XLK,SSgA Technology Select Sector SPDR,NYSE
-XLP,SSgA Consumer Staples Select Sector SPDR,NYSE
-XLRE,SSgA Real Estate Select Sector SPDR Fund,NYSE
-XLU,SSgA Utilities Select Sector SPDR,NYSE
-XLV,SSgA Health Care Select Sector SPDR,NYSE
-XLY,SSgA Consumer Discretionary Select Sector SPDR,NYSE
-XME,SSgA SPDR Metals & Mining,NYSE
-XMHQ,Invesco S&P MidCap Quality ETF,NYSE
-XMLV,Invesco S&P MidCap Low Volatility ETF,NYSE
-XMVM,Invesco S&P MidCap Value with Momentum ETF,NYSE
-XNTK,SPDR NYSE Technology ETF,NYSE
-XOM,Exxon Mobil Corp.,NYSE
-XOP,SSgA SPDR Oil & Gas Exploration and Production,NYSE
-XPH,SSgA SPDR Pharmaceuticals,NYSE
-XPO,XPO Logistics Inc,NYSE
-XPP,ProShares Ultra FTSE China 50,NYSE
-XRT,SSgA SPDR Retail,NYSE
-XRX,Xerox Holdings Corp,NYSE
-XSD,SSgA SPDR Semiconductors,NYSE
-XSMO,Invesco S&P SmallCap Momentum ETF,NYSE
-XSVM,Invesco S&P SmallCap Value with Momentum ETF,NYSE
-XTN,SSgA SPDR S&P Transportation ETF,NYSE
-XTNT,Xtant Medical Holdings Inc,NYSE
-XXII,22nd Century Group Inc,NYSE
-XYL,Xylem Inc,NYSE
-YANG,Direxion Daily FTSE China Bear 3X Shares,NYSE
-YCS,ProShares UltraShort Yen,NYSE
-YELP,Yelp Inc,NYSE
-YETI,YETI Holdings Inc,NYSE
-YEXT,Yext Inc,NYSE
-YPF,YPF,NYSE
-YRD,Yiren Digital Ltd,NYSE
-YUM,Yum Brands Inc.,NYSE
-YUMC,Yum China Holdings Inc,NYSE
-YXI,ProShares Short FTSE China 50,NYSE
-ZBH,Zimmer Biomet Holdings Inc,NYSE
-ZEN,Zendesk Inc,NYSE
-ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,NYSE
-ZSL,ProShares UltraShort Silver,NYSE
-ZTO,ZTO Express Cayman Inc,NYSE
-ZTR,Virtus Total Return Fund Inc.,NYSE
-ZTS,Zoetis Inc (Class A),NYSE
-ZUO,Zuora Inc (Class A),NYSE
-ZYME,Zymeworks Inc,NYSE
+symbol,name
+A,Agilent Technologies Inc.
+AA,Alcoa Corp
+AAIC,Arlington Asset Investment Corp (Class A)
+AAN,Aarons Holdings Company Inc
+AAP,Advance Auto Parts Inc
+AB,AllianceBernstein Holding Lp
+ABB,ABB Ltd.
+ABBV,Abbvie Inc
+ABC,Amerisource Bergen Corp.
+ABEV,Ambev S.A.
+ABG,Asbury Automotive Group Inc
+ABM,ABM Industries Inc.
+ABR,Arbor Realty Trust Inc.
+ABT,Abbott Laboratories
+ACA,Arcosa Inc
+ACCO,Acco Brands Corporation
+ACI,Albertsons Companies Inc (Class A)
+ACM,AECOM
+ACN,Accenture plc (Class A)
+ACRE,Ares Commercial Real Estate Corp
+ACY,Aerocentury Corp.
+ADC,Agree Realty Corp.
+ADM,Archer Daniels Midland Co.
+ADNT,Adient plc
+ADS,Alliance Data System
+ADT,ADT Inc
+ADX,Adams Diversified Equity Fund
+AEE,Ameren Corp.
+AEG,New York Shares
+AEL,American Equity Investment Life Holding Co
+AEO,American Eagle Outfitters Inc.
+AER,Aercap Holdings N.V.
+AES,AES Corp.
+AFG,American Financial Group Inc
+AFI,Armstrong Flooring Inc
+AFL,Aflac Inc.
+AGCO,AGCO Corp.
+AGE,AgeX Therapeutics Inc
+AGO,Assured Guaranty Ltd
+AGR,Avangrid Inc
+AGRO,Adecoagro S.A.
+AGX,"Argan, Inc."
+AHT,Ashford Hospitality Trust Inc
+AIG,American International Group Inc
+AIM,AIM ImmunoTech Inc
+AIN,Albany International Corp. (Class A)
+AIR,AAR Corp.
+AIRI,Air Industries Group
+AIT,Applied Industrial Technologies Inc.
+AIV,Apartment Investment & Management Co. (Class A)
+AIZ,Assurant Inc
+AJG,Arthur J. Gallagher & Co.
+AJRD,Aerojet Rocketdyne Holdings Inc
+AKR,Acadia Realty Trust
+AL,Air Lease Corp (Class A)
+ALB,Albemarle Corp.
+ALC,Alcon Inc.
+ALE,"Allete, Inc."
+ALK,Alaska Air Group Inc.
+ALL,Allstate Corp (The)
+ALLE,Allegion plc
+ALLY,Ally Financial Inc
+ALSN,Allison Transmission Holdings Inc
+ALV,Autoliv Inc.
+AM,Antero Midstream Corp
+AMBC,AMBAC Financial Group Inc.
+AMBO,Ambow Education Holding Ltd
+AMC,AMC Entertainment Holdings Inc (Class A)
+AMCR,Amcor Plc
+AME,Ametek Inc
+AMG,Affiliated Managers Group Inc.
+AMK,Assetmark Financial Holdings Inc
+AMN,AMN Healthcare Services Inc.
+AMP,Ameriprise Financial Inc
+AMPE,Ampio Pharmaceuticals Inc
+AMPY,Amplify Energy Corp.
+AMRC,Ameresco Inc. (Class A)
+AMRX,Amneal Pharmaceuticals Inc (Class A)
+AMS,American Shared Hospital Services
+AMWL,American Well Corporation (Class A)
+AMX,America Movil S.A.B.DE C.V. (Series L)
+AN,Autonation Inc.
+ANET,Arista Networks Inc
+ANF,Abercrombie & Fitch Co. (Class A)
+ANH,Anworth Mortgage Asset Corp.
+ANTM,Anthem Inc
+AON,Aon plc. - Ordinary Shares - Class A
+AOS,A.O. Smith Corp.
+AP,Ampco-Pittsburgh Corp.
+APD,Air Products & Chemicals Inc.
+APH,Amphenol Corp. (Class A)
+APLE,Apple Hospitality REIT Inc
+APO,Apollo Global Management Inc (Class A)
+APRN,Blue Apron Holdings Inc (Class A)
+APT,Alpha Pro Tech Ltd.
+APTS,Preferred Apartment Communities Inc (Class A)
+APTV,Aptiv PLC
+AQUA,Evoqua Water Technologies Corp
+AR,Antero Resources Corp
+ARA,American Renal Associates Holdings Inc.
+ARC,ARC Document Solutions Inc
+ARCH,Arch Resources Inc (Class A)
+ARCO,Arcos Dorados Holdings Inc (Class A)
+ARE,Alexandria Real Estate Equities Inc.
+ARES,Ares Management Corp (Class A)
+ARGO,Argo Group International Holdings Ltd
+ARI,Apollo Commercial Real Estate Finance Inc
+ARLO,Arlo Technologies Inc
+ARMK,Aramark
+ARNC,Arconic Corporation
+AROC,Archrock Inc
+ARR,ARMOUR Residential REIT Inc
+ARW,Arrow Electronics Inc.
+ASAN,Asana Inc (Class A)
+ASB,Associated Banc-Corp.
+ASC,Ardmore Shipping Corp
+ASGN,ASGN Inc
+ASH,Ashland Global Holdings Inc
+ASIX,AdvanSix Inc
+ASR,Grupo Aeroportuario Del Sureste S.A.
+ASX,ASE Technology Holding Co.Ltd
+ATCO,Atlas Corp.
+ATEN,A10 Networks Inc
+ATGE,Adtalem Global Education Inc
+ATH,Athene Holding Ltd (Class A)
+ATHM,Autohome Inc
+ATI,Allegheny Technologies Inc
+ATNM,Actinium Pharmaceuticals Inc
+ATO,Atmos Energy Corp.
+ATR,Aptargroup Inc.
+AU,AngloGold Ashanti Ltd
+AVA,Avista Corp.
+AVAL,Grupo Aval Acciones y Valores S.A.
+AVB,Avalonbay Communities Inc.
+AVD,American Vanguard Corp.
+AVK,Advent Convertible and Income Fund
+AVNS,Avanos Medical Inc
+AVNT,Avient Corp
+AVTR,Avantor Inc.
+AVY,Avery Dennison Corp.
+AVYA,Avaya Holdings Corp.
+AWF,AllianceBernstein Global High Income Fund Inc
+AWI,Armstrong World Industries Inc.
+AWK,American Water Works Co. Inc.
+AWR,American States Water Co.
+AWX,Avalon Holdings Corp. (Class A)
+AX,Axos Financial Inc.
+AXL,American Axle & Manufacturing Holdings Inc
+AXP,American Express Co.
+AXS,Axis Capital Holdings Ltd
+AXTA,Axalta Coating Systems Ltd
+AYI,"Acuity Brands, Inc."
+AYX,Alteryx Inc (Class A)
+AZO,Autozone Inc.
+B,Barnes Group Inc.
+BA,Boeing Co.
+BABA,Alibaba Group Holding Ltd
+BAC,Bank Of America Corp.
+BAH,Booz Allen Hamilton Holding Corp (Class A)
+BAK,Braskem S.A.
+BALY,Ballys Corporation
+BANC,Banc of California Inc
+BAP,Credicorp Ltd
+BAX,Baxter International Inc.
+BBAR,BBVA Argentina
+BBD,Banco Bradesco S.A.
+BBL,BHP Group Plc
+BBVA,Banco Bilbao Vizcaya Argentaria.
+BBW,Build A Bear Workshop Inc
+BBY,Best Buy Co. Inc.
+BC,Brunswick Corp.
+BCEI,Bonanza Creek Energy Inc
+BCH,Banco de Chile
+BCO,Brink`s Co.
+BCS,Barclays plc
+BDC,Belden Inc
+BDN,Brandywine Realty Trust
+BDR,Blonder Tongue Laboratories Inc.
+BDX,"Becton, Dickinson And Co."
+BE,Bloom Energy Corp (Class A)
+BEN,"Franklin Resources, Inc."
+BERY,Berry Global Group Inc
+BEST,BEST Inc
+BF.B,Brown-Forman Corp. (Class B)
+BFS,"Saul Centers, Inc."
+BFZ,BlackRock California Municipal Income Trust
+BG,Bunge Ltd.
+BGI,Birks Group Inc (Class A)
+BGS,"B&G Foods, Inc"
+BHE,Benchmark Electronics Inc.
+BHK,BlackRock Core Bond Trust
+BHLB,Berkshire Hills Bancorp Inc.
+BHP,BHP Group Limited
+BHR,Braemar Hotels & Resorts Inc
+BHVN,Biohaven Pharmaceutical Holding Company Ltd
+BIG,Big Lots Inc
+BILL,Bill.com Holdings Inc
+BIO,Bio-Rad Laboratories Inc. (Class A)
+BJ,BJ`s Wholesale Club Holdings Inc
+BK,Bank Of New York Mellon Corp
+BKD,Brookdale Senior Living Inc
+BKE,"Buckle, Inc."
+BKH,Black Hills Corporation
+BKI,Black Knight Inc (Class A)
+BKR,Baker Hughes Co (Class A)
+BKT,BlackRock Income Trust Inc
+BKU,BankUnited Inc
+BLD,TopBuild Corp
+BLK,Blackrock Inc.
+BLL,Ball Corp.
+BLX,Banco Latinoamericano De Comercio Exterior SA (Class E)
+BMI,Badger Meter Inc.
+BMY,Bristol-Myers Squibb Co.
+BNED,Barnes & Noble Education Inc
+BNL,Broadstone Net Lease Inc (Class A)
+BOH,Bank of Hawaii Corp.
+BORR,Borr Drilling Ltd
+BOX,Box Inc (Class A)
+BP,BP plc
+BPT,BP Prudhoe Bay Royalty Trust
+BR,"Broadridge Financial Solutions, Inc."
+BRC,Brady Corp. (Class A)
+BRFS,BRF S.A.
+BRK.B,Berkshire Hathaway Inc. (Class B)
+BRO,"Brown & Brown, Inc."
+BSAC,Banco Santander Chile SA
+BSBR,Banco Santander Brasil S.A.
+BSMX,Banco Santander Mexico S.A.
+BSX,Boston Scientific Corp.
+BTI,British American Tobacco Plc
+BTO,John Hancock Financial Opportunities Fund
+BUD,Anheuser-Busch In Bev SA/NV
+BURL,Burlington Stores Inc
+BVN,Compania de Minas Buenaventura S.A.
+BW,Babcock & Wilcox Enterprises Inc
+BWA,BorgWarner Inc
+BWXT,BWX Technologies Inc
+BX,Blackstone Group Inc (Class A)
+BXC,Bluelinx Hldgs Inc
+BXMT,Blackstone Mortgage Trust Inc (Class A)
+BXP,"Boston Properties, Inc."
+BXS,BancorpSouth Bank
+BYD,Boyd Gaming Corp.
+BZH,Beazer Homes USA Inc.
+CACI,Caci International Inc. (Class A)
+CADE,Cadence Bancorporation (Class A)
+CAG,Conagra Brands Inc
+CAH,"Cardinal Health, Inc."
+CAI,Cai International Inc
+CAJ,Canon Inc
+CAL,Caleres Inc
+CALX,Calix Inc
+CANF,Can-Fite Biopharma Ltd
+CARR,Carrier Global Corp
+CARS,Cars.com
+CAT,Caterpillar Inc.
+CATO,Cato Corp. (Class A)
+CB,Chubb Limited
+CBB,"Cincinnati Bell, Inc."
+CBRE,CBRE Group Inc (Class A)
+CBT,Cabot Corp.
+CBU,"Community Bank System, Inc."
+CBZ,Cbiz Inc
+CC,Chemours Company
+CCEP,Coca-Cola European Partners plc
+CCI,Crown Castle International Corp
+CCK,"Crown Holdings, Inc."
+CCL,Carnival Corp.
+CCO,Clear Channel Outdoor Holdings Inc.
+CCS,Century Communities Inc
+CCU,Compania Cervecerias Unidas S.A.
+CDE,Coeur Mining Inc
+CDOR,Condor Hospitality Trust Inc
+CDR,Cedar Realty Trust Inc
+CE,Celanese Corp (Series A)
+CEI,Camber Energy Inc
+CEIX,Consol Energy Inc
+CEQP,Crestwood Equity Partners LP
+CF,CF Industries Holdings Inc
+CFG,Citizens Financial Group Inc
+CFR,Cullen Frost Bankers Inc.
+CFX,Colfax Corp
+CGA,China Green Agriculture Inc
+CHA,China Telecom Corporation
+CHD,"Church & Dwight Co., Inc."
+CHE,Chemed Corp.
+CHGG,Chegg Inc
+CHH,"Choice Hotels International, Inc."
+CHL,China Mobile Limited
+CHS,"Chico`s Fas, Inc."
+CHU,China Unicom Hong Kong Ltd
+CHWY,Chewy Inc (Class A)
+CHX,ChampionX Corporation
+CI,Cigna Corp.
+CIA,"Citizens, Inc. (Class A)"
+CIB,Bancolombia S.A.
+CIEN,CIENA Corp.
+CIG,Preference Shares
+CIK,Credit Suisse Asset Management Income Fund Inc.
+CIM,Chimera Investment Corp
+CIO,City Office REIT Inc
+CIT,CIT Group Inc
+CL,Colgate-Palmolive Co.
+CLB,Core Laboratories N.V.
+CLDR,Cloudera Inc
+CLDT,Chatham Lodging Trust
+CLF,Cleveland-Cliffs Inc
+CLGX,CoreLogic Inc
+CLH,"Clean Harbors, Inc."
+CLI,Mack-Cali Realty Corp.
+CLM,Cornerstone Strategic Value Fund
+CLNY,Colony Capital Inc. (Class A)
+CLR,Continental Resources Inc (OKLA)
+CLW,Clearwater Paper Corp
+CLX,Clorox Co.
+CMA,"Comerica, Inc."
+CMC,Commercial Metals Co.
+CMCM,Cheetah Mobile Inc
+CMD,Cantel Medical Corp
+CMG,Chipotle Mexican Grill
+CMI,Cummins Inc.
+CMO,Capstead Mortgage Corp.
+CMP,Compass Minerals International Inc
+CMRE,Costamare Inc
+CMS,CMS Energy Corporation
+CMU,MFS High Yield Municipal Trust
+CNA,CNA Financial Corp.
+CNC,Centene Corp.
+CNHI,CNH Industrial NV
+CNK,Cinemark Holdings Inc
+CNMD,Conmed Corp.
+CNNE,Cannae Holdings Inc
+CNO,CNO Financial Group Inc
+CNP,Centerpoint Energy Inc.
+CNR,Cornerstone Building Brands Inc
+CNS,Cohen & Steers Inc.
+CNX,CNX Resources Corp
+COF,Capital One Financial Corp.
+COG,Cabot Oil & Gas Corp.
+COP,Conoco Phillips
+COTY,Coty Inc (Class A)
+CPA,Copa Holdings S.A. (Class A)
+CPB,Campbell Soup Co.
+CPE,Callon Petroleum Co.
+CPF,Central Pacific Financial Corp.
+CPHI,China Pharma Holdings Inc.
+CPK,Chesapeake Utilities Corp
+CPLG,CorePoint Lodging Inc
+CPRI,Capri Holdings Ltd
+CPT,Camden Property Trust
+CQP,Cheniere Energy Partners LP
+CR,Crane Co.
+CRF,Cornerstone Total Return Fund
+CRH,CRH Plc
+CRI,Carters Inc
+CRK,"Comstock Resources, Inc."
+CRL,Charles River Laboratories International Inc.
+CRM,Salesforce.Com Inc
+CRS,Carpenter Technology Corp.
+CRY,"Cryolife, Inc."
+CS,Credit Suisse Group AG
+CSL,Carlisle Companies Inc.
+CSLT,Castlight Health Inc (Class B)
+CSPR,Casper Sleep Inc
+CSTM,Constellium SE (Class A)
+CSU,Capital Senior Living Corp.
+CSV,"Carriage Services, Inc."
+CTB,Cooper Tire & Rubber Co.
+CTEK,CynergisTek Inc
+CTS,CTS Corp.
+CTVA,Corteva Inc
+CUB,Cubic Corp.
+CUBE,CubeSmart
+CUK,Carnival plc
+CULP,Culp Inc.
+CUZ,Cousins Properties Inc.
+CVA,Covanta Holding Corporation
+CVEO,Civeo Corp
+CVI,CVR Energy Inc
+CVM,Cel-Sci Corp.
+CVNA,Carvana Co. (Class A)
+CVS,CVS Health Corp
+CVU,CPI Aerostructures Inc
+CVX,Chevron Corp.
+CW,Curtiss-Wright Corp.
+CWH,Camping World Holdings Inc (Class A)
+CWT,California Water Service Group
+CX,Cemex S.A.B. De C.V.
+CXE,MFS High Income Municipal Trust
+CXO,Concho Resources Inc
+CXW,CoreCivic Inc
+CYD,China Yuchai International
+CYH,"Community Health Systems, Inc."
+CZZ,Cosan Ltd (Class A)
+D,Dominion Energy Inc
+DAC,Danaos Corporation
+DAL,"Delta Air Lines, Inc."
+DAN,Dana Inc
+DAR,Darling Ingredients Inc
+DB,Deutsche Bank AG
+DBD,Diebold Nixdorf Inc
+DBI,Designer Brands Inc (Class A)
+DCI,Donaldson Co. Inc.
+DCP,DCP Midstream LP
+DD,DuPont de Nemours Inc
+DDD,3D Systems Corp.
+DDS,Dillard`s Inc. (Class A)
+DE,Deere & Co.
+DECK,Deckers Outdoor Corp.
+DELL,Dell Technologies Inc (Class C)
+DEO,Diageo plc
+DESP,Despegar.com Corp
+DFIN,Donnelley Financial Solutions Inc
+DFS,Discover Financial Services
+DG,Dollar General Corp.
+DGX,"Quest Diagnostics, Inc."
+DHF,BNY Mellon High Yield Strategies Fund
+DHI,D.R. Horton Inc.
+DHR,Danaher Corp.
+DHT,DHT Holdings Inc
+DHX,DHI Group Inc
+DHY,Credit Suisse High Yield Bond Fund
+DIN,Dine Brands Global Inc
+DK,Delek US Holdings Inc
+DKS,"Dicks Sporting Goods, Inc."
+DLB,Dolby Laboratories Inc (Class A)
+DLNG,Dynagas LNG Partners LP
+DLR,Digital Realty Trust Inc
+DLX,Deluxe Corp.
+DNB,Dun & Bradstreet Holdings Inc
+DNOW,NOW Inc
+DNP,DNP Select Income Fund Inc.
+DOOR,Masonite International Corp
+DOV,Dover Corp.
+DOW,Dow Inc
+DPW,DPW Holdings Inc
+DPZ,Dominos Pizza Inc
+DRD,DRDGold Ltd.
+DRE,Duke Realty Corp
+DRH,Diamondrock Hospitality Co.
+DRI,"Darden Restaurants, Inc."
+DRQ,"Dril-Quip, Inc."
+DS,Drive Shack Inc
+DSS,"Document Security Systems, Inc."
+DSSI,Diamond S Shipping Inc
+DSX,Diana Shipping Inc
+DT,Dynatrace Inc
+DTE,DTE Energy Co.
+DUK,Duke Energy Corp.
+DVA,DaVita Inc
+DVN,Devon Energy Corp.
+DX,"Dynex Capital, Inc."
+DXC,DXC Technology Co
+DY,"Dycom Industries, Inc."
+E,Eni Spa
+EAT,"Brinker International, Inc."
+EB,Eventbrite Inc (Class A)
+EBF,Ennis Inc.
+EBS,Emergent Biosolutions Inc
+EC,Ecopetrol SA
+ECL,"Ecolab, Inc."
+ECOM,ChannelAdvisor Corp
+ED,"Consolidated Edison, Inc."
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc
+EDU,New Oriental Education & Technology Group Inc.
+EFX,"Equifax, Inc."
+EGHT,8X8 Inc.
+EGP,"Eastgroup Properties, Inc."
+EGY,"VAALCO Energy, Inc."
+EHC,Encompass Health Corp
+EHI,Western Asset Global High Income Fund Inc
+EIX,Edison International
+EL,"Estee Lauder Cos., Inc. (Class A)"
+ELA,Envela Corp
+ELF,e.l.f. Beauty Inc
+ELP,Cia Paranaense De Energia Copel (Class B)
+ELY,Callaway Golf Co.
+EMAN,EMagin Corp
+EME,"Emcor Group, Inc."
+EMN,Eastman Chemical Co
+EMR,Emerson Electric Co.
+ENBL,Enable Midstream Partners LP
+ENIA,Enel Americas SA
+ENIC,Enel Chile S.A.
+ENLC,Enlink Midstream LLC
+ENR,Energizer Holdings Inc
+ENS,Enersys
+ENV,Envestnet Inc.
+ENVA,Enova International Inc.
+ENZ,"Enzo Biochem, Inc."
+EOD,Wells Fargo Global Dividend Opportunity Fund
+EOG,"EOG Resources, Inc."
+EPAC,Enerpac Tool Group Corp (Class A)
+EPAM,EPAM Systems Inc
+EPC,Edgewell Personal Care Co
+EPD,Enterprise Products Partners L P
+EPM,Evolution Petroleum Corporation
+EPR,EPR Properties
+EQC,Equity Commonwealth
+EQNR,Equinor ASA
+EQR,Equity Residential Properties Trust
+EQT,EQT Corp
+ES,Eversource Energy
+ESE,"Esco Technologies, Inc."
+ESGC,Eros STX Global Corporation (Class A)
+ESI,Element Solutions Inc
+ESNT,Essent Group Ltd
+ESS,"Essex Property Trust, Inc."
+ESTE,Earthstone Energy Inc (Class A)
+ET,Energy Transfer LP
+ETH,"Ethan Allen Interiors, Inc."
+ETN,Eaton Corporation plc
+ETR,Entergy Corp.
+ETRN,Equitrans Midstream Corporation
+EURN,Euronav NV
+EV,Eaton Vance Corp.
+EVA,Enviva Partners LP
+EVF,Eaton Vance Senior Income Trust
+EVH,Evolent Health Inc (Class A)
+EVN,Eaton Vance Municipal Income Trust
+EVR,Evercore Inc (Class A)
+EVRG,Evergy Inc
+EVRI,Everi Holdings Inc
+EW,Edwards Lifesciences Corp
+EXP,Eagle Materials Inc.
+EXPR,Express Inc.
+EXR,Extra Space Storage Inc.
+F,Ford Motor Co.
+FAF,First American Financial Corp
+FAX,Aberdeen Asia-Pacific Income Fund Inc
+FBC,"Flagstar Bancorp, Inc."
+FBHS,Fortune Brands Home & Security Inc
+FBP,First Bancorp PR
+FCAU,Fiat Chrysler Automobiles NV
+FCF,First Commonwealth Financial Corp.
+FCN,FTI Consulting Inc.
+FCPT,Four Corners Property Trust Inc
+FCX,Freeport-McMoRan Inc
+FDP,Fresh Del Monte Produce Inc
+FDS,Factset Research Systems Inc.
+FDX,Fedex Corp
+FE,Firstenergy Corp.
+FENG,Phoenix New Media Ltd
+FET,Forum Energy Technologies Inc
+FF,Futurefuel Corp
+FFG,"FBL Financial Group, Inc. (Class A)"
+FHI,Federated Hermes Inc (Class B)
+FHN,First Horizon National Corp.
+FICO,"Fair, Isaac Corp."
+FIS,"Fidelity National Information Services, Inc."
+FIT,Fitbit Inc (Class A)
+FIX,"Comfort Systems USA, Inc."
+FL,Foot Locker Inc
+FLO,"Flowers Foods, Inc."
+FLOW,SPX FLOW Inc
+FLR,Fluor Corporation
+FLS,Flowserve Corp.
+FLT,Fleetcor Technologies Inc
+FMC,FMC Corp.
+FMS,Fresenius Medical Care AG & Co. KGaA
+FMX,Fomento Economico Mexicano S.A.B. de C.V.
+FN,Fabrinet
+FNB,F.N.B. Corp.
+FND,Floor & Decor Holdings Inc (Class A)
+FNF,Fidelity National Financial Inc
+FOE,Ferro Corp.
+FOUR,Shift4 Payments Inc (Class A)
+FR,"First Industrial Realty Trust, Inc."
+FRO,Frontline Ltd
+FRT,Federal Realty Investment Trust
+FSI,Flexible Solutions International Inc
+FSLY,Fastly Inc (Class A)
+FSR,Fisker Inc (Class A)
+FSS,Federal Signal Corp.
+FTI,TechnipFMC plc
+FTK,Flotek Industries Inc
+FTSI,FTS International Inc.
+FTV,Fortive Corp
+FUL,H.B. Fuller Company
+FUN,Cedar Fair L.P.
+FVAC,Fortress Value Acquisition Corp (Class A)
+FVRR,Fiverr International Ltd
+G,Genpact Ltd
+GAB,Gabelli Equity Trust Inc.
+GBX,"Greenbrier Cos., Inc."
+GCI,Gannett Co Inc.
+GCO,Genesco Inc.
+GCP,GCP Applied Technologies Inc
+GD,General Dynamics Corp.
+GE,General Electric Co.
+GEF,Greif Inc (Class A)
+GEL,Genesis Energy L.P.
+GEN,Genesis Healthcare Inc (Class A)
+GEO,"Geo Group, Inc."
+GES,Guess Inc.
+GFF,Griffon Corp.
+GFI,- Level II
+GGB,Gerdau S.A.
+GGG,Graco Inc.
+GGN,GAMCO Global Gold Natural Resources & Income Trust
+GHL,Greenhill & Co Inc
+GHLD,Guild Holdings Co (Class A)
+GIM,Templeton Global Income Fund Inc
+GIS,"General Mills, Inc."
+GL,Globe Life Inc
+GLOG,GasLog Ltd
+GLT,Glatfelter Corporation
+GLW,"Corning, Inc."
+GM,General Motors Company
+GME,Gamestop Corporation (Class A)
+GMED,Globus Medical Inc (Class A)
+GNE,Genie Energy Ltd (Class B)
+GNK,Genco Shipping & Trading Limited
+GNRC,Generac Holdings Inc
+GNW,Genworth Financial Inc (Class A)
+GOF,Guggenheim Strategic Opportunities Fund
+GOL,Gol Linhas Aereas Inteligentes S.A.
+GOLF,Acushnet Holdings Corp
+GORO,Gold Resource Corporation
+GPC,Genuine Parts Co.
+GPI,"Group 1 Automotive, Inc."
+GPK,Graphic Packaging Holding Co
+GPM,Guggenheim Enhanced Equity Income Fund
+GPMT,Granite Point Mortgage Trust Inc
+GPN,"Global Payments, Inc."
+GPRK,Geopark Limited
+GPS,"Gap, Inc."
+GRA,W.R. Grace & Co.
+GRC,Gorman-Rupp Co.
+GRUB,GrubHub Inc
+GS,"Goldman Sachs Group, Inc."
+GSAT,Globalstar Inc.
+GSK,Glaxosmithkline plc
+GSX,Gsx Techedu Inc
+GTT,GTT Communications Inc
+GTY,Getty Realty Corp.
+GV,Goldfield Corp.
+GVA,Granite Construction Inc.
+GWRE,Guidewire Software Inc
+GWW,W.W. Grainger Inc.
+H,Hyatt Hotels Corporation (Class A)
+HAE,Haemonetics Corp.
+HAL,Halliburton Co.
+HASI,Hannon Armstrong Sustainable Infrastructure capital Inc
+HBI,Hanesbrands Inc
+HCA,HCA Healthcare Inc
+HCHC,HC2 Holdings Inc
+HD,"Home Depot, Inc."
+HDB,HDFC Bank Ltd.
+HE,"Hawaiian Electric Industries, Inc."
+HEI,Heico Corp.
+HEI.A,Heico Corp. (Class A)
+HEP,Holly Energy Partners L.P.
+HES,Hess Corporation
+HFC,HollyFrontier Corp
+HGV,Hilton Grand Vacations Inc
+HHC,Howard Hughes Corporation
+HI,Hillenbrand Inc
+HIG,Hartford Financial Services Group Inc.
+HII,Huntington Ingalls Industries Inc
+HIL,Hill International Inc
+HIO,Western Asset High Income Opportunity Fund Inc
+HIW,"Highwoods Properties, Inc."
+HIX,Western Asset High Income Fund II Inc
+HL,Hecla Mining Co.
+HLF,Herbalife Nutrition Ltd
+HLI,Houlihan Lokey Inc (Class A)
+HLT,Hilton Worldwide Holdings Inc
+HLX,Helix Energy Solutions Group Inc
+HMC,Honda Motor
+HMN,Horace Mann Educators Corp.
+HMY,Harmony Gold Mining Co Ltd
+HNGR,Hanger Inc
+HNI,HNI Corp.
+HOG,"Harley-Davidson, Inc."
+HOME,At Home Group Inc
+HON,Honeywell International Inc
+HOV,"Hovnanian Enterprises, Inc. (Class A)"
+HP,"Helmerich & Payne, Inc."
+HPE,Hewlett Packard Enterprise Co
+HPI,John Hancock Preferred Income Fund
+HPQ,HP Inc
+HPR,HighPoint Resources Corp
+HQL,Tekla Life Sciences Investors
+HR,"Healthcare Realty Trust, Inc."
+HRB,H&R Block Inc.
+HRC,Hill-Rom Holdings Inc
+HRI,Herc Holdings Inc
+HRL,Hormel Foods Corp.
+HSBC,HSBC Holdings plc
+HSC,Harsco Corp.
+HSY,Hershey Company
+HT,Hersha Hospitality Trust
+HTA,Healthcare Trust of America Inc (Class A)
+HTGC,Hercules Capital Inc
+HTH,Hilltop Holdings Inc
+HUBB,Hubbell Inc.
+HUBS,HubSpot Inc
+HUM,Humana Inc.
+HUN,Huntsman Corp
+HVT,"Haverty Furniture Cos., Inc."
+HWM,Howmet Aerospace Inc
+HXL,Hexcel Corp.
+HYLN,Hyliion Holdings Corporation (Class A)
+HZO,"Marinemax, Inc."
+IAA,IAA Inc
+IAF,Aberdeen Australia Equity Fund Inc.
+IBIO,iBio Inc
+IBM,International Business Machines Corp.
+IBN,ICICI Bank Ltd.
+ICD,Independence Contract Drilling Inc
+ICE,Intercontinental Exchange Inc
+IDA,"Idacorp, Inc."
+IDT,IDT Corp. (Class B)
+IEX,Idex Corporation
+IFF,International Flavors & Fragrances Inc.
+IFS,Intercorp Financial Services Inc
+IGT,International Game Technology PLC
+IHG,Intercontinental Hotels Group
+IIM,Invesco Value Municipal Income Trust
+IMAX,Imax Corp
+IMH,"Impac Mortgage Holdings, Inc."
+INFO,IHS Markit Ltd
+INFU,InfuSystem Holdings Inc
+INFY,Infosys Ltd
+ING,ING Groep N.V.
+INGR,Ingredion Inc
+INS,Intelligent Systems Corp.
+INT,World Fuel Services Corp.
+INUV,Inuvo Inc
+INVH,Invitation Homes Inc
+IO,ION Geophysical Corp
+IP,International Paper Co.
+IPG,"Interpublic Group Of Cos., Inc."
+IPI,Intrepid Potash Inc
+IQI,Invesco Quality Municipal Income Trust
+IQV,IQVIA Holdings Inc
+IR,Ingersoll-Rand Inc
+IRM,Iron Mountain Inc.
+IRR,Voya Natural Resources Equity Income Fund
+IRS,IRSA
+IRT,Independence Realty Trust Inc
+ISR,"Isoray, Inc."
+IT,"Gartner, Inc."
+ITGR,Integer Holdings Corp
+ITP,IT Tech Packaging Inc
+ITT,ITT Inc
+ITUB,Itau Unibanco Holding S.A.
+ITW,"Illinois Tool Works, Inc."
+IVC,Invacare Corp.
+IVR,Invesco Mortgage Capital Inc
+IVZ,Invesco Ltd
+J,"Jacobs Engineering Group, Inc."
+JAX,J. Alexanders Holdings Inc
+JBGS,JBG SMITH Properties
+JBL,Jabil Inc
+JBT,John Bean Technologies Corp
+JCI,Johnson Controls International plc
+JEF,Jefferies Financial Group Inc
+JKS,JinkoSolar Holding Co. Ltd
+JLL,Jones Lang Lasalle Inc.
+JMIA,Jumia Technologies Ag
+JNJ,Johnson & Johnson
+JNPR,Juniper Networks Inc
+JOB,GEE Group Inc
+JOE,St. Joe Co.
+JP,Jupai Holdings Ltd
+JPM,JPMorgan Chase & Co.
+JPS,Nuveen Preferred & Income Securities Fund
+JWN,"Nordstrom, Inc."
+K,Kellogg Co
+KAR,KAR Auction Services Inc
+KB,KB Financial Group Inc
+KBH,KB Home
+KBR,KBR Inc
+KCAC,Kensington Capital Acquisition Corp (Class A)
+KEP,Korea Electric Power
+KEX,Kirby Corp.
+KEY,Keycorp
+KEYS,Keysight Technologies Inc
+KFY,Korn Ferry
+KIM,Kimco Realty Corp.
+KKR,KKR & Co. Inc.
+KMB,Kimberly-Clark Corp.
+KMI,Kinder Morgan Inc (Class P)
+KMPR,Kemper Corporation
+KMT,Kennametal Inc.
+KMX,Carmax Inc
+KN,Knowles Corp
+KNX,Knight-Swift Transportation Holdings Inc (Class A)
+KO,Coca-Cola Co
+KODK,Eastman Kodak Co.
+KOF,Coca-Cola Femsa S.A.B. DE C.V.
+KOP,Koppers Holdings Inc
+KR,Kroger Co.
+KRA,Kraton Corp
+KRC,Kilroy Realty Corp.
+KRG,Kite Realty Group Trust
+KRO,"Kronos Worldwide, Inc."
+KSS,Kohl`s Corp.
+KSU,Kansas City Southern
+KT,KT Corporation
+KTB,Kontoor Brands Inc
+KW,Kennedy-Wilson Holdings Inc
+KWR,Quaker Chemical Corp.
+L,Loews Corp.
+LAD,"Lithia Motors, Inc. (Class A)"
+LAZ,Lazard Ltd. (Class A)
+LB,L Brands Inc
+LC,LendingClub Corp
+LCI,"Lannett Co., Inc."
+LCII,LCI Industries
+LCTX,Lineage Cell Therapeutics Inc
+LDL,"Lydall, Inc."
+LDOS,Leidos Holdings Inc
+LEA,Lear Corp.
+LEE,"Lee Enterprises, Inc."
+LEG,"Leggett & Platt, Inc."
+LEJU,Leju Holdings Ltd
+LEN,Lennar Corp. (Class A)
+LEN.B,Lennar Corp. (Class B)
+LEU,Centrus Energy Corp (Class A)
+LEVI,Levi Strauss & Co.
+LFC,China Life Insurance Co
+LGF.A,Lions Gate Entertainment Corp. (Class A)
+LGF.B,Lions Gate Entertainment Corp. (Class B)
+LGVWU,Longview Acquisition Corp 1 Ord Share Class A & 1/3 War
+LH,Laboratory Corp. Of America Holdings
+LHX,L3Harris Technologies Inc
+LII,Lennox International Inc
+LIN,Linde Plc
+LINX,Linx S.A.
+LITB,LightInTheBox Holding Co Ltd
+LL,Lumber Liquidators Holdings Inc
+LLY,Lilly(Eli) & Co
+LMND,Lemonade Inc
+LMT,Lockheed Martin Corp.
+LNC,Lincoln National Corp.
+LNG,Cheniere Energy Inc.
+LNN,Lindsay Corporation
+LODE,Comstock Mining Inc
+LOW,"Lowe`s Cos., Inc."
+LPI,Laredo Petroleum Inc.
+LPL,LG Display Co Ltd.
+LPX,Louisiana-Pacific Corp.
+LRN,K12 Inc
+LSI,Life Storage Inc
+LTC,"LTC Properties, Inc."
+LTHM,Livent Corp
+LUB,"Luby`s, Inc."
+LUMN,Lumen Technologies Inc.
+LUV,Southwest Airlines Co
+LVS,Las Vegas Sands Corp
+LW,Lamb Weston Holdings Inc
+LXP,Lexington Realty Trust
+LXU,"LSB Industries, Inc."
+LYB,LyondellBasell Industries NV (Class A)
+LYG,Lloyds Banking Group plc
+LYV,Live Nation Entertainment Inc
+LZB,La-Z-Boy Inc.
+M,Macy`s Inc
+MA,Mastercard Incorporated (Class A)
+MAA,"Mid-America Apartment Communities, Inc."
+MAC,Macerich Co.
+MAIN,Main Street Capital Corporation
+MAN,ManpowerGroup
+MANU,Manchester ed Plc. (Class A)
+MAS,Masco Corp.
+MAX,MediaAlpha Inc (Class A)
+MBI,MBIA Inc.
+MBT,Mobile Telesystems PJSC
+MCD,McDonald`s Corp
+MCF,Contango Oil & Gas Company
+MCK,Mckesson Corporation
+MCO,Moody`s Corp.
+MCR,MFS Charter Income Trust
+MCS,Marcus Corp.
+MCY,Mercury General Corp.
+MD,MEDNAX Inc
+MDC,"M.D.C. Holdings, Inc."
+MDLA,Medallia Inc
+MDT,Medtronic Plc
+MED,Medifast Inc
+MEI,"Methode Electronics, Inc."
+MET,Metlife Inc
+MFA,MFA Financial Inc
+MFG,"Mizuho Financial Group, Inc."
+MFGP,Micro Focus International Plc
+MG,Mistras Group Inc
+MGF,MFS Government Markets Income Trust
+MGM,MGM Resorts International
+MGP,MGM Growth Properties LLC (Class A)
+MHK,"Mohawk Industries, Inc."
+MHO,MI Homes Inc.
+MIC,Macquarie Infrastructure Corp
+MIN,MFS Intermediate Income Trust
+MITT,AG Mortgage Investment Trust Inc
+MKC,"McCormick & Co., Inc."
+MLI,"Mueller Industries, Inc."
+MLM,"Martin Marietta Materials, Inc."
+MLR,Miller Industries Inc.
+MLSS,Milestone Scientific Inc.
+MMC,"Marsh & McLennan Cos., Inc."
+MMM,3M Co.
+MMP,Magellan Midstream Partners L.P.
+MMS,Maximus Inc.
+MMT,MFS Multimarket Income Trust
+MMU,Western Asset Managed Municipals Fund Inc
+MN,Manning & Napier Inc (Class A)
+MNR,Monmouth Real Estate Investment Corp. (Class A)
+MO,Altria Group Inc.
+MOD,Modine Manufacturing Co.
+MODN,Model N Inc
+MOG.A,"Moog, Inc. (Class A)"
+MOH,Molina Healthcare Inc
+MOS,Mosaic Company
+MOV,"Movado Group, Inc."
+MPC,Marathon Petroleum Corp
+MPLX,MPLX LP
+MPW,Medical Properties Trust Inc
+MR,Montage Resources Corp
+MRC,MRC Global Inc
+MRK,Merck & Co Inc
+MRO,Marathon Oil Corporation
+MS,Morgan Stanley
+MSA,MSA Safety Inc
+MSCI,MSCI Inc
+MSGE,Madison Square Garden Entertainment Corp (Class A)
+MSGN,MSG Networks Inc (Class A)
+MSGS,Madison Square Garden Sports Corp (Class A)
+MSI,Motorola Solutions Inc
+MSM,"MSC Industrial Direct Co., Inc. (Class A)"
+MSP,Datto Holding Corp
+MT,New York Shares - Level III
+MTB,M & T Bank Corp
+MTD,"Mettler-Toledo International, Inc."
+MTDR,Matador Resources Co
+MTG,MGIC Investment Corp
+MTH,Meritage Homes Corp.
+MTL,Mechel PJSC
+MTN,Vail Resorts Inc.
+MTOR,Meritor Inc
+MTRN,Materion Corp
+MTW,"Manitowoc Co., Inc."
+MTX,"Minerals Technologies, Inc."
+MTZ,Mastec Inc.
+MUC,BlackRock MuniHoldings California Quality Fund Inc
+MUFG,"Mitsubishi UFJ Financial Group, Inc."
+MUR,Murphy Oil Corp.
+MUSA,Murphy USA Inc
+MVO,MV Oil Trust
+MWA,Mueller Water Products Inc (Series A)
+MX,MagnaChip Semiconductor Corp
+MXC,Mexco Energy Corp
+MXL,MaxLinear Inc
+MYD,BlackRock MuniYield Fund Inc
+MYE,Myers Industries Inc.
+MYO,Myomo Inc
+MYOV,Myovant Sciences Ltd
+NAD,Nuveen Quality Municipal Income Fund
+NAT,Nordic American Tankers Ltd
+NAV,Navistar International Corp.
+NAVB,Navidea Biopharmaceuticals Inc
+NBR,Nabors Industries Ltd
+NBY,Novabay Pharmaceuticals Inc
+NCLH,Norwegian Cruise Line Holdings Ltd
+NCR,NCR Corp.
+NEE,NextEra Energy Inc
+NET,Cloudflare Inc (Class A)
+NFG,National Fuel Gas Co.
+NFJ,AllianzGI Dividend Interest & Premium Strategy Fund
+NGG,National Grid Plc
+NGL,NGL Energy Partners LP
+NGVC,Natural Grocers by Vitamin Cottage Inc
+NGVT,Ingevity Corp
+NHF,NexPoint Strategic Opportunities Fund
+NHI,"National Health Investors, Inc."
+NI,Nisource Inc. (Holding Co.)
+NINE,Nine Energy Service Inc
+NJR,New Jersey Resources Corporation
+NKE,"Nike, Inc. (Class B)"
+NLS,Nautilus Inc
+NLSN,Nielsen Holdings plc
+NLY,Annaly Capital Management Inc
+NMR,Nomura Holdings Inc.
+NNA,Navios Maritime Acquisition Corp
+NNN,National Retail Properties Inc
+NNVC,NanoViricides Inc
+NOAH,Noah Holdings Limited
+NOC,Northrop Grumman Corp.
+NOG,Northern Oil and Gas Inc.
+NOK,Nokia Corp
+NOMD,Nomad Foods Limited
+NOV,National Oilwell Varco Inc.
+NOVA,Sunnova Energy International Inc
+NOW,ServiceNow Inc
+NP,Neenah Inc
+NPK,"National Presto Industries, Inc."
+NPO,EnPro Industries Inc
+NR,"Newpark Resources, Inc."
+NRG,NRG Energy Inc.
+NRZ,New Residential Investment Corp
+NS,Nustar Energy L P
+NSC,Norfolk Southern Corp.
+NSP,Insperity Inc
+NTN,NTN Buzztime Inc
+NTP,Nam Tai Property Inc
+NTZ,Natuzzi S.P.A.
+NUE,Nucor Corp.
+NUS,"Nu Skin Enterprises, Inc. (Class A)"
+NUV,Nuveen Municipal Value Fund Inc.
+NVO,Novo Nordisk
+NVS,Novartis AG
+NVST,Envista Holdings Corp
+NVTA,Invitae Corp
+NWE,Northwestern Corp.
+NWG,NatWest Group Plc
+NWHM,New Home Company Inc (The)
+NWN,Northwest Natural Holding Co
+NX,Quanex Building Products Corp
+NXRT,NexPoint Residential Trust Inc
+NYCB,New York Community Bancorp Inc.
+NYT,New York Times Co. (Class A)
+O,Realty Income Corp.
+OBLG,Oblong Inc
+OC,Owens Corning
+OCFT,Oneconnect Financial Technology Co Ltd
+OCN,Ocwen Financial Corp.
+OCX,OncoCyte Corp
+OFC,Corporate Office Properties Trust
+OFG,OFG Bancorp
+OGE,Oge Energy Corp.
+OGEN,Oragenics Inc
+OGS,ONE Gas Inc
+OHI,"Omega Healthcare Investors, Inc."
+OI,O-I Glass Inc
+OIA,Invesco Municipal Income Opportunities Trust
+OIBR.C,Representing 5
+OII,"Oceaneering International, Inc."
+OIS,"Oil States International, Inc."
+OKE,Oneok Inc.
+OLN,Olin Corp.
+OLP,"One Liberty Properties, Inc."
+OMC,"Omnicom Group, Inc."
+OMF,OneMain Holdings Inc
+OMI,"Owens & Minor, Inc."
+ONTO,Onto Innovation Inc.
+OPY,Oppenheimer Holdings Inc (Class A)
+ORA,Ormat Technologies Inc
+ORCL,Oracle Corp.
+ORI,Old Republic International Corp.
+OSH,Oak Street Health Inc
+OSK,Oshkosh Corp
+OTIS,Otis Worldwide Corp
+OUT,Outfront Media Inc
+OXM,"Oxford Industries, Inc."
+OXY,Occidental Petroleum Corp.
+PAA,Plains All American Pipeline LP
+PAC,Grupo Aeroportuario Del Pacifico SAB de CV
+PAG,Penske Automotive Group Inc
+PAM,Pampa Energia SA
+PANW,Palo Alto Networks Inc
+PAR,Par Technology Corp.
+PAYC,Paycom Software Inc
+PB,Prosperity Bancshares Inc.
+PBF,PBF Energy Inc (Class A)
+PBH,Prestige Consumer Healthcare Inc
+PBI,"Pitney Bowes, Inc."
+PBR,Petroleo Brasileiro S.A. Petrobras
+PBR.A,Petroleo Brasileiro S.A.- Petrobras American Depositary Shares
+PBT,Permian Basin Royalty Trust
+PCG,PG&E Corp.
+PCN,PIMCO Corporate & Income Strategy Fund
+PD,Pagerduty Inc
+PDI,PIMCO Dynamic Income Fund
+PDM,Piedmont Office Realty Trust Inc (Class A)
+PE,Parsley Energy Inc (Class A)
+PEAK,Healthpeak Properties Inc
+PEB,Pebblebrook Hotel Trust
+PED,PEDEVCO Corp
+PEG,Public Service Enterprise Group Inc.
+PEI,Pennsylvania Real Estate Investment Trust
+PEN,Penumbra Inc
+PEO,Adams Natural Resources Fund Inc
+PFE,Pfizer Inc.
+PFGC,Performance Food Group Company
+PFS,Provident Financial Services Inc
+PFSI,PennyMac Financial Services Inc.
+PG,Procter & Gamble Co.
+PGR,Progressive Corp.
+PGTI,PGT Innovations Inc
+PH,Parker-Hannifin Corp.
+PHG,Koninklijke Philips N.V.
+PHI,PLDT Inc
+PHM,PulteGroup Inc
+PHT,Pioneer High Income Trust
+PHX,PHX Minerals Inc (Class A)
+PII,Polaris Inc
+PIM,Putnam Master Intermediate Income Trust
+PING,Ping Identity Holding Corp
+PINS,Pinterest Inc (Class A)
+PIPR,Piper Sandler Co`s
+PJT,PJT Partners Inc (Class A)
+PK,Park Hotels & Resorts Inc
+PKE,Park Aerospace Corp
+PKG,Packaging Corp Of America
+PKI,"Perkinelmer, Inc."
+PKX,Posco
+PLD,Prologis Inc
+PLNT,Planet Fitness Inc (Class A)
+PLOW,Douglas Dynamics Inc
+PLT,"Plantronics, Inc."
+PLTR,Palantir Technologies Inc (Class A) 
+PLX,Protalix BioTherapeutics Inc.
+PM,Philip Morris International Inc
+PMM,Putnam Managed Municipal Income Trust.
+PMO,Putnam Municipal Opportunities Trust
+PMT,Pennymac Mortgage Investment Trust
+PNC,PNC Financial Services Group
+PNM,PNM Resources Inc
+PNR,Pentair plc
+PNW,Pinnacle West Capital Corp.
+POR,Portland General Electric Co
+POST,Post Holdings Inc
+PPG,"PPG Industries, Inc."
+PPL,PPL Corp
+PPT,Putnam Premier Income Trust
+PRA,Proassurance Corporation
+PRGO,Perrigo Company plc
+PRI,Primerica Inc
+PRK,Park National Corp.
+PRLB,Proto Labs Inc
+PRSP,Perspecta Inc
+PRTY,Party City Holdco Inc
+PRU,Prudential Financial Inc.
+PSA,Public Storage
+PSB,"PS Business Parks, Inc."
+PSN,Parsons Corp
+PSO,Pearson plc
+PSTG,Pure Storage Inc (Class A)
+PSX,Phillips 66
+PSXP,Phillips 66 Partners LP
+PTN,Palatin Technologies Inc.
+PTR,PetroChina Co. Ltd.
+PUK,Prudential plc
+PUMP,ProPetro Holding Corp
+PVH,PVH Corp
+PWR,"Quanta Services, Inc."
+PXD,Pioneer Natural Resources Co.
+PZG,Paramount Gold Nevada Corp
+QD,Qudian Inc
+QEP,QEP Resources Inc
+QGEN,Qiagen NV
+QTS,Qts Realty Trust Inc (Class A)
+QUAD,Quad/Graphics Inc (Class A)
+R,"Ryder System, Inc."
+RACE,Ferrari N.V.
+RAD,Rite Aid Corp.
+RAMP,LiveRamp Holdings Inc
+RBC,Regal Beloit Corp
+RCL,Royal Caribbean Group
+RDN,"Radian Group, Inc."
+RDY,Dr. Reddy`s Laboratories Ltd.
+RE,Everest Re Group Ltd
+REI,Ring Energy Inc
+RELX,RELX Plc
+RENN,Renren Inc
+RES,"RPC, Inc."
+RESI,Front Yard Residential Corp
+REV,"Revlon, Inc. (Class A)"
+REVG,REV Group Inc
+REZI,Resideo Technologies Inc
+RF,Regions Financial Corp.
+RFI,Cohen & Steers Total Return Realty Fund Inc
+RGA,"Reinsurance Group Of America, Inc."
+RGR,"Sturm, Ruger & Co., Inc."
+RGS,Regis Corp.
+RH,RH (Class A)
+RHE,Regional Health Properties Inc
+RHI,Robert Half International Inc.
+RHP,Ryman Hospitality Properties Inc
+RIG,Transocean Ltd
+RIO,Rio Tinto plc
+RJF,"Raymond James Financial, Inc."
+RKT,Class A
+RL,Ralph Lauren Corp (Class A)
+RLGT,"Radiant Logistics, Inc."
+RLGY,Realogy Holdings Corp
+RLH,Red Lion Hotels Corporation
+RLI,RLI Corp.
+RMAX,RE/MAX Holdings Inc (Class A)
+RMD,Resmed Inc.
+RMT,Royce Micro-Cap Trust Inc
+RNG,RingCentral Inc. (Class A)
+RNR,RenaissanceRe Holdings Ltd
+ROG,Rogers Corp.
+ROK,Rockwell Automation Inc
+ROL,"Rollins, Inc."
+ROP,Roper Technologies Inc
+RPM,"RPM International, Inc."
+RPT,RPT Realty
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc."
+RRC,Range Resources Corp
+RRD,R.R. Donnelley & Sons Co.
+RS,Reliance Steel & Aluminum Co.
+RSG,"Republic Services, Inc."
+RTX,Raytheon Technologies Corporation
+RVI,Retail Value Inc
+RVLV,Revolve Group Inc (Class A)
+RVP,Retractable Technologies Inc
+RWT,Redwood Trust Inc.
+RYAM,Rayonier Advanced Materials Inc
+RYN,Rayonier Inc.
+SAH,"Sonic Automotive, Inc. (Class A)"
+SAIC,Science Applications International Corp.
+SAIL,SailPoint Technologies Holdings Inc
+SAM,"Boston Beer Co., Inc. (Class A)"
+SAN,Banco Santander S.A.
+SAP,Sap SE
+SB,"Safe Bulkers, Inc"
+SBH,Sally Beauty Holdings Inc
+SBOW,SilverBow Resources Inc
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo.
+SCCO,Southern Copper Corporation
+SCD,LMP Capital and Income Fund Inc
+SCHW,Charles Schwab Corp.
+SCI,Service Corp. International
+SCL,Stepan Co.
+SCS,"Steelcase, Inc. (Class A)"
+SCU,Sculptor Capital Management Inc (Class A)
+SE,Sea Ltd
+SEAS,SeaWorld Entertainment Inc
+SEE,Sealed Air Corp.
+SEM,Select Medical Holdings Corporation
+SF,Stifel Financial Corp.
+SFE,"Safeguard Scientifics, Inc."
+SFL,SFL Corporation Ltd
+SGU,Star Group L.P.
+SHAK,Shake Shack Inc (Class A)
+SHG,Shinhan Financial Group Co. Ltd.
+SHO,Sunstone Hotel Investors Inc
+SHW,Sherwin-Williams Co.
+SID,Companhia Siderurgica Nacional
+SIG,Signet Jewelers Ltd
+SITC,SITE Centers Corp
+SIX,Six Flags Entertainment Corp
+SJI,South Jersey Industries Inc.
+SJM,J.M. Smucker Co.
+SJT,San Juan Basin Royalty Trust
+SJW,SJW Group
+SKM,SK Telecom Co Ltd
+SKT,"Tanger Factory Outlet Centers, Inc."
+SKX,"Skechers U S A, Inc. (Class A)"
+SKY,Skyline Champion Corp
+SLB,Schlumberger Ltd.
+SLCA,U.S. Silica Holdings Inc
+SLG,SL Green Realty Corp.
+SM,SM Energy Co
+SMAR,Smartsheet Inc (Class A)
+SMFG,Sumitomo Mitsui Financial Group Inc
+SMG,Scotts Miracle-Gro Company (Class A)
+SMP,"Standard Motor Products, Inc."
+SNA,"Snap-on, Inc."
+SNAP,Snap Inc (Class A)
+SNE,Sony Corporation.
+SNMP,Sanchez Midstream Partners LP
+SNN,Smith & Nephew plc
+SNOW,Snowflake Inc (Class A)
+SNP,China Petroleum & Chemical Corp
+SNR,New Senior Investment Group Inc
+SNV,Synovus Financial Corp.
+SNX,Synnex Corp
+SO,Southern Company
+SOL,Renesola
+SON,Sonoco Products Co.
+SPB,Spectrum Brands Holdings Inc.
+SPCE,Virgin Galactic Holdings Inc (Class A)
+SPG,"Simon Property Group, Inc."
+SPGI,S&P Global Inc
+SPH,Suburban Propane Partners LP
+SPOT,Spotify Technology S.A.
+SPR,Spirit Aerosystems Holdings Inc (Class A)
+SPXC,SPX Corp.
+SQ,Square Inc (Class A)
+SQM,Sociedad Quimica Y Minera de Chile S.A.
+SR,Spire Inc.
+SRC,Spirit Realty Capital Inc
+SRE,Sempra Energy
+SRG,Seritage Growth Properties (Class A)
+SRI,Stoneridge Inc.
+SSD,"Simpson Manufacturing Co., Inc."
+SSL,Sasol Ltd
+SSTK,Shutterstock Inc
+SSY,Sunlink Health Systems Inc
+STAG,STAG Industrial Inc
+STAR,iStar Inc
+STC,Stewart Information Services Corp.
+STE,Steris Plc
+STL,Sterling Bancorp.
+STM,New York Shares
+STNG,Scorpio Tankers Inc
+STON,StoneMor Inc
+STOR,Store Capital Corp
+STT,State Street Corp.
+STWD,Starwood Property Trust Inc
+STXS,Stereotaxis Inc
+STZ,Constellation Brands Inc (Class A)
+SUI,"Sun Communities, Inc."
+SUN,Sunoco LP
+SUP,"Superior Industries International, Inc."
+SWCH,Switch Inc (Class A)
+SWK,Stanley Black & Decker Inc
+SWM,"Schweitzer-Mauduit International, Inc."
+SWN,Southwestern Energy Company
+SWX,Southwest Gas Holdings Inc
+SXT,Sensient Technologies Corp.
+SYF,Synchrony Financial
+SYK,Stryker Corp.
+SYN,Synthetic Biologics Inc
+SYX,"Systemax, Inc."
+SYY,Sysco Corp.
+T,"AT&T, Inc."
+TAK,Takeda Pharmaceutical Co
+TAL,TAL Education Group
+TALO,Talos Energy Inc
+TAP,Molson Coors Beverage Company (Class B)
+TBI,TrueBlue Inc
+TCO,"Taubman Centers, Inc."
+TCP,"TC Pipelines, LP"
+TCS,Container Store Group Inc
+TDC,Teradata Corp
+TDG,Transdigm Group Incorporated
+TDOC,Teladoc Health Inc
+TDS,"Telephone And Data Systems, Inc."
+TDY,Teledyne Technologies Inc
+TEF,Telefonica S.A
+TEI,Templeton Emerging Markets Income Fund Inc
+TEL,TE Connectivity Ltd
+TEN,"Tenneco, Inc. (Class A)"
+TEO,Telecom Argentina S.A.
+TEVA,Teva- Pharmaceutical Industries Ltd.
+TEX,Terex Corp.
+TFC,Truist Financial Corporation
+TFX,Teleflex Incorporated
+TG,Tredegar Corp.
+TGC,"Tengasco, Inc."
+TGH,Textainer Group Holdings Limited
+TGI,Triumph Group Inc.
+TGNA,TEGNA Inc
+TGP,Teekay LNG Partners LP
+TGS,Transportadora de Gas del Sur
+TGT,Target Corp
+THC,Tenet Healthcare Corp.
+THG,Hanover Insurance Group Inc
+THO,"Thor Industries, Inc."
+THS,Treehouse Foods Inc
+TIF,Tiffany & Co.
+TIMB,TIM SA - ADR
+TISI,"Team, Inc."
+TJX,"TJX Companies, Inc."
+TK,Teekay Corp
+TKC,Turkcell Iletisim Hizmetleri A.S.
+TKR,Timken Co.
+TLK,Telekomunikasi
+TLYS,Tillys Inc (Class A)
+TM,Toyota Motor Corporation
+TMBR,Timber Pharmaceuticals Inc
+TMHC,Taylor Morrison Home Corp.
+TMO,Thermo Fisher Scientific Inc.
+TMST,TimkenSteel Corp
+TNC,Tennant Co.
+TNET,TriNet Group Inc
+TNK,Teekay Tankers Ltd (Class A)
+TOL,Toll Brothers Inc.
+TOT,Total SE
+TPC,Tutor Perini Corp
+TPH,TRI Pointe Group Inc
+TPR,Tapestry Inc
+TPRE,Third Point Reinsurance Ltd
+TPX,Tempur Sealy International Inc
+TR,"Tootsie Roll Industries, Inc."
+TRC,Tejon Ranch Co.
+TREC,Trecora Resources
+TREX,"TREX Co., Inc."
+TRGP,Targa Resources Corp
+TRN,"Trinity Industries, Inc."
+TROX,Tronox Holdings plc (Class A)
+TRTN,Triton International Ltd
+TRU,TransUnion
+TRV,Travelers Companies Inc.
+TRXC,TransEnterix Inc
+TS,Tenaris S.A.
+TSE,Trinseo S.A.
+TSI,TCW Strategic Income Fund Inc
+TSM,Taiwan Semiconductor Manufacturing
+TSN,"Tyson Foods, Inc. (Class A)"
+TT,Trane Technologies plc (Class A)
+TTC,Toro Co.
+TTI,"Tetra Technologies, Inc."
+TTM,Tata Motors Ltd.
+TUP,Tupperware Brands Corporation
+TV,- Level III
+TWI,"Titan International, Inc."
+TWLO,Class A
+TWO,Two Harbors Investment Corp
+TWTR,Twitter Inc
+TX,Ternium S.A.
+TXT,Textron Inc.
+TYG,Tortoise Energy Infrastructure Corp
+TYL,"Tyler Technologies, Inc."
+U,Unity Software Inc
+UA,Under Armour Inc (Class C)
+UAA,Under Armour Inc (Class A)
+UAMY,United States Antimony Corp.
+UAN,CVR Partners LP
+UAVS,AgEagle Aerial Systems Inc.
+UBA,"Urstadt Biddle Properties, Inc. (Class A)"
+UBER,Uber Technologies Inc
+UBS,UBS Group AG
+UDR,UDR Inc
+UE,Urban Edge Properties
+UEC,Uranium Energy Corp
+UFI,"UNIFI, Inc."
+UGI,UGI Corp.
+UGP,Ultrapar Participacoes S.A.
+UHS,"Universal Health Services, Inc. (Class B)"
+UI,Ubiquiti Inc
+UIS,Unisys Corp.
+UL,Unilever plc
+UMH,UMH Properties Inc
+UN,New York Shares
+UNF,Unifirst Corp.
+UNFI,United Natural Foods Inc.
+UNH,Unitedhealth Group Inc
+UNM,Unum Group
+UNP,Union Pacific Corp.
+UPS,"United Parcel Service, Inc. (Class B)"
+URI,"United Rentals, Inc."
+USA,Liberty All-Star Equity Fund
+USB,U.S. Bancorp.
+USFD,US Foods Holding Corp
+USM,United States Cellular Corporation
+USNA,Usana Health Sciences Inc
+USPH,"U.S. Physical Therapy, Inc."
+UTI,Universal Technical Institute Inc
+UTL,Unitil Corp.
+UUU,"Universal Security Instruments, Inc."
+UVE,Universal Insurance Holdings Inc
+UVV,Universal Corp.
+V,Visa Inc (Class A)
+VAC,Marriott Vacations Worldwide Corp
+VAR,"Varian Medical Systems, Inc."
+VEC,Vectrus Inc
+VEEV,Veeva Systems Inc (Class A)
+VER,VEREIT Inc
+VFC,VF Corp.
+VGR,Vector Group Ltd
+VHC,Virnetx Holding Corp
+VICI,VICI Properties Inc
+VIPS,Vipshop Holdings Ltd
+VIV,"Telefonica Brasil S.A.,"
+VKI,Invesco Advantage Municipal Income Trust II
+VLO,Valero Energy Corp.
+VMC,Vulcan Materials Co
+VMI,"Valmont Industries, Inc."
+VMO,Invesco Municipal Opportunity Trust
+VMW,Vmware Inc. (Class A)
+VNE,Veoneer Inc
+VNO,Vornado Realty Trust
+VNRX,VolitionRX Ltd
+VNT,Vontier Corporation
+VOLT,"Volt Information Sciences, Inc."
+VOYA,Voya Financial Inc
+VRTV,Veritiv Corp
+VSH,"Vishay Intertechnology, Inc."
+VST,Vistra Energy Corp
+VSTO,Vista Outdoor Inc
+VTOL,Bristow Group Inc.
+VTR,Ventas Inc
+VVI,Viad Corp.
+VVV,Valvoline Inc
+VZ,Verizon Communications Inc
+W,Wayfair Inc (Class A)
+WAB,Westinghouse Air Brake Technologies Corp
+WAL,Western Alliance Bancorp
+WAT,Waters Corp.
+WBK,Westpac Banking Corp
+WBS,Webster Financial Corp.
+WBT,Welbilt Inc
+WCC,"Wesco International, Inc."
+WD,Walker & Dunlop Inc
+WDR,"Waddell & Reed Financial, Inc. (Class A)"
+WEC,WEC Energy Group Inc
+WELL,Welltower Inc
+WES,Western Midstream Partners LP
+WEX,WEX Inc
+WFC,Wells Fargo & Co.
+WGO,"Winnebago Industries, Inc."
+WH,Wyndham Hotels & Resorts Inc
+WHR,Whirlpool Corp.
+WIA,Western Asset Inflation-Linked Income Fund
+WIT,Wipro Ltd.
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund
+WLK,Westlake Chemical Corp
+WLKP,Westlake Chemical Partners LP
+WLL,Whiting Petroleum Corp
+WM,"Waste Management, Inc."
+WMB,Williams Cos Inc
+WMK,"Weis Markets, Inc."
+WMT,Walmart Inc
+WNC,Wabash National Corp.
+WNS,WNS Holdings Limited
+WOR,"Worthington Industries, Inc."
+WORK,Slack Technologies Inc (Class A)
+WPG,Washington Prime Group Inc
+WPP,WPP Plc.
+WPX,WPX Energy Inc
+WRB,W.R. Berkley Corp.
+WRE,Washington Real Estate Investment Trust
+WRI,Weingarten Realty Investors
+WRK,WestRock Co
+WSM,"Williams-Sonoma, Inc."
+WSO,Watsco Inc. (Class A)
+WSR,Whitestone REIT
+WST,"West Pharmaceutical Services, Inc."
+WTI,W & T Offshore Inc
+WTRG,Essential Utilities Inc
+WTS,"Watts Water Technologies, Inc. (Class A)"
+WU,Western Union Company
+WWE,"World Wrestling Entertainment, Inc. (Class A)"
+WWW,"Wolverine World Wide, Inc."
+WY,Weyerhaeuser Co.
+WYND,Wyndham Destinations Inc
+WYY,Widepoint Corp
+XAN,Exantas Capital Corp
+XEC,Cimarex Energy Co.
+XIN,Xinyuan Real Estate Co. Ltd.
+XOM,Exxon Mobil Corp.
+XPO,XPO Logistics Inc
+XRX,Xerox Holdings Corp
+XTNT,Xtant Medical Holdings Inc
+XXII,22nd Century Group Inc
+XYL,Xylem Inc
+Y,Alleghany Corp.
+YELP,Yelp Inc
+YETI,YETI Holdings Inc
+YEXT,Yext Inc
+YPF,YPF
+YRD,Yiren Digital Ltd
+YUM,Yum Brands Inc.
+YUMC,Yum China Holdings Inc
+ZBH,Zimmer Biomet Holdings Inc
+ZDGE,Zedge Inc (Class B)
+ZEN,Zendesk Inc
+ZTO,ZTO Express Cayman Inc
+ZTR,Virtus Total Return Fund Inc.
+ZTS,Zoetis Inc (Class A)
+ZUO,Zuora Inc (Class A)
+ZYME,Zymeworks Inc
