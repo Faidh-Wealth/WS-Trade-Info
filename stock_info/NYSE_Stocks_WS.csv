@@ -2,7 +2,7 @@ symbol,name
 A,Agilent Technologies Inc.
 AA,Alcoa Corp
 AAIC,Arlington Asset Investment Corp (Class A)
-AAN,Aarons Holdings Company Inc
+AAN,Aarons Company Inc (The)
 AAP,Advance Auto Parts Inc
 AB,AllianceBernstein Holding Lp
 ABB,ABB Ltd.
@@ -15,11 +15,11 @@ ABR,Arbor Realty Trust Inc.
 ABT,Abbott Laboratories
 ACA,Arcosa Inc
 ACCO,Acco Brands Corporation
+ACH,Aluminum Corporation Of China Limited.
 ACI,Albertsons Companies Inc (Class A)
 ACM,AECOM
 ACN,Accenture plc (Class A)
 ACRE,Ares Commercial Real Estate Corp
-ACY,Aerocentury Corp.
 ADC,Agree Realty Corp.
 ADM,Archer Daniels Midland Co.
 ADNT,Adient plc
@@ -29,6 +29,7 @@ ADX,Adams Diversified Equity Fund
 AEE,Ameren Corp.
 AEG,New York Shares
 AEL,American Equity Investment Life Holding Co
+AENZ,Aenza S.A.A
 AEO,American Eagle Outfitters Inc.
 AER,Aercap Holdings N.V.
 AES,AES Corp.
@@ -37,15 +38,19 @@ AFI,Armstrong Flooring Inc
 AFL,Aflac Inc.
 AGCO,AGCO Corp.
 AGE,AgeX Therapeutics Inc
+AGM,Federal Agricultural Mortgage Corp. (Class C)
 AGO,Assured Guaranty Ltd
 AGR,Avangrid Inc
 AGRO,Adecoagro S.A.
 AGX,"Argan, Inc."
+AHC,A.H. Belo Corp (Class A)
 AHT,Ashford Hospitality Trust Inc
+AI,C3.ai Inc (Class A)
 AIG,American International Group Inc
 AIM,AIM ImmunoTech Inc
 AIN,Albany International Corp. (Class A)
 AIR,AAR Corp.
+AIRC,Apartment Income REIT Corp (Class A)
 AIRI,Air Industries Group
 AIT,Applied Industrial Technologies Inc.
 AIV,Apartment Investment & Management Co. (Class A)
@@ -57,6 +62,7 @@ AL,Air Lease Corp (Class A)
 ALB,Albemarle Corp.
 ALC,Alcon Inc.
 ALE,"Allete, Inc."
+ALG,Alamo Group Inc.
 ALK,Alaska Air Group Inc.
 ALL,Allstate Corp (The)
 ALLE,Allegion plc
@@ -153,7 +159,6 @@ AXTA,Axalta Coating Systems Ltd
 AYI,"Acuity Brands, Inc."
 AYX,Alteryx Inc (Class A)
 AZO,Autozone Inc.
-B,Barnes Group Inc.
 BA,Boeing Co.
 BABA,Alibaba Group Holding Ltd
 BAC,Bank Of America Corp.
@@ -174,6 +179,7 @@ BCEI,Bonanza Creek Energy Inc
 BCH,Banco de Chile
 BCO,Brink`s Co.
 BCS,Barclays plc
+BCV,Bancroft Fund Ltd
 BDC,Belden Inc
 BDN,Brandywine Realty Trust
 BDR,Blonder Tongue Laboratories Inc.
@@ -224,11 +230,13 @@ BRC,Brady Corp. (Class A)
 BRFS,BRF S.A.
 BRK.B,Berkshire Hathaway Inc. (Class B)
 BRO,"Brown & Brown, Inc."
+BRT,BRT Apartments Corp
 BSAC,Banco Santander Chile SA
 BSBR,Banco Santander Brasil S.A.
 BSMX,Banco Santander Mexico S.A.
 BSX,Boston Scientific Corp.
 BTI,British American Tobacco Plc
+BTN,Ballantyne Strong Inc
 BTO,John Hancock Financial Opportunities Fund
 BUD,Anheuser-Busch In Bev SA/NV
 BURL,Burlington Stores Inc
@@ -252,11 +260,13 @@ CAJ,Canon Inc
 CAL,Caleres Inc
 CALX,Calix Inc
 CANF,Can-Fite Biopharma Ltd
+CAPL,CrossAmerica Partners LP
 CARR,Carrier Global Corp
 CARS,Cars.com
 CAT,Caterpillar Inc.
 CATO,Cato Corp. (Class A)
 CB,Chubb Limited
+CBAH.U,CBRE Acquisition Holdings Inc - Units (1 Ord Share Class A & 1/4 War)
 CBB,"Cincinnati Bell, Inc."
 CBRE,CBRE Group Inc (Class A)
 CBT,Cabot Corp.
@@ -281,7 +291,6 @@ CF,CF Industries Holdings Inc
 CFG,Citizens Financial Group Inc
 CFR,Cullen Frost Bankers Inc.
 CFX,Colfax Corp
-CGA,China Green Agriculture Inc
 CHA,China Telecom Corporation
 CHD,"Church & Dwight Co., Inc."
 CHE,Chemed Corp.
@@ -289,18 +298,17 @@ CHGG,Chegg Inc
 CHH,"Choice Hotels International, Inc."
 CHL,China Mobile Limited
 CHS,"Chico`s Fas, Inc."
+CHT,Chunghwa Telecom
 CHU,China Unicom Hong Kong Ltd
 CHWY,Chewy Inc (Class A)
 CHX,ChampionX Corporation
 CI,Cigna Corp.
 CIA,"Citizens, Inc. (Class A)"
-CIB,Bancolombia S.A.
-CIEN,CIENA Corp.
+CIF,MFS Intermediate High Income Fund
 CIG,Preference Shares
 CIK,Credit Suisse Asset Management Income Fund Inc.
 CIM,Chimera Investment Corp
 CIO,City Office REIT Inc
-CIT,CIT Group Inc
 CL,Colgate-Palmolive Co.
 CLB,Core Laboratories N.V.
 CLDR,Cloudera Inc
@@ -373,7 +381,6 @@ CTVA,Corteva Inc
 CUB,Cubic Corp.
 CUBE,CubeSmart
 CUK,Carnival plc
-CULP,Culp Inc.
 CUZ,Cousins Properties Inc.
 CVA,Covanta Holding Corporation
 CVEO,Civeo Corp
@@ -398,10 +405,12 @@ DAC,Danaos Corporation
 DAL,"Delta Air Lines, Inc."
 DAN,Dana Inc
 DAR,Darling Ingredients Inc
+DASH,DoorDash Inc (Class A)
 DB,Deutsche Bank AG
 DBD,Diebold Nixdorf Inc
 DBI,Designer Brands Inc (Class A)
 DCI,Donaldson Co. Inc.
+DCO,Ducommun Inc.
 DCP,DCP Midstream LP
 DD,DuPont de Nemours Inc
 DDD,3D Systems Corp.
@@ -449,6 +458,7 @@ DT,Dynatrace Inc
 DTE,DTE Energy Co.
 DUK,Duke Energy Corp.
 DVA,DaVita Inc
+DVD,Dover Motorsports Inc
 DVN,Devon Energy Corp.
 DX,"Dynex Capital, Inc."
 DXC,DXC Technology Co
@@ -463,6 +473,7 @@ ECL,"Ecolab, Inc."
 ECOM,ChannelAdvisor Corp
 ED,"Consolidated Edison, Inc."
 EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc
+EDN,Empresa Distribuidora y Comercial Norte S.A.
 EDU,New Oriental Education & Technology Group Inc.
 EFX,"Equifax, Inc."
 EGHT,8X8 Inc.
@@ -473,6 +484,7 @@ EHI,Western Asset Global High Income Fund Inc
 EIX,Edison International
 EL,"Estee Lauder Cos., Inc. (Class A)"
 ELA,Envela Corp
+ELAN,Elanco Animal Health Inc
 ELF,e.l.f. Beauty Inc
 ELP,Cia Paranaense De Energia Copel (Class B)
 ELY,Callaway Golf Co.
@@ -486,6 +498,7 @@ ENIC,Enel Chile S.A.
 ENLC,Enlink Midstream LLC
 ENR,Energizer Holdings Inc
 ENS,Enersys
+ENSV,Enservco Corp
 ENV,Envestnet Inc.
 ENVA,Enova International Inc.
 ENZ,"Enzo Biochem, Inc."
@@ -498,8 +511,10 @@ EPD,Enterprise Products Partners L P
 EPM,Evolution Petroleum Corporation
 EPR,EPR Properties
 EQC,Equity Commonwealth
+EQH,Equitable Holdings Inc
 EQNR,Equinor ASA
 EQR,Equity Residential Properties Trust
+EQS,Equus Total Return Inc
 EQT,EQT Corp
 ES,Eversource Energy
 ESE,"Esco Technologies, Inc."
@@ -532,9 +547,11 @@ FAX,Aberdeen Asia-Pacific Income Fund Inc
 FBC,"Flagstar Bancorp, Inc."
 FBHS,Fortune Brands Home & Security Inc
 FBP,First Bancorp PR
+FC,Franklin Covey Co.
 FCAU,Fiat Chrysler Automobiles NV
 FCF,First Commonwealth Financial Corp.
 FCN,FTI Consulting Inc.
+FCO,Aberdeen Global Income Fund Inc
 FCPT,Four Corners Property Trust Inc
 FCX,Freeport-McMoRan Inc
 FDP,Fresh Del Monte Produce Inc
@@ -546,7 +563,7 @@ FET,Forum Energy Technologies Inc
 FF,Futurefuel Corp
 FFG,"FBL Financial Group, Inc. (Class A)"
 FHI,Federated Hermes Inc (Class B)
-FHN,First Horizon National Corp.
+FHN,First Horizon Corporation
 FICO,"Fair, Isaac Corp."
 FIS,"Fidelity National Information Services, Inc."
 FIT,Fitbit Inc (Class A)
@@ -575,11 +592,10 @@ FSR,Fisker Inc (Class A)
 FSS,Federal Signal Corp.
 FTI,TechnipFMC plc
 FTK,Flotek Industries Inc
-FTSI,FTS International Inc.
+FTSI,FTS International Inc. 
 FTV,Fortive Corp
 FUL,H.B. Fuller Company
 FUN,Cedar Fair L.P.
-FVAC,Fortress Value Acquisition Corp (Class A)
 FVRR,Fiverr International Ltd
 G,Genpact Ltd
 GAB,Gabelli Equity Trust Inc.
@@ -626,12 +642,14 @@ GPMT,Granite Point Mortgage Trust Inc
 GPN,"Global Payments, Inc."
 GPRK,Geopark Limited
 GPS,"Gap, Inc."
+GPX,GP Strategies Corp.
 GRA,W.R. Grace & Co.
 GRC,Gorman-Rupp Co.
 GRUB,GrubHub Inc
 GS,"Goldman Sachs Group, Inc."
 GSAT,Globalstar Inc.
 GSK,Glaxosmithkline plc
+GSL,Global Ship Lease Inc (Class A)
 GSX,Gsx Techedu Inc
 GTT,GTT Communications Inc
 GTY,Getty Realty Corp.
@@ -643,9 +661,12 @@ H,Hyatt Hotels Corporation (Class A)
 HAE,Haemonetics Corp.
 HAL,Halliburton Co.
 HASI,Hannon Armstrong Sustainable Infrastructure capital Inc
+HBB,Hamilton Beach Brands Holding Co (Class A)
 HBI,Hanesbrands Inc
 HCA,HCA Healthcare Inc
+HCFT,Hunt Companies Finance Trust Inc
 HCHC,HC2 Holdings Inc
+HCI,HCI Group Inc
 HD,"Home Depot, Inc."
 HDB,HDFC Bank Ltd.
 HE,"Hawaiian Electric Industries, Inc."
@@ -702,6 +723,7 @@ HUN,Huntsman Corp
 HVT,"Haverty Furniture Cos., Inc."
 HWM,Howmet Aerospace Inc
 HXL,Hexcel Corp.
+HY,Hyster-Yale Materials Handling Inc (Class A)
 HYLN,Hyliion Holdings Corporation (Class A)
 HZO,"Marinemax, Inc."
 IAA,IAA Inc
@@ -718,6 +740,7 @@ IFF,International Flavors & Fragrances Inc.
 IFS,Intercorp Financial Services Inc
 IGT,International Game Technology PLC
 IHG,Intercontinental Hotels Group
+IHT,Innsuites Hospitality Trust
 IIM,Invesco Value Municipal Income Trust
 IMAX,Imax Corp
 IMH,"Impac Mortgage Holdings, Inc."
@@ -751,11 +774,13 @@ ITW,"Illinois Tool Works, Inc."
 IVC,Invacare Corp.
 IVR,Invesco Mortgage Capital Inc
 IVZ,Invesco Ltd
+IX,Orix Corporation
 J,"Jacobs Engineering Group, Inc."
 JAX,J. Alexanders Holdings Inc
 JBGS,JBG SMITH Properties
 JBL,Jabil Inc
 JBT,John Bean Technologies Corp
+JCE,Nuveen Core Equity Alpha Fund
 JCI,Johnson Controls International plc
 JEF,Jefferies Financial Group Inc
 JKS,JinkoSolar Holding Co. Ltd
@@ -770,11 +795,11 @@ JPM,JPMorgan Chase & Co.
 JPS,Nuveen Preferred & Income Securities Fund
 JWN,"Nordstrom, Inc."
 K,Kellogg Co
+KAI,"Kadant, Inc."
 KAR,KAR Auction Services Inc
 KB,KB Financial Group Inc
 KBH,KB Home
 KBR,KBR Inc
-KCAC,Kensington Capital Acquisition Corp (Class A)
 KEP,Korea Electric Power
 KEX,Kirby Corp.
 KEY,Keycorp
@@ -793,6 +818,7 @@ KO,Coca-Cola Co
 KODK,Eastman Kodak Co.
 KOF,Coca-Cola Femsa S.A.B. DE C.V.
 KOP,Koppers Holdings Inc
+KOS,Kosmos Energy Ltd
 KR,Kroger Co.
 KRA,Kraton Corp
 KRC,Kilroy Realty Corp.
@@ -825,7 +851,7 @@ LEVI,Levi Strauss & Co.
 LFC,China Life Insurance Co
 LGF.A,Lions Gate Entertainment Corp. (Class A)
 LGF.B,Lions Gate Entertainment Corp. (Class B)
-LGVWU,Longview Acquisition Corp 1 Ord Share Class A & 1/3 War
+LGVW.UN,Longview Acquisition Corp 1 Ord Share Class A & 1/3 War
 LH,Laboratory Corp. Of America Holdings
 LHX,L3Harris Technologies Inc
 LII,Lennox International Inc
@@ -840,11 +866,12 @@ LNC,Lincoln National Corp.
 LNG,Cheniere Energy Inc.
 LNN,Lindsay Corporation
 LODE,Comstock Mining Inc
+LOV,Spark Networks SE
 LOW,"Lowe`s Cos., Inc."
 LPI,Laredo Petroleum Inc.
 LPL,LG Display Co Ltd.
 LPX,Louisiana-Pacific Corp.
-LRN,K12 Inc
+LRN,Stride Inc
 LSI,Life Storage Inc
 LTC,"LTC Properties, Inc."
 LTHM,Livent Corp
@@ -859,7 +886,6 @@ LYB,LyondellBasell Industries NV (Class A)
 LYG,Lloyds Banking Group plc
 LYV,Live Nation Entertainment Inc
 LZB,La-Z-Boy Inc.
-M,Macy`s Inc
 MA,Mastercard Incorporated (Class A)
 MAA,"Mid-America Apartment Communities, Inc."
 MAC,Macerich Co.
@@ -883,14 +909,15 @@ MDLA,Medallia Inc
 MDT,Medtronic Plc
 MED,Medifast Inc
 MEI,"Methode Electronics, Inc."
+MEN,BlackRock Munienhanced Fund Inc
 MET,Metlife Inc
 MFA,MFA Financial Inc
 MFG,"Mizuho Financial Group, Inc."
 MFGP,Micro Focus International Plc
 MG,Mistras Group Inc
-MGF,MFS Government Markets Income Trust
 MGM,MGM Resorts International
 MGP,MGM Growth Properties LLC (Class A)
+MHE,BlackRock Massachusetts Tax-Exempt Trust
 MHK,"Mohawk Industries, Inc."
 MHO,MI Homes Inc.
 MIC,Macquarie Infrastructure Corp
@@ -916,21 +943,23 @@ MOG.A,"Moog, Inc. (Class A)"
 MOH,Molina Healthcare Inc
 MOS,Mosaic Company
 MOV,"Movado Group, Inc."
+MP,MP Materials Corporation (Class A)
 MPC,Marathon Petroleum Corp
 MPLX,MPLX LP
 MPW,Medical Properties Trust Inc
-MR,Montage Resources Corp
 MRC,MRC Global Inc
 MRK,Merck & Co Inc
 MRO,Marathon Oil Corporation
 MS,Morgan Stanley
 MSA,MSA Safety Inc
+MSB,Mesabi Trust
 MSCI,MSCI Inc
 MSGE,Madison Square Garden Entertainment Corp (Class A)
 MSGN,MSG Networks Inc (Class A)
 MSGS,Madison Square Garden Sports Corp (Class A)
 MSI,Motorola Solutions Inc
 MSM,"MSC Industrial Direct Co., Inc. (Class A)"
+MSN,Emerson Radio Corp.
 MSP,Datto Holding Corp
 MT,New York Shares - Level III
 MTB,M & T Bank Corp
@@ -947,8 +976,10 @@ MTX,"Minerals Technologies, Inc."
 MTZ,Mastec Inc.
 MUC,BlackRock MuniHoldings California Quality Fund Inc
 MUFG,"Mitsubishi UFJ Financial Group, Inc."
+MUJ,BlackRock MuniHoldings New Jersey Quality Fund Inc
 MUR,Murphy Oil Corp.
 MUSA,Murphy USA Inc
+MVC,MVC Capital Inc
 MVO,MV Oil Trust
 MWA,Mueller Water Products Inc (Series A)
 MX,MagnaChip Semiconductor Corp
@@ -959,6 +990,7 @@ MYE,Myers Industries Inc.
 MYO,Myomo Inc
 MYOV,Myovant Sciences Ltd
 NAD,Nuveen Quality Municipal Income Fund
+NAN,Nuveen New York Quality Municipal Income Fund
 NAT,Nordic American Tankers Ltd
 NAV,Navistar International Corp.
 NAVB,Navidea Biopharmaceuticals Inc
@@ -978,11 +1010,13 @@ NHF,NexPoint Strategic Opportunities Fund
 NHI,"National Health Investors, Inc."
 NI,Nisource Inc. (Holding Co.)
 NINE,Nine Energy Service Inc
+NIO,NIO Inc
 NJR,New Jersey Resources Corporation
 NKE,"Nike, Inc. (Class B)"
 NLS,Nautilus Inc
 NLSN,Nielsen Holdings plc
 NLY,Annaly Capital Management Inc
+NM,"Navios Maritime Holdings, Inc."
 NMR,Nomura Holdings Inc.
 NNA,Navios Maritime Acquisition Corp
 NNN,National Retail Properties Inc
@@ -1008,8 +1042,10 @@ NTN,NTN Buzztime Inc
 NTP,Nam Tai Property Inc
 NTZ,Natuzzi S.P.A.
 NUE,Nucor Corp.
+NUM,Nuveen Michigan Quality Municipal Income Fund
 NUS,"Nu Skin Enterprises, Inc. (Class A)"
 NUV,Nuveen Municipal Value Fund Inc.
+NVGS,Navigator Holdings Ltd
 NVO,Novo Nordisk
 NVS,Novartis AG
 NVST,Envista Holdings Corp
@@ -1022,7 +1058,6 @@ NX,Quanex Building Products Corp
 NXRT,NexPoint Residential Trust Inc
 NYCB,New York Community Bancorp Inc.
 NYT,New York Times Co. (Class A)
-O,Realty Income Corp.
 OBLG,Oblong Inc
 OC,Owens Corning
 OCFT,Oneconnect Financial Technology Co Ltd
@@ -1056,7 +1091,6 @@ OTIS,Otis Worldwide Corp
 OUT,Outfront Media Inc
 OXM,"Oxford Industries, Inc."
 OXY,Occidental Petroleum Corp.
-PAA,Plains All American Pipeline LP
 PAC,Grupo Aeroportuario Del Pacifico SAB de CV
 PAG,Penske Automotive Group Inc
 PAM,Pampa Energia SA
@@ -1127,6 +1161,7 @@ PPG,"PPG Industries, Inc."
 PPL,PPL Corp
 PPT,Putnam Premier Income Trust
 PRA,Proassurance Corporation
+PRG,PROG Holdings Inc
 PRGO,Perrigo Company plc
 PRI,Primerica Inc
 PRK,Park National Corp.
@@ -1139,6 +1174,7 @@ PSB,"PS Business Parks, Inc."
 PSN,Parsons Corp
 PSO,Pearson plc
 PSTG,Pure Storage Inc (Class A)
+PSTH,Pershing Square Tontine Holdings Ltd (Class A)
 PSX,Phillips 66
 PSXP,Phillips 66 Partners LP
 PTN,Palatin Technologies Inc.
@@ -1152,6 +1188,7 @@ PZG,Paramount Gold Nevada Corp
 QD,Qudian Inc
 QEP,QEP Resources Inc
 QGEN,Qiagen NV
+QS,QuantumScape Corp (Class A)
 QTS,Qts Realty Trust Inc (Class A)
 QUAD,Quad/Graphics Inc (Class A)
 R,"Ryder System, Inc."
@@ -1177,7 +1214,6 @@ RGA,"Reinsurance Group Of America, Inc."
 RGR,"Sturm, Ruger & Co., Inc."
 RGS,Regis Corp.
 RH,RH (Class A)
-RHE,Regional Health Properties Inc
 RHI,Robert Half International Inc.
 RHP,Ryman Hospitality Properties Inc
 RIG,Transocean Ltd
@@ -1191,6 +1227,7 @@ RLH,Red Lion Hotels Corporation
 RLI,RLI Corp.
 RMAX,RE/MAX Holdings Inc (Class A)
 RMD,Resmed Inc.
+RMG,RMG Acquisition Corp (Class A)
 RMT,Royce Micro-Cap Trust Inc
 RNG,RingCentral Inc. (Class A)
 RNR,RenaissanceRe Holdings Ltd
@@ -1219,6 +1256,7 @@ SAM,"Boston Beer Co., Inc. (Class A)"
 SAN,Banco Santander S.A.
 SAP,Sap SE
 SB,"Safe Bulkers, Inc"
+SBE,Switchback Energy Acquisition Corp (Class A)
 SBH,Sally Beauty Holdings Inc
 SBOW,SilverBow Resources Inc
 SBS,Companhia de Saneamento Basico do Estado de Sao Paulo.
@@ -1239,6 +1277,7 @@ SFL,SFL Corporation Ltd
 SGU,Star Group L.P.
 SHAK,Shake Shack Inc (Class A)
 SHG,Shinhan Financial Group Co. Ltd.
+SHI,Sinopec Shanghai Petrochemical Co. Ltd.
 SHO,Sunstone Hotel Investors Inc
 SHW,Sherwin-Williams Co.
 SID,Companhia Siderurgica Nacional
@@ -1289,6 +1328,7 @@ SRC,Spirit Realty Capital Inc
 SRE,Sempra Energy
 SRG,Seritage Growth Properties (Class A)
 SRI,Stoneridge Inc.
+SRT,"Startek, Inc."
 SSD,"Simpson Manufacturing Co., Inc."
 SSL,Sasol Ltd
 SSTK,Shutterstock Inc
@@ -1314,6 +1354,7 @@ SWK,Stanley Black & Decker Inc
 SWM,"Schweitzer-Mauduit International, Inc."
 SWN,Southwestern Energy Company
 SWX,Southwest Gas Holdings Inc
+SXI,Standex International Corp.
 SXT,Sensient Technologies Corp.
 SYF,Synchrony Financial
 SYK,Stryker Corp.
@@ -1362,16 +1403,18 @@ TJX,"TJX Companies, Inc."
 TK,Teekay Corp
 TKC,Turkcell Iletisim Hizmetleri A.S.
 TKR,Timken Co.
-TLK,Telekomunikasi
+TLK,PT Telkom Indonesia Persero Tbk
 TLYS,Tillys Inc (Class A)
 TM,Toyota Motor Corporation
 TMBR,Timber Pharmaceuticals Inc
 TMHC,Taylor Morrison Home Corp.
 TMO,Thermo Fisher Scientific Inc.
+TMP,Tompkins Financial Corp
 TMST,TimkenSteel Corp
 TNC,Tennant Co.
 TNET,TriNet Group Inc
 TNK,Teekay Tankers Ltd (Class A)
+TNP,Tsakos Energy Navigation Limited
 TOL,Toll Brothers Inc.
 TOT,Total SE
 TPC,Tutor Perini Corp
@@ -1429,7 +1472,6 @@ UI,Ubiquiti Inc
 UIS,Unisys Corp.
 UL,Unilever plc
 UMH,UMH Properties Inc
-UN,New York Shares
 UNF,Unifirst Corp.
 UNFI,United Natural Foods Inc.
 UNH,Unitedhealth Group Inc
@@ -1438,7 +1480,6 @@ UNP,Union Pacific Corp.
 UPS,"United Parcel Service, Inc. (Class B)"
 URI,"United Rentals, Inc."
 USA,Liberty All-Star Equity Fund
-USB,U.S. Bancorp.
 USFD,US Foods Holding Corp
 USM,United States Cellular Corporation
 USNA,Usana Health Sciences Inc
@@ -1459,7 +1500,7 @@ VGR,Vector Group Ltd
 VHC,Virnetx Holding Corp
 VICI,VICI Properties Inc
 VIPS,Vipshop Holdings Ltd
-VIV,"Telefonica Brasil S.A.,"
+VIV,"Telefonica Brasil S.A., - ADR (Representing Ord)"
 VKI,Invesco Advantage Municipal Income Trust II
 VLO,Valero Energy Corp.
 VMC,Vulcan Materials Co
@@ -1472,6 +1513,8 @@ VNRX,VolitionRX Ltd
 VNT,Vontier Corporation
 VOLT,"Volt Information Sciences, Inc."
 VOYA,Voya Financial Inc
+VPG,Vishay Precision Group Inc
+VPV,Invesco Pennsylvania Value Municipal Income Trust
 VRTV,Veritiv Corp
 VSH,"Vishay Intertechnology, Inc."
 VST,Vistra Energy Corp
@@ -1533,9 +1576,11 @@ WWW,"Wolverine World Wide, Inc."
 WY,Weyerhaeuser Co.
 WYND,Wyndham Destinations Inc
 WYY,Widepoint Corp
+X,United States Steel Corp.
 XAN,Exantas Capital Corp
 XEC,Cimarex Energy Co.
 XIN,Xinyuan Real Estate Co. Ltd.
+XL,XL Fleet Corporation (Class A)
 XOM,Exxon Mobil Corp.
 XPO,XPO Logistics Inc
 XRX,Xerox Holdings Corp
@@ -1543,6 +1588,7 @@ XTNT,Xtant Medical Holdings Inc
 XXII,22nd Century Group Inc
 XYL,Xylem Inc
 Y,Alleghany Corp.
+YCBD,cbdMD Inc
 YELP,Yelp Inc
 YETI,YETI Holdings Inc
 YEXT,Yext Inc

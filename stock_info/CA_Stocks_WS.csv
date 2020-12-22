@@ -1,33 +1,42 @@
 symbol,name
 AAG.V,Aftermath Silver Ltd
 AAV.TO,Advantage Oil & Gas Ltd.
+ABRA.V,AbraPlata Resource Corp
 ABST.TO,Absolute Software Corp
 ABX.TO,Barrick Gold Corp.
+ABXX.NE,Abaxx Technologies Inc
 AC.TO,Air Canada Inc.
 ACB.TO,Aurora Cannabis Inc
 ACO-X.TO,Atco Ltd. (Class I)
 ACQ.TO,AutoCanada Inc
+ACST.V,Acasti Pharma Inc (Class A)
 AD-UN.TO,Alaris Equity Partners Income Trust
 ADK.V,Diagnos Inc.
 ADZN.V,Adventus Mining Corporation
 AEM.TO,Agnico Eagle Mines Ltd
+AEX.V,AEX Gold Inc
+AEZS.TO,Aeterna Zentaris Inc.
 AFE.V,Africa Energy Corp
 AFN.TO,Ag Growth International Inc
 AGF-B.TO,AGF Management Ltd. (Class B)
 AGI.TO,Alamos Gold Inc. (Class A)
 AH.TO,Aleafia Health Inc.
+AHC.TO,Apollo Healthcare Corp (Class B)
 AI.TO,Atrium Mortgage Investment Corp
 AIF.TO,Altus Group Ltd.
+AII.TO,Almonty Industries Inc
 AIM.TO,Aimia Inc
 AJX.TO,AgJunction Inc
+AKT-A.TO,Akita Drilling Ltd. (Class A)
 ALA.TO,AltaGas Ltd
-ALM.V,Alliance Mining Corp
+ALS.TO,Altius Minerals Corp.
+ALV.V,Alvopetro Energy Ltd
 ALY.V,AnalytixInsight Inc
 AMC.V,Arizona Metals Corp
-AMI.V,Athabasca Minerals Inc
 AMK.V,American Creek Resources Ltd
 AMM.TO,Almaden Minerals Ltd
 AMX.V,Amex Exploration Inc.
+AND.TO,Andlauer Healthcare Group Inc
 ANX.TO,Anaconda Mining Inc
 AOE-H.V,Access International Education LTD.
 AOI.TO,Africa Oil Corp
@@ -43,23 +52,26 @@ AR.TO,Argonaut Gold Inc
 ARE.TO,Aecon Group Inc.
 ARG.TO,Amerigo Resources Ltd
 ART.V,Arht Media Inc
-ARU.V,Aurania Resources Ltd
 ARX.TO,ARC Resources Ltd
 ASM.TO,Avino Silver & Gold Mines Ltd.
 AT.TO,AcuityAds Holdings Inc
 ATA.TO,"ATS Automation Tooling Systems, Inc."
 ATD-B.TO,"Alimentation-Couche Tard, Inc. (Class B)"
-ATE.V,Antibe Therapeutics Inc
+ATE.TO,Antibe Therapeutics Inc Common New
 ATH.TO,Athabasca Oil Corp
+ATP.TO,Atlantic Power Corp.
 ATY.V,Atico Mining Corp
 ATZ.TO,Aritzia Inc
+AU.V,Aurion Resources Ltd
 AUAU.V,Allegiant Gold Ltd
 AUMB.V,1911 Gold Corporation
 AUMN.TO,Golden Minerals Co
 AUN.V,Aurcana Silver Corp
 AUP.TO,Aurinia Pharmaceuticals Inc
-AUQ.V,AuQ Gold Mining Inc
+AUX.V,AUX Resources Corporation
+AVCN.TO,Avicanna Inc
 AX-UN.TO,Artis Real Estate Investment Trust
+AXIS.V,Axis Auto Finance Inc
 AXU.TO,Alexco Resource Corp
 AYA.TO,Aya Gold & Silver Inc
 AZM.V,Azimut Exploration Inc
@@ -69,6 +81,7 @@ BAD.TO,Badger Daylighting Ltd
 BAM-A.TO,Brookfield Asset Management Inc. (Class A)
 BB.TO,BlackBerry Ltd
 BBB.V,Brixton Metals Corporation
+BBD-A.TO,Bombardier Inc. (Class A)
 BBD-B.TO,Bombardier Inc. (Class B)
 BBTV.TO,BBTV Holdings Inc
 BBU-UN.TO,Brookfield Business Partners L.P.
@@ -88,6 +101,7 @@ BITF.V,Bitfarms Ltd.
 BLDP.TO,Ballard Power Systems Inc.
 BLU.TO,Bellus Health Inc
 BLX.TO,"Boralex, Inc. (Class A)"
+BME.V,Barsele Minerals Corp
 BMET.V,BeMetals Corp.
 BMEX.V,BMEX Gold Inc.
 BMO.TO,Bank of Montreal
@@ -101,34 +115,41 @@ BPY-UN.TO,Brookfield Property Partners L.P.
 BRAG.V,Bragg Gaming Group Inc
 BRC.V,Blackrock Gold Corp
 BRG.V,Brigadier Gold Ltd.
-BRO.V,Barksdale Resources Corp
+BRL-H.V,Bearclaw Capital Corp.
 BSR.V,Bluestone Resources Inc
 BSX.TO,Belo Sun Mining Corp
 BTB-UN.TO,BTB Real Estate Investment Trust - Unit
+BTCG-UN.TO,CI Galaxy Bitcoin Fund - Unit - Class A
 BTE.TO,Baytex Energy Corp
 BTO.TO,B2gold Corp
 BTR.V,Bonterra Resources Inc
 BU.TO,Burcon Nutrascience Corp
 BUS.V,Grande West Transportation Group Inc
 BYD.TO,Boyd Group Services Inc
+BYL.TO,Baylin Technologies Inc
 BZ.V,Benz Mining Corp
 CAD.V,Colonial Coal International Corp
 CAE.TO,Cae Inc.
-CAPT.V,Capitan Mining Inc
 CAR-UN.TO,Canadian Apartment Properties Real Estate Investment Trust
 CAS.TO,Cascades Inc.
+CBLU.V,Clear Blue Technologies International Inc.
 CBR.V,Cabral Gold Inc
 CCA.TO,Cogeco Communications Inc
 CCHW.NE,Columbia Care Inc
 CCL-B.TO,CCL Industries Inc. (Class B)
+CCM.TO,Canagold Resources Ltd
 CCO.TO,Cameco Corp.
 CCW.V,Canada Cobalt Works Inc
 CEU.TO,CES Energy Solutions Corp
 CF.TO,Canaccord Genuity Group Inc
+CFF.TO,Conifex Timber Inc
 CFP.TO,Canfor Corp.
 CFW.TO,Calfrac Well Services Ltd.
 CFX.TO,Canfor Pulp Products Inc
 CG.TO,Centerra Gold Inc.
+CGC.V,Caldas Gold Corp
+CGG.TO,China Gold International Resources Corp Ltd
+CGO.TO,Cogeco Inc.
 CGX.TO,Cineplex Inc
 CHE-UN.TO,Chemtrade Logistics Income Fund
 CHP-UN.TO,Choice Properties Real Estate Investment Trust
@@ -138,7 +159,6 @@ CIX.TO,CI Financial Corp
 CJ.TO,Cardinal Energy Ltd
 CJR-B.TO,"Corus Entertainment, Inc. (Class B)"
 CJT.TO,Cargojet Inc. Common and Variable Voting Shares
-CKI.TO,Clarke Inc
 CLIQ.TO,Alcanna Inc
 CLR.TO,Clearwater Seafoods Inc
 CLS.TO,"Celestica, Inc."
@@ -151,6 +171,7 @@ CNQ.TO,Canadian Natural Resources Ltd.
 CNR.TO,Canadian National Railway Co.
 CP.TO,Canadian Pacific Railway Ltd
 CPG.TO,Crescent Point Energy Corp
+CPH.TO,Cipher Pharmaceuticals Inc
 CPX.TO,Capital Power Corp
 CR.TO,Crew Energy Inc.
 CRBK.V,Carebook Technologies Inc.
@@ -162,33 +183,47 @@ CRR-UN.TO,Crombie Real Estate Investment Trust
 CRT-UN.TO,CT Real Estate Investment Trust
 CS.TO,Capstone Mining Corporation
 CSH-UN.TO,Chartwell Retirement Residences
+CSU.TO,Constellation Software Inc
 CTC-A.TO,"Canadian Tire Corp., Ltd. (Class A)"
 CTS.V,Converge Technology Solutions Corp.
-CTZ.V,NamSys Inc
+CTX.TO,Crescita Therapeutics Inc
 CU.TO,Canadian Utilities Ltd. (Class A)
+CUB.V,CubicFarm Systems Corp
+CUDA.V,Cuda Oil and Gas Inc
 CUF-UN.TO,Cominar Real Estate Investment Trust
-CUP-RT-U.TO,Caribbean Utilities Co Tradeable Rights Sep 2020
+CUR.V,International Consolidated Uranium Inc
+CVB.V,Compass Gold Corp
 CVE.TO,Cenovus Energy Inc
+CVV.V,Canalaska Uranium Ltd
 CVX.V,Cematrix Corporation
 CWB.TO,Canadian Western Bank
 CWEB.TO,Charlottes Web Holdings Inc
 CWX.TO,CanWel Building Materials Group Ltd
 CXB.TO,Calibre Mining Corp
+CYBN.NE,Cybin Inc
 CYP.V,Cypress Development Corp.
 D-UN.TO,Dream Office Real Estate Investment Trust (Series A)
 DB.V,Decibel Cannabis Company Inc
+DC-A.TO,Dundee Corporation (Class A)
 DCBO.TO,Docebo Inc
+DCM.TO,DATA Communications Management Corp
+DCMC.V,Dore Copper Mining Corp
+DEAL.V,Playgon Games Inc.
 DEF.V,Defiance Silver Corp
 DEX-H.V,Detector Exploration Ltd.
 DFN.TO,Dividend 15 Split Corp. (Class A)
+DGHI.V,Sub voting
+DGS.TO,Dividend Growth Split Corp (Class A)
 DIAM.TO,Star Diamond Corp
 DII-B.TO,Dorel Industries Inc. (Class B)
 DIR-UN.TO,Dream Industrial Real Estate Investment Trust
 DIV.TO,Diversified Royalty Corp
+DLTA.V,Delta Resources Ltd
 DME.V,Desert Mountain Energy Corp
 DML.TO,Denison Mines Corp
 DN.TO,Delta 9 Cannabis Inc
 DND.TO,Dye & Durham Ltd
+DNG.TO,Dynacor Gold Mines Inc
 DOC.V,CloudMD Software & Services Inc
 DOL.TO,Dollarama Inc
 DOO.TO,BRP Inc
@@ -196,16 +231,19 @@ DPM.TO,Dundee Precious Metals Inc.
 DR.TO,Medical Facilities Corp
 DRM.TO,DREAM Unlimited Corp (Class A)
 DRT.TO,DIRTT Environmental Solutions Ltd
+DRX.TO,ADF Group Inc
 DSG.TO,Descartes Systems Group Inc
 DSV.V,Discovery Metals Corp
 DV.V,Dolly Varden Silver Corp
+DXT.TO,Dexterra Group Inc
 DYA.TO,DynaCERT Inc
 ECN.TO,ECN Capital Corp
 ECO.TO,EcoSynthetix Inc
+ECOM.V,Emerge Commerce Ltd
 EDR.TO,Endeavour Silver Corp.
 EDT.TO,Spectral Medical Inc
 EDV.TO,Endeavour Mining Corp
-EFH.TO,Echelon Financial Holdings Inc
+EFL.TO,"Electrovaya, Inc."
 EFN.TO,Element Fleet Management Corp
 EFR.TO,Energy Fuels Inc
 EFX.TO,Enerflex Ltd
@@ -218,52 +256,62 @@ ELEF.TO,Silver Elephant Mining Corp
 ELO.V,Eloro Resources Ltd
 ELY.V,Ely Gold Royalties Inc
 EMA.TO,Emera Inc.
-EMH.V,Emerald Health Therapeutics Inc
+EMN.V,Euro Manganese Inc
 EMP-A.TO,"Empire Co., Ltd. (Class A)"
 ENB.TO,Enbridge Inc
 ENGH.TO,Enghouse Systems Ltd
 ENW.V,Enwave Corp.
 EOG.V,Eco (Atlantic) Oil & Gas Ltd
+EQB.TO,Equitable Group Inc.
 EQX.TO,Equinox Gold Corp
 ERD.TO,Erdene Resource Development Corp
 ERE-UN.TO,European Residential Real Estate Investment Trust
 ERF.TO,Enerplus Corporation
 ERO.TO,Ero Copper Corp
+ESE.V,ESE Entertainment Inc.
 ESI.TO,Ensign Energy Services Inc
 ESK.V,Eskay Mining Corp
 ESM.TO,Euro Sun Mining Inc
 ESX.V,Essex Minerals Inc
+ETG.TO,Entree Resources Ltd
+ETHC.NE,Ether Capital Corp
 ETMC.V,E3 Metals Corp
+EU.V,enCore Energy Corp
 EVER.V,Evergold Corp
 EXE.TO,Extendicare Inc
 EXN.TO,Excellon Resources Inc
-EXP.V,Experion Holdings Ltd
 EXRO.V,Exro Technologies Inc
 FAF.TO,Fire & Flower Holdings Corp
+FAP.TO,Aberdeen Asia-Pacific Income Investment Co. Ltd
+FC.TO,Firm Capital Mortgage Investment Corporation
 FCF.V,Founders Advantage Capital Corp
 FCR-UN.TO,First Capital Real Estate Investment Trust
 FCU.TO,Fission Uranium Corp
 FD.V,Facedrive Inc
 FEC.TO,Frontera Energy Corporation
 FF.TO,First Mining Gold Corp
-FIND.V,Baselode Energy Corp.
+FFH.TO,"Fairfax Financial Holdings, Ltd."
+FFN.TO,North American Financial 15 Split Corp (Class A)
+FIH-U.TO,Fairfax India Holdings Corp
 FIRE.TO,The Supreme Cannabis Company Inc
+FKS-H.V,Folkstone Capital Corp
 FLT.V,Drone Delivery Canada Corp
+FLWR.V,Flowr Corp. (The)
 FLY.V,FLYHT Aerospace Solutions Ltd
 FM.TO,First Quantum Minerals Ltd.
+FN.TO,First National Financial Corporation
 FNV.TO,Franco-Nevada Corporation
+FOM.V,Foran Mining Corp.
 FOOD.TO,Goodfood Market Corp
 FPC.V,Falco Resources Ltd.
 FPX.V,FPX Nickel Corp
 FR.TO,First Majestic Silver Corporation
 FRI.V,Freeport Resources Inc.
 FRII.TO,Freshii Inc (Class A)
-FRO-UN.V,Fronsac Real Estate Investment Trust
 FRU.TO,Freehold Royalties Ltd
 FSV.TO,FirstService Corp
 FSX.V,Fosterville South Exploration Ltd
 FSZ.TO,Fiera Capital Corp (Class A)
-FTI.V,FTI Foodtech International Inc.
 FTN.TO,Financial 15 Split Corp. (Class A)
 FTS.TO,Fortis Inc.
 FTT.TO,Finning International Inc.
@@ -272,15 +320,14 @@ FVAN.V,First Vanadium Corp
 FVI.TO,Fortuna Silver Mines Inc.
 FVL.TO,Freegold Ventures Ltd
 FWZ.V,Fireweed Zinc Ltd
-GASX.V,NGX Energy International Corp.
-GATO.TO,Gatos Silver Inc
+GASX.V,NG Energy International Corp.
 GAU.TO,Galiano Gold Inc
 GBR.V,Great Bear Resources Ltd
 GBRC.V,Gold Bull Resources Corp.
-GBU.V,Gabriel Resources Ltd.
 GC.TO,Great Canadian Gaming Corp.
 GCL.TO,Colabor Group Inc
 GCM.TO,Gran Colombia Gold Corp
+GDNP.V,Good natured Products Inc
 GEI.TO,Gibson Energy Inc
 GENM.TO,Generation Mining Ltd
 GFL.TO,GFL Environmental Inc.
@@ -290,38 +337,39 @@ GHE-H.V,Gold Horn International Enterprises Group Ltd
 GIB-A.TO,CGI Inc (Class A)
 GIGA.V,Giga Metals Corp
 GIL.TO,Gildan Activewear Inc
-GKO.V,Geekco Technologies Corporation
 GLD.V,GoldON Resources Ltd
 GLDC.V,Cassiar Gold Corp
 GLDX.V,Gold X Mining Corp
 GLO.TO,Global Atomic Corp
 GLXY.TO,Galaxy Digital Holdings Ltd.
-GMO.TO,General Moly Inc
-GMP.TO,GMP Capital Inc
+GMIN.V,G Mining Ventures Corp.
+GOG.V,Golden Tag Resources Ltd.
 GOLD.TO,GoldMining Inc
 GOOS.TO,Canada Goose Holdings Inc
-GPH.V,Graphite One Inc
 GPR.TO,Great Panther Mining Ltd
+GPV.V,GreenPower Motor Company Inc
 GRA.V,NanoXplore Inc
 GRB.V,Greenbriar Capital Corp
 GRN.V,Greenlane Renewables Inc
 GRSL.V,Gr Silver Mining Ltd
 GRT-UN.TO,Granite Real Estate Investment Trust
 GSI.V,Gatekeeper Systems Inc.
+GSPR.V,GSP Resource Corp
 GSV.TO,Gold Standard Ventures Corp
 GSY.TO,Goeasy Ltd
 GTE.TO,Gran Tierra Energy Inc
 GTEC.V,GTEC Holdings Ltd
+GTMS.TO,Greenbrook TMS Inc
 GTR.V,Gatling Exploration Inc
 GTT.V,GT Gold Corp
 GTWO.V,G2 Goldfields Inc
 GUD.TO,Knight Therapeutics Inc
 GURU.TO,GURU Organic Energy Corp.
-GVC.TO,Glacier Media Inc
 GWM.V,Galway Metals Inc
 GWO.TO,Great-West Lifeco Inc
 GXE.TO,Gear Energy Ltd
 H.TO,Hydro One Ltd
+HAI.TO,Haivision Systems Inc
 HAN.V,Hannan Metals ltd
 HAPB.V,HAPBEE TECHNOLOGIES INC.
 HBM.TO,Hudbay Minerals Inc.
@@ -329,32 +377,40 @@ HCG.TO,Home Capital Group Inc.
 HDI.TO,Hardwoods Distribution Inc
 HEO.V,H2O Innovation Inc
 HEXO.TO,HEXO Corp
+HFPC-U.TO,Helios Fairfax Partners Corp
 HIRE.V,Hire Technologies Inc
 HIVE.V,HIVE Blockchain Technologies Ltd
 HLF.TO,High Liner Foods Inc
 HLS.TO,HLS Therapeutics Inc
-HNL.TO,Horizon North Logistics Inc
-HOC.V,Hunter Oil Corp
 HOT-UN.TO,American Hotel Income Properties REIT LP
 HPQ.V,HPQ-Silicon Resources Inc
 HR-UN.TO,H&R Real Estate Investment Trust
 HRX.TO,Heroux-Devtek Inc.
 HSE.TO,Husky Energy Inc.
-HSTR.V,Heliostar Metals Ltd
+HTL.V,Hamilton Thorne Ltd
 HUT.TO,Hut 8 Mining Corp
+HVT.V,Harvest One Cannabis Inc
+HWO.TO,High Arctic Energy Services Inc
 HWX.TO,Headwater Exploration Inc
 IAG.TO,iA Financial Corp
+IBG.TO,IBI Group Inc
+IDG.TO,Indigo Books & Music Inc
 IFC.TO,Intact Financial Corp
 IFP.TO,Interfor Corp
 IGM.TO,IGM Financial Inc.
+III.TO,Imperial Metals Corp.
 IIP-UN.TO,InterRent Real Estate Investment Trust
 IMG.TO,Iamgold Corp.
 IMO.TO,Imperial Oil Ltd.
 IMV.TO,IMV Inc
+IN.TO,InMed Pharmaceuticals Inc
 INE.TO,Innergex Renewable Energy Inc
+INO-UN.TO,Inovalis Real Estate Investment Trust
 INP.V,Input Capital Corp
+INV.TO,INV Metals Inc
+IO.V,Inca One Gold Corp
+ION.V,Ion Energy Ltd.
 IPA.V,ImmunoPrecise Antibodies Ltd
-IPCI.TO,Intellipharmaceutics International Inc
 IPL.TO,Inter Pipeline Ltd
 IPO.TO,InPlay Oil Corp
 IPT.V,Impact Silver Corp.
@@ -364,53 +420,62 @@ ITR.V,Integra Resources Corp
 IVN.TO,Ivanhoe Mines Ltd. (Class A)
 JAG.TO,Jaguar Mining Inc
 JE.TO,Just Energy Group Inc
+JET.V,Global Crossing Airlines Inc
 JNH.V,Jack Nathan Medical Corp.
 JOSE.TO,Josemaria Resources Inc
+JOY.TO,Journey Energy Inc
 JWEL.TO,Jamieson Wellness Inc
 K.TO,Kinross Gold Corp.
 KDK.V,Kodiak Copper Corp
-KDSX.V,Kadestone Capital Corp
 KEL.TO,Kelt Exploration Ltd
 KEY.TO,Keyera Corp
 KHRN.V,Khiron Life Sciences Corp
 KL.TO,Kirkland Lake Gold Ltd
 KMP-UN.TO,Killam Apartment Reit
 KNC.V,K9 Gold Corp.
-KNT.V,K92 Mining Inc
+KNT.TO,K92 Mining Inc
 KOR.TO,Corvus Gold Inc
 KORE.V,Kore Mining Ltd
 KRR.TO,Karora Resources Inc
 KTN.V,Kootenay Silver Inc
 KTO.V,K2 Gold Corp
-KUU.V,KuuHubb Inc
-KWE.V,KWESST Micro Systems Inc.
+KUT.V,Redishred Capital Corp
 KXS.TO,Kinaxis Inc
 L.TO,Loblaw Cos. Ltd.
 LAB.V,Labrador Gold Corp
 LABS.TO,Medipharm Labs Corp
 LAC.TO,Lithium Americas Corp
 LB.TO,Laurentian Bank Of Canada
+LBS.TO,Life & Banc Split Corp (Class A)
+LBY.V,Liberty One Lithium Corp
+LFE.TO,Canadian Life Companies Split Corp (Class A)
 LGD.TO,Liberty Gold Corp.
 LGO.TO,Largo Resources Ltd.
 LI.V,American Lithium Corp
 LIF.TO,Labrador Iron Ore Royalty Corp
 LIO.V,Lion One Metals Ltd
-LIS.V,Lithium South Development Corporation
+LN.TO,Loncor Resources Inc
 LNR.TO,Linamar Corp.
+LPS.V,Legend Power Systems Inc.
+LR.V,Luminex Resources Corp
 LSPD.TO,Lightspeed POS Inc
 LTE.V,Lite Access Technologies Inc
-LTV.V,LeoNovus Inc
 LUC.TO,Lucara Diamond Corp
 LUG.TO,Lundin Gold Inc
 LUM.V,Lumina Gold Corp
 LUN.TO,Lundin Mining Corp.
+LXE.V,Leucrotta Exploration Inc.
 LXG.V,Lexagene Holdings Inc
 MAG.TO,MAG Silver Corp.
 MAI.V,Minera Alamos Inc
+MAL.TO,Magellan Aerospace Corp.
 MAU.V,Montage Gold Corp
 MAW.TO,Mawson Gold Ltd
 MAX.TO,Midas Gold Corp
 MAXR.TO,Maxar Technologies Inc
+MBCN.TO,MindBeacon Holdings Inc
+MBX.TO,Microbix Biosystems Inc.
+MCLD.V,mCloud Technologies Corp
 MDF.TO,mdf commerce inc
 MDI.TO,Major Drilling Group International Inc.
 MEG.TO,MEG Energy Corp
@@ -423,6 +488,7 @@ MGR.V,Magna Gold Corp
 MI-UN.TO,Minto Apartment Real Estate Investment Trust
 MIC.TO,Genworth MI Canada Inc
 MILE.V,Last Mile Holdings Ltd
+MIN.TO,Excelsior Mining Corp
 MIR.V,Medmira Inc
 MKO.V,Mako Mining Corp
 ML.V,Millennial Lithium Corp
@@ -432,22 +498,28 @@ MMS.V,Macarthur Minerals Ltd
 MMV.V,Mineral Mountain Resources Ltd
 MMX.TO,Maverix Metals Inc
 MN.V,Manganese X Energy Corp
+MND.TO,Mandalay Resources Corp
+MNT.TO,Canadian Gold Reserves Exchange-Traded Receipts
 MOGO.TO,Mogo Inc
 MOZ.TO,Marathon Gold Corporation
 MPCT-UN.TO,Dream Impact Trust
 MPVD.TO,Mountain Province Diamonds Inc
 MQR.TO,Monarch Gold Corp
 MRE.TO,"Martinrea International, Inc."
+MRG-UN.TO,Morguard North American Residential Real Estate Investment Trust
 MRT-UN.TO,Morguard Real Estate Investment Trust
 MRU.TO,Metro Inc
 MRZ.V,Mirasol Resources Ltd
 MSI.TO,Morneau Shepell Inc
-MSV.TO,Minco Silver Corporation
+MTA.V,Metalla Royalty and Streaming Ltd
+MTB.V,Mountain Boy Minerals Ltd.
 MTL.TO,Mullen Group Ltd
 MTRX.V,Loop Insights Inc
+MTS.V,Metallis Resources Inc
 MTY.TO,MTY Food Group Inc.
 MUX.TO,McEwen Mining Inc
 MX.TO,Methanex Corp.
+MXR.V,Max Resource Corp.
 N.V,Namaste Technologies Inc
 NA.TO,National Bank Of Canada
 NB.TO,NioCorp Developments Ltd
@@ -457,38 +529,42 @@ NCAU.V,Newcore Gold Ltd.
 NDM.TO,Northern Dynasty Minerals Ltd.
 NEE.V,Northern Vertex Mining Corp
 NEPT.TO,Neptune Wellness Solutions Inc
+NEXE.V,NEXE Innovations Inc (Class A)
 NFG.V,New Found Gold Corp
 NFI.TO,NFI Group Inc
 NG.TO,Novagold Resources Inc.
 NGD.TO,New Gold Inc
 NGLD.V,New Placer Dome Gold Corp.
 NGT.TO,Newmont Corp
-NHF-UN.TO,Northview CADN High Yield Residential Fund
 NHK.TO,Nighthawk Gold Corp
+NIF-UN.TO,Noranda Income Fund
 NLC.V,Neo Lithium Corp
 NLH.V,Nova Leap Health Corp
 NNO.V,Nano One Materials Corp
 NOA.TO,North American Construction Group Ltd
+NOU.V,Nouveau Monde Graphite Inc
 NOVR.V,Nova Royalty Corp.
 NPI.TO,Northland Power Inc.
 NPTH.V,NeuPath Health Inc
-NRTH.V,48North Cannabis Corp.
-NSE.V,New Stratus Energy Inc
+NRM.V,Noram Ventures Inc
 NSR.TO,Nomad Royalty Company Ltd
 NTR.TO,Nutrien Ltd
 NTS.V,Nanotech Security Corp
-NUAG.TO,New Pacific Metals Corp
+NUAG.TO,New Pacific Metals Corp.
 NUMI.V,Numinus Wellness Inc.
 NVA.TO,Nuvista Energy Ltd.
+NVCN.TO,Neovasc Inc
 NVEI.TO,Nuvei Corporation
 NVO.V,Novo Resources Corp
 NWC.TO,North West Company Inc
 NWH-UN.TO,NorthWest Healthcare Properties REIT Investment Trust
+NWX.V,Newport Exploration Ltd
 NXE.TO,NexGen Energy Ltd
 NXO.V,Nexoptic Technology Corp
 NXR-UN.V,Nexus Real Estate Investment Trust.
 OCG.V,Outcrop Gold Corp
 OCO.V,Oroco Resource Corp
+ODV.V,Osisko Development Corp
 OGC.TO,OceanaGold Corporation
 OGI.TO,OrganiGram Holdings Inc.
 OGN.V,Orogen Royalties Inc
@@ -499,10 +575,10 @@ OMI.TO,Orosur Mining Inc
 OMM.V,Omineca Mining and Metals Ltd
 ONC.TO,"Oncolytics Biotech, Inc."
 ONEX.TO,Onex Corp.
+OPS.TO,Opsens Inc
 OR.TO,Osisko Gold Royalties Ltd
 ORE.V,Orezone Gold Corp
 ORG.V,Orca Gold Inc
-OROX.V,Oro X Mining Corp
 OSB.TO,Norbord Inc.
 OSI.V,Osino Resources Corp.
 OSK.TO,Osisko Mining Inc
@@ -515,18 +591,22 @@ PAT.TO,Patriot One Technologies Inc
 PBH.TO,Premium Brands Holdings Corp
 PCLO.V,PharmaCielo Ltd.
 PD.TO,Precision Drilling Corp
+PE.V,Pure Energy Minerals Ltd
 PEA.TO,Pieridae Energy Ltd
 PEAK.V,Sun Peak Metals Corp.
 PEO.V,People Corp
 PERU.V,Chakana Copper Corp
 PEY.TO,Peyto Exploration & Development Corp.
+PFM.V,ProntoForms Corp
 PG.TO,Premier Gold Mines Ltd
 PGM.V,Pure Gold Mining Inc
 PGZ.V,Pan Global Resources Inc
 PHO.TO,"Photon Control, Inc."
+PHX.TO,PHX Energy Services Corp
 PHYS.TO,Sprott Physical Gold Trust
+PIF.TO,Polaris Infrastructure Inc
 PINK.V,Perimeter Medical Imaging AI Inc
-PIPE.V,Pipestone Energy Corp.
+PIPE.TO,Pipestone Energy Corp.
 PKI.TO,Parkland Corp
 PL.TO,Pinnacle Renewable Energy Inc
 PLC.TO,Park Lawn Corp
@@ -535,6 +615,7 @@ PNG.V,Kraken Robotics Inc
 POPR.V,PopReach Corporation
 POU.TO,Paramount Resources Ltd. (Class A)
 POW.TO,Power Corp. Of Canada
+PPK.V,Prospect Park Capital Corp
 PPL.TO,Pembina Pipeline Corporation
 PRB.V,Probe Metals Inc
 PRMW.TO,Primo Water Corporation
@@ -545,16 +626,18 @@ PRYM.V,Prime Mining Corp
 PSH.V,PetroShale Inc
 PSI.TO,Pason Systems Inc.
 PSK.TO,PrairieSky Royalty Ltd
+PSLV.TO,Sprott Physical Silver Trust
 PTK.V,POET Technologies Inc
+PTM.TO,Platinum Group Metals Ltd.
 PTQ.V,Protech Home Medical Corp.
 PVG.TO,Pretium Resources Inc
 PWM.V,Power Metals Corp
 PXI.V,Planet Ventures Inc
 PXT.TO,Parex Resources Inc
-PYR.V,Pyrogenesis Canada Inc
+PYR.TO,Pyrogenesis Canada Inc
+PZA.TO,Pizza Pizza RoyaltyCorp
 QBR-B.TO,Quebecor Inc. (Class B)
 QBTC-U.TO,The Bitcoin Fund - Unit - Class A
-QGR.V,Q-Gold Resources Ltd.
 QRC.V,Queen`s Road Capital Investment Ltd
 QSC.NE,QuestCap Inc
 QSR.TO,Restaurant Brands International Inc
@@ -563,6 +646,9 @@ QTRH.TO,Quarterhill Inc
 QUIS.V,Quisitive Technology Solutions Inc
 RAY-A.TO,Stingray Group Inc
 RBA.TO,Ritchie Bros Auctioneers Inc
+RCG-PR-B.TO,RF Capital Group Inc - FXDFR PRF PERPETUAL CAD 25 - Ser B
+RCG-PR-C.TO,RF Capital Group Inc - FR PRF PERPETUAL CAD - Ser C
+RCG.TO,RF Capital Group Inc
 RCH.TO,Richelieu Hardware Ltd.
 RCI-B.TO,Rogers Communications Inc. (Class B)
 RDG.V,Ridgeline Minerals Corp.
@@ -573,25 +659,30 @@ REG.V,Regulus Resources Inc
 REI-UN.TO,RioCan Real Estate Investment Trust
 RET-A.V,Reitmans Ltd. (Class A)
 REVO.V,RevoluGROUP Canada Inc
+RHC.V,Royal Helium Ltd
 RHT.V,Reliq Health Technologies Inc
 RIO.V,Rio2 Ltd.
 RIV.TO,Canopy Rivers Inc
 RKR.V,Rokmaster Resources Corp
+RME.TO,Rocky Mountain Dealerships Inc
 RNW.TO,TransAlta Renewables Inc
+ROI.V,Route1 Inc.
+ROMJ.V,Rubicon Organics Inc
 ROS.V,Roscan Gold Corp.
 ROXG.TO,Roxgold Inc
 RSI.TO,Rogers Sugar Inc
 RSLV.V,Reyna Silver Corp
-RTI.V,Radient Technologies Inc
 RUP.V,Rupert Resources Ltd.
 RUS.TO,Russel Metals Inc.
 RVG.V,Revival Gold Inc
-RVX.TO,Resverlogix Corp.
+RW.V,RenoWorks Software Inc
 RY.TO,Royal Bank of Canada
 RYE.V,Rhyolite Resources Ltd
-SA-H.V,Class A
+RZE.V,Razor Energy Corp
+SAG.V,Sterling Metals Corp.
 SAP.TO,Saputo Inc
 SBB.TO,Sabina Gold & Silver Corp
+SBC.TO,Brompton Split Banc Corp. (Class A)
 SBM.V,Sirona Biochem Corp
 SCL.TO,ShawCor Ltd.
 SCOT.V,Scottie Resources Corp
@@ -609,13 +700,14 @@ SIL.TO,SilverCrest Metals Inc
 SIS.TO,Savaria Corp.
 SJ.TO,Stella-Jones Inc.
 SJR-B.TO,Shaw Communications Inc. (Class B)
-SKE.TO,Skeena Resources Ltd
+SKE.TO,Skeena Resources Limited
 SLF.TO,"Sun Life Financial, Inc."
 SLL.V,Standard Lithium Ltd
 SLV-H.V,Stealth Ventures Inc
 SLVR.V,Silver Tiger Metals Inc
 SMD.V,Strategic Metals Ltd
 SMP.V,Southern Empire Resources Corp
+SMT.TO,Sierra Metals Inc
 SMU-UN.TO,Summit Industrial Income REIT
 SMVEN.NE,Silver Maple Ventures Inc
 SNC.TO,SNC - Lavalin Group Inc.
@@ -625,30 +717,35 @@ SOY.TO,"Sunopta, Inc."
 SPA.V,Spanish Mountain Gold Ltd
 SPB.TO,Superior Plus Corp
 SRU-UN.TO,SmartCentres Real Estate Investment Trust
+SRV-UN.TO,SIR Royalty Income Fund
 SRX.TO,Storm Resources Ltd
 SSL.TO,Sandstorm Gold Ltd
 SSRM.TO,SSR Mining Inc
 SSV.V,Southern Silver Exploration Corp.
 STC.V,Sangoma Technologies Corporation
 STE.V,Starr Peak Exploration Ltd
-STEP.TO,STEP Energy Services Ltd
+STGO.TO,Steppe Gold Ltd
 STLC.TO,Stelco Holdings Inc
 STN.TO,Stantec Inc
 SU.TO,"Suncor Energy, Inc."
 SUP.V,Northern Superior Resources Inc
+SURG.V,Surge Copper Corp.
+SV-H.V,Savannah Minerals Corp.
+SVC-A-U.NE,Subversive Capital Acquisition Corp (Class A)
 SVI.V,Storagevault Canada Inc
 SVM.TO,Silvercorp Metals Inc
+SW.TO,Sierra Wireless Inc
 SWA.V,Sarama Resources Ltd
+SXP.TO,Supremex Inc
 SZLS.TO,StageZero Life Sciences Ltd
-T.TO,Telus Corp.
 TA.TO,Transalta Corp.
 TAL.V,PetroTal Corp
+TBL.TO,Taiga Building Products Ltd
 TBP.TO,Tetra Bio-Pharma Inc
 TBRD.V,Thunderbird Entertainment Group Inc
 TBX.V,Turmalina Metals Corp
 TCL-A.TO,"Transcontinental, Inc. (Class A)"
 TCN.TO,Tricon Residential Inc
-TCS.TO,Tecsys Inc
 TCW.TO,"Trican Well Service, Ltd."
 TD.TO,Toronto Dominion Bank
 TECK-B.TO,Teck Resources Ltd (Class B)
@@ -665,12 +762,13 @@ TIH.TO,Toromont Industries Ltd.
 TKO.TO,Taseko Mines Ltd.
 TLG.TO,Troilus Gold Corp
 TM.V,Trigon Metals Inc
+TMD.TO,Titan Medical Inc
 TML.TO,Treasury Metals Inc
 TMR.TO,TMAC Resources Inc
 TNT-UN.TO,True North Commercial Real Estate Investment Trust
 TOG.TO,TORC Oil & Gas Ltd
 TORO.V,Pucara Gold Ltd.
-TORQ.V,Torq Resources Inc
+TORR.V,Torrent Capital Ltd
 TOT.TO,Total Energy Services Inc
 TOU.TO,Tourmaline Oil Corp
 TOY.TO,Spin Master Corp
@@ -689,11 +787,13 @@ TWM.TO,Tidewater Midstream and Infrastructure Ltd
 TXG.TO,Torex Gold Resources Inc
 TXP.TO,Touchstone Exploration Inc.
 U.TO,Uranium Participation Corporation
+UCU.V,Ucore Rare Metals Inc
+UFS.TO,Domtar Corporation
 UGD.V,"Unigold, Inc."
 UGE.V,UGE International Ltd
 UNS.TO,Uni-Select Inc.
-URB-A.TO,Urbana Corp. (Class A)
 URC.V,Uranium Royalty Corp
+URE.TO,Ur-Energy Inc.
 USA.TO,Americas Gold and Silver Corp
 VET.TO,Vermilion Energy Inc
 VFF.TO,Village Farms International Inc
@@ -703,26 +803,33 @@ VHI.V,Vitalhub Corp
 VII.TO,Seven Generations Energy Ltd. (Class A)
 VIPR.V,Silver Viper Minerals Corp
 VISN.V,Binovi Technologies Corp.
+VIV.V,Avivagen Inc
 VIVO.TO,VIVO Cannabis Inc.
+VLC.V,Velocity Minerals Ltd
 VLE.TO,Valeura Energy Inc
 VLNS.TO,Valens Company Inc (The)
 VMD.TO,Viemed Healthcare Inc
+VMX.V,Victory Metals Inc
+VRR.V,VR Resources Ltd
 VSR.V,Vanstar Mining Resources Inc
 VZLA.V,Vizsla Resources Corp
-WBR.TO,Waterloo Brewing Ltd
+WAV-H.V,Pepcap Resources Inc
+WBE.V,Westbond Enterprises Corp
 WCN.TO,Waste Connections Inc
 WCP.TO,Whitecap Resources Inc
 WDO.TO,Wesdome Gold Mines Ltd.
+WE.V,WeCommerce Holdings Ltd (Class A)
 WED.V,Westaim Corp
 WEED.TO,Canopy Growth Corporation
 WEF.TO,Western Forest Products Inc.
 WELL.TO,WELL Health Technologies Corp
-WEST.V,West Mining Corp.
 WFT.TO,"West Fraser Timber Co., Ltd."
 WGO.V,White Gold Corp
+WHG.V,Whitehorse Gold Corp
 WHN.V,Westhaven Gold Corp.
 WILD.TO,WildBrain Ltd
 WIR-U.TO,WPT Industrial Real Estate Investment Trust
+WISH.V,Wishpond Technologies Ltd.
 WJX.TO,Wajax Corp
 WLLW.TO,Willow Biosciences Inc
 WM.TO,Wallbridge Mining Company Ltd.
@@ -738,11 +845,14 @@ WTE.TO,Westshore Terminals Investment Corporation
 X.TO,TMX Group Ltd
 XAU.TO,GoldMoney Inc
 XBC.V,Xebec Adsorption Inc
+XIM.V,Ximen Mining Corp
 XLY.V,Auxly Cannabis Group Inc.
-YDX.V,YDx Innovation Corp
+XX.V,Avante Logixx Inc
 YGR.TO,Yangarra Resources Ltd
 YGT.V,Gold Terra Resource Corp
+YNV.V,Ynvisible Interactive Inc (Class A)
 YRI.TO,Yamana Gold Inc.
 ZEN.V,ZEN Graphene Solutions Ltd
 ZFR.V,Zephyr Minerals Ltd
+ZOMD.V,Zoomd Technologies Ltd
 ZZZ.TO,Sleep Country Canada Holdings Inc

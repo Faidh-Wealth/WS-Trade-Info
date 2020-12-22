@@ -8,6 +8,7 @@ ABCB,Ameris Bancorp
 ABEO,Abeona Therapeutics Inc
 ABIO,ARCA biopharma Inc
 ABMD,Abiomed Inc.
+ABNB,Airbnb Inc (Class A)
 ABUS,Arbutus Biopharma Corp
 ACAD,Acadia Pharmaceuticals Inc
 ACBI,Atlantic Capital Bancshares Inc
@@ -28,6 +29,7 @@ ADP,Automatic Data Processing Inc.
 ADPT,Adaptive Biotechnologies Corp
 ADSK,Autodesk Inc.
 ADTN,Adtran Inc.
+ADTX,Aditx Therapeutics Inc
 ADXS,"Advaxis, Inc."
 AEGN,Aegion Corp
 AEHL,Antelope Enterprise Holdings Ltd
@@ -60,7 +62,6 @@ ALSK,Alaska Communications Systems Group Inc
 ALT,Altimmune Inc
 ALVR,AlloVir Inc
 ALXN,Alexion Pharmaceuticals Inc.
-AMAG,AMAG Pharmaceuticals Inc
 AMAT,Applied Materials Inc.
 AMBA,Ambarella Inc
 AMCX,AMC Networks Inc (Class A)
@@ -76,6 +77,7 @@ AMRS,Amyris Inc
 AMSC,American Superconductor Corp.
 AMSWA,American Software Inc. (Class A)
 AMWD,American Woodmark Corp.
+AMYT,Amryt Pharma Plc
 AMZN,Amazon.com Inc.
 ANDE,Andersons Inc.
 ANGO,Angiodynamic Inc
@@ -93,16 +95,18 @@ APEN,Apollo Endosurgery Inc
 APOG,Apogee Enterprises Inc.
 APPN,Appian Corp (Class A)
 APPS,Digital Turbine Inc
+APVO,Aptevo Therapeutics Inc
+APYX,Apyx Medical Corp
 AQB,AquaBounty Technologies Inc
 AQMS,Aqua Metals Inc
 ARAV,Aravive Inc
 ARAY,Accuray Inc
 ARCB,ArcBest Corp
 ARCC,Ares Capital Corp
+ARKR,Ark Restaurants Corp.
 ARLP,"Alliance Resource Partners, LP"
 ARNA,Arena Pharmaceuticals Inc
 ARRY,Array Technologies Inc
-ARTW,Art`s-way Manufacturing Co. Inc.
 ARWR,Arrowhead Pharmaceuticals Inc.
 ASML,New York Shares
 ASO,Academy Sports and Outdoors Inc
@@ -114,6 +118,7 @@ ASUR,Asure Software Inc
 ATAX,America First Multifamily Investors LP
 ATHE,Alterity Therapeutics Ltd
 ATHX,Athersys Inc
+ATNI,ATN International Inc
 ATRO,Astronics Corp.
 ATRS,Antares Pharma Inc
 ATSG,Air Transport Services Group Inc
@@ -127,10 +132,12 @@ AVEO,AVEO Pharmaceuticals Inc
 AVGO,Broadcom Inc
 AVID,"Avid Technology, Inc."
 AVIR,Atea Pharmaceuticals Inc
+AVNW,Aviat Networks Inc
 AVO,Mission Produce Inc
 AVT,Avnet Inc.
 AVXL,Anavex Life Sciences Corporation
 AWH,Aspira Women`s Health Inc
+AWRE,Aware Inc.
 AXAS,Abraxas Petroleum Corp.
 AXDX,Accelerate Diagnostics Inc
 AXGN,Axogen Inc.
@@ -140,7 +147,9 @@ AYTU,Aytu BioScience Inc
 AZN,Astrazeneca plc
 AZPN,Aspen Technology Inc.
 BAND,Bandwidth Inc (Class A)
+BANF,Bancfirst Corp.
 BANR,Banner Corp.
+BASI,Bioanalytical Systems Inc.
 BATRA,Tracking Stock - Braves Series A
 BATRK,Tracking Stock - Braves Series C
 BBBY,"Bed, Bath & Beyond Inc."
@@ -173,6 +182,7 @@ BJRI,BJ`s Restaurant Inc.
 BKCC,BlackRock Capital Investment Corp
 BKNG,Booking Holdings Inc
 BKYI,Bio-Key International Inc.
+BL,BlackLine Inc
 BLCM,Bellicum Pharmaceuticals Inc
 BLFS,Biolife Solutions Inc
 BLI,Berkeley Lights Inc
@@ -196,7 +206,8 @@ BRKL,"Brookline Bancorp, Inc."
 BRKR,Bruker Corp
 BRKS,"Brooks Automation, Inc."
 BSET,Bassett Furniture Industries Inc.
-BSTC,Biospecifics Technologies Corp.
+BSQR,BSquare Corp
+BSRR,Sierra Bancorp
 BSY,Bentley Systems Inc (Class B)
 BUSE,First Busey Corp.
 BWEN,Broadwind Inc
@@ -212,11 +223,12 @@ CAMP,Calamp Corp.
 CAPR,Capricor Therapeutics Inc
 CAR,Avis Budget Group Inc
 CARA,Cara Therapeutics Inc
-CARE,Carter Bk & Tr Martinsville VA
+CARE,Carter Bankshares Inc
 CARG,CarGurus Inc (Class A)
 CARV,Carver Bancorp Inc.
 CASH,Meta Financial Group Inc.
 CASI,CASI Pharmaceuticals Inc
+CASS,Cass Information Systems Inc
 CASY,"Casey`s General Stores, Inc."
 CATM,Cardtronics plc (Class A)
 CATY,Cathay General Bancorp
@@ -269,7 +281,6 @@ CHRW,"C.H. Robinson Worldwide, Inc."
 CHTR,Charter Communications Inc. (Class A)
 CIDM,Cinedigm Corp (Class A)
 CIH,China Index Holdings Ltd
-CINF,Cincinnati Financial Corp.
 CIVB,Civista Bancshares Inc
 CJJD,China Jo-Jo Drugstores Inc
 CLAR,Clarus Corp
@@ -282,6 +293,7 @@ CLMT,Calumet Specialty Products
 CLNE,Clean Energy Fuels Corp
 CLRB,Cellectar Biosciences Inc
 CLRO,ClearOne Inc
+CLSK,Cleanspark Inc
 CLSN,Celsion Corp
 CLVS,Clovis Oncology Inc
 CLXT,Calyxt Inc
@@ -295,7 +307,6 @@ CNOB,ConnectOne Bancorp Inc.
 CNSL,Consolidated Communications Holdings Inc
 CNTY,Century Casinos Inc.
 CNXN,"PC Connection, Inc."
-COCP,Cocrystal Pharma Inc
 CODX,Co-Diagnostics Inc
 COLB,"Columbia Banking System, Inc."
 COLM,Columbia Sportswear Co.
@@ -303,7 +314,6 @@ CONE,CyrusOne Inc
 COOP,Mr. Cooper Group Inc
 CORE,Core-Mark Hldg Co Inc
 COST,Costco Wholesale Corp
-COWN,Cowen Inc (Class A)
 CPLP,Capital Product Partners L P
 CPRT,"Copart, Inc."
 CPRX,Catalyst Pharmaceuticals Inc
@@ -318,6 +328,7 @@ CREG,China Recycling Energy Corporation
 CRESY,Cresud
 CREX,Creative Realities Inc
 CRIS,Curis Inc
+CRMT,"Americas Car Mart, Inc."
 CRNC,Cerence Inc
 CRNT,Ceragon Networks Ltd
 CROX,Crocs Inc
@@ -325,8 +336,10 @@ CRSP,CRISPR Therapeutics AG
 CRSR,Corsair Gaming Inc
 CRTO,Criteo S.A
 CRUS,"Cirrus Logic, Inc."
+CRVL,Corvel Corp.
 CRVS,Corvus Pharmaceuticals Inc
 CRWD,Crowdstrike Holdings Inc (Class A)
+CRWS,"Crown Crafts, Inc."
 CSCO,"Cisco Systems, Inc."
 CSCW,Color Star Technology Co Ltd
 CSGP,"Costar Group, Inc."
@@ -354,13 +367,14 @@ CVGW,"Calavo Growers, Inc"
 CVLG,Covenant Logistics Group Inc (Class A)
 CVLT,Commvault Systems Inc
 CVV,CVD Equipment Corp.
+CWCO,Consolidated Water Co. Ltd.
 CWST,"Casella Waste Systems, Inc. (Class A)"
 CXDC,China XD Plastics Co Ltd
-CXDO,Crexendo Inc
 CYBE,Cyberoptics Corp.
 CYBR,CyberArk Software Ltd
 CYCC,Cyclacel Pharmaceuticals Inc
 CYRX,CryoPort Inc
+CYTH,Cyclo Therapeutics Inc (Class A)
 CYTK,Cytokinetics Inc
 CZR,Caesars Entertainment Inc
 DAKT,Daktronics Inc.
@@ -369,9 +383,11 @@ DBX,Dropbox Inc (Class A)
 DCOM,"Dime Community Bancshares, Inc"
 DCPH,Deciphera Pharmaceuticals Inc
 DCT,Duck Creek Technologies Inc
+DCTH,Delcath Systems Inc
 DDOG,Datadog Inc (Class A)
 DENN,Denny`s Corp.
 DFFN,Diffusion Pharmaceuticals Inc
+DGICA,Donegal Group Inc. (Class A)
 DGII,"Digi International, Inc."
 DGLY,Digital Ally Inc.
 DHC,Diversified Healthcare Trust
@@ -385,7 +401,6 @@ DLTH,Duluth Holdings Inc (Class B)
 DLTR,Dollar Tree Inc
 DMLP,Dorchester Minerals LP
 DMRC,Digimarc Corporation
-DNKN,Dunkin Brands Group Inc
 DNLI,Denali Therapeutics Inc
 DOCU,DocuSign Inc
 DORM,Dorman Products Inc
@@ -400,14 +415,16 @@ DTEA,Davidstea Inc
 DVAX,Dynavax Technologies Corp.
 DWSN,Dawson Geophysical Company
 DXCM,Dexcom Inc
-DXLG,Destination XL Group Inc
 DXPE,"DXP Enterprises, Inc."
+DXYN,Dixie Group Inc.
 DYAI,"Dyadic International Inc., DE"
 DYNT,Dynatronics Corp.
+DZSI,DZS Inc
 EA,"Electronic Arts, Inc."
 EARS,Auris Medical Holding Ltd
 EAST,Eastside Distilling Inc
 EBAY,EBay Inc.
+EBC,Eastern Bankshares Inc.
 EBIX,Ebix Inc.
 EBSB,Meridian Bancorp Inc
 ECHO,Echo Global Logistics Inc
@@ -421,13 +438,14 @@ EEFT,Euronet Worldwide Inc
 EFOI,Energy Focus Inc
 EFSC,Enterprise Financial Services Corp.
 EGAN,eGain Corp
+EGLE,Eagle Bulk Shipping Inc
 EGOV,NIC Inc
 EGRX,Eagle Pharmaceuticals Inc
 EHTH,eHealth Inc
 EIGI,Endurance International Group Holdings Inc
 EKSO,Ekso Bionics Holdings Inc
 ELSE,"Electro-Sensors, Inc."
-ELTK,Eltek Ltd
+ELYS,Elys Game Technology Corp.
 EMKR,Emcore Corp.
 ENG,Englobal Corporation
 ENPH,Enphase Energy Inc
@@ -440,6 +458,7 @@ ERIE,Erie Indemnity Co. (Class A)
 ERII,Energy Recovery Inc
 ESCA,"Escalade, Inc."
 ESEA,Euroseas Ltd
+ESLT,Elbit Systems Ltd.
 ESPR,Esperion Therapeutics Inc.
 ESXB,Community Bankers Trust Corp
 ETSY,Etsy Inc
@@ -466,6 +485,7 @@ FAST,Fastenal Co.
 FATE,Fate Therapeutics Inc
 FB,Facebook Inc (Class A)
 FBIO,Fortress Biotech Inc
+FBMS,First Bancshares Inc Miss
 FBNC,First Bancorp
 FCEL,Fuelcell Energy Inc
 FCFS,FirstCash Inc
@@ -473,6 +493,7 @@ FCRD,First Eagle Alternative Capital BDC Inc
 FELE,"Franklin Electric Co., Inc."
 FEYE,FireEye Inc
 FFBC,First Financial Bancorp
+FFHL,Fuwei Films (Holdings) Co
 FFIC,Flushing Financial Corp.
 FFIN,"First Financial Bankshares, Inc."
 FFIV,"F5 Networks, Inc."
@@ -496,14 +517,15 @@ FLUX,Flux Power Holdings inc
 FLWS,1-800 Flowers.com Inc. (Class A)
 FLXS,"Flexsteel Industries, Inc."
 FMBI,"First Midwest Bancorp, Inc."
+FMNB,Farmers National Banc Corp.
 FNHC,FedNat Holding Co
 FNKO,Funko Inc (Class A)
 FOLD,Amicus Therapeutics Inc
 FORD,"Forward Industries, Inc."
 FORM,FormFactor Inc.
+FORR,Forrester Research Inc.
 FOSL,Fossil Group Inc
 FPRX,Five Prime Therapeutics Inc
-FRAN,Francesca`s Holdings Corp
 FRBK,"Republic First Bancorp, Inc."
 FRGI,Fiesta Restaurant Group Inc
 FRHC,Freedom Holding Corp
@@ -515,23 +537,28 @@ FTNT,Fortinet Inc
 FULT,Fulton Financial Corp.
 FUND,Sprott Focus Trust Inc
 FUV,Arcimoto Inc
+FVE,Five Star Senior Living Inc.
 FWONA,Tracking Stock -Liberty Formula 1 Series A
 FWONK,Tracking Stock -Liberty Formula 1 Series C
 FWRD,Forward Air Corp.
+GABC,German American Bancorp Inc
+GAIA,Gaia Inc (Class A)
 GALT,Galectin Therapeutics Inc
+GASS,StealthGas Inc
 GBCI,"Glacier Bancorp, Inc."
 GDEN,Golden Entertainment Inc
 GDRX,GoodRx Holdings Inc (Class A)
+GEC,Great Elm Capital Group Inc
 GENE,Genetic Technologies Ltd.
+GEOS,Geospace Technologies Corp
 GERN,Geron Corp.
 GEVO,Gevo Inc
-GFN,General Finance Corporation
 GGAL,Grupo Financiero Galicia
+GIFI,"Gulf Island Fabrication, Inc."
 GIII,G-III Apparel Group Ltd.
 GILD,"Gilead Sciences, Inc."
 GILT,Gilat Satellite Networks
 GLBS,Globus Maritime Ltd
-GLIBA,GCI Liberty Inc (Class A)
 GLNG,Golar Lng
 GLPI,Gaming and Leisure Properties Inc
 GLRE,Greenlight Capital Re Ltd (Class A)
@@ -545,23 +572,27 @@ GNTX,Gentex Corp.
 GNUS,Genius Brands International Inc
 GO,Grocery Outlet Holding Corp
 GOCO,GoHealth Inc (Class A)
+GOEV,Canoo Inc (Class A)
 GOGL,Golden Ocean Group Limited
 GOGO,Gogo Inc
 GOOD,Gladstone Commercial Corp
 GOOG,Alphabet Inc (Class C)
 GOOGL,Alphabet Inc (Class A)
 GOVX,Geovax Labs Inc
-GPOR,Gulfport Energy Corp.
 GPRE,Green Plains Inc
 GPRO,GoPro Inc. (Class A)
 GRFS,- Level III
 GRMN,Garmin Ltd
+GROW,"U.S. Global Investors, Inc. (Class A)"
 GRPN,Groupon Inc
 GRVY,Gravity Co Ltd
+GRWG,GrowGeneration Corp
 GSHD,Goosehead Insurance Inc (Class A)
 GSM,Ferroglobe Plc
 GT,Goodyear Tire & Rubber Co.
+GTIM,Good Times Restaurants Inc.
 GTLS,Chart Industries Inc
+GVP,"GSE Systems, Inc."
 GWPH,GW Pharmaceuticals
 HAFC,Hanmi Financial Corp.
 HAIN,Hain Celestial Group Inc
@@ -603,6 +634,7 @@ HRTX,Heron Therapeutics Inc
 HSIC,Henry Schein Inc.
 HSII,"Heidrick & Struggles International, Inc."
 HSKA,Heska Corp.
+HST,Host Hotels & Resorts Inc
 HSTM,Healthstream Inc
 HSTO,Histogen Inc
 HTBI,HomeTrust Bancshares Inc
@@ -614,6 +646,8 @@ HTLF,"Heartland Financial USA, Inc."
 HUBG,"Hub Group, Inc. (Class A)"
 HURN,Huron Consulting Group Inc
 HWC,Hancock Whitney Corp.
+HWCC,Houston Wire & Cable Company
+HWKN,Hawkins Inc
 HYMC,Hycroft Mining Holding Corporation (Class A)
 IAC,IAC InterActiveCorp.
 IART,Integra Lifesciences Holdings Corp
@@ -639,6 +673,7 @@ IIIN,"Insteel Industries, Inc."
 IIVI,Ii-Vi Inc.
 ILMN,Illumina Inc
 ILPT,Industrial Logistics Properties Trust
+IMBI,iMedia Brands Inc (Class A)
 IMGN,"Immunogen, Inc."
 IMKTA,"Ingles Markets, Inc. (Class A)"
 IMMR,Immersion Corp
@@ -663,7 +698,9 @@ IPGP,IPG Photonics Corp
 IPHI,Inphi Corp
 IQ,iQIYI Inc
 IRBT,Irobot Corp
+IRCP,Irsa Propiedades Comerciales S.A.
 IRDM,Iridium Communications Inc
+IRIX,IRIDEX Corp.
 IRTC,iRhythm Technologies Inc
 IRWD,Ironwood Pharmaceuticals Inc (Class A)
 ISBC,Investors Bancorp Inc
@@ -671,29 +708,27 @@ ISIG,"Insignia Systems, Inc."
 ISRG,Intuitive Surgical Inc
 ITI,Iteris Inc.
 ITRI,Itron Inc.
+ITRN,Ituran Location And Control Ltd.
 IVAC,"Intevac, Inc."
 IZEA,IZEA Worldwide Inc
 JACK,"Jack In The Box, Inc."
 JAKK,Jakks Pacific Inc.
 JAMF,Jamf Holding Corp
-JAN,JanOne Inc
 JAZZ,Jazz Pharmaceuticals plc
 JBHT,"J.B. Hunt Transport Services, Inc."
-JBSS,"Sanfilippo (John B.) & Son, Inc"
 JCOM,J2 Global Inc.
 JD,JD.com Inc
 JJSF,J&J Snack Foods Corp.
 JKHY,"Jack Henry & Associates, Inc."
 JOBS,51Job Inc.
-JRJC,China Finance Online Co. Ltd.
 JRVR,James River Group Holdings Ltd
-JVA,Coffee Holding Co Inc
 KALA,Kala Pharmaceuticals Inc
 KALU,Kaiser Aluminum Corp
 KALV,KalVista Pharmaceuticals Inc
 KBAL,"Kimball International, Inc. (Class B)"
 KDNY,Chinook Therapeutics Inc
 KDP,Keurig Dr Pepper Inc
+KE,Kimball Electronics Inc
 KELYA,"Kelly Services, Inc. (Class A)"
 KFRC,Kforce Inc.
 KHC,Kraft Heinz Co
@@ -710,9 +745,12 @@ KRNT,Kornit Digital Ltd
 KRNY,Kearny Financial Corp.
 KTOS,Kratos Defense & Security Solutions Inc
 KTRA,Kintara Therapeutics Inc
+KVHI,"KVH Industries, Inc."
+KZIA,Kazia Therapeutics Limited
 LAKE,"Lakeland Industries, Inc."
 LAMR,Lamar Advertising Co (Class A)
 LANC,Lancaster Colony Corp.
+LAZR,Luminar Technologies Inc (Class A)
 LBAI,"Lakeland Bancorp, Inc."
 LBRDA,Liberty Broadband Corp (Series A)
 LBRDK,Liberty Broadband Corp (Series C)
@@ -731,6 +769,8 @@ LHCG,LHC Group Inc
 LIFE,Atyr Pharma Inc
 LILA,Liberty Latin America Ltd (Class A)
 LILAK,Liberty Latin America Ltd (Class C)
+LINC,Lincoln Educational Services Corp
+LIQT,LiqTech International Inc
 LITE,Lumentum Holdings Inc
 LIVN,LivaNova PLC
 LJPC,La Jolla Pharmaceutical Co.
@@ -781,6 +821,7 @@ MAXN,Maxeon Solar Technologies Ltd
 MBII,Marrone Bio Innovations Inc
 MBOT,Microbot Medical Inc
 MBRX,Moleculin Biotech Inc
+MBWM,Mercantile Bank Corp.
 MCBC,Macatawa Bank Corp.
 MCFE,McAfee Corp (Class A)
 MCHP,"Microchip Technology, Inc."
@@ -797,13 +838,16 @@ MEIP,MEI Pharma Inc
 MELI,MercadoLibre Inc
 MERC,Mercer International Inc.
 MESO,Mesoblast Ltd
+MFIN,Medallion Financial Corp.
 MGEE,"MGE Energy, Inc."
 MGEN,Miragen Therapeutics Inc
 MGI,Moneygram International Inc.
+MGIC,Magic Software Enterprises Ltd.
 MGLN,Magellan Health Inc
 MGNI,Magnite Inc
 MGPI,"MGP Ingredients, Inc."
 MGRC,McGrath Rentcorp
+MHLD,Maiden Holdings Ltd
 MICT,MICT Inc
 MIDD,Middleby Corp.
 MIK,Michaels Companies Inc
@@ -822,7 +866,6 @@ MNKD,Mannkind Corp
 MNOV,Medicinova Inc
 MNRO,Monro Inc
 MNST,Monster Beverage Corp.
-MOBL,Mobile Iron Inc
 MOMO,Momo Inc
 MORN,Morningstar Inc
 MOSY,Mosys Inc
@@ -834,8 +877,11 @@ MRKR,Marker Therapeutics Inc
 MRNA,Moderna Inc
 MRTN,"Marten Transport, Ltd."
 MRTX,Mirati Therapeutics Inc
+MRVI,Maravai LifeSciences Holdings Inc (Class A)
 MRVL,Marvell Technology Group Ltd
+MSEX,Middlesex Water Co.
 MSFT,Microsoft Corporation
+MSON,Misonix Inc
 MSTR,Microstrategy Inc. (Class A)
 MTCH,- New
 MTEM,Molecular Templates Inc
@@ -847,7 +893,6 @@ MU,Micron Technology Inc.
 MVIS,Microvision Inc.
 MXIM,"Maxim Integrated Products, Inc."
 MYGN,"Myriad Genetics, Inc."
-MYL,Mylan N.V.
 MYSZ,My Size Inc
 NATI,National Instruments Corp.
 NAVI,Navient Corp
@@ -858,16 +903,19 @@ NBTB,NBT Bancorp. Inc.
 NCMI,National Cinemedia Inc
 NCNA,NuCana plc
 NCNO,Ncino Inc
+NCSM,NCS Multistage Holdings Inc
 NCTY,The9 Limited
 NDAQ,- 144A
 NDLS,Noodles & Company (Class A)
 NDSN,Nordson Corp.
 NEO,Neogenomics Inc.
 NEOG,Neogen Corp.
+NEON,Neonode Inc.
 NETE,Net Element Inc.
 NEWT,Newtek Business Services Corp
 NFBK,Northfield Bancorp Inc
 NFLX,NetFlix Inc
+NHLD,National Holdings Corporation
 NICE,NICE Ltd
 NKLA,Nikola Corporation
 NKTR,Nektar Therapeutics
@@ -888,7 +936,6 @@ NTGR,Netgear Inc
 NTLA,Intellia Therapeutics Inc
 NTNX,Nutanix Inc (Class A)
 NTRA,Natera Inc
-NTRP,Neurotrope Inc
 NTRS,Northern Trust Corp.
 NTUS,Natus Medical Inc
 NTWK,"Netsol Technologies, Inc."
@@ -903,7 +950,6 @@ NVFY,Nova Lifestyle Inc
 NVIV,InVivo Therapeutics Holdings Corp
 NVMI,Nova Measuring Instruments Ltd
 NWBI,Northwest Bancshares Inc
-NWGI,Elys Game Tec hnology Corp.
 NWL,Newell Brands Inc
 NWS,News Corp (Class B)
 NWSA,News Corp (Class A)
@@ -912,8 +958,10 @@ NXPI,NXP Semiconductors NV
 NXTD,Nxt-ID Inc
 NYMT,New York Mortgage Trust Inc
 NYMX,Nymox Pharmaceutical Corp
+OBCI,"Ocean Bio-Chem, Inc."
 OBSV,ObsEva SA.
 OCFC,OceanFirst Financial Corp.
+OCSI,Oaktree Strategic Income Corp
 OCSL,Oaktree Specialty Lending Corp
 OCUP,Ocuphire Pharma Inc
 ODFL,"Old Dominion Freight Line, Inc."
@@ -939,6 +987,7 @@ ONVO,Organovo Holdings Inc
 OPCH,Option Care Health Inc.
 OPI,Office Properties Income Trust
 OPK,Opko Health Inc
+OPNT,Opiant Pharmaceuticals Inc
 OPRX,OptimizeRx Corp
 OPTT,- Reg S
 ORBC,Orbcomm Inc
@@ -954,6 +1003,7 @@ OTRK,Ontrak Inc
 OTTR,Otter Tail Corporation
 OXSQ,Oxford Square Capital Corp
 OZK,Bank OZK
+PAA,Plains All American Pipeline LP
 PACB,Pacific Biosciences of California Inc
 PACW,Pacwest Bancorp
 PATK,"Patrick Industries, Inc."
@@ -964,8 +1014,10 @@ PBPB,Potbelly Corp
 PCAR,Paccar Inc.
 PCH,PotlatchDeltic Corp
 PCTI,PCTEL Inc
+PCYG,"Park City Group, Inc."
 PDCE,PDC Energy Inc
 PDCO,Patterson Companies Inc.
+PDEX,Pro-Dex Inc. (co)
 PDFS,PDF Solutions Inc.
 PDLI,PDL Biopharma Inc
 PEBO,"Peoples Bancorp, Inc. (Marietta, OH)"
@@ -974,8 +1026,8 @@ PEIX,Pacific Ethanol Inc.
 PENN,"Penn National Gaming, Inc."
 PEP,Pepsico Inc.
 PETS,"Petmed Express, Inc."
-PETZ,TDH Holdings Inc
 PFBC,"Preferred Bank (Los Angeles, CA)"
+PFBI,"Premier Financial Bancorp, Inc."
 PFC,Premier Financial Corp
 PFG,Principal Financial Group Inc
 PFIE,Profire Energy Inc
@@ -988,23 +1040,26 @@ PGNY,Progyny Inc
 PHIO,Phio Pharmaceuticals Corp
 PHUN,Phunware Inc
 PI,Impinj Inc
+PICO,Pico Holdings Inc.
 PIXY,ShiftPixy Inc
+PKOH,Park-Ohio Holdings Corp.
 PLAB,"Photronics, Inc."
 PLAY,Dave & Buster`s Entertainment Inc
 PLCE,Childrens Place Inc
 PLUG,Plug Power Inc
 PLUS,ePlus Inc
 PLXS,Plexus Corp.
+PMBC,Pacific Mercantile Bancorp
 PNFP,Pinnacle Financial Partners Inc.
 PNTG,Pennant Group Inc
 PODD,Insulet Corporation
 POOL,Pool Corporation
 POWI,Power Integrations Inc.
+POWL,"Powell Industries, Inc."
 PPBI,"Pacific Premier Bancorp, Inc."
 PPC,Pilgrim`s Pride Corp.
 PPD,PPD Inc
 PRAA,PRA Group Inc
-PRCP,"Perceptron, Inc."
 PRDO,Perdoceo Education Corporation
 PRFT,Perficient Inc.
 PRGS,Progress Software Corp.
@@ -1014,6 +1069,7 @@ PRPH,ProPhase Labs Inc
 PRPO,Precipio Inc
 PRSC,Providence Service Corp
 PRTK,Paratek Pharmaceuticals Inc.
+PRTS,CarParts.com Inc
 PSEC,Prospect Capital Corp
 PSHG,Performance Shipping Inc
 PSMT,Pricesmart Inc.
@@ -1025,13 +1081,16 @@ PTE,PolarityTE Inc
 PTEN,Patterson-UTI Energy Inc
 PTMN,Portman Ridge Finance Corp
 PTON,Peloton Interactive Inc (Class A)
+PTPI,Petros Pharmaceuticals Inc
 PTVE,Pactiv Evergreen Inc
+PUBM,PubMatic Inc (Class A)
 PWFL,PowerFleet Inc
 PXLW,Pixelworks Inc
 PXS,Pyxis Tankers Inc
 PYPL,PayPal Holdings Inc
 PZZA,"Papa John`s International, Inc."
 QCOM,"Qualcomm, Inc."
+QCRH,"QCR Holding, Inc."
 QDEL,Quidel Corp.
 QIWI,QIWI plc
 QLGN,Qualigen Therapeutics Inc
@@ -1039,12 +1098,15 @@ QLYS,Qualys Inc
 QMCO,Quantum Corp
 QRTEA,Qurate Retail Inc (Series A)
 QRVO,Qorvo Inc
+QUIK,Quicklogic Corp
+QUMU,Qumu Corp
 RADA,Rada Electronic Industries
 RAIL,FreightCar America Inc
 RAVE,Rave Restaurant Group Inc
 RAVN,"Raven Industries, Inc."
 RBBN,- New
 RCII,Rent-a-Center Inc.
+RCKY,"Rocky Brands, Inc"
 RCM,R1 RCM Inc
 RCMT,"RCM Technologies, Inc."
 RDFN,Redfin Corp
@@ -1070,6 +1132,7 @@ RIGL,Rigel Pharmaceuticals
 RIOT,Riot Blockchain Inc
 RLAY,Relay Therapeutics Inc
 RMBS,Rambus Inc.
+RMCF,Rocky Mountain Chocolate Factory Inc
 RMR,RMR Group Inc (Class A)
 RMRM,RMR Mortgage Trust
 RMTI,Rockwell Medical Inc
@@ -1087,7 +1150,6 @@ RPRX,Royalty Pharma plc (Class A)
 RRGB,Red Robin Gourmet Burgers Inc
 RRR,Red Rock Resorts Inc (Class A)
 RTLR,Rattler Midstream Lp
-RTRX,Retrophin Inc
 RUN,Sunrun Inc
 RUSHA,Rush Enterprises Inc (Class A)
 RUTH,Ruths Hospitality Group Inc
@@ -1136,6 +1198,7 @@ SGMA,Sigmatron International Inc.
 SGMO,Sangamo Therapeutics Inc
 SGMS,Scientific Games Corporation
 SGRP,"Spar Group, Inc."
+SHC,Sotera Health Co
 SHEN,Shenandoah Telecommunications Co.
 SHOO,Steven Madden Ltd.
 SHYF,The Shyft Group Inc
@@ -1161,6 +1224,8 @@ SNBR,Sleep Number Corp
 SNCA,Seneca Biopharma Inc
 SNCR,Synchronoss Technologies Inc
 SNDL,Sundial Growers Inc
+SNEX,StoneX Group Inc
+SNFCA,Security National Financial Corp. (Class A)
 SNGX,Soligenix Inc
 SNPS,"Synopsys, Inc."
 SNSS,Sunesis Pharmaceuticals Inc
@@ -1183,7 +1248,10 @@ SPRT,Support.com Inc
 SPTN,SpartanNash Co
 SPWR,Sunpower Corp
 SQBG,Sequential Brands Group Inc.
+SRAC,Stable Road Acquisition Corp (Class A)
+SRCE,1st Source Corp.
 SRCL,Stericycle Inc.
+SRDX,"Surmodics, Inc."
 SREV,ServiceSource International Inc
 SRGA,Surgalign Holdings Inc
 SRNE,Sorrento Therapeutics Inc
@@ -1193,12 +1261,14 @@ SSKN,STRATA Skin Sciences Inc
 SSNC,SS&C Technologies Holdings Inc
 SSNT,SilverSun Technologies Inc
 SSP,E.W. Scripps Co. (Class A)
+SSTI,ShotSpotter Inc
 SSYS,Stratasys Ltd
 STAA,Staar Surgical Co.
 STAY,Extended Stay America Inc
 STBA,"S & T Bancorp, Inc."
 STCN,Steel Connect Inc
 STFC,State Auto Financial Corp.
+STKS,ONE Group Hospitality Inc
 STLD,Steel Dynamics Inc.
 STMP,Stamps.com Inc.
 STRA,Strategic Education Inc
@@ -1208,6 +1278,7 @@ SUNW,Sunworks Inc
 SUPN,Supernus Pharmaceuticals Inc
 SVC,Service Properties Trust
 SVRA,Savara Inc
+SVVC,Firsthand Technology Value Fund Inc
 SWBI,Smith & Wesson Brands Inc
 SWKS,"Skyworks Solutions, Inc."
 SYBT,Stock Yards Bancorp Inc
@@ -1217,9 +1288,9 @@ SYNC,Synacor Inc
 SYNL,Synalloy Corp.
 SYPR,"Sypris Solutions, Inc."
 TA,TravelCenters of America Inc
-TACT,Transact Technologies Inc.
 TANH,Tantech Holdings Ltd
 TAOP,Taoping Inc.
+TBLT,Toughbuilt Industries Inc
 TBPH,Theravance Biopharma Inc
 TCBI,"Texas Capital Bancshares, Inc."
 TCBK,Trico Bancshares
@@ -1231,10 +1302,10 @@ TEDU,Tarena International Inc
 TELL,Tellurian Inc
 TENX,Tenax Therapeutics Inc
 TER,"Teradyne, Inc."
-TEUM,Pareteum Corp
 TFSL,TFS Financial Corporation
 TGLS,Tecnoglass Inc
 TGTX,TG Therapeutics Inc
+THFF,First Financial Corp. - Indiana
 THMO,ThermoGenesis Holdings Inc
 THRM,Gentherm Inc (Class A)
 TIGO,Millicom International Cellular S.A.
@@ -1243,6 +1314,7 @@ TIPT,Tiptree Inc
 TITN,Titan Machinery Inc
 TLGT,Teligent Inc
 TLRY,Tilray Inc (Class 2)
+TLS,Telos Corp
 TMUS,T-Mobile US Inc
 TNAV,Telenav Inc
 TNXP,Tonix Pharmaceuticals Holding Corp
@@ -1264,6 +1336,7 @@ TRVN,Trevena Inc
 TSCO,Tractor Supply Co.
 TSEM,Tower Semiconductor Ltd.
 TSLA,Tesla Inc
+TTCF,Tattooed Chef Inc (Class A)
 TTD,Trade Desk Inc (Class A)
 TTEC,TTEC Holdings Inc
 TTEK,"Tetra Tech, Inc."
@@ -1272,7 +1345,9 @@ TTMI,TTM Technologies Inc
 TTNP,"Titan Pharmaceuticals, Inc. (de)"
 TTOO,T2 Biosystems Inc
 TTWO,"Take-Two Interactive Software, Inc."
+TVTX,Travere Therapeutics Inc
 TVTY,Tivity Health Inc
+TWIN,Twin Disc Incorporated
 TWNK,Hostess Brands Inc (Class A)
 TWOU,2U Inc
 TWST,Twist Bioscience Corp
@@ -1295,14 +1370,16 @@ UMPQ,Umpqua Holdings Corp
 UNIT,Uniti Group Inc
 UONEK,Urban One Inc (Class D)
 UPLD,Upland Software Inc
+UPST,Upstart Holdings Inc
 UPWK,Upwork Inc
 URBN,"Urban Outfitters, Inc."
 URGN,UroGen Pharma Ltd
-USIO,Usio Inc
+USAK,"USA Truck, Inc."
 UTHR,United Therapeutics Corp
 UTSI,UTStarcom Holdings Corp
 UVSP,Univest Financial Corp
 VBIV,VBI Vaccines Inc.
+VBLT,Vascular Biogenics Ltd
 VC,Visteon Corp.
 VCEL,Vericel Corp
 VECO,Veeco Instruments Inc
@@ -1313,12 +1390,14 @@ VERO,Venus Concept Inc
 VERU,Veru Inc
 VG,Vonage Holdings Corp
 VIAC,ViacomCBS Inc (Class B)
+VIACA,ViacomCBS Inc (Class A)
 VIAV,Viavi Solutions Inc
 VICR,Vicor Corp.
 VIR,Vir Biotechnology Inc
 VISL,Vislink Technologies Inc
 VIVE,Viveve Medical Inc
 VIVO,Meridian Bioscience Inc.
+VJET,Voxeljet AG
 VLDR,Velodyne Lidar Inc
 VLY,Valley National Bancorp
 VNDA,Vanda Pharmaceuticals Inc
@@ -1339,6 +1418,7 @@ VRTX,"Vertex Pharmaceuticals, Inc."
 VSAT,"Viasat, Inc."
 VSTM,Verastem Inc
 VTNR,Vertex Energy Inc
+VTRS,Viatris Inc
 VUZI,Vuzix Corporation
 VXRT,Vaxart Inc
 WABC,Westamerica Bancorporation
@@ -1353,18 +1433,20 @@ WDFC,WD-40 Co.
 WEN,Wendy`s Co (Class A)
 WERN,"Werner Enterprises, Inc."
 WETF,Wisdomtree Investments Inc
+WHLR,Wheeler Real Estate Investment Trust Inc
 WING,Wingstop Inc
 WIRE,Encore Wire Corp.
+WISH,ContextLogic Inc (Class A)
 WIX,Wix.com Ltd
 WKHS,Workhorse Group Inc
 WLTW,Willis Towers Watson Public Limited Co
 WMG,Warner Music Group Corp (Class A)
-WMGI,Wright Medical Group N. V.
 WNEB,Western New England Bancorp Inc
 WRLD,World Acceptance Corp.
 WSBC,"Wesbanco, Inc."
 WSC,WillScot Mobile Mini Holdings Corp
 WSFS,WSFS Financial Corp.
+WTBA,West Bancorporation
 WTFC,Wintrust Financial Corp.
 WTRH,Waitr Holdings Inc
 WW,WW International Inc
