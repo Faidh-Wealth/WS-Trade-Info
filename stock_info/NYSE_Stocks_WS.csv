@@ -1,1606 +1,1612 @@
-symbol,name
-A,Agilent Technologies Inc.
-AA,Alcoa Corp
-AAIC,Arlington Asset Investment Corp (Class A)
-AAN,Aarons Company Inc (The)
-AAP,Advance Auto Parts Inc
-AB,AllianceBernstein Holding Lp
-ABB,ABB Ltd.
-ABBV,Abbvie Inc
-ABC,Amerisource Bergen Corp.
-ABEV,Ambev S.A.
-ABG,Asbury Automotive Group Inc
-ABM,ABM Industries Inc.
-ABR,Arbor Realty Trust Inc.
-ABT,Abbott Laboratories
-ACA,Arcosa Inc
-ACCO,Acco Brands Corporation
-ACH,Aluminum Corporation Of China Limited.
-ACI,Albertsons Companies Inc (Class A)
-ACM,AECOM
-ACN,Accenture plc (Class A)
-ACRE,Ares Commercial Real Estate Corp
-ADC,Agree Realty Corp.
-ADM,Archer Daniels Midland Co.
-ADNT,Adient plc
-ADS,Alliance Data System
-ADT,ADT Inc
-ADX,Adams Diversified Equity Fund
-AEE,Ameren Corp.
-AEG,New York Shares
-AEL,American Equity Investment Life Holding Co
-AENZ,Aenza S.A.A
-AEO,American Eagle Outfitters Inc.
-AER,Aercap Holdings N.V.
-AES,AES Corp.
-AFG,American Financial Group Inc
-AFI,Armstrong Flooring Inc
-AFL,Aflac Inc.
-AGCO,AGCO Corp.
-AGE,AgeX Therapeutics Inc
-AGM,Federal Agricultural Mortgage Corp. (Class C)
-AGO,Assured Guaranty Ltd
-AGR,Avangrid Inc
-AGRO,Adecoagro S.A.
-AGX,"Argan, Inc."
-AHC,A.H. Belo Corp (Class A)
-AHT,Ashford Hospitality Trust Inc
-AI,C3.ai Inc (Class A)
-AIG,American International Group Inc
-AIM,AIM ImmunoTech Inc
-AIN,Albany International Corp. (Class A)
-AIR,AAR Corp.
-AIRC,Apartment Income REIT Corp (Class A)
-AIRI,Air Industries Group
-AIT,Applied Industrial Technologies Inc.
-AIV,Apartment Investment & Management Co. (Class A)
-AIZ,Assurant Inc
-AJG,Arthur J. Gallagher & Co.
-AJRD,Aerojet Rocketdyne Holdings Inc
-AKR,Acadia Realty Trust
-AL,Air Lease Corp (Class A)
-ALB,Albemarle Corp.
-ALC,Alcon Inc.
-ALE,"Allete, Inc."
-ALG,Alamo Group Inc.
-ALK,Alaska Air Group Inc.
-ALL,Allstate Corp (The)
-ALLE,Allegion plc
-ALLY,Ally Financial Inc
-ALSN,Allison Transmission Holdings Inc
-ALV,Autoliv Inc.
-AM,Antero Midstream Corp
-AMBC,AMBAC Financial Group Inc.
-AMBO,Ambow Education Holding Ltd
-AMC,AMC Entertainment Holdings Inc (Class A)
-AMCR,Amcor Plc
-AME,Ametek Inc
-AMG,Affiliated Managers Group Inc.
-AMK,Assetmark Financial Holdings Inc
-AMN,AMN Healthcare Services Inc.
-AMP,Ameriprise Financial Inc
-AMPE,Ampio Pharmaceuticals Inc
-AMPY,Amplify Energy Corp.
-AMRC,Ameresco Inc. (Class A)
-AMRX,Amneal Pharmaceuticals Inc (Class A)
-AMS,American Shared Hospital Services
-AMWL,American Well Corporation (Class A)
-AMX,America Movil S.A.B.DE C.V. (Series L)
-AN,Autonation Inc.
-ANET,Arista Networks Inc
-ANF,Abercrombie & Fitch Co. (Class A)
-ANH,Anworth Mortgage Asset Corp.
-ANTM,Anthem Inc
-AON,Aon plc. - Ordinary Shares - Class A
-AOS,A.O. Smith Corp.
-AP,Ampco-Pittsburgh Corp.
-APD,Air Products & Chemicals Inc.
-APH,Amphenol Corp. (Class A)
-APLE,Apple Hospitality REIT Inc
-APO,Apollo Global Management Inc (Class A)
-APRN,Blue Apron Holdings Inc (Class A)
-APT,Alpha Pro Tech Ltd.
-APTS,Preferred Apartment Communities Inc (Class A)
-APTV,Aptiv PLC
-AQUA,Evoqua Water Technologies Corp
-AR,Antero Resources Corp
-ARA,American Renal Associates Holdings Inc.
-ARC,ARC Document Solutions Inc
-ARCH,Arch Resources Inc (Class A)
-ARCO,Arcos Dorados Holdings Inc (Class A)
-ARE,Alexandria Real Estate Equities Inc.
-ARES,Ares Management Corp (Class A)
-ARGO,Argo Group International Holdings Ltd
-ARI,Apollo Commercial Real Estate Finance Inc
-ARLO,Arlo Technologies Inc
-ARMK,Aramark
-ARNC,Arconic Corporation
-AROC,Archrock Inc
-ARR,ARMOUR Residential REIT Inc
-ARW,Arrow Electronics Inc.
-ASAN,Asana Inc (Class A)
-ASB,Associated Banc-Corp.
-ASC,Ardmore Shipping Corp
-ASGN,ASGN Inc
-ASH,Ashland Global Holdings Inc
-ASIX,AdvanSix Inc
-ASR,Grupo Aeroportuario Del Sureste S.A.
-ASX,ASE Technology Holding Co.Ltd
-ATCO,Atlas Corp.
-ATEN,A10 Networks Inc
-ATGE,Adtalem Global Education Inc
-ATH,Athene Holding Ltd (Class A)
-ATHM,Autohome Inc
-ATI,Allegheny Technologies Inc
-ATNM,Actinium Pharmaceuticals Inc
-ATO,Atmos Energy Corp.
-ATR,Aptargroup Inc.
-AU,AngloGold Ashanti Ltd
-AVA,Avista Corp.
-AVAL,Grupo Aval Acciones y Valores S.A.
-AVB,Avalonbay Communities Inc.
-AVD,American Vanguard Corp.
-AVK,Advent Convertible and Income Fund
-AVNS,Avanos Medical Inc
-AVNT,Avient Corp
-AVTR,Avantor Inc.
-AVY,Avery Dennison Corp.
-AVYA,Avaya Holdings Corp.
-AWF,AllianceBernstein Global High Income Fund Inc
-AWI,Armstrong World Industries Inc.
-AWK,American Water Works Co. Inc.
-AWR,American States Water Co.
-AWX,Avalon Holdings Corp. (Class A)
-AX,Axos Financial Inc.
-AXL,American Axle & Manufacturing Holdings Inc
-AXP,American Express Co.
-AXS,Axis Capital Holdings Ltd
-AXTA,Axalta Coating Systems Ltd
-AYI,"Acuity Brands, Inc."
-AYX,Alteryx Inc (Class A)
-AZO,Autozone Inc.
-BA,Boeing Co.
-BABA,Alibaba Group Holding Ltd
-BAC,Bank Of America Corp.
-BAH,Booz Allen Hamilton Holding Corp (Class A)
-BAK,Braskem S.A.
-BALY,Ballys Corporation
-BANC,Banc of California Inc
-BAP,Credicorp Ltd
-BAX,Baxter International Inc.
-BBAR,BBVA Argentina
-BBD,Banco Bradesco S.A.
-BBL,BHP Group Plc
-BBVA,Banco Bilbao Vizcaya Argentaria.
-BBW,Build A Bear Workshop Inc
-BBY,Best Buy Co. Inc.
-BC,Brunswick Corp.
-BCEI,Bonanza Creek Energy Inc
-BCH,Banco de Chile
-BCO,Brink`s Co.
-BCS,Barclays plc
-BCV,Bancroft Fund Ltd
-BDC,Belden Inc
-BDN,Brandywine Realty Trust
-BDR,Blonder Tongue Laboratories Inc.
-BDX,"Becton, Dickinson And Co."
-BE,Bloom Energy Corp (Class A)
-BEN,"Franklin Resources, Inc."
-BERY,Berry Global Group Inc
-BEST,BEST Inc
-BF.B,Brown-Forman Corp. (Class B)
-BFS,"Saul Centers, Inc."
-BFZ,BlackRock California Municipal Income Trust
-BG,Bunge Ltd.
-BGI,Birks Group Inc (Class A)
-BGS,"B&G Foods, Inc"
-BHE,Benchmark Electronics Inc.
-BHK,BlackRock Core Bond Trust
-BHLB,Berkshire Hills Bancorp Inc.
-BHP,BHP Group Limited
-BHR,Braemar Hotels & Resorts Inc
-BHVN,Biohaven Pharmaceutical Holding Company Ltd
-BIG,Big Lots Inc
-BILL,Bill.com Holdings Inc
-BIO,Bio-Rad Laboratories Inc. (Class A)
-BJ,BJ`s Wholesale Club Holdings Inc
-BK,Bank Of New York Mellon Corp
-BKD,Brookdale Senior Living Inc
-BKE,"Buckle, Inc."
-BKH,Black Hills Corporation
-BKI,Black Knight Inc (Class A)
-BKR,Baker Hughes Co (Class A)
-BKT,BlackRock Income Trust Inc
-BKU,BankUnited Inc
-BLD,TopBuild Corp
-BLK,Blackrock Inc.
-BLL,Ball Corp.
-BLX,Banco Latinoamericano De Comercio Exterior SA (Class E)
-BMI,Badger Meter Inc.
-BMY,Bristol-Myers Squibb Co.
-BNED,Barnes & Noble Education Inc
-BNL,Broadstone Net Lease Inc (Class A)
-BOH,Bank of Hawaii Corp.
-BORR,Borr Drilling Ltd
-BOX,Box Inc (Class A)
-BP,BP plc
-BPT,BP Prudhoe Bay Royalty Trust
-BR,"Broadridge Financial Solutions, Inc."
-BRC,Brady Corp. (Class A)
-BRFS,BRF S.A.
-BRK.B,Berkshire Hathaway Inc. (Class B)
-BRO,"Brown & Brown, Inc."
-BRT,BRT Apartments Corp
-BSAC,Banco Santander Chile SA
-BSBR,Banco Santander Brasil S.A.
-BSMX,Banco Santander Mexico S.A.
-BSX,Boston Scientific Corp.
-BTI,British American Tobacco Plc
-BTN,Ballantyne Strong Inc
-BTO,John Hancock Financial Opportunities Fund
-BUD,Anheuser-Busch In Bev SA/NV
-BURL,Burlington Stores Inc
-BVN,Compania de Minas Buenaventura S.A.
-BW,Babcock & Wilcox Enterprises Inc
-BWA,BorgWarner Inc
-BWXT,BWX Technologies Inc
-BX,Blackstone Group Inc (Class A)
-BXC,Bluelinx Hldgs Inc
-BXMT,Blackstone Mortgage Trust Inc (Class A)
-BXP,"Boston Properties, Inc."
-BXS,BancorpSouth Bank
-BYD,Boyd Gaming Corp.
-BZH,Beazer Homes USA Inc.
-CACI,Caci International Inc. (Class A)
-CADE,Cadence Bancorporation (Class A)
-CAG,Conagra Brands Inc
-CAH,"Cardinal Health, Inc."
-CAI,Cai International Inc
-CAJ,Canon Inc
-CAL,Caleres Inc
-CALX,Calix Inc
-CANF,Can-Fite Biopharma Ltd
-CAPL,CrossAmerica Partners LP
-CARR,Carrier Global Corp
-CARS,Cars.com
-CAT,Caterpillar Inc.
-CATO,Cato Corp. (Class A)
-CB,Chubb Limited
-CBAH.U,CBRE Acquisition Holdings Inc - Units (1 Ord Share Class A & 1/4 War)
-CBB,"Cincinnati Bell, Inc."
-CBRE,CBRE Group Inc (Class A)
-CBT,Cabot Corp.
-CBU,"Community Bank System, Inc."
-CBZ,Cbiz Inc
-CC,Chemours Company
-CCEP,Coca-Cola European Partners plc
-CCI,Crown Castle International Corp
-CCK,"Crown Holdings, Inc."
-CCL,Carnival Corp.
-CCO,Clear Channel Outdoor Holdings Inc.
-CCS,Century Communities Inc
-CCU,Compania Cervecerias Unidas S.A.
-CDE,Coeur Mining Inc
-CDOR,Condor Hospitality Trust Inc
-CDR,Cedar Realty Trust Inc
-CE,Celanese Corp (Series A)
-CEI,Camber Energy Inc
-CEIX,Consol Energy Inc
-CEQP,Crestwood Equity Partners LP
-CF,CF Industries Holdings Inc
-CFG,Citizens Financial Group Inc
-CFR,Cullen Frost Bankers Inc.
-CFX,Colfax Corp
-CHA,China Telecom Corporation
-CHD,"Church & Dwight Co., Inc."
-CHE,Chemed Corp.
-CHGG,Chegg Inc
-CHH,"Choice Hotels International, Inc."
-CHL,China Mobile Limited
-CHS,"Chico`s Fas, Inc."
-CHT,Chunghwa Telecom
-CHU,China Unicom Hong Kong Ltd
-CHWY,Chewy Inc (Class A)
-CHX,ChampionX Corporation
-CI,Cigna Corp.
-CIA,"Citizens, Inc. (Class A)"
-CIF,MFS Intermediate High Income Fund
-CIG,Preference Shares
-CIK,Credit Suisse Asset Management Income Fund Inc.
-CIM,Chimera Investment Corp
-CIO,City Office REIT Inc
-CL,Colgate-Palmolive Co.
-CLB,Core Laboratories N.V.
-CLDR,Cloudera Inc
-CLDT,Chatham Lodging Trust
-CLF,Cleveland-Cliffs Inc
-CLGX,CoreLogic Inc
-CLH,"Clean Harbors, Inc."
-CLI,Mack-Cali Realty Corp.
-CLM,Cornerstone Strategic Value Fund
-CLNY,Colony Capital Inc. (Class A)
-CLR,Continental Resources Inc (OKLA)
-CLW,Clearwater Paper Corp
-CLX,Clorox Co.
-CMA,"Comerica, Inc."
-CMC,Commercial Metals Co.
-CMCM,Cheetah Mobile Inc
-CMD,Cantel Medical Corp
-CMG,Chipotle Mexican Grill
-CMI,Cummins Inc.
-CMO,Capstead Mortgage Corp.
-CMP,Compass Minerals International Inc
-CMRE,Costamare Inc
-CMS,CMS Energy Corporation
-CMU,MFS High Yield Municipal Trust
-CNA,CNA Financial Corp.
-CNC,Centene Corp.
-CNHI,CNH Industrial NV
-CNK,Cinemark Holdings Inc
-CNMD,Conmed Corp.
-CNNE,Cannae Holdings Inc
-CNO,CNO Financial Group Inc
-CNP,Centerpoint Energy Inc.
-CNR,Cornerstone Building Brands Inc
-CNS,Cohen & Steers Inc.
-CNX,CNX Resources Corp
-COF,Capital One Financial Corp.
-COG,Cabot Oil & Gas Corp.
-COP,Conoco Phillips
-COTY,Coty Inc (Class A)
-CPA,Copa Holdings S.A. (Class A)
-CPB,Campbell Soup Co.
-CPE,Callon Petroleum Co.
-CPF,Central Pacific Financial Corp.
-CPHI,China Pharma Holdings Inc.
-CPK,Chesapeake Utilities Corp
-CPLG,CorePoint Lodging Inc
-CPRI,Capri Holdings Ltd
-CPT,Camden Property Trust
-CQP,Cheniere Energy Partners LP
-CR,Crane Co.
-CRF,Cornerstone Total Return Fund
-CRH,CRH Plc
-CRI,Carters Inc
-CRK,"Comstock Resources, Inc."
-CRL,Charles River Laboratories International Inc.
-CRM,Salesforce.Com Inc
-CRS,Carpenter Technology Corp.
-CRY,"Cryolife, Inc."
-CS,Credit Suisse Group AG
-CSL,Carlisle Companies Inc.
-CSLT,Castlight Health Inc (Class B)
-CSPR,Casper Sleep Inc
-CSTM,Constellium SE (Class A)
-CSU,Capital Senior Living Corp.
-CSV,"Carriage Services, Inc."
-CTB,Cooper Tire & Rubber Co.
-CTEK,CynergisTek Inc
-CTS,CTS Corp.
-CTVA,Corteva Inc
-CUB,Cubic Corp.
-CUBE,CubeSmart
-CUK,Carnival plc
-CUZ,Cousins Properties Inc.
-CVA,Covanta Holding Corporation
-CVEO,Civeo Corp
-CVI,CVR Energy Inc
-CVM,Cel-Sci Corp.
-CVNA,Carvana Co. (Class A)
-CVS,CVS Health Corp
-CVU,CPI Aerostructures Inc
-CVX,Chevron Corp.
-CW,Curtiss-Wright Corp.
-CWH,Camping World Holdings Inc (Class A)
-CWT,California Water Service Group
-CX,Cemex S.A.B. De C.V.
-CXE,MFS High Income Municipal Trust
-CXO,Concho Resources Inc
-CXW,CoreCivic Inc
-CYD,China Yuchai International
-CYH,"Community Health Systems, Inc."
-CZZ,Cosan Ltd (Class A)
-D,Dominion Energy Inc
-DAC,Danaos Corporation
-DAL,"Delta Air Lines, Inc."
-DAN,Dana Inc
-DAR,Darling Ingredients Inc
-DASH,DoorDash Inc (Class A)
-DB,Deutsche Bank AG
-DBD,Diebold Nixdorf Inc
-DBI,Designer Brands Inc (Class A)
-DCI,Donaldson Co. Inc.
-DCO,Ducommun Inc.
-DCP,DCP Midstream LP
-DD,DuPont de Nemours Inc
-DDD,3D Systems Corp.
-DDS,Dillard`s Inc. (Class A)
-DE,Deere & Co.
-DECK,Deckers Outdoor Corp.
-DELL,Dell Technologies Inc (Class C)
-DEO,Diageo plc
-DESP,Despegar.com Corp
-DFIN,Donnelley Financial Solutions Inc
-DFS,Discover Financial Services
-DG,Dollar General Corp.
-DGX,"Quest Diagnostics, Inc."
-DHF,BNY Mellon High Yield Strategies Fund
-DHI,D.R. Horton Inc.
-DHR,Danaher Corp.
-DHT,DHT Holdings Inc
-DHX,DHI Group Inc
-DHY,Credit Suisse High Yield Bond Fund
-DIN,Dine Brands Global Inc
-DK,Delek US Holdings Inc
-DKS,"Dicks Sporting Goods, Inc."
-DLB,Dolby Laboratories Inc (Class A)
-DLNG,Dynagas LNG Partners LP
-DLR,Digital Realty Trust Inc
-DLX,Deluxe Corp.
-DNB,Dun & Bradstreet Holdings Inc
-DNOW,NOW Inc
-DNP,DNP Select Income Fund Inc.
-DOOR,Masonite International Corp
-DOV,Dover Corp.
-DOW,Dow Inc
-DPW,DPW Holdings Inc
-DPZ,Dominos Pizza Inc
-DRD,DRDGold Ltd.
-DRE,Duke Realty Corp
-DRH,Diamondrock Hospitality Co.
-DRI,"Darden Restaurants, Inc."
-DRQ,"Dril-Quip, Inc."
-DS,Drive Shack Inc
-DSS,"Document Security Systems, Inc."
-DSSI,Diamond S Shipping Inc
-DSX,Diana Shipping Inc
-DT,Dynatrace Inc
-DTE,DTE Energy Co.
-DUK,Duke Energy Corp.
-DVA,DaVita Inc
-DVD,Dover Motorsports Inc
-DVN,Devon Energy Corp.
-DX,"Dynex Capital, Inc."
-DXC,DXC Technology Co
-DY,"Dycom Industries, Inc."
-E,Eni Spa
-EAT,"Brinker International, Inc."
-EB,Eventbrite Inc (Class A)
-EBF,Ennis Inc.
-EBS,Emergent Biosolutions Inc
-EC,Ecopetrol SA
-ECL,"Ecolab, Inc."
-ECOM,ChannelAdvisor Corp
-ED,"Consolidated Edison, Inc."
-EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc
-EDN,Empresa Distribuidora y Comercial Norte S.A.
-EDU,New Oriental Education & Technology Group Inc.
-EFX,"Equifax, Inc."
-EGHT,8X8 Inc.
-EGP,"Eastgroup Properties, Inc."
-EGY,"VAALCO Energy, Inc."
-EHC,Encompass Health Corp
-EHI,Western Asset Global High Income Fund Inc
-EIX,Edison International
-EL,"Estee Lauder Cos., Inc. (Class A)"
-ELA,Envela Corp
-ELAN,Elanco Animal Health Inc
-ELF,e.l.f. Beauty Inc
-ELP,Cia Paranaense De Energia Copel (Class B)
-ELY,Callaway Golf Co.
-EMAN,EMagin Corp
-EME,"Emcor Group, Inc."
-EMN,Eastman Chemical Co
-EMR,Emerson Electric Co.
-ENBL,Enable Midstream Partners LP
-ENIA,Enel Americas SA
-ENIC,Enel Chile S.A.
-ENLC,Enlink Midstream LLC
-ENR,Energizer Holdings Inc
-ENS,Enersys
-ENSV,Enservco Corp
-ENV,Envestnet Inc.
-ENVA,Enova International Inc.
-ENZ,"Enzo Biochem, Inc."
-EOD,Wells Fargo Global Dividend Opportunity Fund
-EOG,"EOG Resources, Inc."
-EPAC,Enerpac Tool Group Corp (Class A)
-EPAM,EPAM Systems Inc
-EPC,Edgewell Personal Care Co
-EPD,Enterprise Products Partners L P
-EPM,Evolution Petroleum Corporation
-EPR,EPR Properties
-EQC,Equity Commonwealth
-EQH,Equitable Holdings Inc
-EQNR,Equinor ASA
-EQR,Equity Residential Properties Trust
-EQS,Equus Total Return Inc
-EQT,EQT Corp
-ES,Eversource Energy
-ESE,"Esco Technologies, Inc."
-ESGC,Eros STX Global Corporation (Class A)
-ESI,Element Solutions Inc
-ESNT,Essent Group Ltd
-ESS,"Essex Property Trust, Inc."
-ESTE,Earthstone Energy Inc (Class A)
-ET,Energy Transfer LP
-ETH,"Ethan Allen Interiors, Inc."
-ETN,Eaton Corporation plc
-ETR,Entergy Corp.
-ETRN,Equitrans Midstream Corporation
-EURN,Euronav NV
-EV,Eaton Vance Corp.
-EVA,Enviva Partners LP
-EVF,Eaton Vance Senior Income Trust
-EVH,Evolent Health Inc (Class A)
-EVN,Eaton Vance Municipal Income Trust
-EVR,Evercore Inc (Class A)
-EVRG,Evergy Inc
-EVRI,Everi Holdings Inc
-EW,Edwards Lifesciences Corp
-EXP,Eagle Materials Inc.
-EXPR,Express Inc.
-EXR,Extra Space Storage Inc.
-F,Ford Motor Co.
-FAF,First American Financial Corp
-FAX,Aberdeen Asia-Pacific Income Fund Inc
-FBC,"Flagstar Bancorp, Inc."
-FBHS,Fortune Brands Home & Security Inc
-FBP,First Bancorp PR
-FC,Franklin Covey Co.
-FCAU,Fiat Chrysler Automobiles NV
-FCF,First Commonwealth Financial Corp.
-FCN,FTI Consulting Inc.
-FCO,Aberdeen Global Income Fund Inc
-FCPT,Four Corners Property Trust Inc
-FCX,Freeport-McMoRan Inc
-FDP,Fresh Del Monte Produce Inc
-FDS,Factset Research Systems Inc.
-FDX,Fedex Corp
-FE,Firstenergy Corp.
-FENG,Phoenix New Media Ltd
-FET,Forum Energy Technologies Inc
-FF,Futurefuel Corp
-FFG,"FBL Financial Group, Inc. (Class A)"
-FHI,Federated Hermes Inc (Class B)
-FHN,First Horizon Corporation
-FICO,"Fair, Isaac Corp."
-FIS,"Fidelity National Information Services, Inc."
-FIT,Fitbit Inc (Class A)
-FIX,"Comfort Systems USA, Inc."
-FL,Foot Locker Inc
-FLO,"Flowers Foods, Inc."
-FLOW,SPX FLOW Inc
-FLR,Fluor Corporation
-FLS,Flowserve Corp.
-FLT,Fleetcor Technologies Inc
-FMC,FMC Corp.
-FMS,Fresenius Medical Care AG & Co. KGaA
-FMX,Fomento Economico Mexicano S.A.B. de C.V.
-FN,Fabrinet
-FNB,F.N.B. Corp.
-FND,Floor & Decor Holdings Inc (Class A)
-FNF,Fidelity National Financial Inc
-FOE,Ferro Corp.
-FOUR,Shift4 Payments Inc (Class A)
-FR,"First Industrial Realty Trust, Inc."
-FRO,Frontline Ltd
-FRT,Federal Realty Investment Trust
-FSI,Flexible Solutions International Inc
-FSLY,Fastly Inc (Class A)
-FSR,Fisker Inc (Class A)
-FSS,Federal Signal Corp.
-FTI,TechnipFMC plc
-FTK,Flotek Industries Inc
-FTSI,FTS International Inc. 
-FTV,Fortive Corp
-FUL,H.B. Fuller Company
-FUN,Cedar Fair L.P.
-FVRR,Fiverr International Ltd
-G,Genpact Ltd
-GAB,Gabelli Equity Trust Inc.
-GBX,"Greenbrier Cos., Inc."
-GCI,Gannett Co Inc.
-GCO,Genesco Inc.
-GCP,GCP Applied Technologies Inc
-GD,General Dynamics Corp.
-GE,General Electric Co.
-GEF,Greif Inc (Class A)
-GEL,Genesis Energy L.P.
-GEN,Genesis Healthcare Inc (Class A)
-GEO,"Geo Group, Inc."
-GES,Guess Inc.
-GFF,Griffon Corp.
-GFI,- Level II
-GGB,Gerdau S.A.
-GGG,Graco Inc.
-GGN,GAMCO Global Gold Natural Resources & Income Trust
-GHL,Greenhill & Co Inc
-GHLD,Guild Holdings Co (Class A)
-GIM,Templeton Global Income Fund Inc
-GIS,"General Mills, Inc."
-GL,Globe Life Inc
-GLOG,GasLog Ltd
-GLT,Glatfelter Corporation
-GLW,"Corning, Inc."
-GM,General Motors Company
-GME,Gamestop Corporation (Class A)
-GMED,Globus Medical Inc (Class A)
-GNE,Genie Energy Ltd (Class B)
-GNK,Genco Shipping & Trading Limited
-GNRC,Generac Holdings Inc
-GNW,Genworth Financial Inc (Class A)
-GOF,Guggenheim Strategic Opportunities Fund
-GOL,Gol Linhas Aereas Inteligentes S.A.
-GOLF,Acushnet Holdings Corp
-GORO,Gold Resource Corporation
-GPC,Genuine Parts Co.
-GPI,"Group 1 Automotive, Inc."
-GPK,Graphic Packaging Holding Co
-GPM,Guggenheim Enhanced Equity Income Fund
-GPMT,Granite Point Mortgage Trust Inc
-GPN,"Global Payments, Inc."
-GPRK,Geopark Limited
-GPS,"Gap, Inc."
-GPX,GP Strategies Corp.
-GRA,W.R. Grace & Co.
-GRC,Gorman-Rupp Co.
-GRUB,GrubHub Inc
-GS,"Goldman Sachs Group, Inc."
-GSAT,Globalstar Inc.
-GSK,Glaxosmithkline plc
-GSL,Global Ship Lease Inc (Class A)
-GSX,Gsx Techedu Inc
-GTT,GTT Communications Inc
-GTY,Getty Realty Corp.
-GV,Goldfield Corp.
-GVA,Granite Construction Inc.
-GWRE,Guidewire Software Inc
-GWW,W.W. Grainger Inc.
-H,Hyatt Hotels Corporation (Class A)
-HAE,Haemonetics Corp.
-HAL,Halliburton Co.
-HASI,Hannon Armstrong Sustainable Infrastructure capital Inc
-HBB,Hamilton Beach Brands Holding Co (Class A)
-HBI,Hanesbrands Inc
-HCA,HCA Healthcare Inc
-HCFT,Hunt Companies Finance Trust Inc
-HCHC,HC2 Holdings Inc
-HCI,HCI Group Inc
-HD,"Home Depot, Inc."
-HDB,HDFC Bank Ltd.
-HE,"Hawaiian Electric Industries, Inc."
-HEI,Heico Corp.
-HEI.A,Heico Corp. (Class A)
-HEP,Holly Energy Partners L.P.
-HES,Hess Corporation
-HFC,HollyFrontier Corp
-HGV,Hilton Grand Vacations Inc
-HHC,Howard Hughes Corporation
-HI,Hillenbrand Inc
-HIG,Hartford Financial Services Group Inc.
-HII,Huntington Ingalls Industries Inc
-HIL,Hill International Inc
-HIO,Western Asset High Income Opportunity Fund Inc
-HIW,"Highwoods Properties, Inc."
-HIX,Western Asset High Income Fund II Inc
-HL,Hecla Mining Co.
-HLF,Herbalife Nutrition Ltd
-HLI,Houlihan Lokey Inc (Class A)
-HLT,Hilton Worldwide Holdings Inc
-HLX,Helix Energy Solutions Group Inc
-HMC,Honda Motor
-HMN,Horace Mann Educators Corp.
-HMY,Harmony Gold Mining Co Ltd
-HNGR,Hanger Inc
-HNI,HNI Corp.
-HOG,"Harley-Davidson, Inc."
-HOME,At Home Group Inc
-HON,Honeywell International Inc
-HOV,"Hovnanian Enterprises, Inc. (Class A)"
-HP,"Helmerich & Payne, Inc."
-HPE,Hewlett Packard Enterprise Co
-HPI,John Hancock Preferred Income Fund
-HPQ,HP Inc
-HPR,HighPoint Resources Corp
-HQL,Tekla Life Sciences Investors
-HR,"Healthcare Realty Trust, Inc."
-HRB,H&R Block Inc.
-HRC,Hill-Rom Holdings Inc
-HRI,Herc Holdings Inc
-HRL,Hormel Foods Corp.
-HSBC,HSBC Holdings plc
-HSC,Harsco Corp.
-HSY,Hershey Company
-HT,Hersha Hospitality Trust
-HTA,Healthcare Trust of America Inc (Class A)
-HTGC,Hercules Capital Inc
-HTH,Hilltop Holdings Inc
-HUBB,Hubbell Inc.
-HUBS,HubSpot Inc
-HUM,Humana Inc.
-HUN,Huntsman Corp
-HVT,"Haverty Furniture Cos., Inc."
-HWM,Howmet Aerospace Inc
-HXL,Hexcel Corp.
-HY,Hyster-Yale Materials Handling Inc (Class A)
-HYLN,Hyliion Holdings Corporation (Class A)
-HZO,"Marinemax, Inc."
-IAA,IAA Inc
-IAF,Aberdeen Australia Equity Fund Inc.
-IBIO,iBio Inc
-IBM,International Business Machines Corp.
-IBN,ICICI Bank Ltd.
-ICD,Independence Contract Drilling Inc
-ICE,Intercontinental Exchange Inc
-IDA,"Idacorp, Inc."
-IDT,IDT Corp. (Class B)
-IEX,Idex Corporation
-IFF,International Flavors & Fragrances Inc.
-IFS,Intercorp Financial Services Inc
-IGT,International Game Technology PLC
-IHG,Intercontinental Hotels Group
-IHT,Innsuites Hospitality Trust
-IIM,Invesco Value Municipal Income Trust
-IMAX,Imax Corp
-IMH,"Impac Mortgage Holdings, Inc."
-INFO,IHS Markit Ltd
-INFU,InfuSystem Holdings Inc
-INFY,Infosys Ltd
-ING,ING Groep N.V.
-INGR,Ingredion Inc
-INS,Intelligent Systems Corp.
-INT,World Fuel Services Corp.
-INUV,Inuvo Inc
-INVH,Invitation Homes Inc
-IO,ION Geophysical Corp
-IP,International Paper Co.
-IPG,"Interpublic Group Of Cos., Inc."
-IPI,Intrepid Potash Inc
-IQI,Invesco Quality Municipal Income Trust
-IQV,IQVIA Holdings Inc
-IR,Ingersoll-Rand Inc
-IRM,Iron Mountain Inc.
-IRR,Voya Natural Resources Equity Income Fund
-IRS,IRSA
-IRT,Independence Realty Trust Inc
-ISR,"Isoray, Inc."
-IT,"Gartner, Inc."
-ITGR,Integer Holdings Corp
-ITP,IT Tech Packaging Inc
-ITT,ITT Inc
-ITUB,Itau Unibanco Holding S.A.
-ITW,"Illinois Tool Works, Inc."
-IVC,Invacare Corp.
-IVR,Invesco Mortgage Capital Inc
-IVZ,Invesco Ltd
-IX,Orix Corporation
-J,"Jacobs Engineering Group, Inc."
-JAX,J. Alexanders Holdings Inc
-JBGS,JBG SMITH Properties
-JBL,Jabil Inc
-JBT,John Bean Technologies Corp
-JCE,Nuveen Core Equity Alpha Fund
-JCI,Johnson Controls International plc
-JEF,Jefferies Financial Group Inc
-JKS,JinkoSolar Holding Co. Ltd
-JLL,Jones Lang Lasalle Inc.
-JMIA,Jumia Technologies Ag
-JNJ,Johnson & Johnson
-JNPR,Juniper Networks Inc
-JOB,GEE Group Inc
-JOE,St. Joe Co.
-JP,Jupai Holdings Ltd
-JPM,JPMorgan Chase & Co.
-JPS,Nuveen Preferred & Income Securities Fund
-JWN,"Nordstrom, Inc."
-K,Kellogg Co
-KAI,"Kadant, Inc."
-KAR,KAR Auction Services Inc
-KB,KB Financial Group Inc
-KBH,KB Home
-KBR,KBR Inc
-KEP,Korea Electric Power
-KEX,Kirby Corp.
-KEY,Keycorp
-KEYS,Keysight Technologies Inc
-KFY,Korn Ferry
-KIM,Kimco Realty Corp.
-KKR,KKR & Co. Inc.
-KMB,Kimberly-Clark Corp.
-KMI,Kinder Morgan Inc (Class P)
-KMPR,Kemper Corporation
-KMT,Kennametal Inc.
-KMX,Carmax Inc
-KN,Knowles Corp
-KNX,Knight-Swift Transportation Holdings Inc (Class A)
-KO,Coca-Cola Co
-KODK,Eastman Kodak Co.
-KOF,Coca-Cola Femsa S.A.B. DE C.V.
-KOP,Koppers Holdings Inc
-KOS,Kosmos Energy Ltd
-KR,Kroger Co.
-KRA,Kraton Corp
-KRC,Kilroy Realty Corp.
-KRG,Kite Realty Group Trust
-KRO,"Kronos Worldwide, Inc."
-KSS,Kohl`s Corp.
-KSU,Kansas City Southern
-KT,KT Corporation
-KTB,Kontoor Brands Inc
-KW,Kennedy-Wilson Holdings Inc
-KWR,Quaker Chemical Corp.
-L,Loews Corp.
-LAD,"Lithia Motors, Inc. (Class A)"
-LAZ,Lazard Ltd. (Class A)
-LB,L Brands Inc
-LC,LendingClub Corp
-LCI,"Lannett Co., Inc."
-LCII,LCI Industries
-LCTX,Lineage Cell Therapeutics Inc
-LDL,"Lydall, Inc."
-LDOS,Leidos Holdings Inc
-LEA,Lear Corp.
-LEE,"Lee Enterprises, Inc."
-LEG,"Leggett & Platt, Inc."
-LEJU,Leju Holdings Ltd
-LEN,Lennar Corp. (Class A)
-LEN.B,Lennar Corp. (Class B)
-LEU,Centrus Energy Corp (Class A)
-LEVI,Levi Strauss & Co.
-LFC,China Life Insurance Co
-LGF.A,Lions Gate Entertainment Corp. (Class A)
-LGF.B,Lions Gate Entertainment Corp. (Class B)
-LGVW.UN,Longview Acquisition Corp 1 Ord Share Class A & 1/3 War
-LH,Laboratory Corp. Of America Holdings
-LHX,L3Harris Technologies Inc
-LII,Lennox International Inc
-LIN,Linde Plc
-LINX,Linx S.A.
-LITB,LightInTheBox Holding Co Ltd
-LL,Lumber Liquidators Holdings Inc
-LLY,Lilly(Eli) & Co
-LMND,Lemonade Inc
-LMT,Lockheed Martin Corp.
-LNC,Lincoln National Corp.
-LNG,Cheniere Energy Inc.
-LNN,Lindsay Corporation
-LODE,Comstock Mining Inc
-LOV,Spark Networks SE
-LOW,"Lowe`s Cos., Inc."
-LPI,Laredo Petroleum Inc.
-LPL,LG Display Co Ltd.
-LPX,Louisiana-Pacific Corp.
-LRN,Stride Inc
-LSI,Life Storage Inc
-LTC,"LTC Properties, Inc."
-LTHM,Livent Corp
-LUB,"Luby`s, Inc."
-LUMN,Lumen Technologies Inc.
-LUV,Southwest Airlines Co
-LVS,Las Vegas Sands Corp
-LW,Lamb Weston Holdings Inc
-LXP,Lexington Realty Trust
-LXU,"LSB Industries, Inc."
-LYB,LyondellBasell Industries NV (Class A)
-LYG,Lloyds Banking Group plc
-LYV,Live Nation Entertainment Inc
-LZB,La-Z-Boy Inc.
-MA,Mastercard Incorporated (Class A)
-MAA,"Mid-America Apartment Communities, Inc."
-MAC,Macerich Co.
-MAIN,Main Street Capital Corporation
-MAN,ManpowerGroup
-MANU,Manchester ed Plc. (Class A)
-MAS,Masco Corp.
-MAX,MediaAlpha Inc (Class A)
-MBI,MBIA Inc.
-MBT,Mobile Telesystems PJSC
-MCD,McDonald`s Corp
-MCF,Contango Oil & Gas Company
-MCK,Mckesson Corporation
-MCO,Moody`s Corp.
-MCR,MFS Charter Income Trust
-MCS,Marcus Corp.
-MCY,Mercury General Corp.
-MD,MEDNAX Inc
-MDC,"M.D.C. Holdings, Inc."
-MDLA,Medallia Inc
-MDT,Medtronic Plc
-MED,Medifast Inc
-MEI,"Methode Electronics, Inc."
-MEN,BlackRock Munienhanced Fund Inc
-MET,Metlife Inc
-MFA,MFA Financial Inc
-MFG,"Mizuho Financial Group, Inc."
-MFGP,Micro Focus International Plc
-MG,Mistras Group Inc
-MGM,MGM Resorts International
-MGP,MGM Growth Properties LLC (Class A)
-MHE,BlackRock Massachusetts Tax-Exempt Trust
-MHK,"Mohawk Industries, Inc."
-MHO,MI Homes Inc.
-MIC,Macquarie Infrastructure Corp
-MIN,MFS Intermediate Income Trust
-MITT,AG Mortgage Investment Trust Inc
-MKC,"McCormick & Co., Inc."
-MLI,"Mueller Industries, Inc."
-MLM,"Martin Marietta Materials, Inc."
-MLR,Miller Industries Inc.
-MLSS,Milestone Scientific Inc.
-MMC,"Marsh & McLennan Cos., Inc."
-MMM,3M Co.
-MMP,Magellan Midstream Partners L.P.
-MMS,Maximus Inc.
-MMT,MFS Multimarket Income Trust
-MMU,Western Asset Managed Municipals Fund Inc
-MN,Manning & Napier Inc (Class A)
-MNR,Monmouth Real Estate Investment Corp. (Class A)
-MO,Altria Group Inc.
-MOD,Modine Manufacturing Co.
-MODN,Model N Inc
-MOG.A,"Moog, Inc. (Class A)"
-MOH,Molina Healthcare Inc
-MOS,Mosaic Company
-MOV,"Movado Group, Inc."
-MP,MP Materials Corporation (Class A)
-MPC,Marathon Petroleum Corp
-MPLX,MPLX LP
-MPW,Medical Properties Trust Inc
-MRC,MRC Global Inc
-MRK,Merck & Co Inc
-MRO,Marathon Oil Corporation
-MS,Morgan Stanley
-MSA,MSA Safety Inc
-MSB,Mesabi Trust
-MSCI,MSCI Inc
-MSGE,Madison Square Garden Entertainment Corp (Class A)
-MSGN,MSG Networks Inc (Class A)
-MSGS,Madison Square Garden Sports Corp (Class A)
-MSI,Motorola Solutions Inc
-MSM,"MSC Industrial Direct Co., Inc. (Class A)"
-MSN,Emerson Radio Corp.
-MSP,Datto Holding Corp
-MT,New York Shares - Level III
-MTB,M & T Bank Corp
-MTD,"Mettler-Toledo International, Inc."
-MTDR,Matador Resources Co
-MTG,MGIC Investment Corp
-MTH,Meritage Homes Corp.
-MTL,Mechel PJSC
-MTN,Vail Resorts Inc.
-MTOR,Meritor Inc
-MTRN,Materion Corp
-MTW,"Manitowoc Co., Inc."
-MTX,"Minerals Technologies, Inc."
-MTZ,Mastec Inc.
-MUC,BlackRock MuniHoldings California Quality Fund Inc
-MUFG,"Mitsubishi UFJ Financial Group, Inc."
-MUJ,BlackRock MuniHoldings New Jersey Quality Fund Inc
-MUR,Murphy Oil Corp.
-MUSA,Murphy USA Inc
-MVC,MVC Capital Inc
-MVO,MV Oil Trust
-MWA,Mueller Water Products Inc (Series A)
-MX,MagnaChip Semiconductor Corp
-MXC,Mexco Energy Corp
-MXL,MaxLinear Inc
-MYD,BlackRock MuniYield Fund Inc
-MYE,Myers Industries Inc.
-MYO,Myomo Inc
-MYOV,Myovant Sciences Ltd
-NAD,Nuveen Quality Municipal Income Fund
-NAN,Nuveen New York Quality Municipal Income Fund
-NAT,Nordic American Tankers Ltd
-NAV,Navistar International Corp.
-NAVB,Navidea Biopharmaceuticals Inc
-NBR,Nabors Industries Ltd
-NBY,Novabay Pharmaceuticals Inc
-NCLH,Norwegian Cruise Line Holdings Ltd
-NCR,NCR Corp.
-NEE,NextEra Energy Inc
-NET,Cloudflare Inc (Class A)
-NFG,National Fuel Gas Co.
-NFJ,AllianzGI Dividend Interest & Premium Strategy Fund
-NGG,National Grid Plc
-NGL,NGL Energy Partners LP
-NGVC,Natural Grocers by Vitamin Cottage Inc
-NGVT,Ingevity Corp
-NHF,NexPoint Strategic Opportunities Fund
-NHI,"National Health Investors, Inc."
-NI,Nisource Inc. (Holding Co.)
-NINE,Nine Energy Service Inc
-NIO,NIO Inc
-NJR,New Jersey Resources Corporation
-NKE,"Nike, Inc. (Class B)"
-NLS,Nautilus Inc
-NLSN,Nielsen Holdings plc
-NLY,Annaly Capital Management Inc
-NM,"Navios Maritime Holdings, Inc."
-NMR,Nomura Holdings Inc.
-NNA,Navios Maritime Acquisition Corp
-NNN,National Retail Properties Inc
-NNVC,NanoViricides Inc
-NOAH,Noah Holdings Limited
-NOC,Northrop Grumman Corp.
-NOG,Northern Oil and Gas Inc.
-NOK,Nokia Corp
-NOMD,Nomad Foods Limited
-NOV,National Oilwell Varco Inc.
-NOVA,Sunnova Energy International Inc
-NOW,ServiceNow Inc
-NP,Neenah Inc
-NPK,"National Presto Industries, Inc."
-NPO,EnPro Industries Inc
-NR,"Newpark Resources, Inc."
-NRG,NRG Energy Inc.
-NRZ,New Residential Investment Corp
-NS,Nustar Energy L P
-NSC,Norfolk Southern Corp.
-NSP,Insperity Inc
-NTN,NTN Buzztime Inc
-NTP,Nam Tai Property Inc
-NTZ,Natuzzi S.P.A.
-NUE,Nucor Corp.
-NUM,Nuveen Michigan Quality Municipal Income Fund
-NUS,"Nu Skin Enterprises, Inc. (Class A)"
-NUV,Nuveen Municipal Value Fund Inc.
-NVGS,Navigator Holdings Ltd
-NVO,Novo Nordisk
-NVS,Novartis AG
-NVST,Envista Holdings Corp
-NVTA,Invitae Corp
-NWE,Northwestern Corp.
-NWG,NatWest Group Plc
-NWHM,New Home Company Inc (The)
-NWN,Northwest Natural Holding Co
-NX,Quanex Building Products Corp
-NXRT,NexPoint Residential Trust Inc
-NYCB,New York Community Bancorp Inc.
-NYT,New York Times Co. (Class A)
-OBLG,Oblong Inc
-OC,Owens Corning
-OCFT,Oneconnect Financial Technology Co Ltd
-OCN,Ocwen Financial Corp.
-OCX,OncoCyte Corp
-OFC,Corporate Office Properties Trust
-OFG,OFG Bancorp
-OGE,Oge Energy Corp.
-OGEN,Oragenics Inc
-OGS,ONE Gas Inc
-OHI,"Omega Healthcare Investors, Inc."
-OI,O-I Glass Inc
-OIA,Invesco Municipal Income Opportunities Trust
-OIBR.C,Representing 5
-OII,"Oceaneering International, Inc."
-OIS,"Oil States International, Inc."
-OKE,Oneok Inc.
-OLN,Olin Corp.
-OLP,"One Liberty Properties, Inc."
-OMC,"Omnicom Group, Inc."
-OMF,OneMain Holdings Inc
-OMI,"Owens & Minor, Inc."
-ONTO,Onto Innovation Inc.
-OPY,Oppenheimer Holdings Inc (Class A)
-ORA,Ormat Technologies Inc
-ORCL,Oracle Corp.
-ORI,Old Republic International Corp.
-OSH,Oak Street Health Inc
-OSK,Oshkosh Corp
-OTIS,Otis Worldwide Corp
-OUT,Outfront Media Inc
-OXM,"Oxford Industries, Inc."
-OXY,Occidental Petroleum Corp.
-PAC,Grupo Aeroportuario Del Pacifico SAB de CV
-PAG,Penske Automotive Group Inc
-PAM,Pampa Energia SA
-PANW,Palo Alto Networks Inc
-PAR,Par Technology Corp.
-PAYC,Paycom Software Inc
-PB,Prosperity Bancshares Inc.
-PBF,PBF Energy Inc (Class A)
-PBH,Prestige Consumer Healthcare Inc
-PBI,"Pitney Bowes, Inc."
-PBR,Petroleo Brasileiro S.A. Petrobras
-PBR.A,Petroleo Brasileiro S.A.- Petrobras American Depositary Shares
-PBT,Permian Basin Royalty Trust
-PCG,PG&E Corp.
-PCN,PIMCO Corporate & Income Strategy Fund
-PD,Pagerduty Inc
-PDI,PIMCO Dynamic Income Fund
-PDM,Piedmont Office Realty Trust Inc (Class A)
-PE,Parsley Energy Inc (Class A)
-PEAK,Healthpeak Properties Inc
-PEB,Pebblebrook Hotel Trust
-PED,PEDEVCO Corp
-PEG,Public Service Enterprise Group Inc.
-PEI,Pennsylvania Real Estate Investment Trust
-PEN,Penumbra Inc
-PEO,Adams Natural Resources Fund Inc
-PFE,Pfizer Inc.
-PFGC,Performance Food Group Company
-PFS,Provident Financial Services Inc
-PFSI,PennyMac Financial Services Inc.
-PG,Procter & Gamble Co.
-PGR,Progressive Corp.
-PGTI,PGT Innovations Inc
-PH,Parker-Hannifin Corp.
-PHG,Koninklijke Philips N.V.
-PHI,PLDT Inc
-PHM,PulteGroup Inc
-PHT,Pioneer High Income Trust
-PHX,PHX Minerals Inc (Class A)
-PII,Polaris Inc
-PIM,Putnam Master Intermediate Income Trust
-PING,Ping Identity Holding Corp
-PINS,Pinterest Inc (Class A)
-PIPR,Piper Sandler Co`s
-PJT,PJT Partners Inc (Class A)
-PK,Park Hotels & Resorts Inc
-PKE,Park Aerospace Corp
-PKG,Packaging Corp Of America
-PKI,"Perkinelmer, Inc."
-PKX,Posco
-PLD,Prologis Inc
-PLNT,Planet Fitness Inc (Class A)
-PLOW,Douglas Dynamics Inc
-PLT,"Plantronics, Inc."
-PLTR,Palantir Technologies Inc (Class A) 
-PLX,Protalix BioTherapeutics Inc.
-PM,Philip Morris International Inc
-PMM,Putnam Managed Municipal Income Trust.
-PMO,Putnam Municipal Opportunities Trust
-PMT,Pennymac Mortgage Investment Trust
-PNC,PNC Financial Services Group
-PNM,PNM Resources Inc
-PNR,Pentair plc
-PNW,Pinnacle West Capital Corp.
-POR,Portland General Electric Co
-POST,Post Holdings Inc
-PPG,"PPG Industries, Inc."
-PPL,PPL Corp
-PPT,Putnam Premier Income Trust
-PRA,Proassurance Corporation
-PRG,PROG Holdings Inc
-PRGO,Perrigo Company plc
-PRI,Primerica Inc
-PRK,Park National Corp.
-PRLB,Proto Labs Inc
-PRSP,Perspecta Inc
-PRTY,Party City Holdco Inc
-PRU,Prudential Financial Inc.
-PSA,Public Storage
-PSB,"PS Business Parks, Inc."
-PSN,Parsons Corp
-PSO,Pearson plc
-PSTG,Pure Storage Inc (Class A)
-PSTH,Pershing Square Tontine Holdings Ltd (Class A)
-PSX,Phillips 66
-PSXP,Phillips 66 Partners LP
-PTN,Palatin Technologies Inc.
-PTR,PetroChina Co. Ltd.
-PUK,Prudential plc
-PUMP,ProPetro Holding Corp
-PVH,PVH Corp
-PWR,"Quanta Services, Inc."
-PXD,Pioneer Natural Resources Co.
-PZG,Paramount Gold Nevada Corp
-QD,Qudian Inc
-QEP,QEP Resources Inc
-QGEN,Qiagen NV
-QS,QuantumScape Corp (Class A)
-QTS,Qts Realty Trust Inc (Class A)
-QUAD,Quad/Graphics Inc (Class A)
-R,"Ryder System, Inc."
-RACE,Ferrari N.V.
-RAD,Rite Aid Corp.
-RAMP,LiveRamp Holdings Inc
-RBC,Regal Beloit Corp
-RCL,Royal Caribbean Group
-RDN,"Radian Group, Inc."
-RDY,Dr. Reddy`s Laboratories Ltd.
-RE,Everest Re Group Ltd
-REI,Ring Energy Inc
-RELX,RELX Plc
-RENN,Renren Inc
-RES,"RPC, Inc."
-RESI,Front Yard Residential Corp
-REV,"Revlon, Inc. (Class A)"
-REVG,REV Group Inc
-REZI,Resideo Technologies Inc
-RF,Regions Financial Corp.
-RFI,Cohen & Steers Total Return Realty Fund Inc
-RGA,"Reinsurance Group Of America, Inc."
-RGR,"Sturm, Ruger & Co., Inc."
-RGS,Regis Corp.
-RH,RH (Class A)
-RHI,Robert Half International Inc.
-RHP,Ryman Hospitality Properties Inc
-RIG,Transocean Ltd
-RIO,Rio Tinto plc
-RJF,"Raymond James Financial, Inc."
-RKT,Class A
-RL,Ralph Lauren Corp (Class A)
-RLGT,"Radiant Logistics, Inc."
-RLGY,Realogy Holdings Corp
-RLH,Red Lion Hotels Corporation
-RLI,RLI Corp.
-RMAX,RE/MAX Holdings Inc (Class A)
-RMD,Resmed Inc.
-RMG,RMG Acquisition Corp (Class A)
-RMT,Royce Micro-Cap Trust Inc
-RNG,RingCentral Inc. (Class A)
-RNR,RenaissanceRe Holdings Ltd
-ROG,Rogers Corp.
-ROK,Rockwell Automation Inc
-ROL,"Rollins, Inc."
-ROP,Roper Technologies Inc
-RPM,"RPM International, Inc."
-RPT,RPT Realty
-RQI,"Cohen & Steers Quality Income Realty Fund, Inc."
-RRC,Range Resources Corp
-RRD,R.R. Donnelley & Sons Co.
-RS,Reliance Steel & Aluminum Co.
-RSG,"Republic Services, Inc."
-RTX,Raytheon Technologies Corporation
-RVI,Retail Value Inc
-RVLV,Revolve Group Inc (Class A)
-RVP,Retractable Technologies Inc
-RWT,Redwood Trust Inc.
-RYAM,Rayonier Advanced Materials Inc
-RYN,Rayonier Inc.
-SAH,"Sonic Automotive, Inc. (Class A)"
-SAIC,Science Applications International Corp.
-SAIL,SailPoint Technologies Holdings Inc
-SAM,"Boston Beer Co., Inc. (Class A)"
-SAN,Banco Santander S.A.
-SAP,Sap SE
-SB,"Safe Bulkers, Inc"
-SBE,Switchback Energy Acquisition Corp (Class A)
-SBH,Sally Beauty Holdings Inc
-SBOW,SilverBow Resources Inc
-SBS,Companhia de Saneamento Basico do Estado de Sao Paulo.
-SCCO,Southern Copper Corporation
-SCD,LMP Capital and Income Fund Inc
-SCHW,Charles Schwab Corp.
-SCI,Service Corp. International
-SCL,Stepan Co.
-SCS,"Steelcase, Inc. (Class A)"
-SCU,Sculptor Capital Management Inc (Class A)
-SE,Sea Ltd
-SEAS,SeaWorld Entertainment Inc
-SEE,Sealed Air Corp.
-SEM,Select Medical Holdings Corporation
-SF,Stifel Financial Corp.
-SFE,"Safeguard Scientifics, Inc."
-SFL,SFL Corporation Ltd
-SGU,Star Group L.P.
-SHAK,Shake Shack Inc (Class A)
-SHG,Shinhan Financial Group Co. Ltd.
-SHI,Sinopec Shanghai Petrochemical Co. Ltd.
-SHO,Sunstone Hotel Investors Inc
-SHW,Sherwin-Williams Co.
-SID,Companhia Siderurgica Nacional
-SIG,Signet Jewelers Ltd
-SITC,SITE Centers Corp
-SIX,Six Flags Entertainment Corp
-SJI,South Jersey Industries Inc.
-SJM,J.M. Smucker Co.
-SJT,San Juan Basin Royalty Trust
-SJW,SJW Group
-SKM,SK Telecom Co Ltd
-SKT,"Tanger Factory Outlet Centers, Inc."
-SKX,"Skechers U S A, Inc. (Class A)"
-SKY,Skyline Champion Corp
-SLB,Schlumberger Ltd.
-SLCA,U.S. Silica Holdings Inc
-SLG,SL Green Realty Corp.
-SM,SM Energy Co
-SMAR,Smartsheet Inc (Class A)
-SMFG,Sumitomo Mitsui Financial Group Inc
-SMG,Scotts Miracle-Gro Company (Class A)
-SMP,"Standard Motor Products, Inc."
-SNA,"Snap-on, Inc."
-SNAP,Snap Inc (Class A)
-SNE,Sony Corporation.
-SNMP,Sanchez Midstream Partners LP
-SNN,Smith & Nephew plc
-SNOW,Snowflake Inc (Class A)
-SNP,China Petroleum & Chemical Corp
-SNR,New Senior Investment Group Inc
-SNV,Synovus Financial Corp.
-SNX,Synnex Corp
-SO,Southern Company
-SOL,Renesola
-SON,Sonoco Products Co.
-SPB,Spectrum Brands Holdings Inc.
-SPCE,Virgin Galactic Holdings Inc (Class A)
-SPG,"Simon Property Group, Inc."
-SPGI,S&P Global Inc
-SPH,Suburban Propane Partners LP
-SPOT,Spotify Technology S.A.
-SPR,Spirit Aerosystems Holdings Inc (Class A)
-SPXC,SPX Corp.
-SQ,Square Inc (Class A)
-SQM,Sociedad Quimica Y Minera de Chile S.A.
-SR,Spire Inc.
-SRC,Spirit Realty Capital Inc
-SRE,Sempra Energy
-SRG,Seritage Growth Properties (Class A)
-SRI,Stoneridge Inc.
-SRT,"Startek, Inc."
-SSD,"Simpson Manufacturing Co., Inc."
-SSL,Sasol Ltd
-SSTK,Shutterstock Inc
-SSY,Sunlink Health Systems Inc
-STAG,STAG Industrial Inc
-STAR,iStar Inc
-STC,Stewart Information Services Corp.
-STE,Steris Plc
-STL,Sterling Bancorp.
-STM,New York Shares
-STNG,Scorpio Tankers Inc
-STON,StoneMor Inc
-STOR,Store Capital Corp
-STT,State Street Corp.
-STWD,Starwood Property Trust Inc
-STXS,Stereotaxis Inc
-STZ,Constellation Brands Inc (Class A)
-SUI,"Sun Communities, Inc."
-SUN,Sunoco LP
-SUP,"Superior Industries International, Inc."
-SWCH,Switch Inc (Class A)
-SWK,Stanley Black & Decker Inc
-SWM,"Schweitzer-Mauduit International, Inc."
-SWN,Southwestern Energy Company
-SWX,Southwest Gas Holdings Inc
-SXI,Standex International Corp.
-SXT,Sensient Technologies Corp.
-SYF,Synchrony Financial
-SYK,Stryker Corp.
-SYN,Synthetic Biologics Inc
-SYX,"Systemax, Inc."
-SYY,Sysco Corp.
-T,"AT&T, Inc."
-TAK,Takeda Pharmaceutical Co
-TAL,TAL Education Group
-TALO,Talos Energy Inc
-TAP,Molson Coors Beverage Company (Class B)
-TBI,TrueBlue Inc
-TCO,"Taubman Centers, Inc."
-TCP,"TC Pipelines, LP"
-TCS,Container Store Group Inc
-TDC,Teradata Corp
-TDG,Transdigm Group Incorporated
-TDOC,Teladoc Health Inc
-TDS,"Telephone And Data Systems, Inc."
-TDY,Teledyne Technologies Inc
-TEF,Telefonica S.A
-TEI,Templeton Emerging Markets Income Fund Inc
-TEL,TE Connectivity Ltd
-TEN,"Tenneco, Inc. (Class A)"
-TEO,Telecom Argentina S.A.
-TEVA,Teva- Pharmaceutical Industries Ltd.
-TEX,Terex Corp.
-TFC,Truist Financial Corporation
-TFX,Teleflex Incorporated
-TG,Tredegar Corp.
-TGC,"Tengasco, Inc."
-TGH,Textainer Group Holdings Limited
-TGI,Triumph Group Inc.
-TGNA,TEGNA Inc
-TGP,Teekay LNG Partners LP
-TGS,Transportadora de Gas del Sur
-TGT,Target Corp
-THC,Tenet Healthcare Corp.
-THG,Hanover Insurance Group Inc
-THO,"Thor Industries, Inc."
-THS,Treehouse Foods Inc
-TIF,Tiffany & Co.
-TIMB,TIM SA - ADR
-TISI,"Team, Inc."
-TJX,"TJX Companies, Inc."
-TK,Teekay Corp
-TKC,Turkcell Iletisim Hizmetleri A.S.
-TKR,Timken Co.
-TLK,PT Telkom Indonesia Persero Tbk
-TLYS,Tillys Inc (Class A)
-TM,Toyota Motor Corporation
-TMBR,Timber Pharmaceuticals Inc
-TMHC,Taylor Morrison Home Corp.
-TMO,Thermo Fisher Scientific Inc.
-TMP,Tompkins Financial Corp
-TMST,TimkenSteel Corp
-TNC,Tennant Co.
-TNET,TriNet Group Inc
-TNK,Teekay Tankers Ltd (Class A)
-TNP,Tsakos Energy Navigation Limited
-TOL,Toll Brothers Inc.
-TOT,Total SE
-TPC,Tutor Perini Corp
-TPH,TRI Pointe Group Inc
-TPR,Tapestry Inc
-TPRE,Third Point Reinsurance Ltd
-TPX,Tempur Sealy International Inc
-TR,"Tootsie Roll Industries, Inc."
-TRC,Tejon Ranch Co.
-TREC,Trecora Resources
-TREX,"TREX Co., Inc."
-TRGP,Targa Resources Corp
-TRN,"Trinity Industries, Inc."
-TROX,Tronox Holdings plc (Class A)
-TRTN,Triton International Ltd
-TRU,TransUnion
-TRV,Travelers Companies Inc.
-TRXC,TransEnterix Inc
-TS,Tenaris S.A.
-TSE,Trinseo S.A.
-TSI,TCW Strategic Income Fund Inc
-TSM,Taiwan Semiconductor Manufacturing
-TSN,"Tyson Foods, Inc. (Class A)"
-TT,Trane Technologies plc (Class A)
-TTC,Toro Co.
-TTI,"Tetra Technologies, Inc."
-TTM,Tata Motors Ltd.
-TUP,Tupperware Brands Corporation
-TV,- Level III
-TWI,"Titan International, Inc."
-TWLO,Class A
-TWO,Two Harbors Investment Corp
-TWTR,Twitter Inc
-TX,Ternium S.A.
-TXT,Textron Inc.
-TYG,Tortoise Energy Infrastructure Corp
-TYL,"Tyler Technologies, Inc."
-U,Unity Software Inc
-UA,Under Armour Inc (Class C)
-UAA,Under Armour Inc (Class A)
-UAMY,United States Antimony Corp.
-UAN,CVR Partners LP
-UAVS,AgEagle Aerial Systems Inc.
-UBA,"Urstadt Biddle Properties, Inc. (Class A)"
-UBER,Uber Technologies Inc
-UBS,UBS Group AG
-UDR,UDR Inc
-UE,Urban Edge Properties
-UEC,Uranium Energy Corp
-UFI,"UNIFI, Inc."
-UGI,UGI Corp.
-UGP,Ultrapar Participacoes S.A.
-UHS,"Universal Health Services, Inc. (Class B)"
-UI,Ubiquiti Inc
-UIS,Unisys Corp.
-UL,Unilever plc
-UMH,UMH Properties Inc
-UNF,Unifirst Corp.
-UNFI,United Natural Foods Inc.
-UNH,Unitedhealth Group Inc
-UNM,Unum Group
-UNP,Union Pacific Corp.
-UPS,"United Parcel Service, Inc. (Class B)"
-URI,"United Rentals, Inc."
-USA,Liberty All-Star Equity Fund
-USFD,US Foods Holding Corp
-USM,United States Cellular Corporation
-USNA,Usana Health Sciences Inc
-USPH,"U.S. Physical Therapy, Inc."
-UTI,Universal Technical Institute Inc
-UTL,Unitil Corp.
-UUU,"Universal Security Instruments, Inc."
-UVE,Universal Insurance Holdings Inc
-UVV,Universal Corp.
-V,Visa Inc (Class A)
-VAC,Marriott Vacations Worldwide Corp
-VAR,"Varian Medical Systems, Inc."
-VEC,Vectrus Inc
-VEEV,Veeva Systems Inc (Class A)
-VER,VEREIT Inc
-VFC,VF Corp.
-VGR,Vector Group Ltd
-VHC,Virnetx Holding Corp
-VICI,VICI Properties Inc
-VIPS,Vipshop Holdings Ltd
-VIV,"Telefonica Brasil S.A., - ADR (Representing Ord)"
-VKI,Invesco Advantage Municipal Income Trust II
-VLO,Valero Energy Corp.
-VMC,Vulcan Materials Co
-VMI,"Valmont Industries, Inc."
-VMO,Invesco Municipal Opportunity Trust
-VMW,Vmware Inc. (Class A)
-VNE,Veoneer Inc
-VNO,Vornado Realty Trust
-VNRX,VolitionRX Ltd
-VNT,Vontier Corporation
-VOLT,"Volt Information Sciences, Inc."
-VOYA,Voya Financial Inc
-VPG,Vishay Precision Group Inc
-VPV,Invesco Pennsylvania Value Municipal Income Trust
-VRTV,Veritiv Corp
-VSH,"Vishay Intertechnology, Inc."
-VST,Vistra Energy Corp
-VSTO,Vista Outdoor Inc
-VTOL,Bristow Group Inc.
-VTR,Ventas Inc
-VVI,Viad Corp.
-VVV,Valvoline Inc
-VZ,Verizon Communications Inc
-W,Wayfair Inc (Class A)
-WAB,Westinghouse Air Brake Technologies Corp
-WAL,Western Alliance Bancorp
-WAT,Waters Corp.
-WBK,Westpac Banking Corp
-WBS,Webster Financial Corp.
-WBT,Welbilt Inc
-WCC,"Wesco International, Inc."
-WD,Walker & Dunlop Inc
-WDR,"Waddell & Reed Financial, Inc. (Class A)"
-WEC,WEC Energy Group Inc
-WELL,Welltower Inc
-WES,Western Midstream Partners LP
-WEX,WEX Inc
-WFC,Wells Fargo & Co.
-WGO,"Winnebago Industries, Inc."
-WH,Wyndham Hotels & Resorts Inc
-WHR,Whirlpool Corp.
-WIA,Western Asset Inflation-Linked Income Fund
-WIT,Wipro Ltd.
-WIW,Western Asset Inflation-Linked Opportunities & Income Fund
-WLK,Westlake Chemical Corp
-WLKP,Westlake Chemical Partners LP
-WLL,Whiting Petroleum Corp
-WM,"Waste Management, Inc."
-WMB,Williams Cos Inc
-WMK,"Weis Markets, Inc."
-WMT,Walmart Inc
-WNC,Wabash National Corp.
-WNS,WNS Holdings Limited
-WOR,"Worthington Industries, Inc."
-WORK,Slack Technologies Inc (Class A)
-WPG,Washington Prime Group Inc
-WPP,WPP Plc.
-WPX,WPX Energy Inc
-WRB,W.R. Berkley Corp.
-WRE,Washington Real Estate Investment Trust
-WRI,Weingarten Realty Investors
-WRK,WestRock Co
-WSM,"Williams-Sonoma, Inc."
-WSO,Watsco Inc. (Class A)
-WSR,Whitestone REIT
-WST,"West Pharmaceutical Services, Inc."
-WTI,W & T Offshore Inc
-WTRG,Essential Utilities Inc
-WTS,"Watts Water Technologies, Inc. (Class A)"
-WU,Western Union Company
-WWE,"World Wrestling Entertainment, Inc. (Class A)"
-WWW,"Wolverine World Wide, Inc."
-WY,Weyerhaeuser Co.
-WYND,Wyndham Destinations Inc
-WYY,Widepoint Corp
-X,United States Steel Corp.
-XAN,Exantas Capital Corp
-XEC,Cimarex Energy Co.
-XIN,Xinyuan Real Estate Co. Ltd.
-XL,XL Fleet Corporation (Class A)
-XOM,Exxon Mobil Corp.
-XPO,XPO Logistics Inc
-XRX,Xerox Holdings Corp
-XTNT,Xtant Medical Holdings Inc
-XXII,22nd Century Group Inc
-XYL,Xylem Inc
-Y,Alleghany Corp.
-YCBD,cbdMD Inc
-YELP,Yelp Inc
-YETI,YETI Holdings Inc
-YEXT,Yext Inc
-YPF,YPF
-YRD,Yiren Digital Ltd
-YUM,Yum Brands Inc.
-YUMC,Yum China Holdings Inc
-ZBH,Zimmer Biomet Holdings Inc
-ZDGE,Zedge Inc (Class B)
-ZEN,Zendesk Inc
-ZTO,ZTO Express Cayman Inc
-ZTR,Virtus Total Return Fund Inc.
-ZTS,Zoetis Inc (Class A)
-ZUO,Zuora Inc (Class A)
-ZYME,Zymeworks Inc
+symbol,name,avg_daily_volume_last_month
+A,Agilent Technologies Inc.,1615639.1
+AA,Alcoa Corp,5182407.5
+AAIC,Arlington Asset Investment Corp (Class A),272204.72
+AAN,Aarons Company Inc (The),1125114.6
+AAP,Advance Auto Parts Inc,935295.1
+AB,AllianceBernstein Holding Lp,385618.88
+ABB,ABB Ltd.,1450738.4
+ABBV,Abbvie Inc,6507298.5
+ABC,Amerisource Bergen Corp.,886302.4
+ABEV,Ambev S.A.,20295102.0
+ABG,Asbury Automotive Group Inc,229907.23
+ABM,ABM Industries Inc.,354733.22
+ABR,Arbor Realty Trust Inc.,1218464.8
+ABT,Abbott Laboratories,4477477.0
+ACA,Arcosa Inc,237082.64
+ACCO,Acco Brands Corporation,622348.25
+ACH,Aluminum Corporation Of China Limited.,92478.87
+ACI,Albertsons Companies Inc (Class A),2323943.0
+ACM,AECOM,1395487.5
+ACN,Accenture plc (Class A),2066196.6
+ACRE,Ares Commercial Real Estate Corp,391638.9
+ACY,Aerocentury Corp.,3568937.2
+ADC,Agree Realty Corp.,677124.44
+ADM,Archer Daniels Midland Co.,2167698.0
+ADNT,Adient plc,848998.06
+ADS,Alliance Data System,1028156.2
+ADT,ADT Inc,4174986.2
+ADX,Adams Diversified Equity Fund,163123.0
+AEE,Ameren Corp.,1330133.5
+AEG,New York Shares,1893838.5
+AEL,American Equity Investment Life Holding Co,1379802.1
+AENZ,Aenza S.A.A,68457.91
+AEO,American Eagle Outfitters Inc.,3924294.5
+AER,Aercap Holdings N.V.,1480598.4
+AES,AES Corp.,5430387.5
+AFG,American Financial Group Inc,480483.8
+AFI,Armstrong Flooring Inc,190204.95
+AFL,Aflac Inc.,3596434.0
+AGCO,AGCO Corp.,733324.94
+AGE,AgeX Therapeutics Inc,212231.0
+AGM,Federal Agricultural Mortgage Corp. (Class C),58114.637
+AGO,Assured Guaranty Ltd,639509.6
+AGR,Avangrid Inc,601325.7
+AGRO,Adecoagro S.A.,181140.19
+AGX,"Argan, Inc.",115403.23
+AHC,A.H. Belo Corp (Class A),73463.0
+AHT,Ashford Hospitality Trust Inc,9724306.0
+AI,C3.ai Inc (Class A),8504759.0
+AIG,American International Group Inc,4492932.0
+AIM,AIM ImmunoTech Inc,3367379.2
+AIN,Albany International Corp. (Class A),143765.81
+AINC,Ashford Inc,572482.75
+AIR,AAR Corp.,386687.3
+AIRC,Apartment Income REIT Corp (Class A),2337969.2
+AIRI,Air Industries Group,185004.81
+AIT,Applied Industrial Technologies Inc.,144567.23
+AIV,Apartment Investment & Management Co. (Class A),13523622.0
+AIZ,Assurant Inc,371399.3
+AJG,Arthur J. Gallagher & Co.,757158.25
+AJRD,Aerojet Rocketdyne Holdings Inc,2050904.2
+AKR,Acadia Realty Trust,642419.6
+AL,Air Lease Corp (Class A),868753.9
+ALB,Albemarle Corp.,1267102.6
+ALC,Alcon Inc.,655792.5
+ALE,"Allete, Inc.",288282.38
+ALK,Alaska Air Group Inc.,1760997.0
+ALL,Allstate Corp (The),1690328.0
+ALLE,Allegion plc,651850.7
+ALLY,Ally Financial Inc,4974169.5
+ALSN,Allison Transmission Holdings Inc,841967.3
+ALV,Autoliv Inc.,321180.22
+AM,Antero Midstream Corp,5082564.0
+AMBC,AMBAC Financial Group Inc.,429108.1
+AMBO,Ambow Education Holding Ltd,260266.64
+AMC,AMC Entertainment Holdings Inc (Class A),27913198.0
+AMCR,Amcor Plc,4598564.0
+AME,Ametek Inc,805449.9
+AMG,Affiliated Managers Group Inc.,344439.7
+AMK,Assetmark Financial Holdings Inc,83461.87
+AMN,AMN Healthcare Services Inc.,285077.8
+AMP,Ameriprise Financial Inc,699180.75
+AMPE,Ampio Pharmaceuticals Inc,12621679.0
+AMPY,Amplify Energy Corp.,1500834.4
+AMRC,Ameresco Inc. (Class A),398386.8
+AMRX,Amneal Pharmaceuticals Inc (Class A),899096.5
+AMS,American Shared Hospital Services,145907.14
+AMWL,American Well Corporation (Class A),3283981.2
+AMX,America Movil S.A.B.DE C.V. (Series L),2473861.2
+AN,Autonation Inc.,670136.06
+ANET,Arista Networks Inc,539936.06
+ANF,Abercrombie & Fitch Co. (Class A),1359004.9
+ANH,Anworth Mortgage Asset Corp.,2217239.8
+ANTM,Anthem Inc,1091128.2
+AON,Aon plc. - Ordinary Shares - Class A,1539767.2
+AOS,A.O. Smith Corp.,973230.94
+AP,Ampco-Pittsburgh Corp.,135178.1
+APD,Air Products & Chemicals Inc.,1154254.0
+APH,Amphenol Corp. (Class A),1220333.6
+APLE,Apple Hospitality REIT Inc,2030322.6
+APO,Apollo Global Management Inc (Class A),1095614.6
+APRN,Blue Apron Holdings Inc (Class A),691820.7
+APT,Alpha Pro Tech Ltd.,934546.75
+APTS,Preferred Apartment Communities Inc (Class A),832103.9
+APTV,Aptiv PLC,1363241.9
+AQUA,Evoqua Water Technologies Corp,1447362.1
+AR,Antero Resources Corp,11174467.0
+ARA,American Renal Associates Holdings Inc.,158014.19
+ARC,ARC Document Solutions Inc,259946.23
+ARCH,Arch Resources Inc (Class A),468698.3
+ARCO,Arcos Dorados Holdings Inc (Class A),830177.94
+ARE,Alexandria Real Estate Equities Inc.,750711.5
+ARES,Ares Management Corp (Class A),632092.6
+ARGO,Argo Group International Holdings Ltd,132804.05
+ARI,Apollo Commercial Real Estate Finance Inc,1272294.5
+ARLO,Arlo Technologies Inc,3813832.8
+ARMK,Aramark,1731061.9
+ARNC,Arconic Corporation,1080164.6
+AROC,Archrock Inc,859664.1
+ARR,ARMOUR Residential REIT Inc,1063194.2
+ARW,Arrow Electronics Inc.,413178.2
+ASAN,Asana Inc (Class A),2400915.5
+ASB,Associated Banc-Corp.,984834.2
+ASC,Ardmore Shipping Corp,230068.86
+ASGN,ASGN Inc,224554.05
+ASH,Ashland Global Holdings Inc,401903.03
+ASIX,AdvanSix Inc,151908.6
+ASR,Grupo Aeroportuario Del Sureste S.A.,69807.73
+ASX,ASE Technology Holding Co.Ltd,1159854.2
+ATCO,Atlas Corp.,928319.56
+ATEN,A10 Networks Inc,905081.3
+ATGE,Adtalem Global Education Inc,466171.8
+ATH,Athene Holding Ltd (Class A),1116379.5
+ATHM,Autohome Inc,440633.3
+ATI,Allegheny Technologies Inc,1938151.5
+ATNM,Actinium Pharmaceuticals Inc,679667.8
+ATO,Atmos Energy Corp.,942590.06
+ATR,Aptargroup Inc.,191352.36
+AU,AngloGold Ashanti Ltd,2524095.2
+AVA,Avista Corp.,448046.38
+AVAL,Grupo Aval Acciones y Valores S.A.,182497.0
+AVB,Avalonbay Communities Inc.,946699.94
+AVD,American Vanguard Corp.,88629.5
+AVK,Advent Convertible and Income Fund,110387.77
+AVNS,Avanos Medical Inc,281875.03
+AVNT,Avient Corp,491585.72
+AVTR,Avantor Inc.,4007473.0
+AVY,Avery Dennison Corp.,370375.7
+AVYA,Avaya Holdings Corp.,1288142.0
+AWF,AllianceBernstein Global High Income Fund Inc,199176.14
+AWI,Armstrong World Industries Inc.,435596.03
+AWK,American Water Works Co. Inc.,869231.94
+AWR,American States Water Co.,176858.55
+AWX,Avalon Holdings Corp. (Class A),556315.1
+AX,Axos Financial Inc.,300651.28
+AXL,American Axle & Manufacturing Holdings Inc,1635999.2
+AXP,American Express Co.,3519929.0
+AXS,Axis Capital Holdings Ltd,319634.6
+AXTA,Axalta Coating Systems Ltd,1853198.1
+AYI,"Acuity Brands, Inc.",477517.1
+AYX,Alteryx Inc (Class A),1327657.6
+AZO,Autozone Inc.,306515.8
+BA,Boeing Co.,18612544.0
+BABA,Alibaba Group Holding Ltd,26137734.0
+BAC,Bank Of America Corp.,46705100.0
+BAH,Booz Allen Hamilton Holding Corp (Class A),761818.06
+BAK,Braskem S.A.,307876.3
+BALY,Ballys Corporation,377899.0
+BANC,Banc of California Inc,173052.95
+BAP,Credicorp Ltd,325784.62
+BAX,Baxter International Inc.,2932026.0
+BBAR,BBVA Argentina,395413.38
+BBD,Banco Bradesco S.A.,20908696.0
+BBDC,Barings BDC Inc,201770.77
+BBL,BHP Group Plc,961561.06
+BBVA,Banco Bilbao Vizcaya Argentaria.,5173574.0
+BBW,Build A Bear Workshop Inc,116840.41
+BBY,Best Buy Co. Inc.,3435515.8
+BC,Brunswick Corp.,697533.94
+BCEI,Bonanza Creek Energy Inc,357314.28
+BCH,Banco de Chile,97792.0
+BCO,Brink`s Co.,429599.47
+BCS,Barclays plc,4830679.5
+BDC,Belden Inc,245795.9
+BDN,Brandywine Realty Trust,1536406.5
+BDR,Blonder Tongue Laboratories Inc.,1188078.1
+BDX,"Becton, Dickinson And Co.",1307230.0
+BE,Bloom Energy Corp (Class A),5668873.0
+BEN,"Franklin Resources, Inc.",3498360.8
+BERY,Berry Global Group Inc,761342.9
+BEST,BEST Inc,5158534.5
+BF.A,Brown-Forman Corp. (Class A),171770.27
+BF.B,Brown-Forman Corp. (Class B),994905.56
+BFS,"Saul Centers, Inc.",56671.45
+BFZ,BlackRock California Municipal Income Trust,94320.32
+BG,Bunge Ltd.,1066003.0
+BGI,Birks Group Inc (Class A),619674.2
+BGS,"B&G Foods, Inc",1067519.1
+BHE,Benchmark Electronics Inc.,165711.7
+BHK,BlackRock Core Bond Trust,128214.45
+BHLB,Berkshire Hills Bancorp Inc.,304134.62
+BHP,BHP Group Limited,1954139.1
+BHR,Braemar Hotels & Resorts Inc,434502.4
+BHVN,Biohaven Pharmaceutical Holding Company Ltd,437302.72
+BIG,Big Lots Inc,1778422.6
+BILL,Bill.com Holdings Inc,1292185.0
+BIO,Bio-Rad Laboratories Inc. (Class A),233045.86
+BJ,BJ`s Wholesale Club Holdings Inc,2166936.8
+BK,Bank Of New York Mellon Corp,4886964.0
+BKD,Brookdale Senior Living Inc,1626654.0
+BKE,"Buckle, Inc.",498396.8
+BKH,Black Hills Corporation,422319.72
+BKI,Black Knight Inc (Class A),1145801.1
+BKR,Baker Hughes Co (Class A),5978999.0
+BKT,BlackRock Income Trust Inc,343738.1
+BKTI,BK Technologies Corp,42715.953
+BKU,BankUnited Inc,553753.75
+BLD,TopBuild Corp,308125.97
+BLK,Blackrock Inc.,599086.75
+BLL,Ball Corp.,1612360.5
+BLX,Banco Latinoamericano De Comercio Exterior SA (Class E),97157.09
+BMI,Badger Meter Inc.,155483.45
+BMY,Bristol-Myers Squibb Co.,9704575.0
+BNED,Barnes & Noble Education Inc,551975.9
+BNL,Broadstone Net Lease Inc (Class A),644342.44
+BOH,Bank of Hawaii Corp.,213676.5
+BORR,Borr Drilling Ltd,5623005.0
+BOX,Box Inc (Class A),2363518.2
+BP,BP plc,14125524.0
+BPT,BP Prudhoe Bay Royalty Trust,584058.06
+BR,"Broadridge Financial Solutions, Inc.",574177.25
+BRC,Brady Corp. (Class A),345972.53
+BRFS,BRF S.A.,2653728.5
+BRK.B,Berkshire Hathaway Inc. (Class B),5675497.0
+BRO,"Brown & Brown, Inc.",1003111.9
+BRT,BRT Apartments Corp,43521.816
+BSAC,Banco Santander Chile SA,285412.7
+BSBR,Banco Santander Brasil S.A.,1124107.9
+BSMX,Banco Santander Mexico S.A.,294868.38
+BSX,Boston Scientific Corp.,13227730.0
+BTI,British American Tobacco Plc,1823593.0
+BTO,John Hancock Financial Opportunities Fund,72258.73
+BUD,Anheuser-Busch In Bev SA/NV,1387494.8
+BURL,Burlington Stores Inc,868309.8
+BVN,Compania de Minas Buenaventura S.A.,961338.56
+BW,Babcock & Wilcox Enterprises Inc,366162.8
+BWA,BorgWarner Inc,2228171.8
+BWXT,BWX Technologies Inc,383759.0
+BX,Blackstone Group Inc (Class A),2352442.2
+BXC,Bluelinx Hldgs Inc,129011.68
+BXMT,Blackstone Mortgage Trust Inc (Class A),954138.2
+BXP,"Boston Properties, Inc.",1146680.4
+BXS,BancorpSouth Bank,381672.72
+BYD,Boyd Gaming Corp.,920180.56
+BZH,Beazer Homes USA Inc.,333140.6
+CACI,Caci International Inc. (Class A),140235.14
+CADE,Cadence Bancorporation (Class A),1045654.06
+CAG,Conagra Brands Inc,2904796.8
+CAH,"Cardinal Health, Inc.",1786762.4
+CAI,Cai International Inc,214831.36
+CAJ,Canon Inc,328470.4
+CAL,Caleres Inc,604154.25
+CALX,Calix Inc,972866.75
+CANF,Can-Fite Biopharma Ltd,581419.75
+CAPL,CrossAmerica Partners LP,62938.316
+CARR,Carrier Global Corp,4237019.5
+CARS,Cars.com,668001.56
+CAT,Caterpillar Inc.,2631670.2
+CATO,Cato Corp. (Class A),192279.1
+CB,Chubb Limited,1566482.0
+CBAH.U,CBRE Acquisition Holdings Inc - Units (1 Ord Share Class A & 1/4 War),457823.66
+CBB,"Cincinnati Bell, Inc.",561561.75
+CBRE,CBRE Group Inc (Class A),2023776.9
+CBT,Cabot Corp.,387686.88
+CBU,"Community Bank System, Inc.",212295.6
+CBZ,Cbiz Inc,237896.05
+CC,Chemours Company,1073569.4
+CCEP,Coca-Cola European Partners plc,1129242.0
+CCI,Crown Castle International Corp,2522948.0
+CCK,"Crown Holdings, Inc.",708852.25
+CCL,Carnival Corp.,45757180.0
+CCM,Concord Medical Services,539905.2
+CCO,Clear Channel Outdoor Holdings Inc.,2366744.0
+CCS,Century Communities Inc,309122.72
+CCU,Compania Cervecerias Unidas S.A.,144214.6
+CDE,Coeur Mining Inc,5217476.5
+CDR,Cedar Realty Trust Inc,97250.67
+CE,Celanese Corp (Series A),806005.3
+CEI,Camber Energy Inc,6563216.5
+CEIX,Consol Energy Inc,570169.56
+CEQP,Crestwood Equity Partners LP,620436.06
+CF,CF Industries Holdings Inc,1967213.9
+CFG,Citizens Financial Group Inc,5691563.5
+CFR,Cullen Frost Bankers Inc.,292571.62
+CFX,Colfax Corp,772432.9
+CGA,China Green Agriculture Inc,359763.22
+CHD,"Church & Dwight Co., Inc.",1663255.0
+CHE,Chemed Corp.,80028.41
+CHGG,Chegg Inc,1643149.0
+CHH,"Choice Hotels International, Inc.",278981.22
+CHS,"Chico`s Fas, Inc.",2072331.6
+CHT,Chunghwa Telecom,69975.55
+CHWY,Chewy Inc (Class A),4647768.5
+CI,Cigna Corp.,1699555.5
+CIF,MFS Intermediate High Income Fund,71910.41
+CIK,Credit Suisse Asset Management Income Fund Inc.,843791.1
+CIM,Chimera Investment Corp,2068100.8
+CIO,City Office REIT Inc,283206.8
+CIT,CIT Group Inc,1710904.5
+CL,Colgate-Palmolive Co.,2738520.8
+CLB,Core Laboratories N.V.,522770.03
+CLDR,Cloudera Inc,6984362.5
+CLDT,Chatham Lodging Trust,322200.8
+CLF,Cleveland-Cliffs Inc,12952325.0
+CLGX,CoreLogic Inc,1176934.2
+CLH,"Clean Harbors, Inc.",260364.45
+CLI,Mack-Cali Realty Corp.,563958.06
+CLM,Cornerstone Strategic Value Fund,603407.0
+CLNY,Colony Capital Inc. (Class A),4341542.0
+CLR,Continental Resources Inc (OKLA),2702504.5
+CLW,Clearwater Paper Corp,148381.1
+CLX,Clorox Co.,1197168.2
+CMA,"Comerica, Inc.",1580467.5
+CMC,Commercial Metals Co.,1168414.9
+CMCM,Cheetah Mobile Inc,885619.6
+CMD,Cantel Medical Corp,402228.6
+CMG,Chipotle Mexican Grill,268210.53
+CMI,Cummins Inc.,1009983.25
+CMO,Capstead Mortgage Corp.,715593.0
+CMP,Compass Minerals International Inc,252696.05
+CMRE,Costamare Inc,504795.22
+CMS,CMS Energy Corporation,1580027.5
+CMU,MFS High Yield Municipal Trust,105240.18
+CNA,CNA Financial Corp.,278512.88
+CNC,Centene Corp.,3752164.0
+CNHI,CNH Industrial NV,2273951.5
+CNK,Cinemark Holdings Inc,4082094.2
+CNMD,Conmed Corp.,248105.1
+CNNE,Cannae Holdings Inc,518988.3
+CNO,CNO Financial Group Inc,1009846.44
+CNP,Centerpoint Energy Inc.,5230302.5
+CNR,Cornerstone Building Brands Inc,440065.4
+CNS,Cohen & Steers Inc.,135662.4
+CNX,CNX Resources Corp,4357702.5
+CODI,Compass Diversified Holdings,216858.45
+COF,Capital One Financial Corp.,2934551.5
+COG,Cabot Oil & Gas Corp.,6502038.5
+COP,Conoco Phillips,10831869.0
+COTY,Coty Inc (Class A),11063038.0
+CPA,Copa Holdings S.A. (Class A),406737.9
+CPB,Campbell Soup Co.,2112531.8
+CPE,Callon Petroleum Co.,4815955.5
+CPF,Central Pacific Financial Corp.,205317.23
+CPHI,China Pharma Holdings Inc.,740174.8
+CPK,Chesapeake Utilities Corp,93926.87
+CPLG,CorePoint Lodging Inc,168963.31
+CPRI,Capri Holdings Ltd,2578302.5
+CPT,Camden Property Trust,564834.5
+CQP,Cheniere Energy Partners LP,254761.05
+CR,Crane Co.,357034.6
+CRD.A,Crawford & Co. (Class A),43927.59
+CRF,Cornerstone Total Return Fund,343290.7
+CRH,CRH Plc,425259.94
+CRI,Carters Inc,409692.9
+CRK,"Comstock Resources, Inc.",3100591.8
+CRL,Charles River Laboratories International Inc.,269247.7
+CRM,Salesforce.Com Inc,12617354.0
+CRS,Carpenter Technology Corp.,444737.7
+CRY,"Cryolife, Inc.",195531.36
+CS,Credit Suisse Group AG,1724985.5
+CSL,Carlisle Companies Inc.,274812.2
+CSLT,Castlight Health Inc (Class B),589050.5
+CSPR,Casper Sleep Inc,206298.36
+CSTM,Constellium SE (Class A),646872.56
+CSV,"Carriage Services, Inc.",97343.09
+CTB,Cooper Tire & Rubber Co.,357255.38
+CTEK,CynergisTek Inc,590289.94
+CTS,CTS Corp.,106186.59
+CTVA,Corteva Inc,3391540.5
+CUB,Cubic Corp.,294386.3
+CUBE,CubeSmart,1307660.9
+CUK,Carnival plc,1919869.0
+CUZ,Cousins Properties Inc.,976560.56
+CVA,Covanta Holding Corporation,902204.3
+CVEO,Civeo Corp,43942.59
+CVI,CVR Energy Inc,605499.44
+CVM,Cel-Sci Corp.,684405.4
+CVNA,Carvana Co. (Class A),1535849.9
+CVS,CVS Health Corp,7069832.0
+CVU,CPI Aerostructures Inc,81451.37
+CVX,Chevron Corp.,10218304.0
+CW,Curtiss-Wright Corp.,218645.5
+CWH,Camping World Holdings Inc (Class A),1640673.6
+CWT,California Water Service Group,288217.56
+CX,Cemex S.A.B. De C.V.,11647866.0
+CXE,MFS High Income Municipal Trust,83142.45
+CXW,CoreCivic Inc,2180706.0
+CYH,"Community Health Systems, Inc.",1857438.6
+CZZ,Cosan Ltd (Class A),920032.7
+D,Dominion Energy Inc,5173415.5
+DAC,Danaos Corporation,518869.22
+DAL,"Delta Air Lines, Inc.",12559620.0
+DAN,Dana Inc,1299308.5
+DAR,Darling Ingredients Inc,1248833.9
+DASH,DoorDash Inc (Class A),5413457.5
+DB,Deutsche Bank AG,2583988.2
+DBD,Diebold Nixdorf Inc,762728.4
+DBI,Designer Brands Inc (Class A),2001366.8
+DCI,Donaldson Co. Inc.,444288.2
+DCO,Ducommun Inc.,59758.59
+DCP,DCP Midstream LP,1029685.3
+DD,DuPont de Nemours Inc,5589760.0
+DDD,3D Systems Corp.,4112993.5
+DDS,Dillard`s Inc. (Class A),321827.2
+DE,Deere & Co.,1481641.1
+DECK,Deckers Outdoor Corp.,326266.7
+DELL,Dell Technologies Inc (Class C),2453782.8
+DEO,Diageo plc,329351.5
+DESP,Despegar.com Corp,356278.47
+DFIN,Donnelley Financial Solutions Inc,324652.97
+DFS,Discover Financial Services,2361024.0
+DG,Dollar General Corp.,1871273.2
+DGX,"Quest Diagnostics, Inc.",1118369.6
+DHF,BNY Mellon High Yield Strategies Fund,1629093.4
+DHI,D.R. Horton Inc.,2772630.0
+DHR,Danaher Corp.,2193365.5
+DHT,DHT Holdings Inc,1914376.5
+DHX,DHI Group Inc,162746.19
+DHY,Credit Suisse High Yield Bond Fund,1720197.9
+DIN,Dine Brands Global Inc,343887.22
+DK,Delek US Holdings Inc,1446268.1
+DKS,"Dicks Sporting Goods, Inc.",2351224.5
+DLB,Dolby Laboratories Inc (Class A),454008.1
+DLNG,Dynagas LNG Partners LP,125550.95
+DLR,Digital Realty Trust Inc,1916381.4
+DLX,Deluxe Corp.,361199.38
+DNB,Dun & Bradstreet Holdings Inc,1033982.7
+DNOW,NOW Inc,1272958.0
+DNP,DNP Select Income Fund Inc.,289013.72
+DOOR,Masonite International Corp,256378.95
+DOV,Dover Corp.,762434.75
+DOW,Dow Inc,3372143.2
+DPW,Ault Global Holdings Inc,7059166.0
+DPZ,Dominos Pizza Inc,520278.8
+DRD,DRDGold Ltd.,540209.94
+DRE,Duke Realty Corp,3120941.0
+DRH,Diamondrock Hospitality Co.,3461309.8
+DRI,"Darden Restaurants, Inc.",1651217.4
+DRQ,"Dril-Quip, Inc.",231100.64
+DS,Drive Shack Inc,3182081.2
+DSS,"Document Security Systems, Inc.",220789.05
+DSSI,Diamond S Shipping Inc,301576.4
+DSX,Diana Shipping Inc,455679.7
+DT,Dynatrace Inc,2212873.2
+DTE,DTE Energy Co.,948431.94
+DUC,Duff & Phelps Utility & Corporate Bond Trust,59911.184
+DUK,Duke Energy Corp.,2978459.0
+DVA,DaVita Inc,697103.4
+DVD,Dover Motorsports Inc,96446.0
+DVN,Devon Energy Corp.,9049637.0
+DX,"Dynex Capital, Inc.",321608.78
+DXC,DXC Technology Co,2421643.5
+DY,"Dycom Industries, Inc.",423149.2
+E,Eni Spa,324930.03
+EAT,"Brinker International, Inc.",1124903.9
+EB,Eventbrite Inc (Class A),888500.56
+EBF,Ennis Inc.,158223.05
+EBS,Emergent Biosolutions Inc,561966.06
+EC,Ecopetrol SA,950994.25
+ECL,"Ecolab, Inc.",839002.6
+ECOM,ChannelAdvisor Corp,421162.06
+ED,"Consolidated Edison, Inc.",2971937.2
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc,264430.3
+EDN,Empresa Distribuidora y Comercial Norte S.A.,63141.09
+EDU,New Oriental Education & Technology Group Inc.,987095.0
+EFX,"Equifax, Inc.",626111.25
+EGHT,8X8 Inc.,2805854.5
+EGP,"Eastgroup Properties, Inc.",221814.81
+EGY,"VAALCO Energy, Inc.",335229.1
+EHC,Encompass Health Corp,511341.88
+EHI,Western Asset Global High Income Fund Inc,56038.41
+EIM,Eaton Vance Municipal Bond Fund,126619.32
+EIX,Edison International,1468503.0
+EL,"Estee Lauder Cos., Inc. (Class A)",1158237.2
+ELA,Envela Corp,95983.68
+ELAN,Elanco Animal Health Inc,5899800.0
+ELF,e.l.f. Beauty Inc,640676.94
+ELP,Cia Paranaense De Energia Copel (Class B),471683.7
+ELY,Callaway Golf Co.,1654214.1
+EMAN,EMagin Corp,1637523.6
+EME,"Emcor Group, Inc.",282769.0
+EMN,Eastman Chemical Co,930255.9
+EMR,Emerson Electric Co.,2895334.8
+ENBL,Enable Midstream Partners LP,1128219.4
+ENIA,Enel Americas SA,992770.44
+ENIC,Enel Chile S.A.,479332.38
+ENLC,Enlink Midstream LLC,3050277.2
+ENR,Energizer Holdings Inc,526225.7
+ENS,Enersys,227430.14
+ENSV,Enservco Corp,857975.0
+ENV,Envestnet Inc.,294159.5
+ENVA,Enova International Inc.,273582.72
+ENZ,"Enzo Biochem, Inc.",504210.25
+EOD,Wells Fargo Global Dividend Opportunity Fund,279254.12
+EOG,"EOG Resources, Inc.",6225919.5
+EPAC,Enerpac Tool Group Corp (Class A),304419.1
+EPAM,EPAM Systems Inc,305844.53
+EPC,Edgewell Personal Care Co,351318.28
+EPD,Enterprise Products Partners L P,7836309.0
+EPM,Evolution Petroleum Corporation,141353.55
+EPR,EPR Properties,1064037.0
+EQC,Equity Commonwealth,807060.7
+EQH,Equitable Holdings Inc,2363937.0
+EQNR,Equinor ASA,4021721.2
+EQR,Equity Residential Properties Trust,2557880.2
+EQS,Equus Total Return Inc,156398.45
+EQT,EQT Corp,5965802.5
+ES,Eversource Energy,1460218.8
+ESE,"Esco Technologies, Inc.",121900.77
+ESGC,Eros STX Global Corporation (Class A),1893044.2
+ESI,Element Solutions Inc,2212168.5
+ESNT,Essent Group Ltd,683738.56
+ESS,"Essex Property Trust, Inc.",437355.1
+ESTE,Earthstone Energy Inc (Class A),303194.12
+ET,Energy Transfer LP,23154742.0
+ETH,"Ethan Allen Interiors, Inc.",252177.55
+ETN,Eaton Corporation plc,1726388.6
+ETR,Entergy Corp.,1313743.6
+ETRN,Equitrans Midstream Corporation,4567963.5
+EURN,Euronav NV,1314501.9
+EV,Eaton Vance Corp.,1686470.0
+EVA,Enviva Partners LP,81949.09
+EVF,Eaton Vance Senior Income Trust,126391.63
+EVH,Evolent Health Inc (Class A),484132.2
+EVN,Eaton Vance Municipal Income Trust,88407.27
+EVR,Evercore Inc (Class A),338248.22
+EVRG,Evergy Inc,2343764.0
+EVRI,Everi Holdings Inc,1561439.8
+EW,Edwards Lifesciences Corp,2139089.8
+EXP,Eagle Materials Inc.,302055.12
+EXPR,Express Inc.,4265735.0
+EXR,Extra Space Storage Inc.,896302.44
+F,Ford Motor Co.,56261040.0
+FAF,First American Financial Corp,923718.2
+FAX,Aberdeen Asia-Pacific Income Fund Inc,832495.56
+FBC,"Flagstar Bancorp, Inc.",648046.56
+FBHS,Fortune Brands Home & Security Inc,1053004.6
+FBP,First Bancorp PR,1576520.8
+FC,Franklin Covey Co.,48643.047
+FCF,First Commonwealth Financial Corp.,524837.7
+FCN,FTI Consulting Inc.,555511.56
+FCPT,Four Corners Property Trust Inc,550162.3
+FCX,Freeport-McMoRan Inc,16672529.0
+FDP,Fresh Del Monte Produce Inc,183995.6
+FDS,Factset Research Systems Inc.,221817.86
+FDX,Fedex Corp,3450162.5
+FE,Firstenergy Corp.,5503361.0
+FENG,Phoenix New Media Ltd,1152351.0
+FET,Forum Energy Technologies Inc,42252.863
+FF,Futurefuel Corp,149069.77
+FHI,Federated Hermes Inc (Class B),665490.7
+FHN,First Horizon Corporation,4909419.5
+FICO,"Fair, Isaac Corp.",176649.45
+FIS,"Fidelity National Information Services, Inc.",3564081.2
+FIX,"Comfort Systems USA, Inc.",198875.19
+FL,Foot Locker Inc,1699374.1
+FLO,"Flowers Foods, Inc.",904432.94
+FLOW,SPX FLOW Inc,201870.6
+FLR,Fluor Corporation,1452451.1
+FLS,Flowserve Corp.,811600.1
+FLT,Fleetcor Technologies Inc,620830.0
+FMC,FMC Corp.,538270.6
+FMS,Fresenius Medical Care AG & Co. KGaA,140042.86
+FMX,Fomento Economico Mexicano S.A.B. de C.V.,359677.6
+FN,Fabrinet,182948.55
+FNB,F.N.B. Corp.,2117782.0
+FND,Floor & Decor Holdings Inc (Class A),829256.25
+FNF,Fidelity National Financial Inc,1910576.8
+FOE,Ferro Corp.,351455.62
+FOUR,Shift4 Payments Inc (Class A),1491632.1
+FR,"First Industrial Realty Trust, Inc.",736137.06
+FRO,Frontline Ltd,2028007.8
+FRT,Federal Realty Investment Trust,667232.75
+FSLY,Fastly Inc (Class A),0.0
+FSR,Fisker Inc (Class A),11839645.0
+FSS,Federal Signal Corp.,300838.62
+FTI,TechnipFMC plc,5150682.5
+FTK,Flotek Industries Inc,402048.47
+FTSI,FTS International Inc. ,113195.55
+FTV,Fortive Corp,1958083.6
+FUBO,fuboTV Inc,17966296.0
+FUL,H.B. Fuller Company,289254.53
+FUN,Cedar Fair L.P.,525618.8
+FVRR,Fiverr International Ltd,960972.6
+G,Genpact Ltd,682478.94
+GAB,Gabelli Equity Trust Inc.,823675.3
+GBL,Gamco Investors Inc (Class A),47537.91
+GBX,"Greenbrier Cos., Inc.",244953.05
+GCI,Gannett Co Inc.,2348184.2
+GCO,Genesco Inc.,299358.8
+GCP,GCP Applied Technologies Inc,271189.47
+GD,General Dynamics Corp.,1355605.6
+GE,General Electric Co.,80223496.0
+GEF,Greif Inc (Class A),229700.73
+GEL,Genesis Energy L.P.,1048225.6
+GEN,Genesis Healthcare Inc (Class A),1552410.1
+GEO,"Geo Group, Inc.",2556289.5
+GES,Guess Inc.,1110331.1
+GFF,Griffon Corp.,488006.4
+GFI,- Level II,7280332.5
+GGB,Gerdau S.A.,4517255.0
+GGG,Graco Inc.,607503.94
+GGN,GAMCO Global Gold Natural Resources & Income Trust,813606.4
+GHL,Greenhill & Co Inc,78506.13
+GHLD,Guild Holdings Co (Class A),95618.0
+GIK,GigCapital3 Inc,3880874.5
+GIM,Templeton Global Income Fund Inc,1026297.25
+GIS,"General Mills, Inc.",3260602.8
+GL,Globe Life Inc,410149.03
+GLOG,GasLog Ltd,901241.3
+GLT,Glatfelter Corporation,175669.69
+GLW,"Corning, Inc.",3838087.5
+GM,General Motors Company,19017808.0
+GME,Gamestop Corporation (Class A),11424389.0
+GMED,Globus Medical Inc (Class A),604875.7
+GNE,Genie Energy Ltd (Class B),92581.5
+GNK,Genco Shipping & Trading Limited,340468.97
+GNRC,Generac Holdings Inc,917224.25
+GNW,Genworth Financial Inc (Class A),4596534.5
+GOF,Guggenheim Strategic Opportunities Fund,269508.6
+GOL,Gol Linhas Aereas Inteligentes S.A.,1255956.4
+GOLF,Acushnet Holdings Corp,209587.73
+GORO,Gold Resource Corporation,1779750.9
+GPC,Genuine Parts Co.,715073.56
+GPI,"Group 1 Automotive, Inc.",198525.36
+GPK,Graphic Packaging Holding Co,2100170.2
+GPM,Guggenheim Enhanced Equity Income Fund,202573.64
+GPMT,Granite Point Mortgage Trust Inc,705007.7
+GPN,"Global Payments, Inc.",1580847.0
+GPRK,Geopark Limited,137400.1
+GPS,"Gap, Inc.",7297288.0
+GPX,GP Strategies Corp.,41550.227
+GRA,W.R. Grace & Co.,377646.72
+GRC,Gorman-Rupp Co.,63421.273
+GRUB,GrubHub Inc,1038308.8
+GS,"Goldman Sachs Group, Inc.",2613851.0
+GSAT,Globalstar Inc.,2581403.8
+GSK,Glaxosmithkline plc,4069458.2
+GSL,Global Ship Lease Inc (Class A),98172.82
+GSX,Gsx Techedu Inc,3990609.0
+GTT,GTT Communications Inc,789545.6
+GTY,Getty Realty Corp.,185559.86
+GVA,Granite Construction Inc.,345410.9
+GWRE,Guidewire Software Inc,567929.8
+GWW,W.W. Grainger Inc.,257367.31
+H,Hyatt Hotels Corporation (Class A),536118.25
+HAE,Haemonetics Corp.,433853.56
+HAL,Halliburton Co.,10642266.0
+HASI,Hannon Armstrong Sustainable Infrastructure capital Inc,723305.7
+HBB,Hamilton Beach Brands Holding Co (Class A),54992.5
+HBI,Hanesbrands Inc,5395645.0
+HCA,HCA Healthcare Inc,1323929.1
+HCHC,HC2 Holdings Inc,1194123.8
+HD,"Home Depot, Inc.",4194402.5
+HDB,HDFC Bank Ltd.,1295492.2
+HE,"Hawaiian Electric Industries, Inc.",385673.47
+HEI,Heico Corp.,403979.97
+HEI.A,Heico Corp. (Class A),277181.9
+HEP,Holly Energy Partners L.P.,459210.28
+HES,Hess Corporation,2046615.0
+HFC,HollyFrontier Corp,3356227.5
+HGV,Hilton Grand Vacations Inc,616286.4
+HHC,Howard Hughes Corporation,422727.5
+HI,Hillenbrand Inc,491520.53
+HIG,Hartford Financial Services Group Inc.,2303533.2
+HII,Huntington Ingalls Industries Inc,360794.3
+HIL,Hill International Inc,349854.38
+HIO,Western Asset High Income Opportunity Fund Inc,708553.25
+HIW,"Highwoods Properties, Inc.",876690.0
+HIX,Western Asset High Income Fund II Inc,247182.19
+HL,Hecla Mining Co.,8496933.0
+HLF,Herbalife Nutrition Ltd,773979.94
+HLI,Houlihan Lokey Inc (Class A),328841.2
+HLT,Hilton Worldwide Holdings Inc,2134821.5
+HLX,Helix Energy Solutions Group Inc,2584744.0
+HMC,Honda Motor,587586.56
+HMN,Horace Mann Educators Corp.,204986.05
+HMY,Harmony Gold Mining Co Ltd,5042288.5
+HNGR,Hanger Inc,156879.27
+HNI,HNI Corp.,228085.5
+HOG,"Harley-Davidson, Inc.",1831166.9
+HOME,At Home Group Inc,2568677.0
+HON,Honeywell International Inc,2606318.5
+HOV,"Hovnanian Enterprises, Inc. (Class A)",119076.95
+HP,"Helmerich & Payne, Inc.",1412175.6
+HPE,Hewlett Packard Enterprise Co,10110864.0
+HPI,John Hancock Preferred Income Fund,64245.5
+HPQ,HP Inc,8452678.0
+HPR,HighPoint Resources Corp,472277.72
+HQL,Tekla Life Sciences Investors,75497.09
+HR,"Healthcare Realty Trust, Inc.",1429055.6
+HRB,H&R Block Inc.,3532854.5
+HRC,Hill-Rom Holdings Inc,342142.78
+HRI,Herc Holdings Inc,160440.23
+HRL,Hormel Foods Corp.,1652031.4
+HSBC,HSBC Holdings plc,2371159.8
+HSC,Harsco Corp.,409453.62
+HSY,Hershey Company,774697.44
+HT,Hersha Hospitality Trust,379274.28
+HTA,Healthcare Trust of America Inc (Class A),1954067.1
+HTGC,Hercules Capital Inc,650300.7
+HTH,Hilltop Holdings Inc,429226.53
+HUBB,Hubbell Inc.,278622.88
+HUBS,HubSpot Inc,533017.75
+HUM,Humana Inc.,830217.5
+HUN,Huntsman Corp,1235026.8
+HVT,"Haverty Furniture Cos., Inc.",248018.86
+HWM,Howmet Aerospace Inc,3439168.8
+HXL,Hexcel Corp.,963502.06
+HY,Hyster-Yale Materials Handling Inc (Class A),50173.227
+HYLN,Hyliion Holdings Corporation (Class A),7256100.0
+HZO,"Marinemax, Inc.",454190.0
+IAA,IAA Inc,604661.94
+IAE,Voya Asia Pacific High Dividend Equity Income Fund,55965.91
+IAF,Aberdeen Australia Equity Fund Inc.,67723.73
+IBIO,iBio Inc,13374975.0
+IBM,International Business Machines Corp.,4674169.5
+IBN,ICICI Bank Ltd.,8019089.5
+ICD,Independence Contract Drilling Inc,274958.9
+ICE,Intercontinental Exchange Inc,2325042.8
+IDA,"Idacorp, Inc.",293687.7
+IDT,IDT Corp. (Class B),216643.27
+IEX,Idex Corporation,329039.47
+IFF,International Flavors & Fragrances Inc.,1672800.5
+IFS,Intercorp Financial Services Inc,52416.816
+IGT,International Game Technology PLC,2512570.2
+IHG,Intercontinental Hotels Group,119755.77
+IHT,Innsuites Hospitality Trust,130701.27
+IIM,Invesco Value Municipal Income Trust,85212.91
+IMAX,Imax Corp,998187.5
+IMH,"Impac Mortgage Holdings, Inc.",221802.69
+INFO,IHS Markit Ltd,4150111.0
+INFU,InfuSystem Holdings Inc,133190.5
+INFY,Infosys Ltd,7694839.0
+ING,ING Groep N.V.,3388515.0
+INGR,Ingredion Inc,515066.12
+INT,World Fuel Services Corp.,476852.97
+INUV,Inuvo Inc,3842806.5
+INVH,Invitation Homes Inc,2789481.8
+IO,ION Geophysical Corp,295525.8
+IP,International Paper Co.,2398293.8
+IPG,"Interpublic Group Of Cos., Inc.",3408345.8
+IPI,Intrepid Potash Inc,206393.9
+IQI,Invesco Quality Municipal Income Trust,80157.82
+IQV,IQVIA Holdings Inc,1150392.6
+IR,Ingersoll-Rand Inc,1900498.0
+IRM,Iron Mountain Inc.,3214098.0
+IRR,Voya Natural Resources Equity Income Fund,190658.69
+IRS,IRSA,63735.273
+IRT,Independence Realty Trust Inc,476970.38
+ISR,"Isoray, Inc.",1851587.4
+IT,"Gartner, Inc.",327029.1
+ITGR,Integer Holdings Corp,224763.05
+ITP,IT Tech Packaging Inc,755359.0
+ITT,ITT Inc,400229.9
+ITUB,Itau Unibanco Holding S.A.,35937988.0
+ITW,"Illinois Tool Works, Inc.",1079817.8
+IVC,Invacare Corp.,204511.64
+IVR,Invesco Mortgage Capital Inc,7319753.0
+IVZ,Invesco Ltd,5825530.0
+J,"Jacobs Engineering Group, Inc.",583150.44
+JAX,J. Alexanders Holdings Inc,53474.0
+JBGS,JBG SMITH Properties,513226.88
+JBL,Jabil Inc,1012596.25
+JBT,John Bean Technologies Corp,182773.45
+JCE,Nuveen Core Equity Alpha Fund,44353.09
+JCI,Johnson Controls International plc,4222886.0
+JEF,Jefferies Financial Group Inc,1522348.6
+JKS,JinkoSolar Holding Co. Ltd,4416163.0
+JLL,Jones Lang Lasalle Inc.,470309.0
+JMIA,Jumia Technologies Ag,15404008.0
+JNJ,Johnson & Johnson,7224075.0
+JNPR,Juniper Networks Inc,3924178.2
+JOB,GEE Group Inc,800265.06
+JOE,St. Joe Co.,540123.25
+JP,Jupai Holdings Ltd,68316.27
+JPM,JPMorgan Chase & Co.,12462481.0
+JPS,Nuveen Preferred & Income Securities Fund,412773.8
+JWN,"Nordstrom, Inc.",6061817.5
+K,Kellogg Co,2024680.0
+KAI,"Kadant, Inc.",44212.273
+KAMN,Kaman Corp.,115334.95
+KAR,KAR Auction Services Inc,1286041.4
+KB,KB Financial Group Inc,172328.4
+KBH,KB Home,1101063.1
+KBR,KBR Inc,1177431.8
+KEP,Korea Electric Power,149047.14
+KEX,Kirby Corp.,401545.97
+KEY,Keycorp,9234811.0
+KEYS,Keysight Technologies Inc,1263947.6
+KFY,Korn Ferry,405826.97
+KIM,Kimco Realty Corp.,3494147.5
+KKR,KKR & Co. Inc.,2033461.9
+KMB,Kimberly-Clark Corp.,2563434.0
+KMI,Kinder Morgan Inc (Class P),18427078.0
+KMPR,Kemper Corporation,168319.5
+KMT,Kennametal Inc.,476304.72
+KMX,Carmax Inc,1832709.0
+KN,Knowles Corp,622410.75
+KNX,Knight-Swift Transportation Holdings Inc (Class A),3415600.2
+KO,Coca-Cola Co,13795052.0
+KODK,Eastman Kodak Co.,12545376.0
+KOF,Coca-Cola Femsa S.A.B. DE C.V.,100468.41
+KOP,Koppers Holdings Inc,202290.69
+KOS,Kosmos Energy Ltd,11153509.0
+KR,Kroger Co.,12116739.0
+KRA,Kraton Corp,281913.5
+KRC,Kilroy Realty Corp.,865443.3
+KRG,Kite Realty Group Trust,401600.72
+KRO,"Kronos Worldwide, Inc.",268308.38
+KSS,Kohl`s Corp.,5868219.5
+KSU,Kansas City Southern,798480.75
+KT,KT Corporation,478952.4
+KTB,Kontoor Brands Inc,543489.25
+KW,Kennedy-Wilson Holdings Inc,471271.97
+KWR,Quaker Chemical Corp.,85276.73
+L,Loews Corp.,1035742.0
+LAD,"Lithia Motors, Inc. (Class A)",276929.22
+LAZ,Lazard Ltd. (Class A),566249.56
+LB,L Brands Inc,3277777.5
+LC,LendingClub Corp,3009127.5
+LCI,"Lannett Co., Inc.",276660.1
+LCII,LCI Industries,107182.55
+LCTX,Lineage Cell Therapeutics Inc,1306850.4
+LDL,"Lydall, Inc.",169912.1
+LDOS,Leidos Holdings Inc,980065.4
+LEA,Lear Corp.,640599.1
+LEE,"Lee Enterprises, Inc.",355283.8
+LEG,"Leggett & Platt, Inc.",1079316.5
+LEJU,Leju Holdings Ltd,270436.47
+LEN,Lennar Corp. (Class A),2892352.8
+LEN.B,Lennar Corp. (Class B),61028.227
+LEU,Centrus Energy Corp (Class A),191111.6
+LEVI,Levi Strauss & Co.,1306944.2
+LFC,China Life Insurance Co,370841.22
+LFT,Lument Finance Trust Inc,62669.953
+LGF.A,Lions Gate Entertainment Corp. (Class A),952299.06
+LGF.B,Lions Gate Entertainment Corp. (Class B),705417.56
+LGI,Lazard Global Total Return and Income Fund Inc,40036.227
+LGVW.UN,Longview Acquisition Corp 1 Ord Share Class A & 1/3 War,32174.682
+LH,Laboratory Corp. Of America Holdings,642833.3
+LHX,L3Harris Technologies Inc,1151785.0
+LII,Lennox International Inc,267716.9
+LIN,Linde Plc,1562459.8
+LINX,Linx S.A.,27132.092
+LITB,LightInTheBox Holding Co Ltd,589766.4
+LL,Lumber Liquidators Holdings Inc,523178.6
+LLY,Lilly(Eli) & Co,3697256.5
+LMND,Lemonade Inc,4419674.0
+LMT,Lockheed Martin Corp.,1598738.5
+LNC,Lincoln National Corp.,1711213.6
+LNG,Cheniere Energy Inc.,1622481.4
+LNN,Lindsay Corporation,74208.37
+LODE,Comstock Mining Inc,407381.72
+LOV,Spark Networks SE,131886.19
+LOW,"Lowe`s Cos., Inc.",5125418.0
+LPI,Laredo Petroleum Inc.,254098.64
+LPL,LG Display Co Ltd.,298602.22
+LPX,Louisiana-Pacific Corp.,1362626.0
+LRN,Stride Inc,778694.6
+LSI,Life Storage Inc,441760.2
+LTC,"LTC Properties, Inc.",251021.77
+LTHM,Livent Corp,3606356.5
+LUB,"Luby`s, Inc.",93647.45
+LUMN,Lumen Technologies Inc,11826373.0
+LUV,Southwest Airlines Co,7327608.0
+LVS,Las Vegas Sands Corp,3525243.0
+LW,Lamb Weston Holdings Inc,722473.56
+LXP,Lexington Realty Trust,2091956.9
+LXU,"LSB Industries, Inc.",197813.86
+LYB,LyondellBasell Industries NV (Class A),1409452.0
+LYG,Lloyds Banking Group plc,7352705.0
+LYV,Live Nation Entertainment Inc,2168849.0
+LZB,La-Z-Boy Inc.,400416.6
+MA,Mastercard Incorporated (Class A),3388258.0
+MAA,"Mid-America Apartment Communities, Inc.",632897.4
+MAC,Macerich Co.,5134873.0
+MAIN,Main Street Capital Corporation,462676.97
+MAN,ManpowerGroup,345801.5
+MANU,Manchester ed Plc. (Class A),104015.05
+MAS,Masco Corp.,3431447.2
+MAX,MediaAlpha Inc (Class A),265726.12
+MBI,MBIA Inc.,538947.44
+MBT,Mobile Telesystems PJSC,4327077.5
+MCD,McDonald`s Corp,3310257.8
+MCF,Contango Oil & Gas Company,1853759.1
+MCK,Mckesson Corporation,881149.6
+MCO,Moody`s Corp.,756399.44
+MCR,MFS Charter Income Trust,97872.37
+MCS,Marcus Corp.,899344.3
+MCY,Mercury General Corp.,259966.9
+MD,MEDNAX Inc,1177317.2
+MDC,"M.D.C. Holdings, Inc.",520418.3
+MDLA,Medallia Inc,1619775.2
+MDT,Medtronic Plc,4092302.0
+MED,Medifast Inc,114893.59
+MEI,"Methode Electronics, Inc.",211082.95
+MEN,BlackRock Munienhanced Fund Inc,52626.727
+MET,Metlife Inc,5262621.5
+MFA,MFA Financial Inc,4905808.0
+MFG,"Mizuho Financial Group, Inc.",462333.97
+MFGP,Micro Focus International Plc,1605720.4
+MG,Mistras Group Inc,198467.31
+MGM,MGM Resorts International,7681156.5
+MGP,MGM Growth Properties LLC (Class A),1114392.9
+MHE,BlackRock Massachusetts Tax-Exempt Trust,0.0
+MHF,Western Asset Municipal High Income Fund Inc,42847.953
+MHK,"Mohawk Industries, Inc.",633979.0
+MHO,MI Homes Inc.,279441.6
+MIC,Macquarie Infrastructure Corp,1033892.56
+MIN,MFS Intermediate Income Trust,345614.3
+MITT,AG Mortgage Investment Trust Inc,1261765.2
+MKC,"McCormick & Co., Inc.",966520.5
+MLI,"Mueller Industries, Inc.",251499.73
+MLM,"Martin Marietta Materials, Inc.",484805.88
+MLR,Miller Industries Inc.,44919.184
+MLSS,Milestone Scientific Inc.,328082.88
+MMC,"Marsh & McLennan Cos., Inc.",1645664.4
+MMM,3M Co.,2217960.5
+MMP,Magellan Midstream Partners L.P.,1108135.1
+MMS,Maximus Inc.,483995.25
+MMT,MFS Multimarket Income Trust,122976.87
+MMU,Western Asset Managed Municipals Fund Inc,95340.91
+MN,Manning & Napier Inc (Class A),104991.45
+MNR,Monmouth Real Estate Investment Corp. (Class A),715293.25
+MO,Altria Group Inc.,10989067.0
+MOD,Modine Manufacturing Co.,446316.7
+MODN,Model N Inc,300165.0
+MOG.A,"Moog, Inc. (Class A)",116844.77
+MOH,Molina Healthcare Inc,258471.55
+MOS,Mosaic Company,5161472.0
+MOV,"Movado Group, Inc.",255912.84
+MP,MP Materials Corporation (Class A),4907548.5
+MPC,Marathon Petroleum Corp,5514296.5
+MPLX,MPLX LP,2475824.0
+MPW,Medical Properties Trust Inc,4013627.8
+MRC,MRC Global Inc,407911.78
+MRK,Merck & Co Inc,8753267.0
+MRO,Marathon Oil Corporation,27633912.0
+MS,Morgan Stanley,9277970.0
+MSA,MSA Safety Inc,112672.5
+MSB,Mesabi Trust,45924.59
+MSCI,MSCI Inc,340854.53
+MSGE,Madison Square Garden Entertainment Corp (Class A),333433.5
+MSGN,MSG Networks Inc (Class A),565777.56
+MSGS,Madison Square Garden Sports Corp (Class A),172192.19
+MSI,Motorola Solutions Inc,995362.25
+MSM,"MSC Industrial Direct Co., Inc. (Class A)",296981.47
+MSN,Emerson Radio Corp.,548740.75
+MSP,Datto Holding Corp,576136.6
+MT,New York Shares - Level III,4055287.5
+MTB,M & T Bank Corp,829787.94
+MTD,"Mettler-Toledo International, Inc.",127184.82
+MTDR,Matador Resources Co,2956076.5
+MTG,MGIC Investment Corp,3171829.8
+MTH,Meritage Homes Corp.,462901.2
+MTL,Mechel PJSC,936989.94
+MTN,Vail Resorts Inc.,409828.38
+MTOR,Meritor Inc,620811.1
+MTR,Mesa Royalty Trust,47585.184
+MTRN,Materion Corp,83555.45
+MTW,"Manitowoc Co., Inc.",369898.7
+MTX,"Minerals Technologies, Inc.",143620.4
+MTZ,Mastec Inc.,773992.56
+MUC,BlackRock MuniHoldings California Quality Fund Inc,84425.45
+MUFG,"Mitsubishi UFJ Financial Group, Inc.",1466261.1
+MUJ,BlackRock MuniHoldings New Jersey Quality Fund Inc,48370.953
+MUR,Murphy Oil Corp.,4422054.0
+MUSA,Murphy USA Inc,319813.5
+MVO,MV Oil Trust,74046.45
+MWA,Mueller Water Products Inc (Series A),840919.5
+MX,MagnaChip Semiconductor Corp,350828.47
+MXL,MaxLinear Inc,492287.22
+MYD,BlackRock MuniYield Fund Inc,81743.87
+MYE,Myers Industries Inc.,174801.73
+MYN,BlackRock MuniYield New York Quality Fund Inc,50521.453
+MYO,Myomo Inc,179656.73
+MYOV,Myovant Sciences Ltd,1368343.8
+NAD,Nuveen Quality Municipal Income Fund,409034.0
+NAN,Nuveen New York Quality Municipal Income Fund,51366.59
+NAT,Nordic American Tankers Ltd,2670129.2
+NAV,Navistar International Corp.,848387.7
+NAVB,Navidea Biopharmaceuticals Inc,145823.6
+NBR,Nabors Industries Ltd,324714.2
+NBY,Novabay Pharmaceuticals Inc,2020028.6
+NCLH,Norwegian Cruise Line Holdings Ltd,22762564.0
+NCR,NCR Corp.,1522873.5
+NEE,NextEra Energy Inc,6350752.0
+NET,Cloudflare Inc (Class A),5312100.0
+NFG,National Fuel Gas Co.,800554.56
+NFJ,AllianzGI Dividend Interest & Premium Strategy Fund,229162.95
+NGA,Northern Genesis Acquisition Corp,3126782.8
+NGG,National Grid Plc,383199.3
+NGL,NGL Energy Partners LP,1566370.0
+NGS,"Natural Gas Services Group, Inc.",51447.727
+NGVC,Natural Grocers by Vitamin Cottage Inc,178849.1
+NGVT,Ingevity Corp,231300.9
+NHF,NexPoint Strategic Opportunities Fund,296793.28
+NHI,"National Health Investors, Inc.",290303.4
+NI,Nisource Inc. (Holding Co.),2797544.5
+NIE,AllianzGI Equity & Convertible Income Fund,71527.32
+NINE,Nine Energy Service Inc,240008.45
+NIO,NIO Inc,142148110.0
+NJR,New Jersey Resources Corporation,521548.5
+NKE,"Nike, Inc. (Class B)",5968330.0
+NLS,Nautilus Inc,2229234.8
+NLSN,Nielsen Holdings plc,5396553.0
+NLY,Annaly Capital Management Inc,12038014.0
+NM,"Navios Maritime Holdings, Inc.",100029.45
+NMR,Nomura Holdings Inc.,113341.13
+NNA,Navios Maritime Acquisition Corp,264688.62
+NNN,National Retail Properties Inc,1329855.4
+NNVC,NanoViricides Inc,217803.23
+NOAH,Noah Holdings Limited,262119.9
+NOC,Northrop Grumman Corp.,914371.44
+NOG,Northern Oil and Gas Inc.,1402601.1
+NOK,Nokia Corp,34128816.0
+NOMD,Nomad Foods Limited,1072116.6
+NOV,NOV Inc,5012334.5
+NOVA,Sunnova Energy International Inc,0.0
+NOW,ServiceNow Inc,1163563.5
+NP,Neenah Inc,149932.9
+NPK,"National Presto Industries, Inc.",58791.05
+NPO,EnPro Industries Inc,79960.73
+NR,"Newpark Resources, Inc.",854371.6
+NRG,NRG Energy Inc.,2068168.5
+NRT,North European Oil Royalty Trust,48067.41
+NRZ,New Residential Investment Corp,3965261.5
+NS,Nustar Energy L P,826707.25
+NSC,Norfolk Southern Corp.,1105840.5
+NSP,Insperity Inc,260630.4
+NTN,NTN Buzztime Inc,604582.75
+NTP,Nam Tai Property Inc,105735.77
+NTZ,Natuzzi S.P.A.,85244.91
+NUE,Nucor Corp.,1713759.5
+NUM,Nuveen Michigan Quality Municipal Income Fund,44556.184
+NUS,"Nu Skin Enterprises, Inc. (Class A)",330668.28
+NUV,Nuveen Municipal Value Fund Inc.,260362.86
+NVGS,Navigator Holdings Ltd,161605.5
+NVO,Novo Nordisk,936871.94
+NVS,Novartis AG,1821038.8
+NVST,Envista Holdings Corp,990599.25
+NVTA,Invitae Corp,4731981.5
+NWE,Northwestern Corp.,343310.03
+NWG,NatWest Group Plc,1195443.0
+NWHM,New Home Company Inc (The),80402.77
+NWN,Northwest Natural Holding Co,215524.6
+NX,Quanex Building Products Corp,156140.86
+NXRT,NexPoint Residential Trust Inc,128146.95
+NYCB,New York Community Bancorp Inc.,3664436.2
+NYT,New York Times Co. (Class A),1663906.2
+O,Realty Income Corp.,3498348.2
+OBLG,Oblong Inc,203446.69
+OC,Owens Corning,890447.75
+OCFT,Oneconnect Financial Technology Co Ltd,371309.9
+OCN,Ocwen Financial Corp.,75809.63
+OCX,OncoCyte Corp,4020410.2
+OFC,Corporate Office Properties Trust,780051.75
+OFG,OFG Bancorp,174744.05
+OGE,Oge Energy Corp.,993665.44
+OGEN,Oragenics Inc,14494152.0
+OGS,ONE Gas Inc,229050.5
+OHI,"Omega Healthcare Investors, Inc.",1698326.2
+OI,O-I Glass Inc,973302.06
+OIA,Invesco Municipal Income Opportunities Trust,69490.32
+OIBR.C,Representing 5,1916954.5
+OII,"Oceaneering International, Inc.",1075467.1
+OIS,"Oil States International, Inc.",878780.8
+OKE,Oneok Inc.,3333662.5
+OLN,Olin Corp.,1415997.9
+OLP,"One Liberty Properties, Inc.",87869.59
+OMC,"Omnicom Group, Inc.",1740166.4
+OMF,OneMain Holdings Inc,621146.5
+OMI,"Owens & Minor, Inc.",1410142.6
+ONTO,Onto Innovation Inc.,356667.8
+OPY,Oppenheimer Holdings Inc (Class A),95921.41
+ORA,Ormat Technologies Inc,774491.4
+ORCL,Oracle Corp.,13231588.0
+ORI,Old Republic International Corp.,1597132.4
+OSH,Oak Street Health Inc,524875.06
+OSK,Oshkosh Corp,659939.9
+OTIS,Otis Worldwide Corp,1738510.6
+OUT,Outfront Media Inc,1229417.8
+OXM,"Oxford Industries, Inc.",165885.81
+OXY,Occidental Petroleum Corp.,28259008.0
+PAC,Grupo Aeroportuario Del Pacifico SAB de CV,75920.6
+PAG,Penske Automotive Group Inc,338624.7
+PAM,Pampa Energia SA,128945.77
+PANW,Palo Alto Networks Inc,1271443.6
+PAR,Par Technology Corp.,234248.1
+PAYC,Paycom Software Inc,376400.47
+PB,Prosperity Bancshares Inc.,378161.88
+PBF,PBF Energy Inc (Class A),5423986.5
+PBH,Prestige Consumer Healthcare Inc,327701.4
+PBI,"Pitney Bowes, Inc.",2807063.5
+PBR,Petroleo Brasileiro S.A. Petrobras,20310694.0
+PBR.A,Petroleo Brasileiro S.A.- Petrobras American Depositary Shares,5921315.0
+PBT,Permian Basin Royalty Trust,124344.77
+PCG,PG&E Corp.,14695334.0
+PCN,PIMCO Corporate & Income Strategy Fund,75725.0
+PD,Pagerduty Inc,2227097.8
+PDI,PIMCO Dynamic Income Fund,366880.53
+PDM,Piedmont Office Realty Trust Inc (Class A),739475.5
+PEAK,Healthpeak Properties Inc,3240365.2
+PEB,Pebblebrook Hotel Trust,1818409.9
+PED,PEDEVCO Corp,992406.75
+PEG,Public Service Enterprise Group Inc.,2180231.8
+PEI,Pennsylvania Real Estate Investment Trust,3238673.5
+PEN,Penumbra Inc,1253257.6
+PEO,Adams Natural Resources Fund Inc,155807.73
+PFD,Flaherty & Crumrine Preferred and Income Fund Inc,45422.773
+PFE,Pfizer Inc.,52830370.0
+PFGC,Performance Food Group Company,821297.0
+PFS,Provident Financial Services Inc,332877.3
+PFSI,PennyMac Financial Services Inc.,686988.0
+PG,Procter & Gamble Co.,6555776.5
+PGR,Progressive Corp.,2592287.5
+PGTI,PGT Innovations Inc,347827.5
+PH,Parker-Hannifin Corp.,700803.9
+PHG,Koninklijke Philips N.V.,289753.78
+PHI,PLDT Inc,102692.1
+PHM,PulteGroup Inc,2955796.5
+PHT,Pioneer High Income Trust,101841.18
+PHX,PHX Minerals Inc (Class A),240694.95
+PII,Polaris Inc,531068.94
+PIM,Putnam Master Intermediate Income Trust,144170.05
+PING,Ping Identity Holding Corp,1182134.0
+PINS,Pinterest Inc (Class A),8551812.0
+PIPR,Piper Sandler Co`s,69310.82
+PJT,PJT Partners Inc (Class A),165930.27
+PK,Park Hotels & Resorts Inc,3490850.0
+PKE,Park Aerospace Corp,99236.18
+PKG,Packaging Corp Of America,542131.4
+PKI,"Perkinelmer, Inc.",754366.8
+PKX,Posco,126403.68
+PLD,Prologis Inc,2874404.5
+PLNT,Planet Fitness Inc (Class A),992373.4
+PLOW,Douglas Dynamics Inc,112494.91
+PLT,"Plantronics, Inc.",667774.25
+PLTR,Palantir Technologies Inc (Class A) ,67148220.0
+PLX,Protalix BioTherapeutics Inc.,182926.1
+PM,Philip Morris International Inc,6013735.0
+PMM,Putnam Managed Municipal Income Trust.,76597.91
+PMO,Putnam Municipal Opportunities Trust,65235.816
+PMT,Pennymac Mortgage Investment Trust,983318.44
+PNC,PNC Financial Services Group,1879937.9
+PNM,PNM Resources Inc,1547241.0
+PNR,Pentair plc,842983.75
+PNW,Pinnacle West Capital Corp.,813328.75
+POR,Portland General Electric Co,586921.75
+POST,Post Holdings Inc,424701.53
+PPG,"PPG Industries, Inc.",1106665.0
+PPL,PPL Corp,5524689.0
+PPT,Putnam Premier Income Trust,418694.9
+PRA,Proassurance Corporation,307146.8
+PRG,PROG Holdings Inc,1012097.3
+PRGO,Perrigo Company plc,860342.94
+PRI,Primerica Inc,134335.19
+PRK,Park National Corp.,49750.953
+PRLB,Proto Labs Inc,379754.12
+PRSP,Perspecta Inc,834477.9
+PRTY,Party City Holdco Inc,3991239.0
+PRU,Prudential Financial Inc.,1825040.0
+PSA,Public Storage,831604.75
+PSB,"PS Business Parks, Inc.",111582.59
+PSN,Parsons Corp,484225.88
+PSO,Pearson plc,279407.8
+PSTG,Pure Storage Inc (Class A),4361190.0
+PSTH,Pershing Square Tontine Holdings Ltd (Class A),3424225.8
+PSX,Phillips 66,3391847.0
+PSXP,Phillips 66 Partners LP,786391.06
+PTN,Palatin Technologies Inc.,6568089.5
+PTR,PetroChina Co. Ltd.,179548.64
+PUK,Prudential plc,225012.27
+PUMP,ProPetro Holding Corp,1372578.5
+PVH,PVH Corp,1053955.8
+PWR,"Quanta Services, Inc.",1331567.2
+PXD,Pioneer Natural Resources Co.,1794446.9
+PZG,Paramount Gold Nevada Corp,109867.15
+PZN,Pzena Investment Management Inc (Class A),57678.953
+QD,Qudian Inc,4353947.5
+QEP,QEP Resources Inc,7759135.5
+QGEN,Qiagen NV,864260.56
+QS,QuantumScape Corp (Class A),18035936.0
+QTS,Qts Realty Trust Inc (Class A),688956.8
+QUAD,Quad/Graphics Inc (Class A),428775.72
+R,"Ryder System, Inc.",394462.2
+RACE,Ferrari N.V.,252901.45
+RAD,Rite Aid Corp.,4740375.0
+RAMP,LiveRamp Holdings Inc,623809.06
+RBC,Regal Beloit Corp,269296.97
+RCG,RENN Fund Inc,46260.5
+RCL,Royal Caribbean Group,4893636.5
+RDN,"Radian Group, Inc.",1207324.0
+RDY,Dr. Reddy`s Laboratories Ltd.,119541.32
+RE,Everest Re Group Ltd,216073.86
+REI,Ring Energy Inc,2495658.0
+RELX,RELX Plc,385398.97
+RENN,Renren Inc,143665.77
+RES,"RPC, Inc.",797030.94
+REV,"Revlon, Inc. (Class A)",2549080.5
+REVG,REV Group Inc,220818.77
+REZI,Resideo Technologies Inc,1343394.5
+RF,Regions Financial Corp.,8585466.0
+RFI,Cohen & Steers Total Return Realty Fund Inc,82937.5
+RGA,"Reinsurance Group Of America, Inc.",350253.4
+RGR,"Sturm, Ruger & Co., Inc.",302192.47
+RGS,Regis Corp.,656586.6
+RH,RH (Class A),594729.3
+RHE,Regional Health Properties Inc,1809073.6
+RHI,Robert Half International Inc.,970299.06
+RHP,Ryman Hospitality Properties Inc,466190.53
+RIG,Transocean Ltd,36776730.0
+RIO,Rio Tinto plc,1928093.1
+RJF,"Raymond James Financial, Inc.",729171.56
+RKT,Class A,15925410.0
+RL,Ralph Lauren Corp (Class A),1263284.5
+RLGT,"Radiant Logistics, Inc.",215123.45
+RLGY,Realogy Holdings Corp,1470783.4
+RLH,Red Lion Hotels Corporation,336496.88
+RLI,RLI Corp.,147501.4
+RMAX,RE/MAX Holdings Inc (Class A),118722.5
+RMD,Resmed Inc.,408863.4
+RMO,Romeo Power Inc (Class A),6371546.0
+RMT,Royce Micro-Cap Trust Inc,176283.14
+RNG,RingCentral Inc. (Class A),883255.75
+RNR,RenaissanceRe Holdings Ltd,352466.9
+ROG,Rogers Corp.,93050.41
+ROK,Rockwell Automation Inc,577530.06
+ROL,"Rollins, Inc.",1597351.4
+ROP,Roper Technologies Inc,434623.53
+RPM,"RPM International, Inc.",436092.0
+RPT,RPT Realty,565231.44
+RQI,"Cohen & Steers Quality Income Realty Fund, Inc.",437301.22
+RRC,Range Resources Corp,6057883.5
+RRD,R.R. Donnelley & Sons Co.,2016969.9
+RS,Reliance Steel & Aluminum Co.,341088.0
+RSG,"Republic Services, Inc.",1370813.0
+RTX,Raytheon Technologies Corporation,6313586.0
+RVI,Retail Value Inc,101053.14
+RVLV,Revolve Group Inc (Class A),1338256.9
+RVP,Retractable Technologies Inc,1845888.8
+RWT,Redwood Trust Inc.,1900346.2
+RYAM,Rayonier Advanced Materials Inc,684436.2
+RYN,Rayonier Inc.,504766.53
+SAH,"Sonic Automotive, Inc. (Class A)",256375.73
+SAIC,Science Applications International Corp.,383057.97
+SAIL,SailPoint Technologies Holdings Inc,1208077.1
+SAM,"Boston Beer Co., Inc. (Class A)",107284.18
+SAN,Banco Santander S.A.,9191567.0
+SAP,Sap SE,787065.06
+SB,"Safe Bulkers, Inc",274205.28
+SBE,Switchback Energy Acquisition Corp (Class A),6334357.5
+SBH,Sally Beauty Holdings Inc,1513151.8
+SBOW,SilverBow Resources Inc,71856.09
+SBS,Companhia de Saneamento Basico do Estado de Sao Paulo.,1466454.6
+SCCO,Southern Copper Corporation,829944.7
+SCD,LMP Capital and Income Fund Inc,64553.953
+SCHW,Charles Schwab Corp.,6932690.5
+SCI,Service Corp. International,708898.3
+SCL,Stepan Co.,93710.41
+SCS,"Steelcase, Inc. (Class A)",900658.25
+SCU,Sculptor Capital Management Inc (Class A),113936.2
+SE,Sea Ltd,3894219.8
+SEAS,SeaWorld Entertainment Inc,815295.94
+SEE,Sealed Air Corp.,827087.8
+SEM,Select Medical Holdings Corporation,385409.6
+SF,Stifel Financial Corp.,690504.5
+SFE,"Safeguard Scientifics, Inc.",125278.91
+SFL,SFL Corporation Ltd,1571194.4
+SGU,Star Group L.P.,81277.91
+SHAK,Shake Shack Inc (Class A),620602.44
+SHG,Shinhan Financial Group Co. Ltd.,112692.32
+SHI,Sinopec Shanghai Petrochemical Co. Ltd.,46387.0
+SHO,Sunstone Hotel Investors Inc,2289947.8
+SHW,Sherwin-Williams Co.,424768.97
+SID,Companhia Siderurgica Nacional,2966458.0
+SIF,SIFCO Industries Inc.,1203174.0
+SIG,Signet Jewelers Ltd,1159121.4
+SITC,SITE Centers Corp,1805440.6
+SIX,Six Flags Entertainment Corp,1551653.6
+SJI,South Jersey Industries Inc.,829211.06
+SJM,J.M. Smucker Co.,921024.9
+SJT,San Juan Basin Royalty Trust,109794.82
+SJW,SJW Group,74786.23
+SKM,SK Telecom Co Ltd,317925.88
+SKT,"Tanger Factory Outlet Centers, Inc.",2305009.5
+SKX,"Skechers U S A, Inc. (Class A)",1084977.4
+SKY,Skyline Champion Corp,394902.0
+SLB,Schlumberger Ltd.,11211761.0
+SLCA,U.S. Silica Holdings Inc,1229868.5
+SLG,SL Green Realty Corp.,1304362.6
+SM,SM Energy Co,7602918.5
+SMAR,Smartsheet Inc (Class A),1507729.5
+SMFG,Sumitomo Mitsui Financial Group Inc,1294322.5
+SMG,Scotts Miracle-Gro Company (Class A),289808.5
+SMP,"Standard Motor Products, Inc.",204047.27
+SNA,"Snap-on, Inc.",460053.12
+SNAP,Snap Inc (Class A),20032644.0
+SNE,Sony Corporation.,905338.25
+SNMP,Sanchez Midstream Partners LP,333900.6
+SNN,Smith & Nephew plc,323287.47
+SNOW,Snowflake Inc (Class A),7023009.5
+SNP,China Petroleum & Chemical Corp,209470.69
+SNR,New Senior Investment Group Inc,553079.44
+SNV,Synovus Financial Corp.,1174438.8
+SNX,Synnex Corp,588210.44
+SO,Southern Company,3180065.0
+SOL,Renesola,4963667.5
+SON,Sonoco Products Co.,431930.3
+SPB,Spectrum Brands Holdings Inc.,325719.2
+SPCE,Virgin Galactic Holdings Inc (Class A),18601626.0
+SPG,"Simon Property Group, Inc.",4051369.8
+SPGI,S&P Global Inc,1705221.9
+SPH,Suburban Propane Partners LP,333536.97
+SPOT,Spotify Technology S.A.,1666962.2
+SPR,Spirit Aerosystems Holdings Inc (Class A),3987405.5
+SPXC,SPX Corp.,253550.6
+SQ,Square Inc (Class A),9052648.0
+SQM,Sociedad Quimica Y Minera de Chile S.A.,922592.75
+SR,Spire Inc.,267365.1
+SRC,Spirit Realty Capital Inc,1042680.9
+SRE,Sempra Energy,1607506.5
+SRG,Seritage Growth Properties (Class A),734771.25
+SRI,Stoneridge Inc.,140750.9
+SRT,"Startek, Inc.",45046.953
+SSD,"Simpson Manufacturing Co., Inc.",193440.5
+SSL,Sasol Ltd,866359.25
+SSTK,Shutterstock Inc,358311.47
+SSY,Sunlink Health Systems Inc,122686.37
+STAG,STAG Industrial Inc,1111323.2
+STAR,iStar Inc,646002.6
+STC,Stewart Information Services Corp.,208145.19
+STE,Steris Plc,385354.97
+STL,Sterling Bancorp.,2633133.5
+STLA,Stellantis N.V,2526363.8
+STM,New York Shares,2473679.2
+STNG,Scorpio Tankers Inc,1244689.6
+STON,StoneMor Inc,303845.9
+STOR,Store Capital Corp,2189320.2
+STT,State Street Corp.,2391614.2
+STWD,Starwood Property Trust Inc,2163339.2
+STXS,Stereotaxis Inc,193707.23
+STZ,Constellation Brands Inc (Class A),968198.6
+SUI,"Sun Communities, Inc.",774295.44
+SUN,Sunoco LP,365839.62
+SUP,"Superior Industries International, Inc.",443240.6
+SWCH,Switch Inc (Class A),1381084.5
+SWK,Stanley Black & Decker Inc,1055472.0
+SWM,"Schweitzer-Mauduit International, Inc.",224443.81
+SWN,Southwestern Energy Company,19774786.0
+SWX,Southwest Gas Holdings Inc,340651.22
+SXI,Standex International Corp.,46481.816
+SXT,Sensient Technologies Corp.,254916.73
+SYF,Synchrony Financial,3871497.5
+SYK,Stryker Corp.,930648.75
+SYN,Synthetic Biologics Inc,1571774.0
+SYX,"Systemax, Inc.",118045.59
+SYY,Sysco Corp.,2851016.2
+T,"AT&T, Inc.",44091828.0
+TAK,Takeda Pharmaceutical Co,1895224.1
+TAL,TAL Education Group,2324888.8
+TALO,Talos Energy Inc,1373176.9
+TAP,Molson Coors Beverage Company (Class B),2003913.5
+TBI,TrueBlue Inc,183020.1
+TCP,"TC Pipelines, LP",443661.62
+TCS,Container Store Group Inc,1215202.1
+TDC,Teradata Corp,1010407.06
+TDG,Transdigm Group Incorporated,253020.05
+TDOC,Teladoc Health Inc,4371048.0
+TDS,"Telephone And Data Systems, Inc.",914305.6
+TDY,Teledyne Technologies Inc,159442.31
+TEF,Telefonica S.A,3166973.2
+TEI,Templeton Emerging Markets Income Fund Inc,120042.086
+TEL,TE Connectivity Ltd,1596974.2
+TEN,"Tenneco, Inc. (Class A)",912498.8
+TEO,Telecom Argentina S.A.,183509.16
+TEVA,Teva- Pharmaceutical Industries Ltd.,7495502.5
+TEX,Terex Corp.,578470.4
+TFC,Truist Financial Corporation,5255923.0
+TFX,Teleflex Incorporated,188549.64
+TG,Tredegar Corp.,123830.9
+TGC,"Tengasco, Inc.",329186.7
+TGH,Textainer Group Holdings Limited,238282.64
+TGI,Triumph Group Inc.,1211244.8
+TGNA,TEGNA Inc,1562440.4
+TGP,Teekay LNG Partners LP,346016.5
+TGS,Transportadora de Gas del Sur,129604.0
+TGT,Target Corp,3303555.5
+THC,Tenet Healthcare Corp.,1025980.44
+THG,Hanover Insurance Group Inc,164329.55
+THO,"Thor Industries, Inc.",760293.75
+THS,Treehouse Foods Inc,583924.9
+TIMB,TIM SA - ADR,317659.8
+TISI,"Team, Inc.",225392.1
+TJX,"TJX Companies, Inc.",6436883.0
+TK,Teekay Corp,735788.75
+TKC,Turkcell Iletisim Hizmetleri A.S.,271871.22
+TKR,Timken Co.,433727.47
+TLK,PT Telkom Indonesia Persero Tbk,225656.05
+TLYS,Tillys Inc (Class A),309797.72
+TM,Toyota Motor Corporation,256109.9
+TMBR,Timber Pharmaceuticals Inc,3894004.5
+TMHC,Taylor Morrison Home Corp.,995234.44
+TMO,Thermo Fisher Scientific Inc.,1516675.9
+TMP,Tompkins Financial Corp,40251.59
+TMST,TimkenSteel Corp,364293.12
+TNC,Tennant Co.,94478.13
+TNET,TriNet Group Inc,215359.27
+TNK,Teekay Tankers Ltd (Class A),456665.28
+TNP,Tsakos Energy Navigation Limited,94262.13
+TOL,Toll Brothers Inc.,2308213.2
+TOT,Total SE,2192403.0
+TPC,Tutor Perini Corp,341409.4
+TPH,Tri Pointe Homes Inc.,1400587.1
+TPHS,Trinity Place Holdings Inc,61717.863
+TPL,Texas Pacific Land Corporation,18044.545
+TPR,Tapestry Inc,3992271.2
+TPRE,Third Point Reinsurance Ltd,328513.97
+TPX,Tempur Sealy International Inc,1946265.1
+TR,"Tootsie Roll Industries, Inc.",224891.23
+TRC,Tejon Ranch Co.,99231.1
+TREC,Trecora Resources,87711.77
+TREX,"TREX Co., Inc.",649109.56
+TRGP,Targa Resources Corp,2130366.2
+TRN,"Trinity Industries, Inc.",830092.75
+TROX,Tronox Holdings plc (Class A),966600.2
+TRTN,Triton International Ltd,467335.2
+TRU,TransUnion,887388.94
+TRV,Travelers Companies Inc.,1263827.9
+TRXC,TransEnterix Inc,6949719.0
+TS,Tenaris S.A.,1513249.1
+TSE,Trinseo S.A.,460837.8
+TSI,TCW Strategic Income Fund Inc,116701.13
+TSM,Taiwan Semiconductor Manufacturing,7474622.0
+TSN,"Tyson Foods, Inc. (Class A)",2540694.0
+TT,Trane Technologies plc (Class A),1189023.1
+TTC,Toro Co.,332520.44
+TTI,"Tetra Technologies, Inc.",1214444.0
+TTM,Tata Motors Ltd.,1596240.5
+TUP,Tupperware Brands Corporation,907299.4
+TV,- Level III,1286187.9
+TWI,"Titan International, Inc.",498084.38
+TWLO,Class A,2151751.0
+TWO,Two Harbors Investment Corp,3730383.5
+TWTR,Twitter Inc,10994882.0
+TX,Ternium S.A.,421691.47
+TXT,Textron Inc.,965818.94
+TYG,Tortoise Energy Infrastructure Corp,205621.9
+TYL,"Tyler Technologies, Inc.",307661.53
+UA,Under Armour Inc (Class C),3429795.2
+UAA,Under Armour Inc (Class A),5094701.0
+UAMY,United States Antimony Corp.,3062198.0
+UAN,CVR Partners LP,82296.18
+UAVS,AgEagle Aerial Systems Inc.,9498348.0
+UBA,"Urstadt Biddle Properties, Inc. (Class A)",231033.0
+UBER,Uber Technologies Inc,19167158.0
+UBS,UBS Group AG,3786708.5
+UDR,UDR Inc,1871431.0
+UE,Urban Edge Properties,1136226.1
+UEC,Uranium Energy Corp,3807535.8
+UFI,"UNIFI, Inc.",104383.45
+UGI,UGI Corp.,899721.25
+UGP,Ultrapar Participacoes S.A.,1289211.9
+UHS,"Universal Health Services, Inc. (Class B)",486870.72
+UI,Ubiquiti Inc,215543.78
+UIS,Unisys Corp.,561170.6
+UL,Unilever plc,2100391.0
+UMH,UMH Properties Inc,205386.9
+UNF,Unifirst Corp.,97075.18
+UNFI,United Natural Foods Inc.,1808405.4
+UNH,Unitedhealth Group Inc,3721674.8
+UNM,Unum Group,2354477.0
+UNP,Union Pacific Corp.,2355202.2
+UPS,"United Parcel Service, Inc. (Class B)",3473079.8
+URI,"United Rentals, Inc.",695229.3
+USA,Liberty All-Star Equity Fund,547186.6
+USFD,US Foods Holding Corp,1526785.1
+USM,United States Cellular Corporation,149386.55
+USNA,Usana Health Sciences Inc,95204.91
+UTI,Universal Technical Institute Inc,94169.05
+UTL,Unitil Corp.,95408.32
+UUU,"Universal Security Instruments, Inc.",1741080.2
+UVE,Universal Insurance Holdings Inc,226426.23
+UVV,Universal Corp.,141216.1
+V,Visa Inc (Class A),9493771.0
+VAC,Marriott Vacations Worldwide Corp,277982.03
+VAR,"Varian Medical Systems, Inc.",657420.25
+VEC,Vectrus Inc,72133.23
+VEEV,Veeva Systems Inc (Class A),1102348.4
+VER,VEREIT Inc,3310586.8
+VFC,VF Corp.,1939542.6
+VGR,Vector Group Ltd,752497.1
+VHC,Virnetx Holding Corp,367030.3
+VICI,VICI Properties Inc,4327342.5
+VIPS,Vipshop Holdings Ltd,6369051.5
+VIV,"Telefonica Brasil S.A., - ADR (Representing Ord)",1149335.8
+VKI,Invesco Advantage Municipal Income Trust II,123035.59
+VLO,Valero Energy Corp.,4208073.5
+VMC,Vulcan Materials Co,792500.94
+VMI,"Valmont Industries, Inc.",91144.87
+VMO,Invesco Municipal Opportunity Trust,132235.31
+VMW,Vmware Inc. (Class A),1322733.1
+VNE,Veoneer Inc,667774.6
+VNO,Vornado Realty Trust,2156959.2
+VNRX,VolitionRX Ltd,231204.36
+VNT,Vontier Corporation,1676594.0
+VOLT,"Volt Information Sciences, Inc.",213041.77
+VOYA,Voya Financial Inc,1131282.2
+VPG,Vishay Precision Group Inc,56940.0
+VPV,Invesco Pennsylvania Value Municipal Income Trust,54344.684
+VRTV,Veritiv Corp,123462.45
+VSH,"Vishay Intertechnology, Inc.",843429.1
+VST,Vistra Energy Corp,3587753.5
+VSTO,Vista Outdoor Inc,1465642.2
+VTOL,Bristow Group Inc.,146936.95
+VTR,Ventas Inc,2025746.5
+VVI,Viad Corp.,166036.1
+VVV,Valvoline Inc,1165558.2
+VZ,Verizon Communications Inc,14962891.0
+W,Wayfair Inc (Class A),1625732.4
+WAB,Westinghouse Air Brake Technologies Corp,1044768.0
+WAL,Western Alliance Bancorp,705214.0
+WAT,Waters Corp.,330095.22
+WBAI,500.com Ltd,2892149.2
+WBK,Westpac Banking Corp,118271.05
+WBS,Webster Financial Corp.,499212.47
+WBT,Welbilt Inc,2088135.8
+WCC,"Wesco International, Inc.",403953.2
+WD,Walker & Dunlop Inc,210052.81
+WDR,"Waddell & Reed Financial, Inc. (Class A)",806652.5
+WEC,WEC Energy Group Inc,1145591.6
+WELL,Welltower Inc,2659729.8
+WES,Western Midstream Partners LP,1958143.6
+WEX,WEX Inc,356013.3
+WFC,Wells Fargo & Co.,33537146.0
+WGO,"Winnebago Industries, Inc.",892785.6
+WH,Wyndham Hotels & Resorts Inc,554145.9
+WHR,Whirlpool Corp.,646010.7
+WIA,Western Asset Inflation-Linked Income Fund,111491.41
+WIT,Wipro Ltd.,1530940.1
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund,182447.6
+WLK,Westlake Chemical Corp,278525.03
+WLKP,Westlake Chemical Partners LP,99157.59
+WLL,Whiting Petroleum Corp,661543.8
+WM,"Waste Management, Inc.",1388794.4
+WMB,Williams Cos Inc,9888604.0
+WMK,"Weis Markets, Inc.",97074.13
+WMT,Walmart Inc,7745413.5
+WNC,Wabash National Corp.,392208.72
+WNS,WNS Holdings Limited,137203.36
+WOR,"Worthington Industries, Inc.",304733.97
+WORK,Slack Technologies Inc (Class A),28185436.0
+WPG,Washington Prime Group Inc,519231.53
+WPP,WPP Plc.,118835.27
+WRB,W.R. Berkley Corp.,701641.75
+WRE,Washington Real Estate Investment Trust,455691.47
+WRI,Weingarten Realty Investors,774739.25
+WRK,WestRock Co,1600543.4
+WSM,"Williams-Sonoma, Inc.",943065.94
+WSO,Watsco Inc. (Class A),149723.23
+WSR,Whitestone REIT,395226.0
+WST,"West Pharmaceutical Services, Inc.",450634.88
+WTI,W & T Offshore Inc,4861207.0
+WTRG,Essential Utilities Inc,952965.2
+WTS,"Watts Water Technologies, Inc. (Class A)",171137.14
+WTT,"Wireless Telecom Group, Inc.",164435.4
+WU,Western Union Company,4366993.5
+WWE,"World Wrestling Entertainment, Inc. (Class A)",890072.44
+WWW,"Wolverine World Wide, Inc.",391810.0
+WY,Weyerhaeuser Co.,4163860.0
+WYND,Wyndham Destinations Inc,625134.4
+WYY,Widepoint Corp,373033.72
+X,United States Steel Corp.,14117590.0
+XAN,Exantas Capital Corp,509230.28
+XEC,Cimarex Energy Co.,1234438.4
+XIN,Xinyuan Real Estate Co. Ltd.,160904.77
+XL,XL Fleet Corporation (Class A),13358594.0
+XOM,Exxon Mobil Corp.,27452064.0
+XPO,XPO Logistics Inc,986397.25
+XRX,Xerox Holdings Corp,2087042.2
+XTNT,Xtant Medical Holdings Inc,229481.27
+XXII,22nd Century Group Inc,3998658.5
+XYL,Xylem Inc,825970.1
+Y,Alleghany Corp.,61796.047
+YCBD,cbdMD Inc,1126116.6
+YELP,Yelp Inc,1333779.4
+YETI,YETI Holdings Inc,913416.94
+YEXT,Yext Inc,1490375.5
+YPF,YPF,1233732.5
+YRD,Yiren Digital Ltd,161171.23
+YUM,Yum Brands Inc.,1677879.2
+YUMC,Yum China Holdings Inc,1645916.9
+ZBH,Zimmer Biomet Holdings Inc,866418.6
+ZDGE,Zedge Inc (Class B),260021.77
+ZEN,Zendesk Inc,1049803.5
+ZOM,Zomedica Corp,84074776.0
+ZTO,ZTO Express Cayman Inc,3358119.8
+ZTR,Virtus Total Return Fund Inc.,178233.1
+ZTS,Zoetis Inc (Class A),1549950.2
+ZUO,Zuora Inc (Class A),1908270.6
+ZYME,Zymeworks Inc,329952.38

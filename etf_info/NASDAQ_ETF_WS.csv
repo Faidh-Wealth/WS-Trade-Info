@@ -1,107 +1,107 @@
-symbol,name
-AAXJ,BTC iShares MSCI All Country Asia ex Japan ETF
-ACWI,BTC iShares MSCI ACWI ETF
-ACWX,BTC iShares MSCI ACWI ex US ETF
-ADRE,Invesco BLDRS Emerging Markets 50  Index Fund
-AIA,BTC iShares Asia 50 ETF
-AIRR,First Trust RBA American Industrial Renaissance ETF
-ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF
-BBH,VanEck Vectors Biotech ETF
-BIB,ProShares Ultra Nasdaq Biotechnology
-BIS,ProShares UltraShort Nasdaq Biotechnology
-BJK,VanEck Vectors Gaming ETF
-BND,Vanguard Total Bond Market ETF
-BNDX,Vanguard Total International Bond ETF
-BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF
-DAX,Global X DAX Germany ETF
-DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund
-DGRW,WisdomTree U.S. Quality Dividend Growth Fund
-DVY,BTC iShares Select Dividend ETF
-EMB,BTC iShares J.P. Morgan USD Emerging Markets Bond ETF
-EMIF,BTC iShares Emerging Markets Infrastructure ETF
-ENZL,iShares MSCI New Zealand ETF
-ESGE,iShares Inc iShares ESG MSCI EM ETF
-EUFN,BTC iShares MSCI Europe Financials ETF
-FEX,First Trust Large Cap Core AlphaDEX Fund
-FTC,First Trust Large Capital Growth AlphaDEX Fund
-FTHI,First Trust BuyWrite Income ETF
-FTSL,First Trust Senior Loan Fund ETF
-GNMA,BTC iShares GNMA Bond ETF
-IBB,BTC iShares Nasdaq Biotechnology ETF
-ICLN,BTC iShares Global Clean Energy ETF
-IEF,BTC iShares 7-10 Year Treasury Bond ETF
-IEI,BTC iShares 3-7 Year Treasury Bond ETF
-IFGL,BTC iShares International Developed Real Estate ETF
-IGF,BTC iShares Global Infrastructure ETF
-IGIB,iShares Intermediate-Term Corporate Bond ETF
-IGOV,BTC iShares International Treasury Bond ETF
-IGSB,iShares Short-Term Corporate Bond ETF
-IJT,BTC iShares S&P Small-Cap 600 Growth ETF
-INDY,BTC iShares India 50 ETF
-IPKW,Invesco International BuyBack Achievers TM ETF
-IUSG,BTC iShares Core S&P U.S.Growth ETF
-IUSV,BTC iShares Core S&P U.S.Value ETF
-JKI,BTC iShares Morningstar Mid-Cap Value ETF
-KBWD,Invesco Capital Management LLC - Invesco KBW High Dividend Yield Financial ETF
-KBWR,Invesco KBW Regional Banking ETF
-KBWY,Invesco Capital Management LLC - Invesco KBW Premium Yield Equity REIT ETF
-KRMA,Global X Conscious Companies ETF
-MBB,BTC iShares MBS ETF
-MCHI,BTC iShares MSCI China ETF
-ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund
-PDP,Invesco DWA Momentum ETF
-PEY,Invesco High Yield Equity Dividend Achievers ETF
-PEZ,Invesco DWA Consumer Cyclicals Momentum ETF
-PFF,iShares Trust iShares Preferred and Income Securities ETF
-PFI,Invesco DWA Financial Momentum ETF
-PFM,Invesco Dividend Achievers ETF
-PGJ,Invesco Golden Dragon China ETF
-PHO,Invesco Water Resources ETF
-PID,Invesco International Dividend Achievers ETF
-PIE,Invesco DWA Emerging Markets Momentum ETF
-PIO,Invesco Global Water ETF
-PIZ,Invesco DWA Developed Markets Momentum ETF
-PKW,Invesco BuyBack Achievers ETF
-PLW,Invesco 1-30 Laddered Treasury ETF
-PNQI,Invesco NASDAQ Internet ETF
-PPH,VanEck Vectors Pharmaceutical ETF
-PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF
-PRN,Invesco DWA Industrials Momentum ETF
-PSCH,Invesco Capital Management LLC - Invesco S&P SmallCap Health Care ETF
-PSL,Invesco DWA Consumer Staples Momentum ETF
-PTH,Invesco DWA Healthcare Momentum ETF
-PXI,Invesco DWA Energy Momentum ETF
-PYZ,Invesco DWA Basic Materials Momentum ETF
-QCLN,First Trust Exchange-Traded Fund III - First Trust Nasdaq Clean Edge Green Energy Index Fund
-QQQ,Invesco QQQ Trust Series 1
-QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund
-RDVY,First Trust Rising Dividend Achievers ETF
-RING,BTC iShares MSCI Global Gold Miners ETF
-RTH,VanEck Vectors Retail ETF
-SCZ,BTC iShares MSCI EAFE Small-Cap ETF
-SDG,iShares MSCI Global Impact ETF
-SHV,BTC iShares Short Treasury Bond ETF
-SHY,BTC iShares 1-3 Year Treasury Bond ETF
-SKYY,First Trust Cloud Computing ETF
-SMH,VanEck Vectors Semiconductor ETF
-SOCL,Global X Social Media ETF
-SOXX,BTC iShares PHLX Semiconductor ETF
-SQQQ,ProShares UltraPro Short QQQ
-SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF
-TLT,BTC iShares 20+ Year Treasury Bond ETF
-TQQQ,ProShares UltraPro QQQ
-TUR,BTC iShares MSCI Turkey ETF
-UAE,iShares MSCI UAE ETF
-USIG,iShares Broad USD Investment Grade Corporate Bond ETF
-VCIT,Vanguard Intermediate-Term Corporate Bond ETF
-VCSH,Vanguard Short-Term Corporate Bond ETF
-VGSH,Vanguard Short-Term Treasury ETF
-VNQI,Vanguard Global ex-U.S. Real Estate ETF
-VONV,"Vanguard Group, Inc. - Vanguard Russell 1000 Value Index ETF"
-VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund
-VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF"
-VWOB,Vanguard Emerging Markets Government Bond ETF
-VXUS,Vanguard Total International Stock ETF
-VYMI,Vanguard International High Dividend Yield ETF
-WOOD,BTC iShares Global Timber & Forestry ETF
-XT,BTC iShares Exponential Technologies ETF
+symbol,name,avg_daily_volume_last_month
+AAXJ,BTC iShares MSCI All Country Asia ex Japan ETF,1171157.5
+ACWI,BTC iShares MSCI ACWI ETF,2429527.8
+ACWX,BTC iShares MSCI ACWI ex US ETF,1143570.4
+ADRE,Invesco BLDRS Emerging Markets 50  Index Fund,19219.137
+AIA,BTC iShares Asia 50 ETF,197318.55
+AIRR,First Trust RBA American Industrial Renaissance ETF,15297.363
+ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,1532378.6
+BBH,VanEck Vectors Biotech ETF,26958.1
+BIB,ProShares Ultra Nasdaq Biotechnology,108359.18
+BIS,ProShares UltraShort Nasdaq Biotechnology,53696.41
+BJK,VanEck Vectors Gaming ETF,25160.592
+BND,Vanguard Total Bond Market ETF,4862378.0
+BNDX,Vanguard Total International Bond ETF,2638825.8
+BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF,767730.2
+DAX,Global X DAX Germany ETF,10045.272
+DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,14570.728
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,254653.23
+DVY,BTC iShares Select Dividend ETF,642023.56
+EMB,BTC iShares J.P. Morgan USD Emerging Markets Bond ETF,3806716.2
+EMIF,BTC iShares Emerging Markets Infrastructure ETF,2726.4546
+ENZL,iShares MSCI New Zealand ETF,33408.0
+ESGE,iShares Inc iShares ESG MSCI EM ETF,1071409.1
+EUFN,BTC iShares MSCI Europe Financials ETF,1563098.9
+FEX,First Trust Large Cap Core AlphaDEX Fund,23018.273
+FTC,First Trust Large Capital Growth AlphaDEX Fund,56246.137
+FTHI,First Trust BuyWrite Income ETF,10733.182
+FTSL,First Trust Senior Loan Fund ETF,266997.2
+GNMA,BTC iShares GNMA Bond ETF,77663.55
+IBB,BTC iShares Nasdaq Biotechnology ETF,2616577.8
+ICLN,BTC iShares Global Clean Energy ETF,5039641.5
+IEF,BTC iShares 7-10 Year Treasury Bond ETF,4032008.2
+IEI,BTC iShares 3-7 Year Treasury Bond ETF,700313.5
+IFGL,BTC iShares International Developed Real Estate ETF,45378.637
+IGF,BTC iShares Global Infrastructure ETF,323964.72
+IGIB,iShares Intermediate-Term Corporate Bond ETF,1288400.4
+IGOV,BTC iShares International Treasury Bond ETF,159979.9
+IGSB,iShares Short-Term Corporate Bond ETF,2072554.4
+IJT,BTC iShares S&P Small-Cap 600 Growth ETF,146658.45
+INDY,BTC iShares India 50 ETF,34231.727
+IPKW,Invesco International BuyBack Achievers TM ETF,15156.682
+IUSG,BTC iShares Core S&P U.S.Growth ETF,457429.53
+IUSV,BTC iShares Core S&P U.S.Value ETF,641413.06
+JKI,BTC iShares Morningstar Mid-Cap Value ETF,4979.409
+KBWD,Invesco Capital Management LLC - Invesco KBW High Dividend Yield Financial ETF,129403.59
+KBWR,Invesco KBW Regional Banking ETF,6227.091
+KBWY,Invesco Capital Management LLC - Invesco KBW Premium Yield Equity REIT ETF,111271.09
+KRMA,Global X Conscious Companies ETF,44554.41
+MBB,BTC iShares MBS ETF,1414750.2
+MCHI,BTC iShares MSCI China ETF,4304865.5
+ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund,31723.182
+PDP,Invesco DWA Momentum ETF,60389.453
+PEY,Invesco High Yield Equity Dividend Achievers ETF,158569.55
+PEZ,Invesco DWA Consumer Cyclicals Momentum ETF,9456.0
+PFF,iShares Trust iShares Preferred and Income Securities ETF,4077335.2
+PFI,Invesco DWA Financial Momentum ETF,9827.591
+PFM,Invesco Dividend Achievers ETF,82162.95
+PGJ,Invesco Golden Dragon China ETF,20969.818
+PHO,Invesco Water Resources ETF,61860.273
+PID,Invesco International Dividend Achievers ETF,104388.63
+PIE,Invesco DWA Emerging Markets Momentum ETF,80627.91
+PIO,Invesco Global Water ETF,17125.455
+PIZ,Invesco DWA Developed Markets Momentum ETF,51772.5
+PKW,Invesco BuyBack Achievers ETF,184808.69
+PLW,Invesco 1-30 Laddered Treasury ETF,20611.0
+PNQI,Invesco NASDAQ Internet ETF,20904.0
+PPH,VanEck Vectors Pharmaceutical ETF,44829.91
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,24005.908
+PRN,Invesco DWA Industrials Momentum ETF,10724.228
+PSCH,Invesco Capital Management LLC - Invesco S&P SmallCap Health Care ETF,13223.409
+PSL,Invesco DWA Consumer Staples Momentum ETF,2650.7273
+PTH,Invesco DWA Healthcare Momentum ETF,42141.047
+PXI,Invesco DWA Energy Momentum ETF,16999.045
+PYZ,Invesco DWA Basic Materials Momentum ETF,12127.409
+QCLN,First Trust Exchange-Traded Fund III - First Trust Nasdaq Clean Edge Green Energy Index Fund,601894.4
+QQQ,Invesco QQQ Trust Series 1,25921614.0
+QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund,86993.05
+RDVY,First Trust Rising Dividend Achievers ETF,265653.12
+RING,BTC iShares MSCI Global Gold Miners ETF,172263.1
+RTH,VanEck Vectors Retail ETF,13555.818
+SCZ,BTC iShares MSCI EAFE Small-Cap ETF,1215227.4
+SDG,iShares MSCI Global Impact ETF,30234.5
+SHV,BTC iShares Short Treasury Bond ETF,2092116.2
+SHY,BTC iShares 1-3 Year Treasury Bond ETF,2467208.2
+SKYY,First Trust Cloud Computing ETF,307059.0
+SMH,VanEck Vectors Semiconductor ETF,2048170.5
+SOCL,Global X Social Media ETF,46993.047
+SOXX,BTC iShares PHLX Semiconductor ETF,462426.1
+SQQQ,ProShares UltraPro Short QQQ,70803280.0
+SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF,143359.05
+TLT,BTC iShares 20+ Year Treasury Bond ETF,8792824.0
+TQQQ,ProShares UltraPro QQQ,36472490.0
+TUR,BTC iShares MSCI Turkey ETF,261706.5
+UAE,iShares MSCI UAE ETF,8973.182
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,573937.2
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,2502840.0
+VCSH,Vanguard Short-Term Corporate Bond ETF,2836873.2
+VGSH,Vanguard Short-Term Treasury ETF,1443328.4
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,600496.5
+VONV,"Vanguard Group, Inc. - Vanguard Russell 1000 Value Index ETF",134967.81
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,967359.25
+VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",53870.184
+VWOB,Vanguard Emerging Markets Government Bond ETF,490921.38
+VXUS,Vanguard Total International Stock ETF,3800607.8
+VYMI,Vanguard International High Dividend Yield ETF,147724.4
+WOOD,BTC iShares Global Timber & Forestry ETF,10846.35
+XT,BTC iShares Exponential Technologies ETF,192664.36
