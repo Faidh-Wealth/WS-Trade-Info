@@ -1,1538 +1,1548 @@
 symbol,name,avg_daily_volume_last_month
-AAOI,Applied Optoelectronics Inc,654416.8
-AAON,AAON Inc.,184546.36
-AAPL,Apple Inc,105604330.0
-AAWW,Atlas Air Worldwide Holdings Inc.,396642.1
-AAXN,Axon Enterprise Inc,520147.5
-ABCB,Ameris Bancorp,391383.47
-ABEO,Abeona Therapeutics Inc,2252537.0
-ABIO,ARCA biopharma Inc,524469.2
-ABMD,Abiomed Inc.,283076.1
-ABNB,Airbnb Inc (Class A),14485356.0
-ABUS,Arbutus Biopharma Corp,5547243.0
-ACAD,Acadia Pharmaceuticals Inc,909569.25
-ACBI,Atlantic Capital Bancshares Inc,83464.63
-ACER,Acer Therapeutics Inc,220339.86
-ACGL,Arch Capital Group Ltd,2108988.0
-ACIA,Acacia Communications Inc,624361.6
-ACIW,ACI Worldwide Inc,920701.9
-ACLS,Axcelis Technologies Inc,258415.64
-ACOR,Acorda Therapeutics Inc,610979.56
-ACRX,Acelrx Pharmaceuticals Inc,1565786.9
-ACTG,Acacia Research Corp,372869.03
-ADAP,Adaptimmune Therapeutics Plc,2096680.1
-ADBE,Adobe Inc,2499222.8
-ADES,Advanced Emissions Solutions Inc,104930.18
-ADI,Analog Devices Inc.,2230539.5
-ADMP,Adamis Pharmaceuticals Corp,3913913.2
-ADP,Automatic Data Processing Inc.,1402530.0
-ADPT,Adaptive Biotechnologies Corp,983964.44
-ADSK,Autodesk Inc.,1236691.6
-ADTN,Adtran Inc.,347534.47
-ADTX,Aditx Therapeutics Inc,1481510.9
-ADXS,"Advaxis, Inc.",8901259.0
-AEGN,Aegion Corp,111037.68
-AEHL,Antelope Enterprise Holdings Ltd,455968.12
-AEHR,Aehr Test Systems,658340.5
-AEIS,Advanced Energy Industries Inc.,269941.5
-AEMD,Aethlon Medical Inc,4836704.0
-AEP,American Electric Power Company Inc.,2856969.8
-AERI,Aerie Pharmaceuticals Inc,493125.62
-AEY,Addvantage Technologies Group,364903.38
-AEYE,AudioEye Inc,119226.77
-AFRM,Affirm Holdings Inc (Class A),0.0
-AGEN,Agenus Inc,2545152.2
-AGNC,AGNC Investment Corp,5720318.5
-AGYS,"Agilysys, Inc",152397.73
-AHPI,Allied Healthcare Product Inc.,481975.03
-AIKI,AIkido Pharma Inc,8565962.0
-AIMC,Altra Industrial Motion Corp,323865.8
-AIRT,Air T Inc,238999.19
-AKAM,Akamai Technologies Inc,1402761.9
-AKBA,Akebia Therapeutics Inc.,5558797.0
-AKER,Akers Biosciences Inc,782755.56
-AKTX,Akari Therapeutics Plc,282566.62
-ALBO,Albireo Pharma Inc,299622.72
-ALDX,Aldeyra Therapeutics Inc,535566.94
-ALGM,Allegro Microsystems Inc.,802615.25
-ALGN,"Align Technology, Inc.",458037.22
-ALGT,Allegiant Travel,184487.19
-ALJJ,Alj Regional Holdings Inc,241769.69
-ALLT,Allot Ltd,219577.4
-ALNY,Alnylam Pharmaceuticals Inc,452140.8
-ALSK,Alaska Communications Systems Group Inc,1046685.9
-ALT,Altimmune Inc,2089165.1
-ALVR,AlloVir Inc,355784.78
-ALXN,Alexion Pharmaceuticals Inc.,3610834.8
-AMAT,Applied Materials Inc.,5728105.0
-AMBA,Ambarella Inc,813760.75
-AMCX,AMC Networks Inc (Class A),1077618.5
-AMD,Advanced Micro Devices Inc.,38586590.0
-AMED,Amedisys Inc.,155072.69
-AMGN,AMGEN Inc.,2356729.0
-AMKR,AMKOR Technology Inc.,978379.8
-AMPH,Amphastar Pharmaceuticals Inc,222178.69
-AMRK,A-Mark Precious Metals Inc,81403.59
-AMRN,Amarin Corp,8425694.0
-AMRS,Amyris Inc,5002642.5
-AMSC,American Superconductor Corp.,437220.38
-AMSWA,American Software Inc. (Class A),126642.41
-AMWD,American Woodmark Corp.,139033.64
-AMZN,Amazon.com Inc.,3526381.5
-ANDE,Andersons Inc.,189806.14
-ANGO,Angiodynamic Inc,285903.0
-ANIK,Anika Therapeutics Inc.,117676.37
-ANIP,ANI Pharmaceuticals Inc,85748.68
-ANIX,Anixa Biosciences Inc,1364538.0
-ANSS,Ansys Inc.,367231.03
-ANTE,AirNet Technology Inc,959798.5
-ANY,Sphere 3D Corp,209953.55
-AOUT,American Outdoor Brands Inc,411986.5
-APA,Apache Corp.,9116676.0
-APDN,Applied Dna Sciences Inc,454000.97
-APEI,American Public Education Inc,80364.0
-APEN,Apollo Endosurgery Inc,230527.55
-APOG,Apogee Enterprises Inc.,297038.72
-APPN,Appian Corp (Class A),1503420.9
-APPS,Digital Turbine Inc,3484291.0
-APVO,Aptevo Therapeutics Inc,107069.13
-APYX,Apyx Medical Corp,56511.184
-AQB,AquaBounty Technologies Inc,5618910.0
-AQMS,Aqua Metals Inc,6214592.5
-ARAV,Aravive Inc,214924.36
-ARAY,Accuray Inc,727330.06
-ARCB,ArcBest Corp,180308.31
-ARCC,Ares Capital Corp,1999181.5
-ARKR,Ark Restaurants Corp.,57387.684
+AAME,Atlantic American Corp.,76580.69
+AAOI,Applied Optoelectronics Inc,1035576.9
+AAON,AAON Inc.,214616.62
+AAPL,Apple Inc,117940900.0
+AAWW,Atlas Air Worldwide Holdings Inc.,468605.78
+ABCB,Ameris Bancorp,492060.94
+ABEO,Abeona Therapeutics Inc,2858317.5
+ABIO,ARCA biopharma Inc,579943.94
+ABMD,Abiomed Inc.,392380.06
+ABNB,Airbnb Inc (Class A),7483960.5
+ABUS,Arbutus Biopharma Corp,2811229.8
+ACAD,Acadia Pharmaceuticals Inc,901743.0
+ACBI,Atlantic Capital Bancshares Inc,81536.1
+ACER,Acer Therapeutics Inc,2166118.0
+ACGL,Arch Capital Group Ltd,2928036.0
+ACIA,Acacia Communications Inc,3283348.5
+ACIW,ACI Worldwide Inc,660016.94
+ACLS,Axcelis Technologies Inc,578821.8
+ACOR,Acorda Therapeutics Inc,2723147.2
+ACRX,Acelrx Pharmaceuticals Inc,11537733.0
+ACTG,Acacia Research Corp,1185135.6
+ADAP,Adaptimmune Therapeutics Plc,1316022.5
+ADBE,Adobe Inc,3021191.0
+ADES,Advanced Emissions Solutions Inc,90881.734
+ADI,Analog Devices Inc.,2946733.5
+ADMP,Adamis Pharmaceuticals Corp,43059690.0
+ADP,Automatic Data Processing Inc.,2194705.0
+ADPT,Adaptive Biotechnologies Corp,844386.9
+ADSK,Autodesk Inc.,1675429.9
+ADTN,Adtran Inc.,298387.47
+ADTX,Aditx Therapeutics Inc,8812212.0
+ADXS,"Advaxis, Inc.",18718212.0
+AEGN,Aegion Corp,92718.055
+AEHL,Antelope Enterprise Holdings Ltd,498058.94
+AEHR,Aehr Test Systems,388418.1
+AEIS,Advanced Energy Industries Inc.,296550.1
+AEMD,Aethlon Medical Inc,708203.0
+AEP,American Electric Power Company Inc.,3429000.0
+AERI,Aerie Pharmaceuticals Inc,907555.44
+AEY,Addvantage Technologies Group,198038.2
+AEYE,AudioEye Inc,75262.055
+AFBI,Affinity Bancshares Inc,174722.58
+AFRM,Affirm Holdings Inc (Class A),6072602.0
+AGEN,Agenus Inc,2112017.2
+AGNC,AGNC Investment Corp,6539817.5
+AGYS,"Agilysys, Inc",193863.84
+AHPI,Allied Healthcare Product Inc.,733156.25
+AIKI,AIkido Pharma Inc,26778450.0
+AIMC,Altra Industrial Motion Corp,478469.6
+AKAM,Akamai Technologies Inc,2190486.5
+AKBA,Akebia Therapeutics Inc.,6823953.0
+AKER,Akers Biosciences Inc,564424.9
+AKTX,Akari Therapeutics Plc,445970.3
+ALBO,Albireo Pharma Inc,182690.58
+ALDX,Aldeyra Therapeutics Inc,1787759.1
+ALGM,Allegro Microsystems Inc.,763741.7
+ALGN,"Align Technology, Inc.",504298.94
+ALGT,Allegiant Travel,116779.945
+ALJJ,Alj Regional Holdings Inc,110977.0
+ALLT,Allot Ltd,608420.8
+ALNY,Alnylam Pharmaceuticals Inc,971108.44
+ALSK,Alaska Communications Systems Group Inc,1170877.0
+ALT,Altimmune Inc,1649933.2
+ALTO,Alto Ingredients Inc,5473402.0
+ALVR,AlloVir Inc,198407.47
+ALXN,Alexion Pharmaceuticals Inc.,3238882.8
+AMAT,Applied Materials Inc.,8262874.0
+AMBA,Ambarella Inc,895066.8
+AMCX,AMC Networks Inc (Class A),2081128.2
+AMD,Advanced Micro Devices Inc.,52541668.0
+AMED,Amedisys Inc.,181338.16
+AMGN,AMGEN Inc.,2675318.5
+AMKR,AMKOR Technology Inc.,1041863.6
+AMPH,Amphastar Pharmaceuticals Inc,186839.89
+AMRK,A-Mark Precious Metals Inc,58309.633
+AMRN,Amarin Corp,7837981.5
+AMRS,Amyris Inc,5885714.5
+AMSC,American Superconductor Corp.,538758.7
+AMSWA,American Software Inc. (Class A),129226.945
+AMWD,American Woodmark Corp.,96460.63
+AMZN,Amazon.com Inc.,3764411.2
+ANDE,Andersons Inc.,185323.31
+ANGO,Angiodynamic Inc,430453.62
+ANIK,Anika Therapeutics Inc.,109447.945
+ANIP,ANI Pharmaceuticals Inc,60233.74
+ANIX,Anixa Biosciences Inc,425654.6
+ANSS,Ansys Inc.,492569.78
+ANTE,AirNet Technology Inc,2743878.5
+ANY,Sphere 3D Corp,2386780.5
+AOUT,American Outdoor Brands Inc,209627.0
+APA,Apache Corp.,9607621.0
+APDN,Applied Dna Sciences Inc,3158182.0
+APEI,American Public Education Inc,70554.37
+APEN,Apollo Endosurgery Inc,131822.69
+APOG,Apogee Enterprises Inc.,250896.38
+APPN,Appian Corp (Class A),1632342.8
+APPS,Digital Turbine Inc,2929461.8
+APVO,Aptevo Therapeutics Inc,85930.58
+APYX,Apyx Medical Corp,121230.79
+AQB,AquaBounty Technologies Inc,2873143.0
+AQMS,Aqua Metals Inc,6328586.0
+ARAV,Aravive Inc,106114.16
+ARAY,Accuray Inc,1074396.5
+ARCB,ArcBest Corp,155570.58
+ARCC,Ares Capital Corp,1811193.0
+ARKR,Ark Restaurants Corp.,54238.633
 ARLP,"Alliance Resource Partners, LP",617528.56
-ARNA,Arena Pharmaceuticals Inc,577816.1
-ARRY,Array Technologies Inc,3272104.5
-ARTW,Art`s-way Manufacturing Co. Inc.,64135.5
-ARWR,Arrowhead Pharmaceuticals Inc.,981138.25
-ASML,New York Shares,569198.1
-ASO,Academy Sports and Outdoors Inc,1528526.5
-ASPS,Altisource Portfolio Solutions S.A.,49639.09
-ASRT,Assertio Holdings Inc,5365817.0
-ASTC,Astrotech Corp,733695.25
-ASTE,Astec Industries Inc.,120002.82
-ASUR,Asure Software Inc,164372.4
-ASYS,Amtech Systems Inc.,62582.137
+ARNA,Arena Pharmaceuticals Inc,490090.7
+ARRY,Array Technologies Inc,1658659.6
+ARWR,Arrowhead Pharmaceuticals Inc.,840633.8
+ASML,New York Shares,1020731.94
+ASO,Academy Sports and Outdoors Inc,1571154.2
+ASPS,Altisource Portfolio Solutions S.A.,43118.527
+ASRT,Assertio Holdings Inc,13534915.0
+ASTC,Astrotech Corp,1462990.2
+ASTE,Astec Industries Inc.,125814.69
+ASUR,Asure Software Inc,112177.52
+ASYS,Amtech Systems Inc.,51335.633
 ATAX,America First Multifamily Investors LP,359356.62
-ATHE,Alterity Therapeutics Ltd,378746.38
-ATHX,Athersys Inc,2575370.2
-ATLC,Atlanticus Holdings Corp,45012.91
-ATNI,ATN International Inc,48979.59
-ATRO,Astronics Corp.,332690.28
-ATRS,Antares Pharma Inc,1300611.4
-ATSG,Air Transport Services Group Inc,301784.8
-ATVI,Activision Blizzard Inc,6209494.0
-AUB,Atlantic Union Bankshares Corp,233162.64
-AUDC,Audiocodes,244016.73
-AUTO,AutoWeb Inc,319751.7
-AVAV,AeroVironment Inc.,179130.73
-AVDL,Avadel Pharmaceuticals plc,550907.25
-AVEO,AVEO Pharmaceuticals Inc,291207.62
-AVGO,Broadcom Inc,1825604.9
-AVID,"Avid Technology, Inc.",380584.6
-AVIR,Atea Pharmaceuticals Inc,400437.1
-AVNW,Aviat Networks Inc,102263.37
-AVO,Mission Produce Inc,279158.47
-AVT,Avnet Inc.,828384.7
-AVXL,Anavex Life Sciences Corporation,1587589.8
-AWH,Aspira Women`s Health Inc,699511.0
-AXAS,Abraxas Petroleum Corp.,429108.9
-AXDX,Accelerate Diagnostics Inc,329767.78
-AXGN,Axogen Inc.,217860.27
-AXTI,AXT Inc,722352.75
-AYRO,AYRO Inc,3322995.8
-AYTU,Aytu BioScience Inc,1539926.9
-AZN,Astrazeneca plc,13690359.0
-AZPN,Aspen Technology Inc.,358385.9
-BAND,Bandwidth Inc (Class A),441030.3
-BANF,Bancfirst Corp.,115539.59
-BANR,Banner Corp.,168101.81
-BASI,Bioanalytical Systems Inc.,105408.05
-BATRA,Tracking Stock - Braves Series A,64380.684
-BATRK,Tracking Stock - Braves Series C,189639.69
-BBBY,"Bed, Bath & Beyond Inc.",7072974.0
-BBGI,Beasley Broadcast Group Inc (Class A),213617.31
-BBI,Brickell Biotech Inc,2518933.0
-BBIO,BridgeBio Pharma Inc,642761.8
-BCDA,BioCardia Inc.,10474453.0
-BCLI,"Brainstorm Cell Therapeutics, Inc.",1030700.6
-BCOR,Blucora Inc,375317.7
-BCOV,Brightcove Inc,328207.0
-BCPC,Balchem Corp.,124125.95
+ATHA,Athira Pharma Inc,499830.06
+ATHE,Alterity Therapeutics Ltd,488738.84
+ATHX,Athersys Inc,2272678.2
+ATLC,Atlanticus Holdings Corp,56654.105
+ATNI,ATN International Inc,56283.895
+ATRO,Astronics Corp.,336025.62
+ATRS,Antares Pharma Inc,1297367.1
+ATSG,Air Transport Services Group Inc,568034.1
+ATVI,Activision Blizzard Inc,6184245.0
+AUB,Atlantic Union Bankshares Corp,244875.8
+AUDC,Audiocodes,350217.0
+AUTO,AutoWeb Inc,560918.94
+AVAV,AeroVironment Inc.,327790.7
+AVDL,Avadel Pharmaceuticals plc,399764.7
+AVEO,AVEO Pharmaceuticals Inc,495912.4
+AVGO,Broadcom Inc,1691271.6
+AVID,"Avid Technology, Inc.",487950.3
+AVIR,Atea Pharmaceuticals Inc,272353.84
+AVNW,Aviat Networks Inc,92941.31
+AVO,Mission Produce Inc,274485.9
+AVT,Avnet Inc.,1208381.4
+AVXL,Anavex Life Sciences Corporation,752253.2
+AWH,Aspira Women`s Health Inc,838100.56
+AWRE,Aware Inc.,61620.367
+AXAS,Abraxas Petroleum Corp.,709316.56
+AXDX,Accelerate Diagnostics Inc,1041736.75
+AXGN,Axogen Inc.,255575.8
+AXON,Axon Enterprise Inc,822757.5
+AXTI,AXT Inc,464597.53
+AYRO,AYRO Inc,4103537.8
+AYTU,Aytu BioScience Inc,576304.1
+AZN,Astrazeneca plc,12513469.0
+AZPN,Aspen Technology Inc.,443386.84
+BAND,Bandwidth Inc (Class A),527317.8
+BANF,Bancfirst Corp.,91200.1
+BANR,Banner Corp.,193799.58
+BASI,Bioanalytical Systems Inc.,120335.84
+BATRA,Tracking Stock - Braves Series A,57175.0
+BATRK,Tracking Stock - Braves Series C,146608.95
+BBBY,"Bed, Bath & Beyond Inc.",30391484.0
+BBGI,Beasley Broadcast Group Inc (Class A),386434.0
+BBI,Brickell Biotech Inc,5490593.0
+BBIO,BridgeBio Pharma Inc,1165369.9
+BCDA,BioCardia Inc.,459935.22
+BCLI,"Brainstorm Cell Therapeutics, Inc.",1089935.6
+BCOR,Blucora Inc,391017.1
+BCOV,Brightcove Inc,257713.8
+BCPC,Balchem Corp.,180178.05
 BCRX,Biocryst Pharmaceuticals Inc.,4796726.0
-BDSI,Biodelivery Sciences International,794549.2
-BEAT,BioTelemetry Inc,1087052.1
-BECN,Beacon Roofing Supply Inc (Class A),467153.97
-BEEM,Beam Global,857932.75
-BELFB,Bel Fuse Inc. (Class B),52027.773
-BFIN,Bankfinancial Corp,44668.227
-BGCP,BGC Partners Inc (Class A),2622035.8
+BDSI,Biodelivery Sciences International,1442252.2
+BEAT,BioTelemetry Inc,978564.8
+BECN,Beacon Roofing Supply Inc (Class A),380004.78
+BEEM,Beam Global,764121.44
+BELFB,Bel Fuse Inc. (Class B),50119.684
+BFIN,Bankfinancial Corp,49656.21
+BGCP,BGC Partners Inc (Class A),2480827.8
 BGFV,Big 5 Sporting Goods Corp,787648.1
-BGNE,BeiGene Ltd,452105.28
-BHF,Brighthouse Financial Inc,745301.75
-BIDU,Baidu Inc,9047917.0
-BIGC,BigCommerce Holdings Inc,2346540.0
-BIIB,Biogen Inc,1215225.9
-BILI,Bilibili Inc,5294463.0
-BIMI,BOQI International Medical Inc,628864.5
-BIOC,Biocept Inc,918113.75
-BIOL,Biolase Inc,23232000.0
-BJRI,BJ`s Restaurant Inc.,354572.47
-BKCC,BlackRock Capital Investment Corp,352224.3
+BGNE,BeiGene Ltd,396480.9
+BHF,Brighthouse Financial Inc,776985.5
+BIDU,Baidu Inc,11077401.0
+BIGC,BigCommerce Holdings Inc,3314533.8
+BIIB,Biogen Inc,1416651.9
+BILI,Bilibili Inc,7196461.5
+BIMI,BOQI International Medical Inc,1501187.5
+BIOC,Biocept Inc,624592.2
+BIOL,Biolase Inc,69107976.0
+BJRI,BJ`s Restaurant Inc.,371679.78
+BKCC,BlackRock Capital Investment Corp,380456.3
 BKNG,Booking Holdings Inc,465694.1
-BKYI,Bio-Key International Inc.,335198.38
-BL,BlackLine Inc,434000.78
-BLCM,Bellicum Pharmaceuticals Inc,913317.44
-BLDR,Builders Firstsource Inc,2394052.0
-BLFS,Biolife Solutions Inc,322464.28
-BLI,Berkeley Lights Inc,426603.12
-BLIN,Bridgeline Digital Inc,249188.19
-BLMN,Bloomin Brands Inc,1664562.9
-BLNK,Blink Charging Co,14423971.0
-BLRX,Bioline Rx Ltd,2406573.5
-BLUE,Bluebird bio Inc,1143962.0
-BMRA,Biomerica Inc.,126977.13
-BMRN,Biomarin Pharmaceutical Inc.,1521471.5
-BMTC,Bryn Mawr Bank Corp.,92003.5
-BNFT,Benefitfocus Inc,237128.0
+BKYI,Bio-Key International Inc.,813159.5
+BL,BlackLine Inc,526041.44
+BLCM,Bellicum Pharmaceuticals Inc,1006370.4
+BLDR,Builders Firstsource Inc,2794989.8
+BLFS,Biolife Solutions Inc,306122.47
+BLI,Berkeley Lights Inc,1137832.6
+BLIN,Bridgeline Digital Inc,219633.89
+BLMN,Bloomin Brands Inc,2181669.2
+BLNK,Blink Charging Co,13027467.0
+BLRX,Bioline Rx Ltd,3334893.5
+BLUE,Bluebird bio Inc,1303062.2
+BMRA,Biomerica Inc.,1021891.0
+BMRN,Biomarin Pharmaceutical Inc.,1614686.9
+BMTC,Bryn Mawr Bank Corp.,81975.9
+BNFT,Benefitfocus Inc,308172.22
 BNGO,Bionano Genomics Inc,84854850.0
-BNSO,Bonso Electronics International,389756.8
-BOKF,BOK Financial Corp.,193766.0
-BOOM,DMC Global Inc,107172.18
-BOXL,Boxlight Corporation (Class A),3732876.8
-BPFH,Boston Private Financial Holdings Inc,603445.25
-BPOP,Popular Inc.,505106.12
-BRKL,"Brookline Bancorp, Inc.",367628.4
-BRKR,Bruker Corp,422930.53
-BRKS,"Brooks Automation, Inc.",589322.6
-BSET,Bassett Furniture Industries Inc.,86153.32
-BSQR,BSquare Corp,122270.82
-BSY,Bentley Systems Inc (Class B),305579.53
-BUSE,First Busey Corp.,186462.77
-BWEN,Broadwind Inc,787400.56
-BYFC,Broadway Financial Corp.,285827.47
-BYND,Beyond Meat Inc,2780199.8
-BZUN,Baozun Inc,1186391.9
-CAAS,China Automotive Systems Inc,2843047.8
-CACC,Credit Acceptance Corp.,112981.27
-CAKE,Cheesecake Factory Inc.,857528.94
-CALA,Calithera Biosciences Inc,926737.25
+BNSO,Bonso Electronics International,63733.316
+BOCH,Bank of Commerce Holdings,44986.473
+BOKF,BOK Financial Corp.,303489.53
+BOOM,DMC Global Inc,101764.42
+BOXL,Boxlight Corporation (Class A),7144423.5
+BPFH,Boston Private Financial Holdings Inc,2564000.8
+BPOP,Popular Inc.,580406.7
+BRKL,"Brookline Bancorp, Inc.",363600.38
+BRKR,Bruker Corp,497755.47
+BRKS,"Brooks Automation, Inc.",1474529.6
+BSET,Bassett Furniture Industries Inc.,108716.31
+BSQR,BSquare Corp,195891.27
+BSY,Bentley Systems Inc (Class B),792910.8
+BUSE,First Busey Corp.,189037.0
+BWEN,Broadwind Inc,1135363.8
+BYFC,Broadway Financial Corp.,2324517.0
+BYND,Beyond Meat Inc,6970313.0
+BZUN,Baozun Inc,1636149.1
+CAAS,China Automotive Systems Inc,296645.0
+CAC,Camden National Corp.,47703.21
+CACC,Credit Acceptance Corp.,223749.8
+CAKE,Cheesecake Factory Inc.,1451568.6
+CALA,Calithera Biosciences Inc,3153958.0
 CALM,"Cal-Maine Foods, Inc.",318883.2
 CAMP,Calamp Corp.,485098.66
-CAPR,Capricor Therapeutics Inc,508797.53
-CAR,Avis Budget Group Inc,1321949.4
-CARA,Cara Therapeutics Inc,409357.3
-CARE,Carter Bankshares Inc,71001.55
-CARG,CarGurus Inc (Class A),1649595.9
-CARV,Carver Bancorp Inc.,295236.2
-CASH,Meta Financial Group Inc.,285406.28
-CASI,CASI Pharmaceuticals Inc,438424.1
-CASS,Cass Information Systems Inc,44690.137
-CASY,"Casey`s General Stores, Inc.",284092.4
-CATM,Cardtronics plc (Class A),1054671.5
-CATY,Cathay General Bancorp,402215.6
-CBAT,CBAK Energy Technology Inc,7138675.5
-CBAY,Cymabay Therapeutics Inc,1137241.0
-CBIO,Catalyst Biosciences Inc,299983.4
-CBLI,Cleveland BioLabs Inc,397879.53
-CBPO,China Biologic Products Holdings Inc,137275.1
-CBRL,Cracker Barrel Old Country Store Inc,355300.47
-CBSH,"Commerce Bancshares, Inc.",429334.62
+CAPR,Capricor Therapeutics Inc,1886588.2
+CAR,Avis Budget Group Inc,1454419.0
+CARA,Cara Therapeutics Inc,512495.84
+CARE,Carter Bankshares Inc,53001.95
+CARG,CarGurus Inc (Class A),806019.25
+CARV,Carver Bancorp Inc.,702437.5
+CASH,Meta Financial Group Inc.,270292.75
+CASI,CASI Pharmaceuticals Inc,565676.75
+CASS,Cass Information Systems Inc,59176.316
+CASY,"Casey`s General Stores, Inc.",300930.22
+CATM,Cardtronics plc (Class A),1430072.4
+CATY,Cathay General Bancorp,377083.47
+CBAT,CBAK Energy Technology Inc,13145500.0
+CBAY,Cymabay Therapeutics Inc,1044234.9
+CBIO,Catalyst Biosciences Inc,328082.62
+CBLI,Cleveland BioLabs Inc,358925.38
+CBPO,China Biologic Products Holdings Inc,132314.38
+CBRL,Cracker Barrel Old Country Store Inc,270974.38
+CBSH,"Commerce Bancshares, Inc.",495662.6
 CCLP,CSI Compressco LP,121010.95
-CCMP,CMC Materials Inc,172483.19
+CCMP,CMC Materials Inc,213379.42
 CCNE,CNB Financial Corp (PA),56725.5
-CCOI,Cogent Communications Holdings Inc,407302.97
-CCRN,"Cross Country Healthcares, Inc.",307618.7
-CDEV,Centennial Resource Development Inc. (Class A),6536061.0
+CCOI,Cogent Communications Holdings Inc,306706.47
+CCRN,"Cross Country Healthcares, Inc.",225747.73
+CDEV,Centennial Resource Development Inc. (Class A),8282791.0
 CDK,CDK Global Inc,1399792.8
-CDMO,Avid Bioservices Inc,653732.8
-CDNA,Caredx Inc,747646.2
+CDMO,Avid Bioservices Inc,538520.9
+CDNA,Caredx Inc,819890.2
 CDNS,"Cadence Design Systems, Inc.",1585262.4
-CDW,CDW Corp,832912.8
-CDXC,Chromadex Corp,429450.12
-CDXS,Codexis Inc.,825472.44
-CDZI,Cadiz Inc.,175184.1
-CECE,Ceco Environmental Corp.,72462.95
-CELH,Celsius Holdings Inc,1081610.9
+CDW,CDW Corp,873223.44
+CDXC,Chromadex Corp,297969.0
+CDXS,Codexis Inc.,691456.8
+CDZI,Cadiz Inc.,147255.69
+CECE,Ceco Environmental Corp.,107909.16
+CELH,Celsius Holdings Inc,1979956.8
 CEMI,Chembio Diagnostics Inc.,1310698.0
-CENT,Central Garden & Pet Co.,123273.82
-CENTA,Central Garden & Pet Co. (Class A),230306.5
-CENX,Century Aluminum Co.,989056.44
-CERC,Cerecor Inc,362760.97
-CERN,Cerner Corp.,1614279.0
-CERS,Cerus Corp.,2583966.0
-CEVA,Ceva Inc.,149086.19
-CFFN,Capitol Federal Financial,583990.94
-CFMS,Conformis Inc.,2671036.0
-CG,Carlyle Group Inc (The),1129093.8
-CGEN,Compugen Ltd,1451375.0
-CGIX,Cancer Genetics Inc.,807949.5
-CGNX,Cognex Corp.,764865.56
-CHCI,Comstock Holding Co. Inc (Class A),158958.05
-CHCO,City Holding Co.,61510.59
-CHDN,"Churchill Downs, Inc.",264568.53
-CHEF,Chefs` Warehouse Inc,583490.44
-CHI,Calamos Convertible Opportunities and Income Fund,239538.64
-CHKP,Check Point Software Technolgies,1204269.6
-CHNG,Change Healthcare Inc,2021885.0
-CHNR,China Natural Resources Inc,219951.9
-CHRW,"C.H. Robinson Worldwide, Inc.",1002278.06
-CHTR,Charter Communications Inc. (Class A),1153344.1
-CHX,ChampionX Corporation,1981755.0
-CIDM,Cinedigm Corp (Class A),22115010.0
-CIH,China Index Holdings Ltd,109705.27
+CENT,Central Garden & Pet Co.,68744.16
+CENTA,Central Garden & Pet Co. (Class A),193151.8
+CENX,Century Aluminum Co.,898088.25
+CERC,Cerecor Inc,1685216.4
+CERN,Cerner Corp.,1644073.1
+CERS,Cerus Corp.,1748600.9
+CEVA,Ceva Inc.,434210.4
+CFFN,Capitol Federal Financial,660534.56
+CFMS,Conformis Inc.,4080531.2
+CG,Carlyle Group Inc (The),1415757.5
+CGEN,Compugen Ltd,1122428.6
+CGIX,Cancer Genetics Inc.,1391486.1
+CGNX,Cognex Corp.,745090.44
+CHCI,Comstock Holding Co. Inc (Class A),113758.69
+CHCO,City Holding Co.,70962.31
+CHDN,"Churchill Downs, Inc.",216128.16
+CHEF,Chefs` Warehouse Inc,529456.3
+CHI,Calamos Convertible Opportunities and Income Fund,332644.7
+CHKP,Check Point Software Technolgies,1328694.4
+CHNG,Change Healthcare Inc,10582606.0
+CHNR,China Natural Resources Inc,2517607.0
+CHRW,"C.H. Robinson Worldwide, Inc.",1497219.6
+CHTR,Charter Communications Inc. (Class A),1245576.9
+CHX,ChampionX Corporation,1607694.4
+CIDM,Cinedigm Corp (Class A),25901218.0
+CIH,China Index Holdings Ltd,95217.63
 CIVB,Civista Bancshares Inc,57371.45
-CJJD,China Jo-Jo Drugstores Inc,433738.97
-CLAR,Clarus Corp,214774.45
-CLBS,Caladrius Biosciences Inc,258047.27
-CLCT,Collectors Universe Inc,263475.97
-CLDX,Celldex Therapeutics Inc.,814489.25
-CLFD,Clearfield Inc,100796.59
-CLIR,ClearSign Technologies Corp,344660.53
+CJJD,China Jo-Jo Drugstores Inc,845447.9
+CLAR,Clarus Corp,142171.53
+CLBS,Caladrius Biosciences Inc,7993978.5
+CLCT,Collectors Universe Inc,406492.38
+CLDX,Celldex Therapeutics Inc.,638728.44
+CLFD,Clearfield Inc,163224.27
+CLIR,ClearSign Technologies Corp,222345.11
 CLMT,Calumet Specialty Products,139166.05
-CLNE,Clean Energy Fuels Corp,9064552.0
-CLRB,Cellectar Biosciences Inc,4413267.5
-CLRO,ClearOne Inc,363629.72
-CLSK,Cleanspark Inc,3443644.2
-CLSN,Celsion Corp,3107829.8
-CLVS,Clovis Oncology Inc,5517862.5
-CLWT,"Euro Tech Holdings Co., Ltd.",241923.95
-CLXT,Calyxt Inc,208087.45
-CMCO,Columbus Mckinnon Corp.,75721.87
-CMCSA,Comcast Corp (Class A),14693507.0
-CMCT,CIM Commercial Trust Corp,54376.953
-CME,CME Group Inc (Class A),1513081.9
-CMTL,Comtech Telecommunications Corp.,349166.6
+CLNE,Clean Energy Fuels Corp,10546641.0
+CLRB,Cellectar Biosciences Inc,1922513.1
+CLRO,ClearOne Inc,104241.42
+CLSK,Cleanspark Inc,3471268.8
+CLSN,Celsion Corp,21141668.0
+CLVS,Clovis Oncology Inc,9010585.0
+CLWT,"Euro Tech Holdings Co., Ltd.",95764.63
+CLXT,Calyxt Inc,446156.25
+CMCO,Columbus Mckinnon Corp.,89304.37
+CMCSA,Comcast Corp (Class A),20969072.0
+CME,CME Group Inc (Class A),1760628.8
+CMTL,Comtech Telecommunications Corp.,239075.2
 CNDT,Conduent Inc,2056859.2
-CNET,ZW Data Action Technologies Inc,4406988.5
-CNOB,ConnectOne Bancorp Inc.,116739.77
-CNSL,Consolidated Communications Holdings Inc,429080.03
-CNTY,Century Casinos Inc.,351251.78
-CNXC,Concentrix Corporation,449734.88
-CNXN,"PC Connection, Inc.",66250.05
-COCP,Cocrystal Pharma Inc,2980679.5
-CODX,Co-Diagnostics Inc,1349191.5
+CNET,ZW Data Action Technologies Inc,16543917.0
+CNOB,ConnectOne Bancorp Inc.,158902.16
+CNSL,Consolidated Communications Holdings Inc,438529.4
+CNTY,Century Casinos Inc.,287098.75
+CNXC,Concentrix Corporation,227912.05
+CNXN,"PC Connection, Inc.",65032.0
+CODX,Co-Diagnostics Inc,1555034.0
 COLB,"Columbia Banking System, Inc.",219589.25
-COLM,Columbia Sportswear Co.,278829.0
-COMM,CommScope Holding Company Inc,2360170.0
-CONE,CyrusOne Inc,1114600.1
-COOP,Mr. Cooper Group Inc,805602.06
-CORE,Core-Mark Hldg Co Inc,150466.9
-COST,Costco Wholesale Corp,2523212.2
-COWN,Cowen Inc (Class A),376856.38
+COLM,Columbia Sportswear Co.,265178.38
+CONE,CyrusOne Inc,759537.1
+COOP,Mr. Cooper Group Inc,878962.06
+CORE,Core-Mark Hldg Co Inc,213184.42
+COST,Costco Wholesale Corp,2616009.2
+COWN,Cowen Inc (Class A),602847.5
+CPIX,Cumberland Pharmaceuticals Inc.,53418.895
 CPLP,Capital Product Partners L P,94746.68
-CPRT,"Copart, Inc.",1194682.8
-CPRX,Catalyst Pharmaceuticals Inc,2017293.4
-CPSH,CPS Technologies Corporation,282378.9
-CPSI,Computer Programs & Systems Inc,98679.5
-CPSS,"Consumer Portfolio Service, Inc.",40943.227
-CPST,Capstone Turbine Corp.,225569.95
-CRBP,Corbus Pharmaceuticals Holdings Inc,7735656.5
-CRDF,Cardiff Oncology Inc,1210011.6
-CREE,"Cree, Inc.",1775714.8
-CREG,China Recycling Energy Corporation,700040.06
+CPRT,"Copart, Inc.",1260528.5
+CPRX,Catalyst Pharmaceuticals Inc,1735602.0
+CPSH,CPS Technologies Corporation,2609493.0
+CPSI,Computer Programs & Systems Inc,74877.37
+CPST,Capstone Turbine Corp.,647914.25
+CRBP,Corbus Pharmaceuticals Holdings Inc,10486840.0
+CRDF,Cardiff Oncology Inc,2987849.5
+CREE,"Cree, Inc.",2189749.5
+CREG,China Recycling Energy Corporation,513699.25
 CRESY,Cresud,130433.95
-CREX,Creative Realities Inc,650102.75
-CRIS,Curis Inc,23838124.0
-CRMT,"Americas Car Mart, Inc.",40442.363
-CRNC,Cerence Inc,672142.75
-CRNT,Ceragon Networks Ltd,657171.44
-CROX,Crocs Inc,969334.25
+CREX,Creative Realities Inc,794607.8
+CRIS,Curis Inc,2488042.2
+CRMT,"Americas Car Mart, Inc.",45568.79
+CRNC,Cerence Inc,721296.8
+CRNT,Ceragon Networks Ltd,8152053.0
+CROX,Crocs Inc,1189734.0
 CRSP,CRISPR Therapeutics AG,1351923.0
-CRSR,Corsair Gaming Inc,3123263.8
-CRTO,Criteo S.A,319203.78
-CRUS,"Cirrus Logic, Inc.",430860.62
-CRVL,Corvel Corp.,40101.363
-CRVS,Corvus Pharmaceuticals Inc,201388.4
-CRWD,Crowdstrike Holdings Inc (Class A),4229629.0
-CSBR,Champions Oncology Inc,51391.137
-CSCO,"Cisco Systems, Inc.",17343630.0
+CRSR,Corsair Gaming Inc,4268701.0
+CRTO,Criteo S.A,390128.06
+CRUS,"Cirrus Logic, Inc.",479609.16
+CRVS,Corvus Pharmaceuticals Inc,208735.47
+CRWD,Crowdstrike Holdings Inc (Class A),6169801.0
+CSCO,"Cisco Systems, Inc.",21099962.0
 CSCW,Color Star Technology Co Ltd,1620210.8
-CSGP,"Costar Group, Inc.",193639.73
-CSGS,CSG Systems International Inc.,198561.86
-CSIQ,Canadian Solar Inc,2208442.5
-CSTE,Caesarstone Ltd,217125.23
-CSWC,Capital Southwest Corp.,149559.55
-CSX,CSX Corp.,3576967.8
-CTAS,Cintas Corporation,462585.88
-CTHR,Charles & Colvard Ltd,162372.81
+CSGP,"Costar Group, Inc.",257394.11
+CSGS,CSG Systems International Inc.,202548.05
+CSIQ,Canadian Solar Inc,2443113.8
+CSTE,Caesarstone Ltd,172664.47
+CSWC,Capital Southwest Corp.,123718.1
+CSX,CSX Corp.,4519407.5
+CTAS,Cintas Corporation,541196.2
+CTHR,Charles & Colvard Ltd,283138.53
 CTIB,Yunhong CTI Ltd,377819.3
-CTIC,CTI BioPharma Corp,551554.2
-CTRE,CareTrust REIT Inc,932517.56
-CTRN,Citi Trends Inc,176697.69
-CTSH,Cognizant Technology Solutions Corp. (Class A),2682948.2
-CTSO,Cytosorbents Corp,253335.36
-CTXR,Citius Pharmaceuticals Inc,929041.1
-CTXS,"Citrix Systems, Inc.",1706914.1
-CUBA,Herzfeld Caribbean Basin Fund Inc,48778.227
-CUTR,Cutera Inc,165214.45
+CTIC,CTI BioPharma Corp,452473.94
+CTRE,CareTrust REIT Inc,663489.25
+CTRN,Citi Trends Inc,218465.62
+CTSH,Cognizant Technology Solutions Corp. (Class A),2446414.0
+CTSO,Cytosorbents Corp,479316.6
+CTXR,Citius Pharmaceuticals Inc,1261594.6
+CTXS,"Citrix Systems, Inc.",1733636.5
+CUBA,Herzfeld Caribbean Basin Fund Inc,54591.42
+CUEN,Cuentas Inc,0.0
+CUTR,Cutera Inc,123891.42
 CVBF,CVB Financial Corp.,646188.94
-CVCO,Cavco Industries Inc,42988.047
-CVET,Covetrus Inc,1028583.5
-CVGI,Commercial Vehicle Group Inc,347429.5
-CVGW,"Calavo Growers, Inc",106921.09
-CVLB,Conversion Labs Inc,246229.6
-CVLG,Covenant Logistics Group Inc (Class A),78896.77
-CVLT,Commvault Systems Inc,343694.9
-CVV,CVD Equipment Corp.,54961.453
-CWCO,Consolidated Water Co. Ltd.,79232.41
-CWST,"Casella Waste Systems, Inc. (Class A)",264332.0
-CXDC,China XD Plastics Co Ltd,107894.77
-CXDO,Crexendo Inc,40072.773
-CYBE,Cyberoptics Corp.,140012.27
-CYBR,CyberArk Software Ltd,715790.25
-CYCC,Cyclacel Pharmaceuticals Inc,952794.7
-CYRN,CYREN Ltd,747143.3
-CYRX,CryoPort Inc,680069.5
-CYTH,Cyclo Therapeutics Inc (Class A),2775504.8
-CYTK,Cytokinetics Inc,1176520.4
+CVCO,Cavco Industries Inc,40937.105
+CVET,Covetrus Inc,974797.5
+CVGI,Commercial Vehicle Group Inc,288364.78
+CVGW,"Calavo Growers, Inc",97430.84
+CVLB,Conversion Labs Inc,820462.3
+CVLG,Covenant Logistics Group Inc (Class A),112496.63
+CVLT,Commvault Systems Inc,402750.25
+CVV,CVD Equipment Corp.,73620.9
+CWBR,CohBar Inc,856486.2
+CWCO,Consolidated Water Co. Ltd.,113754.37
+CWST,"Casella Waste Systems, Inc. (Class A)",376360.84
+CXDC,China XD Plastics Co Ltd,313440.3
+CXDO,Crexendo Inc,41763.844
+CYBE,Cyberoptics Corp.,95676.16
+CYBR,CyberArk Software Ltd,550778.7
+CYCC,Cyclacel Pharmaceuticals Inc,312470.47
+CYRN,CYREN Ltd,1420383.6
+CYRX,CryoPort Inc,1009762.5
+CYTH,Cyclo Therapeutics Inc (Class A),1278599.1
+CYTK,Cytokinetics Inc,865665.8
 CZR,Caesars Entertainment Inc,9074610.0
-DAIO,Data io Corp.,73200.73
-DAKT,Daktronics Inc.,262857.47
-DARE,Dare Bioscience Inc,1643849.4
+DAIO,Data io Corp.,52543.527
+DAKT,Daktronics Inc.,199563.47
+DARE,Dare Bioscience Inc,6602191.0
 DBX,Dropbox Inc (Class A),7864245.0
-DCOM,"Dime Community Bancshares, Inc",107305.13
-DCPH,Deciphera Pharmaceuticals Inc,368069.88
-DCT,Duck Creek Technologies Inc,441891.47
-DCTH,Delcath Systems Inc,174446.81
-DDOG,Datadog Inc (Class A),3175158.8
-DENN,Denny`s Corp.,1236264.8
-DFFN,Diffusion Pharmaceuticals Inc,1154130.2
-DGICA,Donegal Group Inc. (Class A),56179.637
+DCOM,Dime Community Bancshares Inc,422788.7
+DCPH,Deciphera Pharmaceuticals Inc,445811.75
+DCT,Duck Creek Technologies Inc,785707.8
+DCTH,Delcath Systems Inc,102594.69
+DDOG,Datadog Inc (Class A),3334882.8
+DENN,Denny`s Corp.,1058888.0
+DFFN,Diffusion Pharmaceuticals Inc,4254016.5
+DGICA,Donegal Group Inc. (Class A),57111.79
 DGII,"Digi International, Inc.",159591.0
-DGLY,Digital Ally Inc.,2255894.8
-DHC,Diversified Healthcare Trust,1422601.1
-DIOD,"Diodes, Inc.",268814.62
-DISCA,Discovery Inc (Class A),6827834.0
+DGLY,Digital Ally Inc.,15617483.0
+DHC,Diversified Healthcare Trust,1196120.8
+DIOD,"Diodes, Inc.",271947.9
+DISCA,Discovery Inc (Class A),12202179.0
 DISCK,Discovery Inc (Series C),2376942.8
-DISH,Dish Network Corp (Class A),5027974.0
-DKNG,DraftKings Inc (Class A),16124924.0
-DLHC,DLH Holdings Corp,65336.453
-DLPN,Dolphin Entertainment Inc.,167990.5
-DLTH,Duluth Holdings Inc (Class B),508814.47
-DLTR,Dollar Tree Inc,2007613.6
-DMAC,DiaMedica Therapeutics Inc,288180.12
+DISH,Dish Network Corp (Class A),5935607.5
+DKNG,DraftKings Inc (Class A),16125744.0
+DLHC,DLH Holdings Corp,64041.844
+DLPN,Dolphin Entertainment Inc.,871536.56
+DLTH,Duluth Holdings Inc (Class B),236053.84
+DLTR,Dollar Tree Inc,1874188.6
+DMAC,DiaMedica Therapeutics Inc,186142.16
 DMLP,Dorchester Minerals LP,87337.05
-DMRC,Digimarc Corporation,189982.05
-DNLI,Denali Therapeutics Inc,733959.06
-DOCU,DocuSign Inc,4294404.5
-DORM,Dorman Products Inc,161836.45
-DOX,Amdocs Ltd,619275.75
-DRIO,DarioHealth Corp,88670.18
-DRNA,Dicerna Pharmaceuticals Inc,716054.5
-DRRX,Durect Corp,892583.4
-DRVN,Driven Brands Holdings Inc,0.0
-DSKE,Daseke Inc,411756.88
-DSPG,"DSP Group, Inc.",116188.18
-DTEA,Davidstea Inc,1072349.9
-DVAX,Dynavax Technologies Corp.,3364378.8
-DWSN,Dawson Geophysical Company,63805.547
-DXCM,Dexcom Inc,1017900.8
-DXPE,"DXP Enterprises, Inc.",64825.727
-DXYN,Dixie Group Inc.,136828.1
-DYAI,"Dyadic International Inc., DE",415907.3
-DYNT,Dynatronics Corp.,257160.45
-DZSI,DZS Inc,64722.316
-EA,"Electronic Arts, Inc.",2656943.8
-EARS,Auris Medical Holding Ltd,16928492.0
-EAST,Eastside Distilling Inc,97488.68
-EBAY,EBay Inc.,6561400.0
-EBC,Eastern Bankshares Inc.,3375777.2
-EBIX,Ebix Inc.,268037.03
-EBSB,Meridian Bancorp Inc,117748.87
-ECHO,Echo Global Logistics Inc,162904.1
-ECOL,US Ecology Inc.,160803.5
-ECPG,"Encore Capital Group, Inc.",404621.88
-EDAP,EDAP TMS S.A.,127916.32
-EDIT,Editas Medicine Inc,3651783.2
-EDRY,EuroDry Ltd,143431.45
-EEFT,Euronet Worldwide Inc,287104.38
-EFOI,Energy Focus Inc,92063.27
-EFSC,Enterprise Financial Services Corp.,157692.0
-EGAN,eGain Corp,508693.97
-EGLE,Eagle Bulk Shipping Inc,52279.684
-EGOV,NIC Inc,295913.0
+DMRC,Digimarc Corporation,178681.73
+DNLI,Denali Therapeutics Inc,669514.2
+DOCU,DocuSign Inc,3207454.5
+DORM,Dorman Products Inc,120605.52
+DOX,Amdocs Ltd,656791.2
+DRIO,DarioHealth Corp,212725.2
+DRNA,Dicerna Pharmaceuticals Inc,853004.75
+DRRX,Durect Corp,890028.8
+DRVN,Driven Brands Holdings Inc,3211117.8
+DSKE,Daseke Inc,460965.94
+DSPG,"DSP Group, Inc.",188486.8
+DTEA,Davidstea Inc,314893.53
+DUOT,Duos Technologies Group Inc,46923.74
+DVAX,Dynavax Technologies Corp.,3409647.5
+DWSN,Dawson Geophysical Company,60457.316
+DXCM,Dexcom Inc,998673.2
+DXPE,"DXP Enterprises, Inc.",88703.16
+DXYN,Dixie Group Inc.,140577.31
+DYAI,"Dyadic International Inc., DE",106766.69
+DYN,Dyne Therapeutics Inc,680681.4
+DYNT,Dynatronics Corp.,647387.2
+DZSI,DZS Inc,181542.27
+EA,"Electronic Arts, Inc.",3074521.8
+EARS,Auris Medical Holding Ltd,1382183.8
+EAST,Eastside Distilling Inc,169529.62
+EBAY,EBay Inc.,8358212.5
+EBC,Eastern Bankshares Inc.,1044299.2
+EBIX,Ebix Inc.,487217.47
+EBSB,Meridian Bancorp Inc,139327.31
+ECHO,Echo Global Logistics Inc,163011.62
+ECOL,US Ecology Inc.,156600.8
+ECPG,"Encore Capital Group, Inc.",732806.06
+EDAP,EDAP TMS S.A.,264153.62
+EDIT,Editas Medicine Inc,3281005.0
+EDRY,EuroDry Ltd,107712.31
+EDUC,Educational Development Corp.,42365.95
+EEFT,Euronet Worldwide Inc,317713.75
+EFOI,Energy Focus Inc,122676.0
+EFSC,Enterprise Financial Services Corp.,115555.37
+EGAN,eGain Corp,435801.22
+EGLE,Eagle Bulk Shipping Inc,84803.63
+EGOV,NIC Inc,428723.78
 EGRX,Eagle Pharmaceuticals Inc,148502.05
 EHTH,eHealth Inc,540875.56
-EIGI,Endurance International Group Holdings Inc,630907.5
-EKSO,Ekso Bionics Holdings Inc,152038.95
-ELOX,Eloxx Pharmaceuticals Inc,495068.97
-ELSE,"Electro-Sensors, Inc.",153442.31
-ELYS,Elys Game Technology Corp.,2416228.8
-EMKR,Emcore Corp.,358382.8
-ENG,Englobal Corporation,2451945.5
-ENPH,Enphase Energy Inc,2687308.8
-ENSG,Ensign Group Inc,264627.22
-ENTG,Entegris Inc,583011.06
-ENVB,Enveric Biosciences Inc,740388.4
-EPAY,Bottomline Technologies (Delaware) Inc,236929.6
-EPIX,Essa Pharma Inc,140548.27
-EPZM,Epizyme Inc,1166667.5
-EQIX,Equinix Inc,473140.28
-ERIE,Erie Indemnity Co. (Class A),98665.45
-ERII,Energy Recovery Inc,268892.2
-ESCA,"Escalade, Inc.",55485.227
-ESEA,Euroseas Ltd,106609.82
-ESPR,Esperion Therapeutics Inc.,593845.6
-ESXB,Community Bankers Trust Corp,65610.91
-ETSY,Etsy Inc,2956183.5
-EVFM,Evofem Biosciences Inc,3245101.5
-EVK,"Ever-Glory International Group, Inc.",5537998.5
-EVOK,Evoke Pharma Inc,267452.03
-EVOL,"Evolving Systems, Inc.",321805.62
+EIGI,Endurance International Group Holdings Inc,1278285.5
+EKSO,Ekso Bionics Holdings Inc,293385.75
+ELOX,Eloxx Pharmaceuticals Inc,75517.945
+ELSE,"Electro-Sensors, Inc.",483273.3
+ELYS,Elys Game Technology Corp.,1155468.6
+EMKR,Emcore Corp.,281684.6
+ENG,Englobal Corporation,5988680.0
+ENPH,Enphase Energy Inc,5306651.0
+ENSG,Ensign Group Inc,287359.84
+ENTG,Entegris Inc,956959.5
+ENVB,Enveric Biosciences Inc,1454314.8
+EPAY,Bottomline Technologies (Delaware) Inc,220268.16
+EPIX,Essa Pharma Inc,347861.16
+EPZM,Epizyme Inc,791678.9
+EQIX,Equinix Inc,490337.0
+ERIE,Erie Indemnity Co. (Class A),62632.79
+ERII,Energy Recovery Inc,268001.16
+ESCA,"Escalade, Inc.",52475.26
+ESEA,Euroseas Ltd,74512.945
+ESPR,Esperion Therapeutics Inc.,1180630.8
+ESXB,Community Bankers Trust Corp,67944.1
+ETSY,Etsy Inc,3721624.8
+EVFM,Evofem Biosciences Inc,2704521.0
+EVK,"Ever-Glory International Group, Inc.",250898.73
+EVOK,Evoke Pharma Inc,561666.3
+EVOL,"Evolving Systems, Inc.",111763.9
 EWBC,"East West Bancorp, Inc.",1314159.2
-EXAS,Exact Sciences Corp.,1687800.6
-EXC,Exelon Corp.,4366356.0
-EXEL,Exelixis Inc,2208480.0
-EXPD,"Expeditors International Of Washington, Inc.",927428.94
-EXPE,Expedia Group Inc,2566599.8
-EXPI,eXp World Holdings Inc,889513.8
-EXPO,Exponent Inc.,227778.23
-EXTR,Extreme Networks Inc.,1042825.25
-EYPT,EyePoint Pharmaceuticals Inc,229551.73
-EZPW,"EZCorp, Inc. (Class A)",661490.56
-FANG,Diamondback Energy Inc,3688384.8
-FANH,Fanhua Inc,74683.0
-FARM,Farmer Bros. Co.,134191.86
-FARO,Faro Technologies Inc.,85990.73
-FAST,Fastenal Co.,2844345.8
-FATE,Fate Therapeutics Inc,1578125.1
-FB,Facebook Inc (Class A),16543736.0
-FBIO,Fortress Biotech Inc,988727.25
-FBMS,First Bancshares Inc Miss,58528.863
-FBNC,First Bancorp,173878.64
-FCEL,Fuelcell Energy Inc,63825804.0
+EXAS,Exact Sciences Corp.,1954996.1
+EXC,Exelon Corp.,5015936.5
+EXEL,Exelixis Inc,2940923.2
+EXPD,"Expeditors International Of Washington, Inc.",1223126.5
+EXPE,Expedia Group Inc,3401300.2
+EXPI,eXp World Holdings Inc,1009821.4
+EXPO,Exponent Inc.,253448.89
+EXTR,Extreme Networks Inc.,1157641.9
+EYPT,EyePoint Pharmaceuticals Inc,370296.84
+EZPW,"EZCorp, Inc. (Class A)",582277.94
+FANG,Diamondback Energy Inc,3394046.5
+FANH,Fanhua Inc,106201.16
+FARM,Farmer Bros. Co.,239134.95
+FARO,Faro Technologies Inc.,97029.37
+FAST,Fastenal Co.,3516332.8
+FATE,Fate Therapeutics Inc,1263531.5
+FB,Facebook Inc (Class A),23826300.0
+FBIO,Fortress Biotech Inc,607722.6
+FBMS,First Bancshares Inc Miss,58750.42
+FBNC,First Bancorp,134559.89
+FCEL,Fuelcell Energy Inc,65517190.0
 FCFS,FirstCash Inc,294400.16
-FCRD,First Eagle Alternative Capital BDC Inc,67356.41
-FELE,"Franklin Electric Co., Inc.",134737.27
-FEYE,FireEye Inc,16097261.0
-FFBC,First Financial Bancorp,456375.78
-FFHL,Fuwei Films (Holdings) Co,102005.05
-FFIC,Flushing Financial Corp.,211355.05
-FFIN,"First Financial Bankshares, Inc.",408217.8
-FFIV,"F5 Networks, Inc.",548434.9
-FFWM,First Foundation Inc,139338.55
-FGEN,FibroGen Inc,876999.4
-FHB,First Hawaiian INC,580235.44
-FIBK,First Interstate BancSystem Inc. (Class A),181933.86
-FISV,"Fiserv, Inc.",3991421.0
+FCRD,First Eagle Alternative Capital BDC Inc,71783.16
+FELE,"Franklin Electric Co., Inc.",167144.27
+FEYE,FireEye Inc,6196493.5
+FFBC,First Financial Bancorp,439275.38
+FFHL,Fuwei Films (Holdings) Co,54709.42
+FFIC,Flushing Financial Corp.,175665.2
+FFIN,"First Financial Bankshares, Inc.",480245.7
+FFIV,"F5 Networks, Inc.",922290.2
+FFWM,First Foundation Inc,154417.58
+FGEN,FibroGen Inc,728395.75
+FHB,First Hawaiian INC,746367.5
+FIBK,First Interstate BancSystem Inc. (Class A),193538.84
+FISV,"Fiserv, Inc.",5213885.5
 FITB,Fifth Third Bancorp,7671431.0
 FIVE,Five Below Inc,1071682.2
 FIVN,Five9 Inc,535508.25
-FIZZ,National Beverage Corp.,343449.6
-FLDM,Fluidigm Corp,1827792.4
-FLEX,Flex Ltd,3634198.8
-FLGT,Fulgent Genetics Inc,1934186.4
-FLIC,First Of Long Island Corp.,55416.727
-FLIR,"Flir Systems, Inc.",1374360.9
-FLL,"Full House Resorts, Inc.",173884.1
-FLNT,Fluent Inc,653467.75
-FLUX,Flux Power Holdings inc,611384.4
+FIZZ,National Beverage Corp.,984836.44
+FLDM,Fluidigm Corp,2406288.5
+FLEX,Flex Ltd,7158295.5
+FLGT,Fulgent Genetics Inc,2327067.2
+FLIC,First Of Long Island Corp.,71251.055
+FLIR,"Flir Systems, Inc.",4372631.5
+FLL,"Full House Resorts, Inc.",326815.6
+FLNT,Fluent Inc,1128138.4
+FLUX,Flux Power Holdings inc,406114.0
 FLWS,1-800 Flowers.com Inc. (Class A),1071353.8
-FMBH,First Mid Bancshares Inc.,43571.41
-FMBI,"First Midwest Bancorp, Inc.",789675.94
-FMNB,Farmers National Banc Corp.,46093.363
-FNHC,FedNat Holding Co,75458.82
-FNKO,Funko Inc (Class A),1044796.1
-FOLD,Amicus Therapeutics Inc,2710098.0
-FORD,"Forward Industries, Inc.",107740.05
+FMBI,"First Midwest Bancorp, Inc.",1052695.5
+FMNB,Farmers National Banc Corp.,66810.79
+FNHC,FedNat Holding Co,49122.21
+FNKO,Funko Inc (Class A),602649.06
+FOLD,Amicus Therapeutics Inc,2748940.0
+FORD,"Forward Industries, Inc.",759331.25
 FORM,FormFactor Inc.,606491.0
-FORR,Forrester Research Inc.,41475.227
-FOSL,Fossil Group Inc,1489814.9
-FPRX,Five Prime Therapeutics Inc,864073.75
-FRBK,"Republic First Bancorp, Inc.",337436.22
+FOSL,Fossil Group Inc,2355544.2
+FPRX,Five Prime Therapeutics Inc,1148501.6
+FRBK,"Republic First Bancorp, Inc.",498778.75
 FRGI,Fiesta Restaurant Group Inc,238247.16
-FRHC,Freedom Holding Corp,1017304.6
-FRME,First Merchants Corp.,194274.77
-FSLR,First Solar Inc,2291008.0
-FTEK,Fuel Tech Inc,1990967.2
-FTFT,Future FinTech Group Inc,1609980.1
-FTNT,Fortinet Inc,1028866.94
-FULT,Fulton Financial Corp.,890608.4
-FUND,Sprott Focus Trust Inc,43256.227
-FUV,Arcimoto Inc,2716163.0
-FVE,Five Star Senior Living Inc.,219472.95
-FWONA,Tracking Stock -Liberty Formula 1 Series A,144560.1
+FRHC,Freedom Holding Corp,893949.8
+FRME,First Merchants Corp.,193081.16
+FSLR,First Solar Inc,3245863.8
+FSTR,L.B. Foster Co. (Class A),56388.0
+FTEK,Fuel Tech Inc,2288626.2
+FTFT,Future FinTech Group Inc,30266478.0
+FTNT,Fortinet Inc,1022510.6
+FULT,Fulton Financial Corp.,1177416.4
+FUND,Sprott Focus Trust Inc,72166.84
+FUV,Arcimoto Inc,3099698.2
+FVE,Five Star Senior Living Inc.,182266.16
+FWONA,Tracking Stock -Liberty Formula 1 Series A,197366.0
 FWONK,Tracking Stock -Liberty Formula 1 Series C,946153.44
-FWRD,Forward Air Corp.,119960.18
-GABC,German American Bancorp Inc,52953.953
+FWRD,Forward Air Corp.,114097.79
+GABC,German American Bancorp Inc,53278.156
 GAIA,Gaia Inc (Class A),51458.363
-GALT,Galectin Therapeutics Inc,268200.7
-GASS,StealthGas Inc,146128.23
-GBCI,"Glacier Bancorp, Inc.",350023.72
-GDEN,Golden Entertainment Inc,140737.86
-GDRX,GoodRx Holdings Inc (Class A),2415550.2
-GEG,Great Elm Group Inc,77237.13
-GENE,Genetic Technologies Ltd.,2095066.1
-GEOS,Geospace Technologies Corp,277835.9
-GERN,Geron Corp.,2764665.8
-GEVO,Gevo Inc,29547090.0
-GGAL,Grupo Financiero Galicia,572442.4
-GIFI,"Gulf Island Fabrication, Inc.",66638.5
-GIGM,Gigamedia,228050.77
-GIII,G-III Apparel Group Ltd.,765547.8
-GILD,"Gilead Sciences, Inc.",9180885.0
-GILT,Gilat Satellite Networks,380507.53
-GLBS,Globus Maritime Ltd,364391.7
-GLNG,Golar Lng,1819510.2
-GLPI,Gaming and Leisure Properties Inc,1068583.0
-GLRE,Greenlight Capital Re Ltd (Class A),308467.9
-GLUU,Glu Mobile Inc,2634651.2
-GMAB,Genmab,392725.9
+GALT,Galectin Therapeutics Inc,345508.62
+GASS,StealthGas Inc,196837.11
+GBCI,"Glacier Bancorp, Inc.",390150.4
+GDEN,Golden Entertainment Inc,186278.11
+GDRX,GoodRx Holdings Inc (Class A),2039708.6
+GENE,Genetic Technologies Ltd.,3877537.2
+GERN,Geron Corp.,2832331.5
+GEVO,Gevo Inc,50697020.0
+GGAL,Grupo Financiero Galicia,587147.7
+GIFI,"Gulf Island Fabrication, Inc.",61410.367
+GIGM,Gigamedia,118221.945
+GIII,G-III Apparel Group Ltd.,597138.75
+GILD,"Gilead Sciences, Inc.",10115176.0
+GILT,Gilat Satellite Networks,2616054.8
+GLBS,Globus Maritime Ltd,1109895.5
+GLNG,Golar Lng,2600667.0
+GLPI,Gaming and Leisure Properties Inc,1281753.1
+GLRE,Greenlight Capital Re Ltd (Class A),214429.47
+GLUU,Glu Mobile Inc,3595845.0
+GMAB,Genmab,633969.1
 GMLP,Golar LNG Partners LP,260402.0
 GNCA,Genocea Biosciences Inc,2126500.2
-GNOG,Golden Nugget Online Gaming Inc (Class A),3439794.2
-GNPX,Genprex Inc,1848911.8
-GNSS,Genasys Inc,169811.23
-GNTX,Gentex Corp.,1668602.2
-GNUS,Genius Brands International Inc,25596582.0
-GO,Grocery Outlet Holding Corp,917732.44
-GOCO,GoHealth Inc (Class A),1077715.9
-GOEV,Canoo Inc (Class A),6277096.5
-GOGL,Golden Ocean Group Limited,273222.62
-GOGO,Gogo Inc,3506387.8
-GOOD,Gladstone Commercial Corp,217906.31
-GOOG,Alphabet Inc (Class C),1430460.4
-GOOGL,Alphabet Inc (Class A),1383332.6
-GOVX,Geovax Labs Inc,2676692.0
-GPRE,Green Plains Inc,464439.12
-GPRO,GoPro Inc. (Class A),4536501.0
-GRFS,- Level III,654752.4
-GRMN,Garmin Ltd,688628.75
-GROW,"U.S. Global Investors, Inc. (Class A)",196831.05
-GRPN,Groupon Inc,801765.7
-GRVY,Gravity Co Ltd,80394.41
+GNOG,Golden Nugget Online Gaming Inc (Class A),2784697.8
+GNPX,Genprex Inc,1527665.6
+GNSS,Genasys Inc,214480.53
+GNTX,Gentex Corp.,1964439.5
+GNUS,Genius Brands International Inc,38414160.0
+GO,Grocery Outlet Holding Corp,1021605.5
+GOCO,GoHealth Inc (Class A),1453950.1
+GOEV,Canoo Inc (Class A),6362203.0
+GOGL,Golden Ocean Group Limited,507222.1
+GOGO,Gogo Inc,4518465.0
+GOOD,Gladstone Commercial Corp,208873.89
+GOOG,Alphabet Inc (Class C),1741264.2
+GOOGL,Alphabet Inc (Class A),2083448.6
+GOVX,Geovax Labs Inc,3613454.0
+GPRE,Green Plains Inc,997636.94
+GPRO,GoPro Inc. (Class A),5720987.5
+GRFS,- Level III,882585.2
+GRMN,Garmin Ltd,658288.4
+GROW,"U.S. Global Investors, Inc. (Class A)",310939.22
+GRPN,Groupon Inc,759440.44
+GRVY,Gravity Co Ltd,81414.0
 GRWG,GrowGeneration Corp,5630744.5
-GSBC,"Great Southern Bancorp, Inc.",42687.953
-GSHD,Goosehead Insurance Inc (Class A),143584.31
-GSM,Ferroglobe Plc,1426106.9
-GT,Goodyear Tire & Rubber Co.,2562235.8
-GTIM,Good Times Restaurants Inc.,118909.13
-GTLS,Chart Industries Inc,386524.53
-GVP,"GSE Systems, Inc.",471949.5
-GWPH,GW Pharmaceuticals,302121.12
-HAFC,Hanmi Financial Corp.,219070.95
+GSHD,Goosehead Insurance Inc (Class A),148027.11
+GSM,Ferroglobe Plc,1465404.4
+GT,Goodyear Tire & Rubber Co.,3299329.8
+GTIM,Good Times Restaurants Inc.,68960.16
+GVP,"GSE Systems, Inc.",565711.4
+GWPH,GW Pharmaceuticals,438347.47
+HAFC,Hanmi Financial Corp.,218526.73
 HAIN,Hain Celestial Group Inc,844354.0
-HALL,"Hallmark Financial Services, Inc",133081.86
+HALL,"Hallmark Financial Services, Inc",250699.11
 HALO,Halozyme Therapeutics Inc.,3353327.2
-HAS,"Hasbro, Inc.",948143.56
-HAYN,Haynes International Inc.,108623.5
-HBAN,"Huntington Bancshares, Inc.",12696099.0
-HBIO,Harvard Bioscience Inc.,104970.77
+HAS,"Hasbro, Inc.",798136.06
+HAYN,Haynes International Inc.,87238.31
+HBAN,"Huntington Bancshares, Inc.",15939751.0
+HBIO,Harvard Bioscience Inc.,137906.89
 HBNC,Horizon Bancorp Inc (IN),227075.1
-HCAT,Health Catalyst Inc,772326.6
-HCCI,Heritage-Crystal Clean Inc,66176.68
-HCKT,Hackett Group Inc (The),108951.95
-HCSG,"Healthcare Services Group, Inc.",644153.1
-HDSN,"Hudson Technologies, Inc.",1666492.2
-HEAR,Turtle Beach Corp,586632.0
-HELE,Helen of Troy Ltd,191975.0
-HEPA,Hepion Pharmaceuticals Inc,4276807.0
-HFWA,Heritage Financial Corp.,123295.09
-HGSH,China HGS Real Estate Inc,6172386.0
-HIBB,Hibbett Sports Inc,495501.4
-HIMX,Himax Technologies,2634721.2
-HLIO,Helios Technologies Inc,84274.73
-HLIT,"Harmonic, Inc.",535901.06
-HMHC,Houghton Mifflin Harcourt Co,2758313.8
-HMST,HomeStreet Inc,121325.45
+HBP,"Huttig Building Products, Inc.",64166.895
+HCAT,Health Catalyst Inc,574318.8
+HCCI,Heritage-Crystal Clean Inc,66032.945
+HCKT,Hackett Group Inc (The),114609.58
+HCSG,"Healthcare Services Group, Inc.",838635.06
+HDSN,"Hudson Technologies, Inc.",1307008.4
+HEAR,Turtle Beach Corp,714480.0
+HELE,Helen of Troy Ltd,308858.16
+HEPA,Hepion Pharmaceuticals Inc,1108294.6
+HFWA,Heritage Financial Corp.,180874.31
+HGSH,China HGS Real Estate Inc,354025.22
+HIBB,Hibbett Sports Inc,494618.3
+HIMX,Himax Technologies,3042506.0
+HLIO,Helios Technologies Inc,99708.69
+HLIT,"Harmonic, Inc.",509121.94
+HMHC,Houghton Mifflin Harcourt Co,2087225.9
+HMST,HomeStreet Inc,125321.69
 HMSY,HMS Holdings Corp,538767.6
-HNRG,Hallador Energy Co,430584.38
-HOFT,Hooker Furniture Corp,48720.184
-HOFV,Hall of Fame Resort & Entertainment Company,1459491.4
-HOLI,Hollysys Automation Technologies Ltd,316271.8
-HOLX,"Hologic, Inc.",1685452.5
-HOMB,Home Bancshares Inc,588699.75
+HNRG,Hallador Energy Co,365460.1
+HOFT,Hooker Furniture Corp,43855.156
+HOFV,Hall of Fame Resort & Entertainment Company,6196367.0
+HOLI,Hollysys Automation Technologies Ltd,228449.62
+HOLX,"Hologic, Inc.",1963770.5
+HOMB,Home Bancshares Inc,658693.9
 HOPE,Hope Bancorp Inc,754891.7
-HOTH,Hoth Therapeutics Inc,5488757.0
-HRMY,Harmony Biosciences Holdings Inc,194074.4
-HRTX,Heron Therapeutics Inc,1208961.9
-HSIC,Henry Schein Inc.,765540.2
-HSII,"Heidrick & Struggles International, Inc.",142414.77
-HSKA,Heska Corp.,81370.13
-HST,Host Hotels & Resorts Inc,6954822.5
+HOTH,Hoth Therapeutics Inc,2019674.0
+HRMY,Harmony Biosciences Holdings Inc,108927.21
+HRTX,Heron Therapeutics Inc,1086503.1
+HSIC,Henry Schein Inc.,769501.94
+HSII,"Heidrick & Struggles International, Inc.",110536.58
+HSKA,Heska Corp.,64403.473
+HST,Host Hotels & Resorts Inc,8279104.0
 HSTM,Healthstream Inc,200041.66
-HSTO,Histogen Inc,1662681.5
-HTBI,HomeTrust Bancshares Inc,59327.816
-HTBK,Heritage Commerce Corp.,225598.14
-HTBX,Heat Biologics Inc,1430616.1
+HSTO,Histogen Inc,4080990.8
+HTBI,HomeTrust Bancshares Inc,51670.42
+HTBK,Heritage Commerce Corp.,243310.31
+HTBX,Heat Biologics Inc,1618216.0
 HTHT,Huazhu Group Limited,1624136.6
-HTLD,"Heartland Express, Inc.",280064.1
-HTLF,"Heartland Financial USA, Inc.",120633.87
-HUBG,"Hub Group, Inc. (Class A)",175640.36
-HURN,Huron Consulting Group Inc,147863.6
-HWC,Hancock Whitney Corp.,486332.88
-HWCC,Houston Wire & Cable Company,80212.59
-HYMC,Hycroft Mining Holding Corporation (Class A),186925.77
-IAC,IAC InterActiveCorp.,691810.75
-IART,Integra Lifesciences Holdings Corp,439896.53
-IBCP,"Independent Bank Corporation (Ionia, MI)",90518.95
-IBOC,International Bancshares Corp.,200061.6
-IBTX,Independent Bank Group Inc,192846.77
-ICAD,Icad Inc,212712.36
-ICHR,Ichor Holdings Ltd,493185.38
-ICLR,Icon Plc,198177.14
-ICON,"Iconix Brand Group, Inc.",1735050.6
-ICPT,Intercept Pharmaceuticals Inc,1045880.3
-ICUI,"ICU Medical, Inc.",148908.27
-IDCC,Interdigital Inc,142662.64
-IDEX,Ideanomics Inc,34176320.0
-IDN,Intellicheck Inc,168605.45
-IDRA,"Idera Pharmaceuticals, Inc.",474944.3
-IDXG,Interpace Biosciences Inc,171882.9
-IDXX,"Idexx Laboratories, Inc.",364096.3
+HTLD,"Heartland Express, Inc.",512374.53
+HTLF,"Heartland Financial USA, Inc.",186227.73
+HUBG,"Hub Group, Inc. (Class A)",177532.89
+HURN,Huron Consulting Group Inc,100823.37
+HWC,Hancock Whitney Corp.,515325.1
+HWCC,Houston Wire & Cable Company,260279.58
+HYMC,Hycroft Mining Holding Corporation (Class A),110211.945
+IAC,IAC InterActiveCorp.,735842.5
+IART,Integra Lifesciences Holdings Corp,391710.9
+IBCP,"Independent Bank Corporation (Ionia, MI)",99467.16
+IBOC,International Bancshares Corp.,198757.53
+IBTX,Independent Bank Group Inc,242124.73
+ICAD,Icad Inc,184494.38
+ICCC,Immucell Corp.,53784.58
+ICHR,Ichor Holdings Ltd,417000.78
+ICLR,Icon Plc,217346.58
+ICON,"Iconix Brand Group, Inc.",1284747.5
+ICPT,Intercept Pharmaceuticals Inc,1358117.4
+ICUI,"ICU Medical, Inc.",156880.16
+IDCC,Interdigital Inc,233360.16
+IDEX,Ideanomics Inc,66648108.0
+IDN,Intellicheck Inc,239955.42
+IDRA,"Idera Pharmaceuticals, Inc.",449166.53
+IDXG,Interpace Biosciences Inc,251416.47
+IDXX,"Idexx Laboratories, Inc.",399819.22
 IEP,Icahn Enterprises L P,182505.84
-IESC,IES Holdings Inc,63269.773
-III,Information Services Group Inc.,158748.95
-IIIN,"Insteel Industries, Inc.",80943.5
-IIVI,Ii-Vi Inc.,1200085.6
-ILMN,Illumina Inc,1034006.1
-ILPT,Industrial Logistics Properties Trust,276723.62
-IMBI,iMedia Brands Inc (Class A),77111.91
-IMGN,"Immunogen, Inc.",2716688.8
-IMKTA,"Ingles Markets, Inc. (Class A)",137264.95
-IMMR,Immersion Corp,2431989.0
-INCY,Incyte Corp.,956122.94
-INDB,Independent Bank Corp.,123101.5
-INDT,INDUS Realty Trust Inc,18102.092
+IESC,IES Holdings Inc,44524.473
+III,Information Services Group Inc.,272507.4
+IIIN,"Insteel Industries, Inc.",97391.9
+IIVI,Ii-Vi Inc.,1375277.9
+IKNX,Ikonics Corporation,51372.473
+ILMN,Illumina Inc,1281443.4
+ILPT,Industrial Logistics Properties Trust,317514.62
+IMBI,iMedia Brands Inc (Class A),46204.473
+IMGN,"Immunogen, Inc.",2345396.8
+IMKTA,"Ingles Markets, Inc. (Class A)",102323.63
+IMMR,Immersion Corp,1191582.8
+INCY,Incyte Corp.,1194810.9
+INDB,Independent Bank Corp.,147118.16
+INDT,INDUS Realty Trust Inc,6647.632
 INFI,Infinity Pharmaceuticals Inc.,153783.95
-INFN,Infinera Corp.,3698727.8
+INFN,Infinera Corp.,3123389.0
 INO,Inovio Pharmaceuticals Inc,29916790.0
-INOD,Innodata Inc,287827.47
-INPX,Inpixon,2765682.5
-INSG,Inseego Corp,5376342.5
+INOD,Innodata Inc,264891.94
+INPX,Inpixon,6763942.5
+INSG,Inseego Corp,4596252.5
 INSM,Insmed Inc,1397358.2
-INTC,Intel Corp.,40174796.0
-INTU,Intuit Inc,1343540.9
-INTZ,Intrusion Inc,135459.95
-INVA,Innoviva Inc,748181.1
-INVE,Identiv Inc,74143.63
-IONS,Ionis Pharmaceuticals Inc,1414571.4
-IOSP,Innospec Inc,122505.55
-IPAR,"Inter Parfums, Inc.",148234.27
-IPGP,IPG Photonics Corp,204523.5
-IPHI,Inphi Corp,712464.94
-IQ,iQIYI Inc,13227000.0
+INTC,Intel Corp.,50694780.0
+INTU,Intuit Inc,1421100.8
+INTZ,Intrusion Inc,189759.53
+INVA,Innoviva Inc,504929.4
+INVE,Identiv Inc,99912.37
+IONS,Ionis Pharmaceuticals Inc,940464.9
+IOSP,Innospec Inc,110891.69
+IPAR,"Inter Parfums, Inc.",120020.945
+IPGP,IPG Photonics Corp,294848.94
+IPHI,Inphi Corp,791241.3
+IQ,iQIYI Inc,10940410.0
 IRBT,Irobot Corp,770041.9
-IRDM,Iridium Communications Inc,631909.94
-IRIX,IRIDEX Corp.,493884.7
-IRTC,iRhythm Technologies Inc,585916.94
-IRWD,Ironwood Pharmaceuticals Inc (Class A),1299620.8
-ISBC,Investors Bancorp Inc,1571965.2
-ISIG,"Insignia Systems, Inc.",62302.547
-ISNS,"Image Sensing Systems, Inc.",143782.95
+IRDM,Iridium Communications Inc,1017775.9
+IRIX,IRIDEX Corp.,917165.1
+IRTC,iRhythm Technologies Inc,750554.7
+IRWD,Ironwood Pharmaceuticals Inc (Class A),1734794.1
+ISBC,Investors Bancorp Inc,2498238.2
+ISIG,"Insignia Systems, Inc.",370197.53
+ISNS,"Image Sensing Systems, Inc.",76182.48
 ISRG,Intuitive Surgical Inc,644922.7
-ISSC,Innovative Solutions And Support Inc,49050.727
-ITI,Iteris Inc.,180763.05
-ITRI,Itron Inc.,314848.03
-ITRN,Ituran Location And Control Ltd.,55571.773
-IVAC,"Intevac, Inc.",96741.45
-IZEA,IZEA Worldwide Inc,8477882.0
-JACK,"Jack In The Box, Inc.",349145.28
-JAKK,Jakks Pacific Inc.,176504.31
-JAMF,Jamf Holding Corp,643089.56
-JAN,JanOne Inc,648104.3
-JAZZ,Jazz Pharmaceuticals plc,488054.5
+ITI,Iteris Inc.,385100.9
+ITRI,Itron Inc.,406345.1
+ITRN,Ituran Location And Control Ltd.,51435.79
+IVAC,"Intevac, Inc.",82020.31
+IZEA,IZEA Worldwide Inc,8873431.0
+JACK,"Jack In The Box, Inc.",331879.0
+JAKK,Jakks Pacific Inc.,231319.73
+JAMF,Jamf Holding Corp,755039.3
+JAN,JanOne Inc,829340.06
+JAZZ,Jazz Pharmaceuticals plc,551207.5
 JBHT,"J.B. Hunt Transport Services, Inc.",959630.25
-JCOM,J2 Global Inc.,587705.1
-JD,JD.com Inc,10650345.0
-JJSF,J&J Snack Foods Corp.,101845.05
-JKHY,"Jack Henry & Associates, Inc.",534489.6
-JOBS,51Job Inc.,166506.27
-JOUT,Johnson Outdoors Inc (Class A),42919.727
-JRJC,China Finance Online Co. Ltd.,86974.18
-JRVR,James River Group Holdings Ltd,191879.27
-KALA,Kala Pharmaceuticals Inc,2028807.1
-KALU,Kaiser Aluminum Corp,126184.0
-KALV,KalVista Pharmaceuticals Inc,113826.41
-KBAL,"Kimball International, Inc. (Class B)",371307.5
-KDNY,Chinook Therapeutics Inc,246900.45
-KDP,Keurig Dr Pepper Inc,4065849.2
-KE,Kimball Electronics Inc,82908.68
-KELYA,"Kelly Services, Inc. (Class A)",140798.9
-KFRC,Kforce Inc.,112499.82
-KHC,Kraft Heinz Co,4742558.5
-KIRK,Kirkland`s Inc,1252588.4
-KLAC,KLA Corp.,868664.06
-KLIC,"Kulicke & Soffa Industries, Inc.",642239.6
-KLXE,KLX Energy Services Holdings Inc,126916.82
-KMDA,Kamada Ltd,184552.4
-KNDI,Kandi Technologies Group Inc,11039092.0
-KOPN,Kopin Corp.,2043909.4
-KOSS,Koss Corp.,803847.8
-KPTI,Karyopharm Therapeutics Inc,2805421.2
-KRMD,"Repro-Med Systems, Inc.",455258.03
-KRNT,Kornit Digital Ltd,196465.31
-KRNY,Kearny Financial Corp.,378947.3
-KTCC,Key Tronic Corp.,51776.316
-KTOS,Kratos Defense & Security Solutions Inc,1035029.25
-KTRA,Kintara Therapeutics Inc,377033.03
-KVHI,"KVH Industries, Inc.",56559.273
-KZIA,Kazia Therapeutics Limited,155576.4
-LAKE,"Lakeland Industries, Inc.",423333.28
-LAMR,Lamar Advertising Co (Class A),480574.28
-LANC,Lancaster Colony Corp.,121764.45
-LAZR,Luminar Technologies Inc (Class A),24874860.0
-LBAI,"Lakeland Bancorp, Inc.",125865.5
-LBRDA,Liberty Broadband Corp (Series A),117539.13
-LBRDK,Liberty Broadband Corp (Series C),1354546.5
-LBTYA,Liberty Global plc (Class A),1699005.6
-LBTYK,Liberty Global plc (Class C),3314596.2
-LCUT,"Lifetime Brands, Inc.",60196.09
-LE,"Lands` End, Inc.",338188.38
+JCOM,J2 Global Inc.,460608.84
+JD,JD.com Inc,12454722.0
+JJSF,J&J Snack Foods Corp.,154444.27
+JKHY,"Jack Henry & Associates, Inc.",547487.7
+JOBS,51Job Inc.,149678.0
+JRJC,China Finance Online Co. Ltd.,140518.84
+JRVR,James River Group Holdings Ltd,231035.69
+JVA,Coffee Holding Co Inc,74655.266
+KALA,Kala Pharmaceuticals Inc,2177590.2
+KALU,Kaiser Aluminum Corp,102520.21
+KALV,KalVista Pharmaceuticals Inc,133524.11
+KBAL,"Kimball International, Inc. (Class B)",256930.58
+KDNY,Chinook Therapeutics Inc,104493.945
+KDP,Keurig Dr Pepper Inc,4956506.5
+KE,Kimball Electronics Inc,133013.11
+KELYA,"Kelly Services, Inc. (Class A)",137407.27
+KFRC,Kforce Inc.,116941.1
+KHC,Kraft Heinz Co,6845953.5
+KIRK,Kirkland`s Inc,1240181.6
+KLAC,KLA Corp.,1193439.4
+KLIC,"Kulicke & Soffa Industries, Inc.",760068.44
+KLXE,KLX Energy Services Holdings Inc,145868.42
+KMDA,Kamada Ltd,152820.89
+KNDI,Kandi Technologies Group Inc,8292051.5
+KOPN,Kopin Corp.,3843009.0
+KOSS,Koss Corp.,4911998.5
+KPTI,Karyopharm Therapeutics Inc,2831191.5
+KRMD,"Repro-Med Systems, Inc.",514480.06
+KRNT,Kornit Digital Ltd,193955.73
+KRNY,Kearny Financial Corp.,301395.78
+KSPN,Kaspien Holdings Inc,47281.367
+KTCC,Key Tronic Corp.,84599.69
+KTOS,Kratos Defense & Security Solutions Inc,1547911.1
+KTRA,Kintara Therapeutics Inc,877722.5
+KVHI,"KVH Industries, Inc.",75062.37
+KZIA,Kazia Therapeutics Limited,141878.2
+LAKE,"Lakeland Industries, Inc.",349223.06
+LAMR,Lamar Advertising Co (Class A),467261.3
+LANC,Lancaster Colony Corp.,117084.1
+LAZR,Luminar Technologies Inc (Class A),8352296.5
+LBAI,"Lakeland Bancorp, Inc.",180409.58
+LBRDA,Liberty Broadband Corp (Series A),127803.945
+LBRDK,Liberty Broadband Corp (Series C),1429613.6
+LBTYA,Liberty Global plc (Class A),1599769.0
+LBTYK,Liberty Global plc (Class C),2925498.0
+LCNB,LCNB Corp,49638.0
+LCUT,"Lifetime Brands, Inc.",57391.26
+LE,"Lands` End, Inc.",206290.58
 LECO,"Lincoln Electric Holdings, Inc.",344517.25
-LEDS,Semileds Corp,112038.09
-LFUS,"Littelfuse, Inc.",104063.41
-LFVN,Lifevantage Corporation,67511.05
-LGIH,LGI Homes Inc,289399.22
-LGND,"Ligand Pharmaceuticals, Inc. (Class B)",316353.62
-LHCG,LHC Group Inc,177383.86
-LIFE,Atyr Pharma Inc,1560004.6
+LEDS,Semileds Corp,83961.945
+LFUS,"Littelfuse, Inc.",130548.31
+LFVN,Lifevantage Corporation,83404.31
+LGIH,LGI Homes Inc,346376.06
+LGND,"Ligand Pharmaceuticals, Inc. (Class B)",974469.2
+LHCG,LHC Group Inc,176859.69
+LIFE,Atyr Pharma Inc,498876.3
 LILA,Liberty Latin America Ltd (Class A),311865.06
-LILAK,Liberty Latin America Ltd (Class C),787794.06
+LILAK,Liberty Latin America Ltd (Class C),799426.5
 LINC,Lincoln Educational Services Corp,158758.7
-LIQT,LiqTech International Inc,44927.816
-LITE,Lumentum Holdings Inc,1021895.9
-LIVN,LivaNova PLC,482578.62
-LJPC,La Jolla Pharmaceutical Co.,210971.86
-LKCO,Luokung Technology Corp,3108749.0
-LKFN,Lakeland Financial Corp.,84168.5
-LKQ,LKQ Corp,1548585.6
-LLIT,Lianluo Smart Ltd (Class A),155399.64
-LLNW,Limelight Networks Inc,3856091.8
-LMNL,Liminal Biosciences Inc,1355007.9
-LMNR,Limoneira Co,76371.77
-LMNX,Luminex Corp,496835.78
-LNDC,Landec Corp.,141464.45
-LNSR,LENSAR Inc,68946.18
-LNT,Alliant Energy Corp.,1169026.5
-LNTH,Lantheus Holdings Inc,572979.75
-LOGI,Logitech International S.A.,561919.75
+LIQT,LiqTech International Inc,78733.9
+LITE,Lumentum Holdings Inc,2267375.5
+LIVE,Live Ventures Inc,415995.25
+LIVN,LivaNova PLC,405495.6
+LJPC,La Jolla Pharmaceutical Co.,2507859.0
+LKCO,Luokung Technology Corp,3631160.2
+LKFN,Lakeland Financial Corp.,100728.69
+LKQ,LKQ Corp,2045412.9
+LLIT,Lianluo Smart Ltd (Class A),1651152.0
+LLNW,Limelight Networks Inc,5990542.5
+LMNL,Liminal Biosciences Inc,1759144.1
+LMNR,Limoneira Co,77038.16
+LMNX,Luminex Corp,373778.78
+LNDC,Landec Corp.,160218.2
+LNT,Alliant Energy Corp.,1289892.6
+LNTH,Lantheus Holdings Inc,548393.75
+LOGI,Logitech International S.A.,1110573.2
 LOOP,Loop Industries Inc,135576.95
-LORL,Loral Space & Communications Inc,182505.23
-LPCN,Lipocine Inc,3867332.5
-LPSN,Liveperson Inc,957152.44
-LPTH,"Lightpath Technologies, Inc. (Class A)",550642.56
-LPTX,Leap Therapeutics Inc,1303980.1
-LQDT,Liquidity Services Inc,549876.06
+LORL,Loral Space & Communications Inc,214034.38
+LPCN,Lipocine Inc,7322639.5
+LPSN,Liveperson Inc,888427.6
+LPTH,"Lightpath Technologies, Inc. (Class A)",658843.94
+LPTX,Leap Therapeutics Inc,760161.75
+LQDT,Liquidity Services Inc,338911.7
 LRCX,Lam Research Corp.,1316968.4
-LSCC,Lattice Semiconductor Corp.,750882.1
-LSTR,"Landstar System, Inc.",282983.53
-LSXMA,Tracking Stock - SiriusXM Series A,525336.06
-LSXMK,Tracking Stock - SiriusXM Series C,537277.75
-LTBR,Lightbridge Corp,512431.12
-LTRPA,Liberty TripAdvisor Holdings Inc (Series A),1639328.2
-LTRX,Lantronix Inc,142650.69
-LULU,Lululemon Athletica inc.,2002761.1
-LUMO,Lumos Pharma Inc,40339.816
-LUNA,Luna Innovations Inc,291916.0
-LWAY,"Lifeway Foods, Inc.",67454.82
-LXRX,Lexicon Pharmaceuticals Inc,15109910.0
-LYFT,Lyft Inc,7212770.5
-LYL,Dragon Victory International Ltd,75257.18
-LYTS,LSI Industries Inc.,112860.82
-MAGS,Magal Security Systems,149163.5
-MANH,"Manhattan Associates, Inc.",220832.81
-MANT,Mantech International Corp (Class A),145509.05
-MAR,"Marriott International, Inc. (Class A)",1860085.0
+LSCC,Lattice Semiconductor Corp.,998457.4
+LSTR,"Landstar System, Inc.",341078.38
+LSXMA,Tracking Stock - SiriusXM Series A,824618.0
+LSXMK,Tracking Stock - SiriusXM Series C,1070203.8
+LTBR,Lightbridge Corp,550683.3
+LTRPA,Liberty TripAdvisor Holdings Inc (Series A),1285322.4
+LTRX,Lantronix Inc,160537.84
+LULU,Lululemon Athletica inc.,1428175.0
+LUMO,Lumos Pharma Inc,50562.79
+LUNA,Luna Innovations Inc,303996.3
+LXRX,Lexicon Pharmaceuticals Inc,12687010.0
+LYFT,Lyft Inc,6297215.0
+LYL,Dragon Victory International Ltd,60280.316
+LYTS,LSI Industries Inc.,162624.0
+MAGS,Magal Security Systems,95027.9
+MANH,"Manhattan Associates, Inc.",315643.3
+MANT,Mantech International Corp (Class A),175206.69
+MAR,"Marriott International, Inc. (Class A)",2542218.5
 MARA,Marathon Patent Group Inc,69835.44
 MARK,Remark Holdings Inc,3815009.5
 MARPS,Marine Petroleum Trust,295900.9
-MASI,Masimo Corp,304284.4
-MAT,"Mattel, Inc.",2888967.5
-MATW,Matthews International Corp. (Class A),196124.05
-MAXN,Maxeon Solar Technologies Ltd,739827.75
-MBII,Marrone Bio Innovations Inc,273743.72
-MBOT,Microbot Medical Inc,176418.81
-MBRX,Moleculin Biotech Inc,4108081.8
-MBWM,Mercantile Bank Corp.,51940.816
-MCBC,Macatawa Bank Corp.,89189.63
-MCFE,McAfee Corp (Class A),1556468.4
-MCHP,"Microchip Technology, Inc.",1802793.0
-MCHX,Marchex Inc (Class B),68766.87
-MCRB,Seres Therapeutics Inc,1272479.2
-MCRI,"Monarch Casino & Resort, Inc.",110255.37
-MDB,MongoDB Inc (Class A),1222127.8
-MDGL,Madrigal Pharmaceuticals Inc,164791.4
-MDLZ,Mondelez International Inc. (Class A),5824272.0
-MDRX,Allscripts Healthcare Solutions Inc,1674724.9
-MDXG,Mimedx Group Inc,1828005.9
-MEDS,Trxade Group Inc,149324.81
-MEIP,MEI Pharma Inc,807815.25
-MELI,MercadoLibre Inc,415407.47
-MERC,Mercer International Inc.,300921.28
-MESO,Mesoblast Ltd,671520.94
-MGEE,"MGE Energy, Inc.",108361.0
-MGI,Moneygram International Inc.,3053911.8
-MGLN,Magellan Health Inc,121804.18
-MGNI,Magnite Inc,6093143.0
-MGPI,"MGP Ingredients, Inc.",69066.05
-MGRC,McGrath Rentcorp,96968.77
-MHLD,Maiden Holdings Ltd,207523.77
-MICT,MICT Inc,860590.44
-MIDD,Middleby Corp.,704044.44
+MASI,Masimo Corp,304048.84
+MAT,"Mattel, Inc.",2127252.5
+MATW,Matthews International Corp. (Class A),148127.38
+MAXN,Maxeon Solar Technologies Ltd,730014.7
+MBII,Marrone Bio Innovations Inc,638594.2
+MBOT,Microbot Medical Inc,285847.53
+MBRX,Moleculin Biotech Inc,684680.3
+MBWM,Mercantile Bank Corp.,50805.895
+MCBC,Macatawa Bank Corp.,105382.1
+MCFE,McAfee Corp (Class A),913100.5
+MCHP,"Microchip Technology, Inc.",2055967.5
+MCHX,Marchex Inc (Class B),101753.0
+MCRB,Seres Therapeutics Inc,999850.5
+MCRI,"Monarch Casino & Resort, Inc.",71585.63
+MDB,MongoDB Inc (Class A),728972.8
+MDGL,Madrigal Pharmaceuticals Inc,212657.53
+MDLZ,Mondelez International Inc. (Class A),7382987.0
+MDRX,Allscripts Healthcare Solutions Inc,1430700.0
+MDXG,Mimedx Group Inc,610434.2
+MEDS,Trxade Group Inc,97167.31
+MEIP,MEI Pharma Inc,862394.8
+MELI,MercadoLibre Inc,674728.6
+MERC,Mercer International Inc.,320028.62
+MESO,Mesoblast Ltd,1359823.6
+MFIN,Medallion Financial Corp.,73248.63
+MGEE,"MGE Energy, Inc.",93626.266
+MGI,Moneygram International Inc.,3821495.2
+MGIC,Magic Software Enterprises Ltd.,84568.37
+MGLN,Magellan Health Inc,788550.44
+MGNI,Magnite Inc,6427680.0
+MGPI,"MGP Ingredients, Inc.",105135.84
+MGRC,McGrath Rentcorp,106391.69
+MHLD,Maiden Holdings Ltd,353598.62
+MICT,MICT Inc,552150.5
+MIDD,Middleby Corp.,986143.7
 MIK,Michaels Companies Inc,4008988.5
 MIND,MIND Technology Inc,0.0
-MIST,Milestone Pharmaceuticals Inc,115825.82
-MITK,Mitek Systems Inc,931197.0
-MKSI,"MKS Instruments, Inc.",319806.47
-MKTX,MarketAxess Holdings Inc.,324107.0
-MLCO,Melco Resorts & Entertainment Ltd,1607266.5
-MLHR,Herman Miller Inc.,793862.2
-MLND,Millendo Therapeutics Inc,357034.97
+MIST,Milestone Pharmaceuticals Inc,114327.58
+MITK,Mitek Systems Inc,726657.25
+MKSI,"MKS Instruments, Inc.",407360.7
+MKTX,MarketAxess Holdings Inc.,322053.53
+MLCO,Melco Resorts & Entertainment Ltd,2310439.8
+MLHR,Herman Miller Inc.,596063.2
+MLND,Millendo Therapeutics Inc,1025773.25
 MMLP,Martin Midstream Partners LP,252957.27
-MMSI,"Merit Medical Systems, Inc.",388951.47
-MMYT,MakeMyTrip Ltd,408498.0
-MNDO,Mind C.T.I Ltd,50973.09
-MNKD,Mannkind Corp,5181371.0
-MNOV,Medicinova Inc,229415.69
-MNRO,Monro Inc,252804.36
-MNST,Monster Beverage Corp.,1619502.6
-MNTX,Manitex International Inc,42798.41
-MODV,ModivCare Inc,102285.82
-MOFG,MidWestOne Financial Group Inc,49170.773
-MOMO,Momo Inc,4705021.5
-MORN,Morningstar Inc,116939.59
-MOSY,Mosys Inc,634705.9
-MPAA,Motorcar Parts of America Inc.,82985.95
-MPWR,Monolithic Power System Inc,483260.3
-MRCY,Mercury Systems Inc,292738.38
-MRIN,Marin Software Inc,902925.94
-MRKR,Marker Therapeutics Inc,472104.4
+MMSI,"Merit Medical Systems, Inc.",290776.4
+MMYT,MakeMyTrip Ltd,332562.0
+MNDO,Mind C.T.I Ltd,64038.21
+MNKD,Mannkind Corp,3397370.8
+MNOV,Medicinova Inc,233819.0
+MNRO,Monro Inc,364050.94
+MNST,Monster Beverage Corp.,2412376.0
+MNTK,Montauk Renewables Inc,869320.2
+MODV,ModivCare Inc,86178.48
+MOFG,MidWestOne Financial Group Inc,42349.527
+MOMO,Momo Inc,5529134.5
+MORN,Morningstar Inc,123961.055
+MOSY,Mosys Inc,261271.31
+MPAA,Motorcar Parts of America Inc.,65963.69
+MPWR,Monolithic Power System Inc,366249.1
+MRCY,Mercury Systems Inc,442286.38
+MRIN,Marin Software Inc,1076719.0
+MRKR,Marker Therapeutics Inc,689738.56
 MRNA,Moderna Inc,6353380.5
-MRTN,"Marten Transport, Ltd.",352363.38
-MRTX,Mirati Therapeutics Inc,387149.3
-MRVI,Maravai LifeSciences Holdings Inc (Class A),1174102.5
-MRVL,Marvell Technology Group Ltd,9006715.0
-MSEX,Middlesex Water Co.,41041.09
-MSFT,Microsoft Corporation,27025956.0
-MSON,Misonix Inc,53796.363
-MSTR,Microstrategy Inc. (Class A),753722.94
+MRTN,"Marten Transport, Ltd.",277691.3
+MRTX,Mirati Therapeutics Inc,469697.62
+MRVI,Maravai LifeSciences Holdings Inc (Class A),1480154.1
+MRVL,Marvell Technology Group Ltd,9288492.0
+MSEX,Middlesex Water Co.,161505.05
+MSFT,Microsoft Corporation,34105164.0
+MSON,Misonix Inc,55446.895
+MSTR,Microstrategy Inc. (Class A),1206746.4
 MTCH,- New,5161603.0
-MTEM,Molecular Templates Inc,455620.88
-MTP,Midatech Pharma Plc,410494.12
-MTRX,Matrix Service Co.,269393.3
-MTSC,MTS Systems Corp.,574593.56
-MTSI,MACOM Technology Solutions Holdings Inc,489851.62
-MU,Micron Technology Inc.,16328547.0
-MVIS,Microvision Inc.,24481124.0
-MXIM,"Maxim Integrated Products, Inc.",1727078.4
-MYGN,"Myriad Genetics, Inc.",833002.94
-MYSZ,My Size Inc,573687.44
-NATI,National Instruments Corp.,893398.25
-NATR,"Nature`s Sunshine Products, Inc.",43337.863
+MTEM,Molecular Templates Inc,279198.84
+MTP,Midatech Pharma Plc,640707.0
+MTRX,Matrix Service Co.,345517.3
+MTSC,MTS Systems Corp.,365934.47
+MTSI,MACOM Technology Solutions Holdings Inc,601892.0
+MU,Micron Technology Inc.,22151160.0
+MVIS,Microvision Inc.,15257336.0
+MXIM,"Maxim Integrated Products, Inc.",2272520.2
+MYGN,"Myriad Genetics, Inc.",1000080.75
+MYSZ,My Size Inc,739043.44
+NAKD,Naked Brand Group Ltd,394700480.0
+NATI,National Instruments Corp.,1038333.75
+NATR,"Nature`s Sunshine Products, Inc.",73389.945
 NAVI,Navient Corp,2312851.8
-NBEV,NewAge Inc,1689422.8
-NBIX,"Neurocrine Biosciences, Inc.",733786.2
-NBSE,NeuBase Therapeutics Inc,280377.28
-NBTB,NBT Bancorp. Inc.,172803.6
-NCMI,National Cinemedia Inc,814625.06
-NCNA,NuCana plc,214587.36
-NCNO,Ncino Inc,700892.44
-NCTY,The9 Limited,701319.5
-NDAQ,- 144A,837859.06
-NDLS,Noodles & Company (Class A),208029.77
-NDSN,Nordson Corp.,253843.5
-NEO,Neogenomics Inc.,645454.25
-NEOG,Neogen Corp.,195862.36
+NBEV,NewAge Inc,2309120.8
+NBIX,"Neurocrine Biosciences, Inc.",978909.8
+NBSE,NeuBase Therapeutics Inc,438115.22
+NBTB,NBT Bancorp. Inc.,195213.38
+NCMI,National Cinemedia Inc,989387.8
+NCNA,NuCana plc,1213444.9
+NCNO,Ncino Inc,1682771.1
+NCTY,The9 Limited,11006838.0
+NDAQ,- 144A,1153970.9
+NDLS,Noodles & Company (Class A),258858.53
+NDSN,Nordson Corp.,349461.7
+NEO,Neogenomics Inc.,1306555.8
+NEOG,Neogen Corp.,240070.53
 NEON,Neonode Inc.,57677.55
-NETE,Net Element Inc.,3636311.5
-NEWT,Newtek Business Services Corp,193111.05
-NFBK,Northfield Bancorp Inc,202940.95
-NFLX,NetFlix Inc,3526347.8
-NHLD,National Holdings Corporation,40516.137
-NICE,NICE Ltd,313246.12
-NKLA,Nikola Corporation,20470114.0
-NKTR,Nektar Therapeutics,997682.8
-NLOK,NortonLifeLock Inc,5901827.5
-NLTX,Neoleukin Therapeutics Inc,669794.25
-NMFC,New Mountain Finance Corp,489345.47
-NMRK,Newmark Group Inc (Class A),976012.8
-NNBR,NN Inc,142587.36
-NOVN,Novan Inc,21954532.0
-NOVT,Novanta Inc,96526.23
-NRC,National Research Corp,40280.0
-NSIT,Insight Enterprises Inc.,180405.95
-NSSC,NAPCO Security Technologies Inc,181989.19
-NSTG,Nanostring Technologies Inc,738846.94
-NSYS,Nortech Systems Inc.,55479.863
-NTAP,Netapp Inc,2415884.5
+NETE,Net Element Inc.,961739.94
+NEWT,Newtek Business Services Corp,160491.58
+NFBK,Northfield Bancorp Inc,153269.53
+NFLX,NetFlix Inc,7370194.0
+NICE,NICE Ltd,355549.47
+NKLA,Nikola Corporation,20801996.0
+NKTR,Nektar Therapeutics,1362864.5
+NLOK,NortonLifeLock Inc,5924905.0
+NLTX,Neoleukin Therapeutics Inc,321766.0
+NMFC,New Mountain Finance Corp,412944.62
+NMRK,Newmark Group Inc (Class A),801002.0
+NNBR,NN Inc,149655.47
+NOVN,Novan Inc,28697232.0
+NOVT,Novanta Inc,107852.21
+NSIT,Insight Enterprises Inc.,153260.89
+NSSC,NAPCO Security Technologies Inc,78488.58
+NSTG,Nanostring Technologies Inc,784162.56
+NTAP,Netapp Inc,2072413.2
 NTCT,Netscout Systems Inc,338910.06
 NTES,NetEase Inc,3000355.2
 NTGR,Netgear Inc,371256.94
-NTLA,Intellia Therapeutics Inc,1878327.8
+NTLA,Intellia Therapeutics Inc,2041740.6
 NTNX,Nutanix Inc (Class A),4451949.0
-NTRA,Natera Inc,819928.2
-NTRS,Northern Trust Corp.,945653.56
-NTUS,Natus Medical Inc,186235.19
-NTWK,"Netsol Technologies, Inc.",74081.23
-NUAN,Nuance Communications Inc,2584142.5
-NURO,Neurometrix Inc.,3756668.0
-NUVA,Nuvasive Inc,781667.25
-NVAX,"Novavax, Inc.",4424110.0
-NVCR,NovoCure Ltd,1170225.9
-NVDA,NVIDIA Corp,5821400.0
-NVEE,NV5 Global Inc,52958.59
-NVFY,Nova Lifestyle Inc,84590.45
-NVIV,InVivo Therapeutics Holdings Corp,4934585.0
-NVMI,Nova Measuring Instruments Ltd,96999.18
-NWBI,Northwest Bancshares Inc,535233.5
-NWL,Newell Brands Inc,2933228.8
-NWPX,Northwest Pipe Co.,50206.727
-NWS,News Corp (Class B),859623.06
-NWSA,News Corp (Class A),3168665.0
-NXGN,NextGen Healthcare Inc,321841.0
-NXPI,NXP Semiconductors NV,1825702.1
-NXTD,Nxt-ID Inc,54933750.0
-NYMT,New York Mortgage Trust Inc,3344619.5
-NYMX,Nymox Pharmaceutical Corp,188120.81
-OBSV,ObsEva SA.,1165738.9
-OCFC,OceanFirst Financial Corp.,266889.6
-OCSI,Oaktree Strategic Income Corp,52444.773
+NTRA,Natera Inc,974531.06
+NTRS,Northern Trust Corp.,1032310.5
+NTUS,Natus Medical Inc,243432.05
+NTWK,"Netsol Technologies, Inc.",75867.63
+NUAN,Nuance Communications Inc,3856489.8
+NURO,Neurometrix Inc.,613571.56
+NUVA,Nuvasive Inc,900072.5
+NVAX,"Novavax, Inc.",5273369.0
+NVCR,NovoCure Ltd,641246.5
+NVDA,NVIDIA Corp,8099236.5
+NVEE,NV5 Global Inc,72215.31
+NVFY,Nova Lifestyle Inc,216331.0
+NVIV,InVivo Therapeutics Holdings Corp,7964694.0
+NVMI,Nova Measuring Instruments Ltd,124479.9
+NWBI,Northwest Bancshares Inc,710479.5
+NWL,Newell Brands Inc,3257755.2
+NWPX,Northwest Pipe Co.,43652.05
+NWS,News Corp (Class B),947571.94
+NWSA,News Corp (Class A),2538308.5
+NXGN,NextGen Healthcare Inc,403284.38
+NXPI,NXP Semiconductors NV,2644182.8
+NXTD,Nxt-ID Inc,14965892.0
+NYMT,New York Mortgage Trust Inc,3623269.2
+NYMX,Nymox Pharmaceutical Corp,130475.79
+OBSV,ObsEva SA.,13142548.0
+OCC,Optical Cable Corp.,357613.3
+OCFC,OceanFirst Financial Corp.,174170.95
+OCSI,Oaktree Strategic Income Corp,54474.105
 OCSL,Oaktree Specialty Lending Corp,697380.06
-OCUP,Ocuphire Pharma Inc,63585.727
-ODFL,"Old Dominion Freight Line, Inc.",645213.06
-ODP,ODP Corporation (The),428672.78
-OEG,Orbital Energy Group Inc,3635194.2
-OESX,Orion Energy Systems Inc,350659.5
-OFIX,Orthofix Medical Inc,110348.41
-OIIM,O2 Micro International,550448.6
+OCUP,Ocuphire Pharma Inc,117424.1
+ODFL,"Old Dominion Freight Line, Inc.",733743.9
+ODP,ODP Corporation (The),983466.6
+OEG,Orbital Energy Group Inc,14057993.0
+OESX,Orion Energy Systems Inc,400770.06
+OFIX,Orthofix Medical Inc,102834.945
+OIIM,O2 Micro International,504583.06
 OKTA,Okta Inc (Class A),1675564.2
-OLB,OLB Group Inc,109659.09
-OLED,Universal Display Corp.,237420.0
-OLLI,Ollies Bargain Outlet Holdings Inc,1459995.0
-OMAB,Grupo Aeroportuario del Centro Norte S.A.B de C.V.,120551.95
-OMCL,"Omnicell, Inc.",597242.56
-OMER,Omeros Corporation,1084270.2
-OMEX,"Odyssey Marine Exploration, Inc.",61184.047
-ON,ON Semiconductor Corp.,5540746.5
-ONB,Old National Bancorp,566108.4
-ONCS,OncoSec Medical Inc,245391.86
-ONCT,Oncternal Therapeutics Inc,7937589.5
-ONEM,1life Healthcare Inc,987236.56
-ONTX,Onconova Therapeutics Inc,30947788.0
-ONVO,Organovo Holdings Inc,361766.78
-OPCH,Option Care Health Inc.,677773.4
-OPEN,Opendoor Technologies Inc,4824653.5
-OPHC,Optimumbank Holdings Inc.,63728.09
-OPI,Office Properties Income Trust,235557.77
+OLB,OLB Group Inc,58573.0
+OLED,Universal Display Corp.,294836.6
+OLLI,Ollies Bargain Outlet Holdings Inc,1967652.8
+OMAB,Grupo Aeroportuario del Centro Norte S.A.B de C.V.,60094.844
+OMCL,"Omnicell, Inc.",421267.25
+OMER,Omeros Corporation,908561.7
+OMEX,"Odyssey Marine Exploration, Inc.",51343.05
+ON,ON Semiconductor Corp.,7990433.0
+ONB,Old National Bancorp,780249.56
+ONCS,OncoSec Medical Inc,470836.94
+ONCT,Oncternal Therapeutics Inc,1784582.1
+ONEM,1life Healthcare Inc,1646898.0
+ONTX,Onconova Therapeutics Inc,44809200.0
+ONVO,Organovo Holdings Inc,359452.3
+OPCH,Option Care Health Inc.,685546.94
+OPEN,Opendoor Technologies Inc,6003951.0
+OPHC,Optimumbank Holdings Inc.,86337.266
+OPI,Office Properties Income Trust,236646.2
 OPK,Opko Health Inc,13613183.0
-OPNT,Opiant Pharmaceuticals Inc,107384.37
-OPRX,OptimizeRx Corp,151412.0
-OPTT,- Reg S,3527819.8
-ORBC,Orbcomm Inc,1108630.9
-ORLY,"O`Reilly Automotive, Inc.",562484.3
-ORMP,"Oramed Pharmaceuticals, Inc",662958.06
-OSBC,Old Second Bancorporation Inc.,71364.27
-OSIS,"OSI Systems, Inc.",88684.18
-OSPN,OneSpan Inc,226484.31
-OSTK,Overstock.com Inc,3130035.2
-OSUR,Orasure Technologies Inc.,1177565.5
-OTIC,Otonomy Inc,586368.75
-OTRK,Ontrak Inc,356106.88
-OTTR,Otter Tail Corporation,159832.69
-OVID,Ovid Therapeutics Inc,3112080.5
+OPNT,Opiant Pharmaceuticals Inc,55658.21
+OPRX,OptimizeRx Corp,201624.8
+OPTT,- Reg S,19410540.0
+ORBC,Orbcomm Inc,1887001.4
+ORLY,"O`Reilly Automotive, Inc.",680636.4
+ORMP,"Oramed Pharmaceuticals, Inc",562710.2
+OSBC,Old Second Bancorporation Inc.,66435.69
+OSIS,"OSI Systems, Inc.",88740.1
+OSPN,OneSpan Inc,285327.1
+OSTK,Overstock.com Inc,4249525.5
+OSUR,Orasure Technologies Inc.,993903.5
+OTIC,Otonomy Inc,664692.6
+OTRK,Ontrak Inc,566127.44
+OTTR,Otter Tail Corporation,133813.2
+OVID,Ovid Therapeutics Inc,1880890.5
 OXSQ,Oxford Square Capital Corp,254885.25
-OZK,Bank OZK,574123.94
+OZK,Bank OZK,1291055.4
 PAA,Plains All American Pipeline LP,5650500.0
 PACB,Pacific Biosciences of California Inc,1292863.1
 PACW,Pacwest Bancorp,1316964.1
-PATK,"Patrick Industries, Inc.",165762.86
-PAYS,PaySign Inc,345708.28
-PAYX,Paychex Inc.,1722869.4
-PBCT,People`s United Financial Inc,3540782.5
-PBPB,Potbelly Corp,113550.32
-PCAR,Paccar Inc.,1323727.1
+PATK,"Patrick Industries, Inc.",155112.69
+PAYS,PaySign Inc,277563.9
+PAYX,Paychex Inc.,1899835.4
+PBCT,People`s United Financial Inc,5770430.5
+PBPB,Potbelly Corp,100599.31
+PCAR,Paccar Inc.,2286799.8
 PCH,PotlatchDeltic Corp,506205.03
-PCTI,PCTEL Inc,78930.55
-PCYG,"Park City Group, Inc.",54484.137
-PDCE,PDC Energy Inc,995475.2
-PDCO,Patterson Companies Inc.,893634.56
-PDEX,Pro-Dex Inc. (co),40388.773
-PDFS,PDF Solutions Inc.,95584.73
-PEBO,"Peoples Bancorp, Inc. (Marietta, OH)",53335.227
-PEGA,Pegasystems Inc.,239785.81
-PEIX,Alto Ingredients Inc,4895524.5
-PENN,"Penn National Gaming, Inc.",4336512.5
+PCTI,PCTEL Inc,591352.75
+PCYG,"Park City Group, Inc.",65499.156
+PDCE,PDC Energy Inc,1022139.56
+PDCO,Patterson Companies Inc.,1053731.9
+PDFS,PDF Solutions Inc.,139363.69
+PEBO,"Peoples Bancorp, Inc. (Marietta, OH)",66025.42
+PEGA,Pegasystems Inc.,359761.7
+PENN,"Penn National Gaming, Inc.",4668566.5
 PEP,PepsiCo Inc,3631032.8
-PETS,"Petmed Express, Inc.",494770.5
-PETZ,TDH Holdings Inc,230162.9
+PETS,"Petmed Express, Inc.",1413137.4
+PETZ,TDH Holdings Inc,70384.1
 PFBC,"Preferred Bank (Los Angeles, CA)",79290.2
-PFC,Premier Financial Corp,123522.95
-PFG,Principal Financial Group Inc,1540149.8
-PFIE,Profire Energy Inc,48919.227
+PFBI,"Premier Financial Bancorp, Inc.",51372.74
+PFC,Premier Financial Corp,141889.0
+PFG,Principal Financial Group Inc,1435831.0
+PFIE,Profire Energy Inc,114195.055
 PFLT,PennantPark Floating Rate Capital Ltd,169360.36
-PFPT,Proofpoint Inc,785268.9
-PFSW,PFSWEB Inc,89539.05
-PFX,PhenixFIN Corp,11399.863
-PGC,Peapack-Gladstone Financial Corp.,61273.316
-PGEN,Precigen Inc,1695745.5
-PGNY,Progyny Inc,0.0
-PHIO,Phio Pharmaceuticals Corp,799621.3
-PHUN,Phunware Inc,9922852.0
-PI,Impinj Inc,284301.7
-PICO,Pico Holdings Inc.,45159.5
-PIXY,ShiftPixy Inc,1035187.2
-PLAB,"Photronics, Inc.",739783.1
-PLAY,Dave & Buster`s Entertainment Inc,2523339.8
-PLCE,Childrens Place Inc,552209.44
+PFPT,Proofpoint Inc,475150.4
+PFSW,PFSWEB Inc,129995.52
+PFX,PhenixFIN Corp,9365.315
+PGC,Peapack-Gladstone Financial Corp.,64049.42
+PGEN,Precigen Inc,2192833.2
+PGNY,Progyny Inc,931218.0
+PHIO,Phio Pharmaceuticals Corp,632354.2
+PHUN,Phunware Inc,16632274.0
+PI,Impinj Inc,382489.84
+PICO,Pico Holdings Inc.,57082.58
+PIXY,ShiftPixy Inc,1585110.8
+PLAB,"Photronics, Inc.",435810.1
+PLAY,Dave & Buster`s Entertainment Inc,2380145.0
+PLCE,Childrens Place Inc,829239.0
 PLTK,Playtika Holding Corp,0.0
-PLUG,Plug Power Inc,31938010.0
-PLUS,ePlus Inc,59127.637
-PLXS,Plexus Corp.,133202.14
-PMD,Psychemedics Corp.,69286.95
-PNFP,Pinnacle Financial Partners Inc.,345406.1
-PNTG,Pennant Group Inc,125299.45
-PODD,Insulet Corporation,490523.28
-POOL,Pool Corporation,322132.28
+PLUG,Plug Power Inc,65511010.0
+PLUS,ePlus Inc,67752.945
+PLXS,Plexus Corp.,182657.89
+PMD,Psychemedics Corp.,74315.58
+PNFP,Pinnacle Financial Partners Inc.,502385.4
+PNTG,Pennant Group Inc,113118.69
+PODD,Insulet Corporation,488901.62
+POOL,Pool Corporation,297225.84
 POSH,Poshmark Inc (Class A),0.0
-POWI,Power Integrations Inc.,310127.72
-POWL,"Powell Industries, Inc.",79348.59
-POWW,AMMO Inc,1784687.4
-PPBI,"Pacific Premier Bancorp, Inc.",417942.8
+POWI,Power Integrations Inc.,421506.75
+POWL,"Powell Industries, Inc.",61788.42
+POWW,AMMO Inc,5323548.0
+PPBI,"Pacific Premier Bancorp, Inc.",598697.6
 PPC,Pilgrim`s Pride Corp.,878258.2
-PPD,PPD Inc,807152.2
-PRAA,PRA Group Inc,256699.73
-PRDO,Perdoceo Education Corporation,509875.1
-PRFT,Perficient Inc.,190789.14
-PRGS,Progress Software Corp.,252468.95
-PRGX,PRGX Global Inc,216182.23
-PRIM,Primoris Services Corp,239933.64
-PRPH,ProPhase Labs Inc,53453.227
-PRPO,Precipio Inc,893088.9
-PRTK,Paratek Pharmaceuticals Inc.,413295.72
-PRTS,CarParts.com Inc,2921120.8
-PSEC,Prospect Capital Corp,2027698.9
-PSHG,Performance Shipping Inc,88032.55
-PSMT,Pricesmart Inc.,117409.91
-PSTI,Pluristem Therapeutics Inc,774321.6
-PSTV,Plus Therapeutics Inc,473991.8
-PTC,PTC Inc,602807.2
-PTCT,PTC Therapeutics Inc,498639.12
-PTE,PolarityTE Inc,1279284.9
-PTEN,Patterson-UTI Energy Inc,2647713.8
-PTMN,Portman Ridge Finance Corp,436566.97
-PTON,Peloton Interactive Inc (Class A),12201524.0
-PTPI,Petros Pharmaceuticals Inc,261488.75
-PTVE,Pactiv Evergreen Inc,879677.8
-PUBM,PubMatic Inc (Class A),1215232.2
-PWFL,PowerFleet Inc,115729.95
-PXLW,Pixelworks Inc,572992.25
-PXS,Pyxis Tankers Inc,492578.38
+PPD,PPD Inc,829108.6
+PRAA,PRA Group Inc,357507.38
+PRDO,Perdoceo Education Corporation,412593.53
+PRFT,Perficient Inc.,274008.38
+PRGS,Progress Software Corp.,410175.0
+PRGX,PRGX Global Inc,408743.75
+PRIM,Primoris Services Corp,283142.75
+PRPH,ProPhase Labs Inc,364479.75
+PRPO,Precipio Inc,1066003.5
+PRTK,Paratek Pharmaceuticals Inc.,341545.94
+PRTS,CarParts.com Inc,4731230.0
+PSEC,Prospect Capital Corp,2737465.2
+PSHG,Performance Shipping Inc,105925.9
+PSMT,Pricesmart Inc.,138827.58
+PSTI,Pluristem Therapeutics Inc,995900.6
+PSTV,Plus Therapeutics Inc,541266.94
+PTC,PTC Inc,916892.44
+PTCT,PTC Therapeutics Inc,511553.25
+PTE,PolarityTE Inc,15560395.0
+PTEN,Patterson-UTI Energy Inc,2553897.0
+PTMN,Portman Ridge Finance Corp,302781.53
+PTON,Peloton Interactive Inc (Class A),6481751.0
+PTPI,Petros Pharmaceuticals Inc,64706.895
+PTVE,Pactiv Evergreen Inc,459848.94
+PUBM,PubMatic Inc (Class A),679134.8
+PWFL,PowerFleet Inc,306097.0
+PXLW,Pixelworks Inc,521353.6
+PXS,Pyxis Tankers Inc,1231509.8
 PYPL,PayPal Holdings Inc,10478155.0
-PZZA,"Papa John`s International, Inc.",443387.3
-QADA,"QAD, Inc. (Class A)",68547.27
-QCOM,"Qualcomm, Inc.",8011174.0
-QCRH,"QCR Holding, Inc.",51715.637
+PZZA,"Papa John`s International, Inc.",503291.94
+QADA,"QAD, Inc. (Class A)",62216.42
+QCOM,"Qualcomm, Inc.",7413520.0
+QCRH,"QCR Holding, Inc.",82151.0
 QDEL,Quidel Corp.,1291167.0
-QIWI,QIWI plc,1147921.8
-QLGN,Qualigen Therapeutics Inc,1907075.6
-QLYS,Qualys Inc,564290.94
-QMCO,Quantum Corp,177136.86
-QRTEA,Qurate Retail Inc (Series A),3653621.5
-QRVO,Qorvo Inc,1206152.1
-QUIK,Quicklogic Corp,120673.77
-QUMU,Qumu Corp,239952.23
-RADA,Rada Electronic Industries,633109.94
-RAIL,FreightCar America Inc,764415.25
-RAVE,Rave Restaurant Group Inc,1249984.8
-RAVN,"Raven Industries, Inc.",348398.4
-RBBN,- New,687944.94
-RCII,Rent-a-Center Inc.,570877.75
-RCM,R1 RCM Inc,799851.5
-RCMT,"RCM Technologies, Inc.",321947.78
-RDFN,Redfin Corp,2125540.5
-RDNT,Radnet Inc,233378.81
-RDWR,Radware,136183.31
-REAL,Therealreal Inc,2339098.2
-REED,Reeds Inc,891398.94
-REFR,Research Frontiers Inc.,449436.5
-REG,Regency Centers Corporation,1000236.9
-REGI,Renewable Energy Group Inc,1215489.8
-REGN,"Regeneron Pharmaceuticals, Inc.",910923.06
-REKR,Rekor Systems Inc,570094.75
-REPH,Recro Pharma Inc,2060495.9
-RESN,Resonant Inc,1449067.5
+QIWI,QIWI plc,467813.78
+QLGN,Qualigen Therapeutics Inc,1623050.0
+QLYS,Qualys Inc,463590.6
+QMCO,Quantum Corp,212023.89
+QRTEA,Qurate Retail Inc (Series A),4610127.5
+QRVO,Qorvo Inc,1149430.4
+QUIK,Quicklogic Corp,105765.945
+QUMU,Qumu Corp,155052.69
+RADA,Rada Electronic Industries,739190.06
+RAIL,FreightCar America Inc,460444.4
+RAVE,Rave Restaurant Group Inc,977008.1
+RAVN,"Raven Industries, Inc.",295469.94
+RBBN,- New,426367.94
+RCII,Rent-a-Center Inc.,625018.3
+RCKY,"Rocky Brands, Inc",44122.05
+RCM,R1 RCM Inc,932127.1
+RCMT,"RCM Technologies, Inc.",116918.9
+RDFN,Redfin Corp,1397068.6
+RDNT,Radnet Inc,199190.89
+RDVT,Red Violet Inc,55163.367
+RDWR,Radware,172823.62
+REAL,Therealreal Inc,3571074.2
+REED,Reeds Inc,1795442.0
+REFR,Research Frontiers Inc.,496999.78
+REG,Regency Centers Corporation,1366345.8
+REGI,Renewable Energy Group Inc,1205329.5
+REGN,"Regeneron Pharmaceuticals, Inc.",1035367.25
+REKR,Rekor Systems Inc,856323.4
+RELL,"Richardson Electronics, Ltd.",129477.055
+REPH,Recro Pharma Inc,876716.5
+RESN,Resonant Inc,3533373.8
 REYN,Reynolds Consumer Products Inc,0.0
-RGEN,Repligen Corp.,408508.1
-RGLD,"Royal Gold, Inc.",394761.3
-RGLS,Regulus Therapeutics Inc,3582880.8
-RGP,Resources Connection Inc,205695.69
-RIBT,RiceBran Technologies,1325406.5
-RICK,RCI Hospitality Holdings Inc,88194.45
+RGEN,Repligen Corp.,419687.75
+RGLD,"Royal Gold, Inc.",487260.4
+RGLS,Regulus Therapeutics Inc,1852921.9
+RGP,Resources Connection Inc,270642.22
+RIBT,RiceBran Technologies,945761.56
+RICK,RCI Hospitality Holdings Inc,92257.52
 RIDE,Lordstown Motors Corp. (Class A),10073827.0
-RIGL,Rigel Pharmaceuticals,2676114.8
-RIOT,Riot Blockchain Inc,29642898.0
-RLAY,Relay Therapeutics Inc,420726.22
-RMBS,Rambus Inc.,827235.06
-RMCF,Rocky Mountain Chocolate Factory Inc,41274.137
+RIGL,Rigel Pharmaceuticals,3156219.8
+RIOT,Riot Blockchain Inc,32067766.0
+RLAY,Relay Therapeutics Inc,886926.75
+RMBS,Rambus Inc.,897190.2
 RMR,RMR Group Inc (Class A),68271.25
-RMRM,RMR Mortgage Trust,71866.37
-RMTI,Rockwell Medical Inc,1437767.0
-RNET,RigNet Inc,225348.1
-RNST,Renasant Corp.,282481.6
-RNWK,"Realnetworks, Inc.",152191.55
-ROCK,Gibraltar Industries Inc.,168402.77
-ROIC,Retail Opportunity Investments Corp,923208.75
-ROKU,Roku Inc (Class A),4711715.0
-ROLL,RBC Bearings Inc.,116736.63
-ROOT,Root Inc (Class A),2668424.5
-ROST,"Ross Stores, Inc.",1568302.5
-RP,RealPage Inc.,2012896.0
-RPRX,Royalty Pharma plc (Class A),2903940.2
-RRGB,Red Robin Gourmet Burgers Inc,437010.7
-RRR,Red Rock Resorts Inc (Class A),1090297.1
+RMTI,Rockwell Medical Inc,1887264.9
+RNET,RigNet Inc,228293.47
+RNST,Renasant Corp.,423310.62
+RNWK,"Realnetworks, Inc.",930319.5
+ROCK,Gibraltar Industries Inc.,268910.62
+ROIC,Retail Opportunity Investments Corp,1171720.0
+ROKU,Roku Inc (Class A),4930569.5
+ROLL,RBC Bearings Inc.,130547.16
+ROOT,Root Inc (Class A),2640376.2
+ROST,"Ross Stores, Inc.",1873819.5
+RP,RealPage Inc.,2478044.0
+RPRX,Royalty Pharma plc (Class A),3469996.0
+RRGB,Red Robin Gourmet Burgers Inc,489769.78
+RRR,Red Rock Resorts Inc (Class A),972768.6
 RTLR,Rattler Midstream Lp,463980.22
-RUN,Sunrun Inc,4863346.5
-RUSHA,Rush Enterprises Inc (Class A),209970.23
-RUTH,Ruths Hospitality Group Inc,596733.4
+RUN,Sunrun Inc,6415232.0
+RUSHA,Rush Enterprises Inc (Class A),201917.47
+RUTH,Ruths Hospitality Group Inc,610142.1
 RVNC,Revance Therapeutics Inc,516468.88
-RVSB,"Riverview Bancorp, Inc.",52861.727
-RXT,Rackspace Technology Inc,1435281.4
-RYAAY,Ryanair Holdings Plc,513690.8
-RYTM,Rhythm Pharmaceuticals Inc.,456657.47
-SABR,Sabre Corp,8452998.0
+RVSB,"Riverview Bancorp, Inc.",58143.74
+RXT,Rackspace Technology Inc,1495743.6
+RYAAY,Ryanair Holdings Plc,478899.47
+RYTM,Rhythm Pharmaceuticals Inc.,489320.38
+SABR,Sabre Corp,7312908.5
 SAFM,"Sanderson Farms, Inc.",319450.25
-SAFT,"Safety Insurance Group, Inc.",73522.18
-SAGE,Sage Therapeutics Inc,696206.25
-SAIA,Saia Inc.,163173.5
-SALM,Salem Media Group Inc (Class A),274891.28
-SANM,Sanmina Corp,341594.7
-SANW,S&W Seed Co,97776.09
-SASR,Sandy Spring Bancorp,134467.73
-SATS,EchoStar Corp,957905.75
-SAVA,Cassava Sciences Inc,1313224.4
-SBAC,SBA Communications Corp (Class A),597330.56
-SBCF,Seacoast Banking Corp. Of Florida,309907.28
-SBLK,Star Bulk Carriers Corp,887636.7
-SBNY,Signature Bank,589888.44
-SBRA,Sabra Healthcare REIT Inc,1488022.9
-SBSI,Southside Bancshares Inc,99516.59
-SBUX,Starbucks Corp.,5529087.5
-SCHL,Scholastic Corp.,244853.9
-SCHN,"Schnitzer Steel Industries, Inc. (Class A)",194223.23
-SCKT,Socket Mobile Inc,935641.06
-SCOR,Comscore Inc.,480325.0
-SCSC,"Scansource, Inc.",87131.09
-SCVL,"Shoe Carnival, Inc.",125664.82
-SCYX,Scynexis Inc,375924.88
-SDC,Smiledirectclub Inc (Class A),4734667.5
-SEAC,Seachange International Inc.,797829.6
-SEDG,Solaredge Technologies Inc,1023886.5
-SEED,Origin Agritech Ltd.,179483.1
-SEEL,Seelos Therapeutics Inc,2493334.5
-SEIC,SEI Investments Co.,536327.1
-SFIX,Stitch Fix Inc (Class A),5046386.0
-SFM,Sprouts Farmers Market Inc,2044473.6
-SFNC,Simmons First National Corp. (Class A),408845.97
-SGBX,SG Blocks Inc,1525184.9
-SGC,Superior Group of Companies Inc..,52291.953
-SGEN,Seagen Inc,883039.7
-SGH,SMART Global Holdings Inc,209582.45
-SGLB,Sigma Labs Inc,534259.25
+SAFT,"Safety Insurance Group, Inc.",68348.0
+SAGE,Sage Therapeutics Inc,541811.25
+SAIA,Saia Inc.,194521.38
+SALM,Salem Media Group Inc (Class A),654798.44
+SANM,Sanmina Corp,324582.06
+SANW,S&W Seed Co,137833.69
+SASR,Sandy Spring Bancorp,163718.11
+SATS,EchoStar Corp,967386.5
+SAVA,Cassava Sciences Inc,4201410.0
+SBAC,SBA Communications Corp (Class A),678689.9
+SBCF,Seacoast Banking Corp. Of Florida,288912.75
+SBLK,Star Bulk Carriers Corp,1120879.1
+SBNY,Signature Bank,620110.7
+SBRA,Sabra Healthcare REIT Inc,1343857.4
+SBSI,Southside Bancshares Inc,122369.79
+SBUX,Starbucks Corp.,6520917.5
+SCHL,Scholastic Corp.,148051.05
+SCHN,"Schnitzer Steel Industries, Inc. (Class A)",359411.6
+SCKT,Socket Mobile Inc,244888.84
+SCOR,Comscore Inc.,1066892.5
+SCSC,"Scansource, Inc.",97972.52
+SCVL,"Shoe Carnival, Inc.",149762.38
+SCYX,Scynexis Inc,974009.4
+SDC,Smiledirectclub Inc (Class A),7608750.0
+SEAC,Seachange International Inc.,2704058.0
+SEDG,Solaredge Technologies Inc,1560100.2
+SEED,Origin Agritech Ltd.,250218.8
+SEEL,Seelos Therapeutics Inc,3640222.8
+SEIC,SEI Investments Co.,555534.3
+SFIX,Stitch Fix Inc (Class A),4169835.8
+SFM,Sprouts Farmers Market Inc,3211068.5
+SFNC,Simmons First National Corp. (Class A),734299.1
+SGBX,SG Blocks Inc,1208989.9
+SGC,Superior Group of Companies Inc..,58198.844
+SGEN,Seagen Inc,1059126.0
+SGH,SMART Global Holdings Inc,333378.4
+SGLB,Sigma Labs Inc,658763.5
 SGMA,Sigmatron International Inc.,59842.41
-SGMO,Sangamo Therapeutics Inc,3923750.2
-SGMS,Scientific Games Corporation,1034738.94
-SGOC,SGOCO Group Ltd,597898.06
-SGRP,"Spar Group, Inc.",185590.1
-SHC,Sotera Health Co,850538.0
-SHEN,Shenandoah Telecommunications Co.,148740.9
+SGMO,Sangamo Therapeutics Inc,1608308.4
+SGMS,Scientific Games Corporation,747109.75
+SGOC,SGOCO Group Ltd,521671.3
+SGRP,"Spar Group, Inc.",635574.8
+SHC,Sotera Health Co,991414.8
+SHEN,Shenandoah Telecommunications Co.,173093.47
+SHLS,Shoals Technologies Group Inc (Class A),11985914.0
 SHOO,Steven Madden Ltd.,937971.75
-SHYF,The Shyft Group Inc,190110.0
-SIFY,Sify Technologies Limited,163759.14
-SIGA,SIGA Technologies Inc,227151.23
-SIGI,Selective Insurance Group Inc.,208391.9
-SIMO,Silicon Motion Technology Corp,323367.8
-SINA,Sina Corp.,1417299.9
+SHYF,The Shyft Group Inc,221391.8
+SIEB,Siebert Financial Corp.,1819603.4
+SIFY,Sify Technologies Limited,3806229.8
+SIGA,SIGA Technologies Inc,211199.05
+SIGI,Selective Insurance Group Inc.,219338.42
+SIMO,Silicon Motion Technology Corp,375672.6
+SINA,Sina Corp.,310940.6
 SIRI,Sirius XM Holdings Inc,30621642.0
-SIVB,SVB Financial Group,309011.5
-SKYW,Skywest Inc.,409654.03
-SLAB,Silicon Laboratories Inc,224218.27
-SLGN,Silgan Holdings Inc.,362410.3
-SLM,SLM Corp.,3238557.5
-SLP,Simulations Plus Inc.,193117.14
-SLRC,Solar Capital Ltd,138535.0
-SLS,SELLAS Life Sciences Group Inc,11299379.0
-SMED,Sharps Compliance Corp.,132846.9
-SMSI,"Smith Micro Software, Inc.",402087.9
+SIVB,SVB Financial Group,576371.3
+SKYW,Skywest Inc.,326064.3
+SLAB,Silicon Laboratories Inc,322876.6
+SLGN,Silgan Holdings Inc.,502611.53
+SLM,SLM Corp.,5800957.0
+SLP,Simulations Plus Inc.,257567.73
+SLRC,Solar Capital Ltd,147024.2
+SLS,SELLAS Life Sciences Group Inc,919313.2
+SMED,Sharps Compliance Corp.,156513.62
+SMSI,"Smith Micro Software, Inc.",494750.47
 SMTC,Semtech Corp.,445005.75
-SMTX,SMTC Corp.,113220.68
-SNBR,Sleep Number Corp,401475.53
-SNCA,Seneca Biopharma Inc,4752910.0
-SNCR,Synchronoss Technologies Inc,740115.75
-SNDL,Sundial Growers Inc,343677900.0
-SNEX,StoneX Group Inc,123143.59
-SNGX,Soligenix Inc,1809013.4
-SNOA,Sonoma Pharmaceuticals Inc.,3024743.5
-SNPS,"Synopsys, Inc.",784893.94
+SMTX,SMTC Corp.,597992.8
+SNBR,Sleep Number Corp,394469.6
+SNCA,Seneca Biopharma Inc,4525221.0
+SNCR,Synchronoss Technologies Inc,794617.8
+SNDL,Sundial Growers Inc,518312740.0
+SNEX,StoneX Group Inc,84653.734
+SNFCA,Security National Financial Corp. (Class A),47219.21
+SNGX,Soligenix Inc,6253768.5
+SNOA,Sonoma Pharmaceuticals Inc.,59776.21
+SNPS,"Synopsys, Inc.",706727.25
 SNSS,Sunesis Pharmaceuticals Inc,16072888.0
-SNY,Sanofi,1629335.0
-SOHU,Sohu.com Ltd.,427041.4
-SOLO,Electrameccanica Vehicles Corp,13441070.0
+SNY,Sanofi,3092407.2
+SOHU,Sohu.com Ltd.,411963.6
+SOLO,Electrameccanica Vehicles Corp,20583992.0
 SONA,Southern National Bancorp of Virginia Inc.,68938.57
 SONN,Sonnet BioTherapeutics Holdings Inc,6123800.5
-SONO,Sonos Inc,3470526.8
-SP,SP Plus Corp,135843.05
-SPCB,SuperCom Ltd,1728644.6
-SPI,SPI Energy Co Ltd,2041342.1
-SPKE,Spark Energy Inc (Class A),149000.31
-SPLK,Splunk Inc,4349058.5
-SPNE,SeaSpine Holdings Corp,110393.5
-SPNS,Sapiens International Corp NV,199991.95
-SPOK,Spok Holdings Inc,116560.05
-SPPI,"Spectrum Pharmaceuticals, Inc.",2120384.0
-SPRT,Support.com Inc,117426.59
-SPTN,SpartanNash Co,398872.88
-SPWR,Sunpower Corp,6673177.0
-SQBG,Sequential Brands Group Inc.,169150.31
-SRAC,Stable Road Acquisition Corp (Class A),1349878.1
-SRCE,1st Source Corp.,68875.82
-SRCL,Stericycle Inc.,428435.0
-SRDX,"Surmodics, Inc.",42980.273
-SREV,ServiceSource International Inc,459862.9
-SRGA,Surgalign Holdings Inc,410601.0
-SRNE,Sorrento Therapeutics Inc,13737473.0
-SRPT,Sarepta Therapeutics Inc,790436.1
-SSB,South State Corp,296439.62
+SONO,Sonos Inc,2223503.2
+SP,SP Plus Corp,118474.0
+SPCB,SuperCom Ltd,4604507.0
+SPI,SPI Energy Co Ltd,3108691.5
+SPKE,Spark Energy Inc (Class A),211181.95
+SPLK,Splunk Inc,1870120.6
+SPNE,SeaSpine Holdings Corp,127060.31
+SPNS,Sapiens International Corp NV,193325.62
+SPOK,Spok Holdings Inc,80102.48
+SPPI,"Spectrum Pharmaceuticals, Inc.",2253804.8
+SPRT,Support.com Inc,157408.89
+SPTN,SpartanNash Co,420719.53
+SPWR,Sunpower Corp,12569849.0
+SRAC,Stable Road Acquisition Corp (Class A),1592545.8
+SRCE,1st Source Corp.,61923.844
+SRCL,Stericycle Inc.,412371.25
+SRDX,"Surmodics, Inc.",54887.74
+SREV,ServiceSource International Inc,464161.38
+SRGA,Surgalign Holdings Inc,1476339.9
+SRNE,Sorrento Therapeutics Inc,24079770.0
+SRPT,Sarepta Therapeutics Inc,4315866.0
+SSB,South State Corp,310842.78
 SSKN,STRATA Skin Sciences Inc,47684.35
-SSNC,SS&C Technologies Holdings Inc,870908.2
-SSNT,SilverSun Technologies Inc,169709.1
-SSP,E.W. Scripps Co. (Class A),388837.78
-SSTI,ShotSpotter Inc,58788.91
-SSYS,Stratasys Ltd,1525171.0
-STAA,Staar Surgical Co.,460960.28
-STAY,Extended Stay America Inc,1050673.2
-STBA,"S & T Bancorp, Inc.",163000.55
-STCN,Steel Connect Inc,179966.9
-STFC,State Auto Financial Corp.,93087.68
-STKS,ONE Group Hospitality Inc,79670.37
-STLD,Steel Dynamics Inc.,1677315.5
-STMP,Stamps.com Inc.,327022.62
-STRA,Strategic Education Inc,194516.0
-STRL,"Sterling Construction Company, Inc.",480063.4
-STRM,"Streamline Health Solutions, Inc",140911.19
-STRR,Star Equity Holdings Inc,292590.88
-SUMO,Sumo Logic Inc,2080171.0
-SUNW,Sunworks Inc,5047792.0
-SUPN,Supernus Pharmaceuticals Inc,702856.75
-SVC,Service Properties Trust,1193730.9
-SVRA,Savara Inc,399544.6
-SWBI,Smith & Wesson Brands Inc,2485923.2
-SWKS,"Skyworks Solutions, Inc.",1805135.6
-SYBT,Stock Yards Bancorp Inc,48444.773
-SYKE,"Sykes Enterprises, Inc.",188210.27
-SYNA,Synaptics Inc,429754.5
-SYNC,Synacor Inc,66839.23
-SYNL,Synalloy Corp.,53103.184
-SYPR,"Sypris Solutions, Inc.",176149.23
-TA,TravelCenters of America Inc,117874.68
-TANH,Tantech Holdings Ltd,2623411.0
-TAOP,Taoping Inc.,159921.5
-TBLT,Toughbuilt Industries Inc,2406655.0
-TBPH,Theravance Biopharma Inc,296090.3
-TCBI,"Texas Capital Bancshares, Inc.",405809.12
-TCBK,Trico Bancshares,77438.27
-TCCO,Technical Communications Corp.,1089102.0
-TCF,TCF Financial Corp,1790548.2
-TCOM,Trip.com Group Ltd,3127248.8
-TEAM,Atlassian Corporation Plc (Class A),1480636.9
-TECH,Bio-Techne Corp,156475.64
-TEDU,Tarena International Inc,351660.5
-TELL,Tellurian Inc,7282463.5
-TENX,Tenax Therapeutics Inc,11192624.0
-TER,"Teradyne, Inc.",1343218.4
-TESS,"Tessco Technologies, Inc.",61519.816
-TFSL,TFS Financial Corporation,198624.64
-TGLS,Tecnoglass Inc,84262.5
-TGTX,TG Therapeutics Inc,3076903.0
+SSNC,SS&C Technologies Holdings Inc,1108425.1
+SSNT,SilverSun Technologies Inc,138065.95
+SSP,E.W. Scripps Co. (Class A),361696.1
+SSTI,ShotSpotter Inc,61131.367
+SSYS,Stratasys Ltd,2848381.5
+STAA,Staar Surgical Co.,1275815.4
+STAY,Extended Stay America Inc,1058723.1
+STBA,"S & T Bancorp, Inc.",157786.8
+STCN,Steel Connect Inc,2318871.8
+STFC,State Auto Financial Corp.,52208.95
+STKS,ONE Group Hospitality Inc,63753.844
+STLD,Steel Dynamics Inc.,2335577.2
+STMP,Stamps.com Inc.,298056.06
+STRA,Strategic Education Inc,253021.05
+STRL,"Sterling Construction Company, Inc.",419424.4
+STRM,"Streamline Health Solutions, Inc",109538.84
+STRR,Star Equity Holdings Inc,299586.78
+SUMO,Sumo Logic Inc,1229527.0
+SUNW,Sunworks Inc,13572076.0
+SUPN,Supernus Pharmaceuticals Inc,599334.25
+SVC,Service Properties Trust,1066709.1
+SVRA,Savara Inc,427950.47
+SVVC,Firsthand Technology Value Fund Inc,70536.37
+SWBI,Smith & Wesson Brands Inc,3384497.5
+SWKS,"Skyworks Solutions, Inc.",2503809.2
+SYBT,Stock Yards Bancorp Inc,52144.79
+SYKE,"Sykes Enterprises, Inc.",139599.11
+SYNA,Synaptics Inc,560763.7
+SYNC,Synacor Inc,193806.31
+SYPR,"Sypris Solutions, Inc.",702703.8
+TA,TravelCenters of America Inc,163582.47
+TAIT,Taitron Components Inc. (Class A),54797.42
+TANH,Tantech Holdings Ltd,4990483.5
+TAOP,Taoping Inc.,650472.25
+TBLT,Toughbuilt Industries Inc,7411379.5
+TBPH,Theravance Biopharma Inc,353945.06
+TCBI,"Texas Capital Bancshares, Inc.",404976.6
+TCBK,Trico Bancshares,98784.84
+TCF,TCF Financial Corp,1330552.0
+TCOM,Trip.com Group Ltd,4128114.5
+TEAM,Atlassian Corporation Plc (Class A),1487330.1
+TECH,Bio-Techne Corp,174177.31
+TEDU,Tarena International Inc,252406.0
+TELL,Tellurian Inc,23273292.0
+TENX,Tenax Therapeutics Inc,3998150.2
+TER,"Teradyne, Inc.",1919308.0
+TESS,"Tessco Technologies, Inc.",46195.684
+TFSL,TFS Financial Corporation,225158.69
+TGLS,Tecnoglass Inc,62428.684
+TGTX,TG Therapeutics Inc,1609726.6
 THFF,First Financial Corp. - Indiana,51529.8
-THMO,ThermoGenesis Holdings Inc,493816.72
+THMO,ThermoGenesis Holdings Inc,2467483.5
 THRM,Gentherm Inc (Class A),160947.4
-TIGO,Millicom International Cellular S.A.,66157.77
-TILE,Interface Inc.,603746.9
-TIPT,Tiptree Inc,103856.37
-TITN,Titan Machinery Inc,176205.9
+TIGO,Millicom International Cellular S.A.,61870.0
+TILE,Interface Inc.,463748.06
+TIPT,Tiptree Inc,94951.42
+TITN,Titan Machinery Inc,266315.78
 TLGT,Teligent Inc,2589651.2
-TLRY,Tilray Inc (Class 2),19931464.0
-TLS,Telos Corp,1195501.5
-TMUS,T-Mobile US Inc,3162451.2
-TNAV,Telenav Inc,597948.56
-TNXP,Tonix Pharmaceuticals Holding Corp,22143942.0
-TOMZ,TOMI Environmental Solutions Inc,225146.14
-TOPS,Top Ships Inc,4407985.0
-TOUR,Tuniu Corp,1233014.4
-TOWN,Townebank Portsmouth VA,194407.31
+TLRY,Tilray Inc (Class 2),38417470.0
+TLS,Telos Corp,916053.56
+TMUS,T-Mobile US Inc,4052966.2
+TNAV,Telenav Inc,431515.62
+TNXP,Tonix Pharmaceuticals Holding Corp,47564332.0
+TOMZ,TOMI Environmental Solutions Inc,182062.47
+TOPS,Top Ships Inc,7297036.5
+TOUR,Tuniu Corp,1024312.25
+TOWN,Townebank Portsmouth VA,171977.05
 TREE,LendingTree Inc.,182275.55
-TRIB,Trinity Biotech Plc,201765.86
-TRIP,TripAdvisor Inc.,2644339.2
-TRMB,Trimble Inc,844464.94
-TRMK,Trustmark Corp.,258006.81
-TROW,T. Rowe Price Group Inc.,972159.94
-TRS,Trimas Corporation,240479.05
-TRST,Trustco Bank Corp.,403307.72
-TRUE,Truecar Inc,931116.25
-TRUP,Trupanion Inc,436158.47
-TRVN,Trevena Inc,3241655.0
-TSCO,Tractor Supply Co.,1087466.9
-TSEM,Tower Semiconductor Ltd.,531783.3
-TSLA,Tesla Inc,54405590.0
-TTCF,Tattooed Chef Inc (Class A),3479029.5
-TTD,Trade Desk Inc (Class A),750926.25
-TTEC,TTEC Holdings Inc,155142.73
-TTEK,"Tetra Tech, Inc.",304091.88
-TTGT,Techtarget Inc.,379995.9
-TTMI,TTM Technologies Inc,1311631.9
-TTNP,"Titan Pharmaceuticals, Inc. (de)",997579.94
-TTOO,T2 Biosystems Inc,3634812.2
-TTWO,"Take-Two Interactive Software, Inc.",1552237.4
-TVTX,Travere Therapeutics Inc,440041.2
-TVTY,Tivity Health Inc,347995.72
-TWNK,Hostess Brands Inc (Class A),1347059.2
-TWOU,2U Inc,1117429.6
-TWST,Twist Bioscience Corp,843863.75
-TXG,10x Genomics Inc (Class A),718650.0
-TXMD,TherapeuticsMD Inc,6270983.0
-TXN,Texas Instruments Inc.,3933760.5
-TXRH,Texas Roadhouse Inc,667372.6
-TZOO,Travelzoo,51497.227
+TRIB,Trinity Biotech Plc,779569.5
+TRIP,TripAdvisor Inc.,2877451.8
+TRMB,Trimble Inc,4342656.5
+TRMK,Trustmark Corp.,217360.69
+TROW,T. Rowe Price Group Inc.,1259982.4
+TRS,Trimas Corporation,194787.84
+TRST,Trustco Bank Corp.,525667.75
+TRUE,Truecar Inc,600491.0
+TRUP,Trupanion Inc,389681.94
+TRVN,Trevena Inc,3208801.2
+TSCO,Tractor Supply Co.,1345741.6
+TSEM,Tower Semiconductor Ltd.,693890.7
+TSLA,Tesla Inc,37159176.0
+TTCF,Tattooed Chef Inc (Class A),2817496.5
+TTD,Trade Desk Inc (Class A),793163.75
+TTEC,TTEC Holdings Inc,198148.16
+TTEK,"Tetra Tech, Inc.",404629.38
+TTGT,Techtarget Inc.,273038.4
+TTMI,TTM Technologies Inc,967493.5
+TTNP,"Titan Pharmaceuticals, Inc. (de)",1338514.4
+TTOO,T2 Biosystems Inc,18089130.0
+TTWO,"Take-Two Interactive Software, Inc.",1201084.9
+TVTX,Travere Therapeutics Inc,413268.6
+TVTY,Tivity Health Inc,436698.78
+TWNK,Hostess Brands Inc (Class A),1854277.2
+TWOU,2U Inc,1155471.2
+TWST,Twist Bioscience Corp,794518.06
+TXG,10x Genomics Inc (Class A),868557.9
+TXMD,TherapeuticsMD Inc,8233836.5
+TXN,Texas Instruments Inc.,4968150.0
+TXRH,Texas Roadhouse Inc,781747.2
+TZOO,Travelzoo,59203.473
 UAL,United Airlines Holdings Inc,57964760.0
+UBFO,United Security Bancshares (CA),41619.473
 UBSI,"United Bankshares, Inc.",523591.5
-UCBI,United Community Banks Inc,499750.8
-UCTT,Ultra Clean Hldgs Inc,542470.06
-UEIC,Universal Electronics Inc.,72997.87
-UEPS,Net 1 UEPS Technologies Inc,574291.3
-UFCS,United Fire Group Inc,106303.87
-UFPI,UFP Industries Inc,343089.47
-ULH,Universal Logistics Holdings Inc,53455.227
-ULTA,Ulta Beauty Inc,1012587.25
-UMBF,UMB Financial Corp.,182731.14
-UMPQ,Umpqua Holdings Corp,1296345.8
-UNIT,Uniti Group Inc,3330248.0
-UONEK,Urban One Inc (Class D),363099.5
-UPLD,Upland Software Inc,273118.5
-UPST,Upstart Holdings Inc,3574714.2
-UPWK,Upwork Inc,1934177.0
-URBN,"Urban Outfitters, Inc.",1388936.0
-URGN,UroGen Pharma Ltd,199785.05
-USEG,U.S. Energy Corp.,286443.0
-USIO,Usio Inc,659827.2
-UTHR,United Therapeutics Corp,337975.47
-UTSI,UTStarcom Holdings Corp,1780034.2
-UVSP,Univest Financial Corp,111321.23
-VBIV,VBI Vaccines Inc.,6503941.5
+UCBI,United Community Banks Inc,541687.2
+UCTT,Ultra Clean Hldgs Inc,525618.5
+UEIC,Universal Electronics Inc.,63779.527
+UEPS,Net 1 UEPS Technologies Inc,452161.84
+UFCS,United Fire Group Inc,103027.52
+UFPI,UFP Industries Inc,328873.7
+ULH,Universal Logistics Holdings Inc,67904.58
+ULTA,Ulta Beauty Inc,708142.1
+UMBF,UMB Financial Corp.,206710.42
+UMPQ,Umpqua Holdings Corp,1715650.2
+UNIT,Uniti Group Inc,2489057.2
+UONEK,Urban One Inc (Class D),1450992.5
+UPLD,Upland Software Inc,259122.84
+UPST,Upstart Holdings Inc,1589369.9
+UPWK,Upwork Inc,1996307.8
+URBN,"Urban Outfitters, Inc.",2254508.2
+URGN,UroGen Pharma Ltd,195115.27
+USAU,U.S. Gold Corp,106792.52
+USEG,U.S. Energy Corp.,1517586.6
+UTHR,United Therapeutics Corp,380691.84
+UTSI,UTStarcom Holdings Corp,376769.84
+UVSP,Univest Financial Corp,151897.0
+VBIV,VBI Vaccines Inc.,7382955.0
 VBLT,Vascular Biogenics Ltd,116127.7
-VC,Visteon Corp.,249611.6
-VCEL,Vericel Corp,626057.44
-VECO,Veeco Instruments Inc,681493.6
-VEON,VEON Ltd,3077976.2
-VERB,Verb Technology Company Inc,1640269.5
-VERI,Veritone Inc,1624141.0
-VERO,Venus Concept Inc,890293.56
-VERU,Veru Inc,17167962.0
-VG,Vonage Holdings Corp,2538175.0
-VIAC,ViacomCBS Inc (Class B),10986768.0
-VIACA,ViacomCBS Inc (Class A),49180.047
-VIAV,Viavi Solutions Inc,1722986.9
-VICR,Vicor Corp.,119888.5
-VIR,Vir Biotechnology Inc,842009.44
+VC,Visteon Corp.,256322.58
+VCEL,Vericel Corp,743529.44
+VECO,Veeco Instruments Inc,419827.7
+VEON,VEON Ltd,3990469.5
+VERB,Verb Technology Company Inc,1091470.1
+VERI,Veritone Inc,975478.7
+VERO,Venus Concept Inc,1450155.9
+VERU,Veru Inc,2836054.5
+VG,Vonage Holdings Corp,2700226.8
+VIAC,ViacomCBS Inc (Class B),18926956.0
+VIACA,ViacomCBS Inc (Class A),117273.734
+VIAV,Viavi Solutions Inc,2288778.2
+VICR,Vicor Corp.,146018.38
+VIR,Vir Biotechnology Inc,2934483.0
+VIRC,Virco Manufacturing Corp.,48316.05
 VISL,Vislink Technologies Inc,2106632.5
-VIVE,Viveve Medical Inc,250356.45
-VIVO,Meridian Bioscience Inc.,586614.7
-VLDR,Velodyne Lidar Inc,11878192.0
-VLGEA,"Village Super Market, Inc. (Class A)",46561.91
+VIVE,Viveve Medical Inc,3894411.8
+VIVO,Meridian Bioscience Inc.,421859.62
+VJET,Voxeljet AG,128472.37
+VLDR,Velodyne Lidar Inc,5834123.0
+VLGEA,"Village Super Market, Inc. (Class A)",44895.42
 VLY,Valley National Bancorp,2361007.0
-VNDA,Vanda Pharmaceuticals Inc,505249.3
+VNDA,Vanda Pharmaceuticals Inc,412693.84
 VNOM,Viper Energy Partners LP,611395.94
-VOD,Vodafone Group plc,3986059.2
-VOXX,VOXX International Corp (Class A),175358.73
-VRA,Vera Bradley Inc,544439.44
-VRAY,ViewRay Inc.,1296557.0
+VOD,Vodafone Group plc,3386183.0
+VOXX,VOXX International Corp (Class A),619596.25
+VRA,Vera Bradley Inc,267079.94
+VRAY,ViewRay Inc.,4098620.0
 VRDN,Viridian Therapeutics Inc,86170.27
-VREX,Varex Imaging Corp,463785.03
+VREX,Varex Imaging Corp,331600.06
 VRM,Vroom Inc.,0.0
-VRNS,Varonis Systems Inc,421392.72
-VRNT,"Verint Systems, Inc.",483092.0
-VRSK,Verisk Analytics Inc,616731.3
+VRNS,Varonis Systems Inc,331450.7
+VRNT,"Verint Systems, Inc.",737189.2
+VRSK,Verisk Analytics Inc,750273.06
 VRSN,Verisign Inc.,594258.44
-VRTS,Virtus Investment Partners Inc,52517.453
-VRTU,Virtusa Corp,345206.47
-VRTX,"Vertex Pharmaceuticals, Inc.",1413179.4
-VSAT,"Viasat, Inc.",871704.94
-VSTM,Verastem Inc,3922809.0
-VTNR,Vertex Energy Inc,452101.88
-VTRS,Viatris Inc,12561853.0
-VUZI,Vuzix Corporation,4862736.5
-VXRT,Vaxart Inc,7983865.0
-WABC,Westamerica Bancorporation,110055.09
-WAFD,Washington Federal Inc.,394636.03
-WASH,"Washington Trust Bancorp, Inc.",79224.59
-WATT,Energous Corp,5150633.0
-WB,Weibo Corp,1534660.6
-WBA,Walgreens Boots Alliance Inc,6957429.5
-WDAY,Workday Inc (Class A),1986928.8
-WDC,Western Digital Corp.,4654047.5
-WDFC,WD-40 Co.,73676.09
-WEN,Wendy`s Co (Class A),1676811.0
-WERN,"Werner Enterprises, Inc.",652350.5
-WETF,Wisdomtree Investments Inc,1174174.2
-WHLR,Wheeler Real Estate Investment Trust Inc,44043.0
-WING,Wingstop Inc,415689.7
-WIRE,Encore Wire Corp.,146672.86
-WISH,ContextLogic Inc (Class A),13545705.0
-WIX,Wix.com Ltd,589602.94
-WKHS,Workhorse Group Inc,12860021.0
-WLTW,Willis Towers Watson Public Limited Co,1030654.75
+VRTS,Virtus Investment Partners Inc,57030.527
+VRTU,Virtusa Corp,409272.7
+VRTX,"Vertex Pharmaceuticals, Inc.",1837575.0
+VSAT,"Viasat, Inc.",1083591.8
+VSEC,VSE Corp.,52140.58
+VSTM,Verastem Inc,3522753.8
+VTNR,Vertex Energy Inc,7526067.5
+VTRS,Viatris Inc,11767438.0
+VTSI,VirTra Inc,69088.1
+VUZI,Vuzix Corporation,4483975.5
+VXRT,Vaxart Inc,11919141.0
+WABC,Westamerica Bancorporation,128842.945
+WAFD,Washington Federal Inc.,415811.7
+WASH,"Washington Trust Bancorp, Inc.",57903.473
+WATT,Energous Corp,7329868.0
+WB,Weibo Corp,1733512.6
+WBA,Walgreens Boots Alliance Inc,8579496.0
+WDAY,Workday Inc (Class A),2069603.5
+WDC,Western Digital Corp.,5641931.0
+WDFC,WD-40 Co.,133050.62
+WEN,Wendy`s Co (Class A),2831568.8
+WERN,"Werner Enterprises, Inc.",616752.3
+WETF,Wisdomtree Investments Inc,891623.7
+WING,Wingstop Inc,357838.22
+WIRE,Encore Wire Corp.,102317.0
+WISH,ContextLogic Inc (Class A),6165589.5
+WIX,Wix.com Ltd,569789.4
+WKHS,Workhorse Group Inc,19763150.0
+WLTW,Willis Towers Watson Public Limited Co,1143632.6
 WMG,Warner Music Group Corp (Class A),0.0
-WNEB,Western New England Bancorp Inc,47594.316
-WOOF,Petco Health and Wellness Co Inc (Class A),0.0
-WRLD,World Acceptance Corp.,57278.363
-WSBC,"Wesbanco, Inc.",219657.4
-WSC,WillScot Mobile Mini Holdings Corp,1294449.5
-WSFS,WSFS Financial Corp.,373350.2
-WTBA,West Bancorporation,43436.09
-WTFC,Wintrust Financial Corp.,382805.7
-WTRH,Waitr Holdings Inc,4452572.0
-WW,WW International Inc,1115867.6
-WWD,Woodward Inc,262558.0
-WWR,Westwater Resources Inc,4024647.0
-WYNN,Wynn Resorts Ltd.,2453092.5
-XBIT,XBiotech Inc,82689.55
-XEL,"Xcel Energy, Inc.",2311264.2
-XELA,Exela Technologies Inc,8775388.0
-XENE,Xenon Pharmaceuticals Inc,189517.23
-XLNX,"Xilinx, Inc.",2085336.2
-XNET,Xunlei Ltd,2628975.2
-XOMA,XOMA Corp,63233.547
-XONE,ExOne Co,532735.7
-XP,XP Inc (Class A),2469052.2
-XPER,Xperi Holding Corp,680578.56
-XRAY,DENTSPLY Sirona Inc,1022585.56
-XSPA,XpresSpa Group Inc,8862619.0
+WNEB,Western New England Bancorp Inc,95381.1
+WOOF,Petco Health and Wellness Co Inc (Class A),8532881.0
+WRLD,World Acceptance Corp.,123321.266
+WSBC,"Wesbanco, Inc.",232359.42
+WSC,WillScot Mobile Mini Holdings Corp,1311702.4
+WSFS,WSFS Financial Corp.,288809.75
+WTBA,West Bancorporation,48106.05
+WTFC,Wintrust Financial Corp.,446540.3
+WTRH,Waitr Holdings Inc,3425335.5
+WW,WW International Inc,2659615.2
+WWD,Woodward Inc,288547.0
+WWR,Westwater Resources Inc,13125316.0
+WYNN,Wynn Resorts Ltd.,2954834.8
+XBIT,XBiotech Inc,140275.62
+XEL,"Xcel Energy, Inc.",2532349.8
+XELA,Exela Technologies Inc,9767851.0
+XENE,Xenon Pharmaceuticals Inc,163245.16
+XLNX,"Xilinx, Inc.",3320980.5
+XM,Qualtrics International Inc (Class A),16991742.0
+XNET,Xunlei Ltd,8030670.0
+XONE,ExOne Co,1280449.0
+XP,XP Inc (Class A),1410900.2
+XPER,Xperi Holding Corp,496716.16
+XRAY,DENTSPLY Sirona Inc,1505955.0
+XSPA,XpresSpa Group Inc,17796956.0
 YNDX,Yandex NV (Class A),1826495.5
-YRCW,YRC Worldwide Inc,1047340.4
-YTEN,Yield10 Bioscience Inc,80984.68
-YVR,Liquid Media Group Ltd,79821.91
+YRCW,YRC Worldwide Inc,1125805.6
+YTEN,Yield10 Bioscience Inc,555559.4
+YVR,Liquid Media Group Ltd,632160.94
 YY,JOYY Inc,1037326.0
-Z,Zillow Group Inc (Class C),2987956.8
-ZAGG,Zagg Inc,1285199.9
+Z,Zillow Group Inc (Class C),2489262.0
+ZAGG,Zagg Inc,608741.44
 ZBRA,Zebra Technologies Corp. (Class A),382104.3
-ZEUS,Olympic Steel Inc.,40144.91
-ZG,Zillow Group Inc (Class A),819209.75
-ZGNX,Zogenix Inc,844540.7
-ZI,ZoomInfo Technologies Inc (Class A),3100970.0
-ZION,Zions Bancorporation N.A,1609371.9
-ZIOP,"Ziopharm Oncology, Inc.",2421598.2
-ZIXI,Zix Corp.,595900.9
+ZEUS,Olympic Steel Inc.,43532.473
+ZG,Zillow Group Inc (Class A),643136.2
+ZGNX,Zogenix Inc,1017030.5
+ZI,ZoomInfo Technologies Inc (Class A),1747398.4
+ZION,Zions Bancorporation N.A,1633466.0
+ZIOP,"Ziopharm Oncology, Inc.",3107421.5
+ZIXI,Zix Corp.,532365.0
 ZKIN,ZK International Group Co Ltd.,353197.2
-ZM,Zoom Video Communications Inc (Class A),6837594.5
+ZM,Zoom Video Communications Inc (Class A),6391177.5
 ZNGA,Zynga Inc (Class A),22352016.0
-ZS,Zscaler Inc,3110356.2
-ZSAN,Zosano Pharma Corp,2529313.8
-ZUMZ,Zumiez Inc,297516.2
-ZVO,Zovio Inc,252142.45
-ZYNE,Zynerba Pharmaceuticals Inc,1137095.4
-ZYXI,Zynex Inc,433272.8
+ZS,Zscaler Inc,2167470.0
+ZSAN,Zosano Pharma Corp,13879232.0
+ZUMZ,Zumiez Inc,275826.3
+ZVO,Zovio Inc,304878.0
+ZYNE,Zynerba Pharmaceuticals Inc,1426962.0
+ZYXI,Zynex Inc,836167.06

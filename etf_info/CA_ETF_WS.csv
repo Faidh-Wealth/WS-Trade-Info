@@ -1,1004 +1,1023 @@
 symbol,name,avg_daily_volume_last_month
-ACZ.TO,Middlefield Ltd - Middlefield American Core Dividend ETF,174.7619
-AGLB.NE,AGF Global Opportunities Bond ETF,0.0
-AGSG.NE,AGF Global Sustainable Growth Equity ETF,3188.8572
-ALFA.TO,Accelerate Private Equity Alpha Fund,82.619
-ARB.TO,Accelerate Arbitrage Fund,3096.762
-ATSX.TO,Accelerate Enhanced Benchmark Alternative Fund,81.1429
-AUGB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF-Aug Hedged,379.5714
-BASE-B.TO,Evolve Global Materials & Mining Enh Yield Index ETF  Unhedged,984.7619
-BASE.TO,Evolve Global Materials & Mining Enh Yield Index ETF  Hedged,476.7619
-BDIV.TO,Brompton Global Dividend Growth ETF,325.1429
-BESG.TO,Invesco ESG Canadian Core Plus Bond ETF,2789.9048
-BFIN-U.TO,Brompton North American Financials Dividend ETF,0.0
-BGC.TO,Bristol Gate Concentrated Canadian Equity ETF,1417.5714
+ACZ.TO,Middlefield Ltd - Middlefield American Core Dividend ETF,710.45
+AGLB.NE,AGF Global Opportunities Bond ETF,10.1
+AGSG.NE,AGF Global Sustainable Growth Equity ETF,5438.0
+ALFA.TO,Accelerate Private Equity Alpha Fund,295.7
+ARB.TO,Accelerate Arbitrage Fund,21951.15
+ATSX.TO,Accelerate Enhanced Benchmark Alternative Fund,77.3
+AUGB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF-Aug Hedged,291.2
+BASE-B.TO,Evolve Global Materials & Mining Enh Yield Index ETF  Unhedged,1930.3
+BASE.TO,Evolve Global Materials & Mining Enh Yield Index ETF  Hedged,2780.9
+BDIV.TO,Brompton Global Dividend Growth ETF,594.85
+BESG.TO,Invesco ESG Canadian Core Plus Bond ETF,2053.0
+BFIN-U.TO,Brompton North American Financials Dividend ETF,860.0
+BGC.TO,Bristol Gate Concentrated Canadian Equity ETF,833.75
 BGU-U.TO,Bristol Gate Concentrated US Equity ETF,435.9524
-BGU.TO,Bristol Gate Concentrated US Equity ETF,2282.2856
-BKL-C.TO,Invesco Senior Loan Index ETF CAD,231.1905
-BKL-F.TO,Invesco Senior Loan Index ETF,1758.4286
-BKL-U.TO,Invesco Senior Loan Index ETF CAD,3.0476
+BGU.TO,Bristol Gate Concentrated US Equity ETF,3792.7
+BKL-C.TO,Invesco Senior Loan Index ETF CAD,11.1
+BKL-F.TO,Invesco Senior Loan Index ETF,1692.3
+BKL-U.TO,Invesco Senior Loan Index ETF CAD,1235.25
 BLCK.TO,First Trust Indxx Innovative Transaction and Process ETF,26.5
-BLOV.TO,Brompton North American Low Volatility Dividend ETF,19.5714
-BNC.TO,Purpose Canadian Financial Income Fund,36.8571
-BND.TO,Purpose Global Bond Fund,522.2857
-BPRF.TO,Brompton Flaherty & Crumrine Investment Grade Preferred ETF,1358.1906
-BREA.TO,Brompton Global Real Assets Dividend ETF,95.2857
-BSKT.TO,Manulife Smart Core Bond ETF,1050.143
-BXF.TO,CI First Asset 1-5 Year Laddered Government Strip Bond Index ETF,4052.1428
-CACB.TO,CIBC Active Investment Grade Corporate Bond ETF,993.9524
-CAFR.TO,CIBC Active Investment Grade Floating Rate Bond ETF,9.6667
-CAGG.TO,CI Investments Inc - CI Yield Enhanced Canada Aggregate Bond Index ETF,1654.2382
-CAGS.TO,CI Investments Inc - CI Yield Enhanced Canada Short-Term Aggregate Bond Index ETF,0.0
-CALL-B.TO,Evolve US Banks Enhanced Yield Fund Unhedged,439.7143
-CALL-U.TO,Evolve US Banks Enhanced Yield Fund Unhedged,29.7619
+BLOV.TO,Brompton North American Low Volatility Dividend ETF,179.5
+BNC.TO,Purpose Canadian Financial Income Fund,11.4
+BND.TO,Purpose Global Bond Fund,1398.8
+BPRF.TO,Brompton Flaherty & Crumrine Investment Grade Preferred ETF,1445.8
+BREA.TO,Brompton Global Real Assets Dividend ETF,157.75
+BSKT.TO,Manulife Smart Core Bond ETF,3769.85
+BXF.TO,CI First Asset 1-5 Year Laddered Government Strip Bond Index ETF,4908.15
+CACB.TO,CIBC Active Investment Grade Corporate Bond ETF,514.15
+CAFR.TO,CIBC Active Investment Grade Floating Rate Bond ETF,26.2
+CAGG.TO,CI Investments Inc - CI Yield Enhanced Canada Aggregate Bond Index ETF,2088.35
+CAGS.TO,CI Investments Inc - CI Yield Enhanced Canada Short-Term Aggregate Bond Index ETF,377.3
+CALL-B.TO,Evolve US Banks Enhanced Yield Fund Unhedged,1029.3
+CALL-U.TO,Evolve US Banks Enhanced Yield Fund Unhedged,639.85
 CALL.TO,Evolve US Banks Enhanced Yield Fund  Hedged,0.0
-CARS-B.TO,Evolve Automobile Innovation Index Fund  Unhedged,877.9524
-CARS.TO,Evolve Automobile Innovation Index Fund  Hedged,11869.333
-CBH.TO,BlackRock iShares 1-10 Year Laddered Corporate Bond Index ETF,5045.5713
-CBND.TO,Manulife Smart Corporate Bond ETF,576.1905
-CBO.TO,BlackRock iShares 1-5 Year Laddered Corporate Bond Index ETF,16688.285
-CCNS.TO,CIBC Conservative Fixed Income Pool ETF,23.8095
-CCOR-B.TO,CI DoubleLine Core Plus Fixed Income USD Fund CAD Unhedged,714.2857
+CARS-B.TO,Evolve Automobile Innovation Index Fund  Unhedged,2811.0
+CARS.TO,Evolve Automobile Innovation Index Fund  Hedged,40297.1
+CBH.TO,BlackRock iShares 1-10 Year Laddered Corporate Bond Index ETF,9282.25
+CBND.TO,Manulife Smart Corporate Bond ETF,120.3
+CBO.TO,BlackRock iShares 1-5 Year Laddered Corporate Bond Index ETF,15235.35
+CCNS.TO,CIBC Conservative Fixed Income Pool ETF,74.9
+CCOR-B.TO,CI DoubleLine Core Plus Fixed Income USD Fund CAD Unhedged,0.0
 CCOR-U.TO,CI DoubleLine Core Plus Fixed Income USD Fund ETF,0.0
-CCOR.TO,CI DoubleLine Core Plus Fixed Income USD Fund CAD Hedged,161.9524
-CCRE.TO,CIBC Core Fixed Income Pool ETF,2728.8096
-CDIV.TO,Manulife Smart Dividend ETF,350.1905
+CCOR.TO,CI DoubleLine Core Plus Fixed Income USD Fund CAD Hedged,6.0
+CCRE.TO,CIBC Core Fixed Income Pool ETF,2391.85
+CDIV.TO,Manulife Smart Dividend ETF,1689.9
 CDLB-B.TO,CI DoubleLine Total Return Bond USD Fund ETF CAD Unhedged,849.6923
-CDLB-U.TO,CI DoubleLine Total Return Bond USD Fund ETF,183.3333
-CDLB.TO,CI DoubleLine Total Return Bond USD Fund ETF CAD Hedged,7254.2383
-CDZ.TO,BlackRock iShares S&P/TSX Canadian Dividend Aristocrats Index ETF,34127.0
-CESG-B.NE,CI First Asset MSCI World ESG Impact ETF - unhedged,12032.762
-CESG.NE,CI First Asset MSCI World ESG Impact ETF,1008.1429
+CDLB-U.TO,CI DoubleLine Total Return Bond USD Fund ETF,364.3
+CDLB.TO,CI DoubleLine Total Return Bond USD Fund ETF CAD Hedged,697.0
+CDZ.TO,BlackRock iShares S&P/TSX Canadian Dividend Aristocrats Index ETF,46118.6
+CESG-B.NE,CI First Asset MSCI World ESG Impact ETF - unhedged,8729.4
+CESG.NE,CI First Asset MSCI World ESG Impact ETF,833.35
 CEW.TO,BlackRock iShares Equal Weight Banc & Lifeco ETF,17226.85
-CFLX.TO,CIBC Flexible Yield ETF CAD-Hedged,2423.619
-CGAA.TO,CI First Asset Global Asset Allocation ETF,1069.857
+CFLX.TO,CIBC Flexible Yield ETF CAD-Hedged,2836.8
+CGAA.TO,CI First Asset Global Asset Allocation ETF,311.55
 CGL-C.TO,BlackRock iShares Gold Bullion ETF Non-Hedged,0.0
-CGL.TO,BlackRock iShares Gold Bullion ETF CAD-Hedged,64567.24
-CGLO.TO,CIBC Global Growth ETF,6217.6665
-CGR.TO,BlackRock iShares Global Real Estate Index ETF,4356.6665
-CGRA.TO,CI Global Real Asset Private Pool ETF,861.9524
-CGRE.TO,CI Global REIT Private Pool ETF,1605.9524
-CGXF.TO,CI First Asset Gold+ Giants Covered Call ETF,31628.62
-CHB.TO,BlackRock iShares US High Yield Fixed Income Indx ETFCAD-Hedgd,5037.9526
-CHNA-B.TO,CI Investments Inc - CI ICBCCS S&P China 500 Index ETF (Unhedged Units),1420.857
-CIC.TO,CI First Asset CanBanc Income Class ETF,27688.285
-CIF.TO,BlackRock iShares Global Infrastructure Index ETF,6422.7144
-CINC-B.TO,CI DoubleLine Income USD Fund  CAD Unhedged,0.0
+CGL.TO,BlackRock iShares Gold Bullion ETF CAD-Hedged,76335.75
+CGLO.TO,CIBC Global Growth ETF,9789.3
+CGR.TO,BlackRock iShares Global Real Estate Index ETF,3990.95
+CGRA.TO,CI Global Real Asset Private Pool ETF,918.25
+CGRE.TO,CI Global REIT Private Pool ETF,1301.6
+CGXF.TO,CI First Asset Gold+ Giants Covered Call ETF,29552.45
+CHB.TO,BlackRock iShares US High Yield Fixed Income Indx ETFCAD-Hedgd,4682.4
+CHNA-B.TO,CI Investments Inc - CI ICBCCS S&P China 500 Index ETF (Unhedged Units),1479.3
+CIC.TO,CI First Asset CanBanc Income Class ETF,32074.15
+CIF.TO,BlackRock iShares Global Infrastructure Index ETF,8226.95
+CINC-B.TO,CI DoubleLine Income USD Fund  CAD Unhedged,7.5
 CINC-U.TO,CI DoubleLine Income USD Fund ETF,0.0
-CINC.TO,CI DoubleLine Income USD Fund CAD Hedged,0.0476
-CINF.TO,CI Global Infrastructure Private Pool ETF,2588.0952
-CJP.NE,BlackRock iShares Japan Fundamental Index ETF CAD-Hedged,13002.048
-CLF.TO,BlackRock iShares 1-5 Year Laddered Government Bond Index ETF,29611.096
-CLG.TO,BlackRock iShares 1-10 Year Laddered Government Bond Index ETF,16337.333
-CMAG-U.TO,CI Munro Alternative Global Growth Fund USD Hedged,0.0
+CINC.TO,CI DoubleLine Income USD Fund CAD Hedged,95.25
+CINF.TO,CI Global Infrastructure Private Pool ETF,5280.85
+CJP.NE,BlackRock iShares Japan Fundamental Index ETF CAD-Hedged,4898.35
+CLF.TO,BlackRock iShares 1-5 Year Laddered Government Bond Index ETF,26936.3
+CLG.TO,BlackRock iShares 1-10 Year Laddered Government Bond Index ETF,22098.45
+CMAG-U.TO,CI Munro Alternative Global Growth Fund USD Hedged,786.1111
+CMAG.TO,CI Munro Alternative Global Growth ETF,19055.7
 CMAR-U.TO,CI Marret Alternative Absolute Return Bond ETF,487.8571
-CMCE.TO,CIBC Multifactor Canadian Equity ETF,268.1905
+CMAR.TO,CI Marret Alternative Absolute Return Bond ETF,5114.0
+CMCE.TO,CIBC Multifactor Canadian Equity ETF,546.85
 CMEY-U.TO,CI Marret Alternative Enhanced Yield Fund hedged units,0.0
-CMEY.TO,CI Marret Alternative Enhanced Yield Fund,30.7143
-CMGG-U.TO,CI Munro Global Growth Equity Fund USD Hedged,0.0
-CMGG.TO,CI Munro Global Growth Equity Fund,0.0
-CMR.TO,BlackRock iShares Premium Money Market ETF,15843.762
-CMUE-F.TO,CIBC Multifactor U.S. Equity ETF Hedged,249.5714
-CMUE.TO,CIBC Multifactor U.S. Equity ETF,30.5238
-CORP.TO,Exemplar Investment Grade Fund Series ETF units,1023.2857
-COW.TO,BlackRock iShares Global Agriculture Index ETF,2426.8572
-CPD.TO,BlackRock iShares S&P/TSX Canadian Preferred Share Index ETF,105368.14
-CPLS.TO,CIBC Core Plus Fixed Income Pool ETF,2629.1428
+CMEY.TO,CI Marret Alternative Enhanced Yield Fund,29.9
+CMGG-U.TO,CI Munro Global Growth Equity Fund USD Hedged,364.2857
+CMGG.TO,CI Munro Global Growth Equity Fund,3350.5
+CMR.TO,BlackRock iShares Premium Money Market ETF,10381.3
+CMUE-F.TO,CIBC Multifactor U.S. Equity ETF Hedged,66.6
+CMUE.TO,CIBC Multifactor U.S. Equity ETF,105.25
+COMM.TO,BMO Global Communications Index ETF CAD,1657.5
+CORP.TO,Exemplar Investment Grade Fund Series ETF units,247.7
+COW.TO,BlackRock iShares Global Agriculture Index ETF,5583.35
+CPD.TO,BlackRock iShares S&P/TSX Canadian Preferred Share Index ETF,77819.1
+CPLS.TO,CIBC Core Plus Fixed Income Pool ETF,3178.55
 CRED-U.TO,CI Lawrence Park Alternative Investment Grade Credit ETF,0.0
-CRQ.NE,BlackRock iShares Canadian Fundamental Index ETF,12770.381
+CRQ.NE,BlackRock iShares Canadian Fundamental Index ETF,6628.95
 CSAV.TO,CI First Asset High Interest Savings ETF,13157.048
-CSD.TO,BlackRock iShares Short Duration High Income ETF CAD-Hedged,2696.762
-CSY.TO,CI First Asset Core Canadian Equity Income Class ETF,50.0
-CUD.TO,BlackRock iShares US Dividend Growers Index ETF CAD-Hedged,4841.524
-CVD.TO,BlackRock iShares Convertible Bond Index ETF,2898.8572
-CWO.NE,BlackRock iShares Emerging Markets Fundamental Index ETF,1425.3333
-CWW.TO,BlackRock iShares Global Water Index ETF,3206.5713
+CSD.TO,BlackRock iShares Short Duration High Income ETF CAD-Hedged,2401.4
+CSY.TO,CI First Asset Core Canadian Equity Income Class ETF,73.5
+CUD.TO,BlackRock iShares US Dividend Growers Index ETF CAD-Hedged,4696.1
+CVD.TO,BlackRock iShares Convertible Bond Index ETF,9623.3
+CWO.NE,BlackRock iShares Emerging Markets Fundamental Index ETF,2725.6
+CWW.TO,BlackRock iShares Global Water Index ETF,8026.95
 CXF.TO,CI First Asset Canadian Convertible Bond ETF,3225.7727
-CYBR-B.TO,Evolve Cyber Security Index Fund  Unhedged,1491.0
-CYBR-U.TO,Evolve Cyber Security Index Fund USD Unhedged,254.1429
-CYBR.TO,Evolve Cyber Security Index Fund  Hedged,7241.0474
-CYH.TO,BlackRock iShares Global Monthly Dividend Index ETF CAD-Hedged,4391.8096
-DANC.TO,Desjardins Alt Long/Short Equity Market Neutral ETF,46231.094
-DATA-B.TO,Evolve Cloud Computing Index Fund ETF  Unhedged,0.0
-DATA.TO,Evolve Cloud Computing Index Fund ETF Hedged,0.0
-DCC.TO,Desjardins 1-5 year Laddered Canadian Corporate Bond Index ETF,1767.9048
-DCG.TO,Desjardins 1-5 year Laddered Canadian Government Bond Index ETF,1138.6667
-DCP.TO,Desjardins Canadian Preferred Share Index ETF,146.619
-DCS.TO,Desjardins Canadian Short Term Bond Index ETF,77.4762
-DCU.TO,Desjardins Canadian Universe Bond Index ETF,152.1429
-DFC.TO,Desjardins Canada Multifactor-Controlled Volatility ETF,234.5238
-DFD.TO,Desjardins Developed ex-USA ex-Canada Multifactor Cont Volatility ETF,146.9524
-DFE.TO,Desjardins Emerging Markets Multifactor-Controlled Volatility ETF,150.9524
-DFU.TO,Desjardins USA Multifactor-Controlled Volatility ETF,606.6667
-DGR-B.TO,CI Investments Inc - CI WisdomTree U.S. Qty Divi Growth Index ETF(Unhedged Units),797.7143
-DGR.TO,CI Investments Inc - CI WisdomTree U.S. Qty Divi Growth Index ETF(Hedged Units),896.3333
-DGRC.TO,CI Investments Inc - CI WisdomTree Canada Quality Dividend Growth Index ETF,9260.333
-DISC.TO,BMO Global Consumer Discretionary Hedged to CAD Index ETF,2126.762
+CYBR-B.TO,Evolve Cyber Security Index Fund  Unhedged,2049.9
+CYBR-U.TO,Evolve Cyber Security Index Fund USD Unhedged,98.8
+CYBR.TO,Evolve Cyber Security Index Fund  Hedged,10413.25
+CYH.TO,BlackRock iShares Global Monthly Dividend Index ETF CAD-Hedged,10358.5
+DANC.TO,Desjardins Alt Long/Short Equity Market Neutral ETF,7520.35
+DATA-B.TO,Evolve Cloud Computing Index Fund ETF  Unhedged,1321.6667
+DATA.TO,Evolve Cloud Computing Index Fund ETF Hedged,11685.6
+DCC.TO,Desjardins 1-5 year Laddered Canadian Corporate Bond Index ETF,869.05
+DCG.TO,Desjardins 1-5 year Laddered Canadian Government Bond Index ETF,2524.85
+DCP.TO,Desjardins Canadian Preferred Share Index ETF,381.85
+DCS.TO,Desjardins Canadian Short Term Bond Index ETF,163.0
+DCU.TO,Desjardins Canadian Universe Bond Index ETF,244.1
+DFC.TO,Desjardins Canada Multifactor-Controlled Volatility ETF,266.55
+DFD.TO,Desjardins Developed ex-USA ex-Canada Multifactor Cont Volatility ETF,230.5
+DFE.TO,Desjardins Emerging Markets Multifactor-Controlled Volatility ETF,501.8
+DFU.TO,Desjardins USA Multifactor-Controlled Volatility ETF,1093.15
+DGR-B.TO,CI Investments Inc - CI WisdomTree U.S. Qty Divi Growth Index ETF(Unhedged Units),1713.75
+DGR.TO,CI Investments Inc - CI WisdomTree U.S. Qty Divi Growth Index ETF(Hedged Units),606.9
+DGRC.TO,CI Investments Inc - CI WisdomTree Canada Quality Dividend Growth Index ETF,20111.3
+DISC.TO,BMO Global Consumer Discretionary Hedged to CAD Index ETF,2912.95
 DIVS.TO,Evolve Active Canadian Preferred Share Fund  Unhedged,5097.8
-DLR.TO,Horizons US Dollar Currency ETF,549858.1
-DQD.TO,CI Investments Inc - CI WisdomTree U.S. Quality Dividend Growth Variably Hedged Index ETF,1024.0476
-DQI.TO,CI Investments Inc - CI WisdomTree International Qty Divi Growth Variably Hedged Index ETF,1571.4286
-DRCU.TO,Desjardins RI Active Canadian Bond - Low CO2 ETF,792.4762
-DRFC.TO,Desjardins RI Canada Multifactor - Low CO2 ETF,419.9048
-DRFD.TO,Desjardins RI Developed ex USA ex-Canada Multifactor - Low CO2 ETF,80.619
-DRFE.TO,Desjardins RI Emerging Markets Multifactor Low CO2 ETF,244.4762
-DRFG.TO,Desjardins RI Global Multifactor Fossil Fuel Reserves Free ETF,507.381
-DRFU.TO,Desjardins RI USA Multifactor - Low CO2 ETF,11.6667
-DRMC.TO,Desjardins RI Canada Low CO2 Index ETF,759.1905
-DRMD.TO,Desjardins RI Developed ex USA ex-Canada - Low CO2 Index ETF,71.4286
-DRMU.TO,Desjardins RI USA Low CO2 Index ETF,1767.619
-DWG-U.NE,Invesco DWA Global Momentum Unhedged Index ETF,0.0
-DXB.TO,Dynamic Active Tactical Bond ETF,6660.9526
-DXC.TO,Dynamic Active Canadian Dividend ETF,6887.524
-DXF.TO,Dynamic Active Global Financial Services ETF,575.619
-DXG.TO,Dynamic Active Global Dividend ETF,32281.904
-DXM.TO,CI First Asset Morningstar Canada Dividend Target 30 Index ETF,418.5238
-DXN.TO,Dynamic Active Global Infrastructure ETF,2704.7144
+DLR.TO,Horizons US Dollar Currency ETF,750554.44
+DQD.TO,CI Investments Inc - CI WisdomTree U.S. Quality Dividend Growth Variably Hedged Index ETF,756.75
+DQI.TO,CI Investments Inc - CI WisdomTree International Qty Divi Growth Variably Hedged Index ETF,617.0
+DRCU.TO,Desjardins RI Active Canadian Bond - Low CO2 ETF,1149.6
+DRFC.TO,Desjardins RI Canada Multifactor - Low CO2 ETF,348.3
+DRFD.TO,Desjardins RI Developed ex USA ex-Canada Multifactor - Low CO2 ETF,129.55
+DRFE.TO,Desjardins RI Emerging Markets Multifactor Low CO2 ETF,207.45
+DRFG.TO,Desjardins RI Global Multifactor Fossil Fuel Reserves Free ETF,859.55
+DRFU.TO,Desjardins RI USA Multifactor - Low CO2 ETF,0.25
+DRMC.TO,Desjardins RI Canada Low CO2 Index ETF,1263.8
+DRMD.TO,Desjardins RI Developed ex USA ex-Canada - Low CO2 Index ETF,144.65
+DRMU.TO,Desjardins RI USA Low CO2 Index ETF,744.0
+DWG-U.NE,Invesco DWA Global Momentum Unhedged Index ETF,1006.05
+DXB.TO,Dynamic Active Tactical Bond ETF,11972.35
+DXC.TO,Dynamic Active Canadian Dividend ETF,6154.05
+DXF.TO,Dynamic Active Global Financial Services ETF,1017.85
+DXG.TO,Dynamic Active Global Dividend ETF,56240.55
+DXM.TO,CI First Asset Morningstar Canada Dividend Target 30 Index ETF,455.1
+DXN.TO,Dynamic Active Global Infrastructure ETF,4810.7
 DXO.TO,Dynamic Active Crossover Bond ETF,0.0
-DXP.TO,Dynamic Active Preferred Shares ETF,15857.238
-DXU.TO,Dynamic Active U.S. Dividend ETF,8759.095
-DXV.TO,Dynamic Active Investment Grade Floating Rate ETF,907.2857
-DXW.TO,Dynamic Active International Dividend ETF,11296.429
-DXZ.TO,Dynamic Active U.S. Mid-Cap ETF,1936.6667
-EAAI-U.NE,Emerge ARK AI & Big Data ETF,195.4286
-EAAI.NE,Emerge ARK AI & Big Data ETF,15442.429
-EAFT.NE,Emerge ARK Fintech Innovation ETF,18637.0
-EAGB-U.NE,Emerge ARK Genomics & Biotech ETF,611.9048
-EAGB.NE,Emerge ARK Genomics & Biotech ETF,40163.19
-EARK-U.NE,Emerge ARK Global Disruptive Innovation ETF,939.6667
-EARK.NE,Emerge ARK Global Disruptive Innovation ETF,96733.71
-EARN.TO,Evolve Active Global Fixed Income Fund Hedged,279.9524
-EAUT-U.NE,Emerge ARK Autonomous Tech & Robotics ETF,205.0952
-EAUT.NE,Emerge ARK Autonomous Tech & Robotics ETF,11974.714
-EDGE-U.TO,Evolve Innovation Index Fund ETF  Unhedged,0.0
+DXP.TO,Dynamic Active Preferred Shares ETF,33093.75
+DXU.TO,Dynamic Active U.S. Dividend ETF,6870.35
+DXV.TO,Dynamic Active Investment Grade Floating Rate ETF,138.2
+DXW.TO,Dynamic Active International Dividend ETF,6097.25
+DXZ.TO,Dynamic Active U.S. Mid-Cap ETF,1290.65
+EAAI-U.NE,Emerge ARK AI & Big Data ETF,264.8
+EAAI.NE,Emerge ARK AI & Big Data ETF,21667.2
+EAFT.NE,Emerge ARK Fintech Innovation ETF,19651.15
+EAGB-U.NE,Emerge ARK Genomics & Biotech ETF,1749.15
+EAGB.NE,Emerge ARK Genomics & Biotech ETF,57770.5
+EARK-U.NE,Emerge ARK Global Disruptive Innovation ETF,1964.85
+EARK.NE,Emerge ARK Global Disruptive Innovation ETF,132843.25
+EARN.TO,Evolve Active Global Fixed Income Fund Hedged,1241.8
+EAUT-U.NE,Emerge ARK Autonomous Tech & Robotics ETF,41.6
+EAUT.NE,Emerge ARK Autonomous Tech & Robotics ETF,23601.4
+EDGE-U.TO,Evolve Innovation Index Fund ETF  Unhedged,359.0
 EDGE.TO,Evolve Innovation Index Fund Hedged,0.0
-EDGF.TO,Brompton Funds Ltd - Brompton European Dividend Growth ETF,1404.7144
-EGIF.TO,Exemplar Growth and Income Fund Series ETF units,153.3333
-EHE-B.TO,CI WisdomTree Europe Hedged Equity Index ETF Unhedged,1090.4762
-EHE.TO,CI Investments Inc - CI WisdomTree Europe Hedged Equity Index ETF,500.0
+EDGF.TO,Brompton Funds Ltd - Brompton European Dividend Growth ETF,2494.75
+EGIF.TO,Exemplar Growth and Income Fund Series ETF units,197.55
+EHE-B.TO,CI WisdomTree Europe Hedged Equity Index ETF Unhedged,2125.0
+EHE.TO,CI Investments Inc - CI WisdomTree Europe Hedged Equity Index ETF,739.55
 ELV.TO,Invesco S&P Emerging Markets Low Volatility Index ETF,0.0
-EMV-B.TO,CI Investments Inc - CI WisdomTree Emerging Mkts Divi Index ETF(Unhedged Units),120.6667
-EQE-F.NE,Invesco S&P Europe 350 Equal Weight Index ETF CAD-hedged,3.5714
-EQE.NE,Invesco S&P Europe 350 Equal Weight Index ETF CAD-unhedged,380.0
-EQL-F.TO,Invesco S&P 500 Equal Weight Index ETF CAD Hedged,10205.19
+EMV-B.TO,CI Investments Inc - CI WisdomTree Emerging Mkts Divi Index ETF(Unhedged Units),792.8
+EQE-F.NE,Invesco S&P Europe 350 Equal Weight Index ETF CAD-hedged,8.0
+EQE.NE,Invesco S&P Europe 350 Equal Weight Index ETF CAD-unhedged,56.15
+EQL-F.TO,Invesco S&P 500 Equal Weight Index ETF CAD Hedged,10926.0
 EQL-U.TO,Invesco S&P 500 Equal Weight Index ETF,1603.0
-EQL.TO,Invesco S&P 500 Equal Weight Index ETF,8503.143
-ESG-F.TO,Invesco S&P 500 ESG Index ETF Hedged,842.1905
-ESG.TO,Invesco S&P 500 ESG Index ETF CAD units,1521.0952
-ESGA.TO,BMO MSCI Canada ESG Leaders Index ETF,1778.2856
-ESGB.TO,BMO ESG Corporate Bond Index ETF,1160.4286
-ESGC.TO,Invesco S&P/TSX Composite ESG Index ETF,402.9048
-ESGE.TO,BMO MSCI EAFE ESG Leaders Index ETF,2832.1428
-ESGF.TO,BMO ESG US Corporate Bond Hedged to CAD Index ETF,626.4286
+EQL.TO,Invesco S&P 500 Equal Weight Index ETF,7865.5
+ESG-F.TO,Invesco S&P 500 ESG Index ETF Hedged,1766.6
+ESG.TO,Invesco S&P 500 ESG Index ETF CAD units,2253.4
+ESGA.TO,BMO MSCI Canada ESG Leaders Index ETF,1770.35
+ESGB.TO,BMO ESG Corporate Bond Index ETF,577.2
+ESGC.TO,Invesco S&P/TSX Composite ESG Index ETF,293.95
+ESGE.TO,BMO MSCI EAFE ESG Leaders Index ETF,2995.9
+ESGF.TO,BMO ESG US Corporate Bond Hedged to CAD Index ETF,275.4
 ESGG.TO,BMO MSCI Global ESG Leaders Index ETF,621.1
-ESGY.TO,BMO MSCI USA ESG Leaders Index ETF,1145.9048
-ETHI.TO,Horizons ETFs Management Canada Inc (Class A),2991.1904
-ETP-A.TO,First Trust Global Risk Managed Income Index ETF - Advisor Class,15.9524
-ETP.TO,First Trust Global Risk Managed Income Index ETF,794.5238
-EUR-A.TO,First Trust AlphaDEX European Div Index ETF CAD-Hed-Advisor Cl,4.7619
-EUR.TO,First Trust AlphaDEX European Dividend Index ETF CAD-Hedged,135.9048
-FAI.TO,CI First Asset Active Utility & Infrastructure ETF,4080.8572
-FAO-U.TO,CI First Asset Active Credit ETF,576.0952
+ESGY-F.TO,BMO MSCI USA ESG Leaders Index ETF Hedged,25.0
+ESGY.TO,BMO MSCI USA ESG Leaders Index ETF,3747.0
+ETHI.TO,Horizons ETFs Management Canada Inc (Class A),5894.65
+ETP-A.TO,First Trust Global Risk Managed Income Index ETF - Advisor Class,50.1
+ETP.TO,First Trust Global Risk Managed Income Index ETF,1165.0
+EUR-A.TO,First Trust AlphaDEX European Div Index ETF CAD-Hed-Advisor Cl,5.0
+EUR.TO,First Trust AlphaDEX European Dividend Index ETF CAD-Hedged,80.9
+FAI.TO,CI First Asset Active Utility & Infrastructure ETF,5449.6
+FAO-U.TO,CI First Asset Active Credit ETF,925.0
 FAO.TO,CI First Asset Active Credit ETF,819.6
-FBE.TO,CI First Asset Canadian Buyback Index ETF,674.8095
-FBU.TO,CI First Asset U.S. Buyback Index ETF,601.619
-FCCB.TO,Fidelity Systematic Canadian Bond Index ETF Ser L,921.9524
-FCCD.TO,Fidelity Canadian High Dividend Index ETF,2085.0
-FCCL.TO,Fidelity Canadian Low Volatility Index ETF,1262.8094
-FCCM.TO,Fidelity Canadian Momentum Index ETF Ser L,129.7143
-FCCQ.TO,Fidelity Canadian High Quality Index ETF,441.4286
-FCCV.TO,Fidelity Canadian Value Index ETF Ser L,224.2857
-FCGB.TO,Fidelity Global Core Plus Bond ETF Ser L,28429.38
-FCGI.TO,Fidelity Global Monthly High Income ETF  Ser L,458.4286
-FCHH.TO,Fidelity Systematic U.S. High Yield Bnd Curr Neutral ETF Ser L,221.9524
-FCHY.TO,Fidelity Systematic U.S. High Yield Bond ETF Ser L,486.0952
-FCID.TO,Fidelity International High Dividend Index ETF,2331.4763
-FCIG.TO,Fidelity Global Investment Grade Bond ETF,5516.6665
-FCIL.TO,Fidelity International Low Volatility Index ETF,274.0952
-FCIM.TO,Fidelity International Momentum Index ETF Ser L,1290.7144
-FCIQ.TO,Fidelity International High Quality Index ETF,21208.0
-FCIV.TO,Fidelity International Value Index ETF Ser L,1702.2382
-FCLH.TO,Fidelity U.S. Low Volatility Currency Neutral Index ETF,904.5238
+FBAL.NE,Fidelity All-in-One Balanced ETF,16730.75
+FBE.TO,CI First Asset Canadian Buyback Index ETF,2060.3
+FBU.TO,CI First Asset U.S. Buyback Index ETF,802.25
+FCCB.TO,Fidelity Systematic Canadian Bond Index ETF Ser L,2106.0
+FCCD.TO,Fidelity Canadian High Dividend Index ETF,7423.75
+FCCL.TO,Fidelity Canadian Low Volatility Index ETF,744.05
+FCCM.TO,Fidelity Canadian Momentum Index ETF Ser L,50.45
+FCCQ.TO,Fidelity Canadian High Quality Index ETF,764.3
+FCCV.TO,Fidelity Canadian Value Index ETF Ser L,205.45
+FCGB.TO,Fidelity Global Core Plus Bond ETF Ser L,24331.4
+FCGI.TO,Fidelity Global Monthly High Income ETF  Ser L,863.95
+FCHH.TO,Fidelity Systematic U.S. High Yield Bnd Curr Neutral ETF Ser L,110.0
+FCHY.TO,Fidelity Systematic U.S. High Yield Bond ETF Ser L,409.55
+FCID.TO,Fidelity International High Dividend Index ETF,1310.05
+FCIG.TO,Fidelity Global Investment Grade Bond ETF,10679.55
+FCIL.TO,Fidelity International Low Volatility Index ETF,159.7
+FCIM.TO,Fidelity International Momentum Index ETF Ser L,1025.1
+FCIQ.TO,Fidelity International High Quality Index ETF,25967.3
+FCIV.TO,Fidelity International Value Index ETF Ser L,1794.9
+FCLH.TO,Fidelity U.S. Low Volatility Currency Neutral Index ETF,1080.05
 FCMH.TO,Fidelity U.S. Momentum Currency Neutral Index ETF Ser L,0.0
 FCMI.TO,Fidelity Canadian Monthly High Income ETF Ser L,0.0
-FCMO.TO,Fidelity U.S. Momentum Index ETF Ser L,142.3333
+FCMO.TO,Fidelity U.S. Momentum Index ETF Ser L,286.75
 FCQH.TO,Fidelity U.S. High Quality Currency Neutral Index ETF,0.0
-FCRH.TO,Fidelity U.S. Div. for Rising Rates Currency Ntrl Index ETF,219.5714
-FCRR.TO,Fidelity U.S. Dividend for Rising Rates Index ETF,809.5238
-FCSB.TO,Fidelity Canadian Short Term Corporate Bond ETF Ser L,37477.19
-FCSW.NE,Fidelity Sustainable World ETF,10979.857
+FCRH.TO,Fidelity U.S. Div. for Rising Rates Currency Ntrl Index ETF,209.15
+FCRR.TO,Fidelity U.S. Dividend for Rising Rates Index ETF,2112.55
+FCSB.TO,Fidelity Canadian Short Term Corporate Bond ETF Ser L,33920.35
+FCSW.NE,Fidelity Sustainable World ETF,14502.35
 FCUD.TO,Fidelity U.S. High Dividend Index ETF,2266.8572
-FCUH.TO,Fidelity U.S. High Dividend Currency Neutral Index ETF,2347.762
-FCUL.TO,Fidelity U.S. Low Volatility Index ETF,1099.7144
-FCUQ.TO,Fidelity U.S. High Quality Index ETF,1952.2382
-FCUV.TO,Fidelity U.S. Value Index ETF Ser L,268.7619
-FCVH.TO,Fidelity U.S. Value Currency Neutral Index ETF Ser L,45.8095
+FCUH.TO,Fidelity U.S. High Dividend Currency Neutral Index ETF,2097.25
+FCUL.TO,Fidelity U.S. Low Volatility Index ETF,1273.55
+FCUQ.TO,Fidelity U.S. High Quality Index ETF,3960.95
+FCUV.TO,Fidelity U.S. Value Index ETF Ser L,703.2
+FCVH.TO,Fidelity U.S. Value Currency Neutral Index ETF Ser L,492.45
 FDE-A.TO,First Trust AlphaDEX Emerging Market Div ETFCAD-Hedged-Advisor Class,0.0
-FDE.TO,First Trust AlphaDEX Emerging Market Dividend ETF CAD-Hedged,255.9048
-FDV.TO,CI First Asset Active Canadian Dividend ETF,135.0952
-FEBB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF-Feb,885.0476
-FGB.TO,CI First Asset Short Term Government Bond Index Class ETF,4011.6667
-FGGE.TO,Franklin Global Growth Active ETF,4908.2856
-FGO-U.TO,CI First Asset Enhanced Government Bond ETF,9424.905
-FGO.TO,CI First Asset Enhanced Government Bond ETF,25476.143
-FHB.TO,CI First Asset European Bank ETF,3482.1428
-FHC-F.TO,First Trust AlphaDE U.S. Consumer Staples Sector Index ETF Hedged,380.9524
-FHC.TO,First Trust AlphaDEX U.S. Consumer Staples Sector Index ETF,4.7619
-FHD.TO,First Trust AlphaDEX U.S. Consumer Discretionary Sector Index ETF,23.1429
-FHE.TO,First Trust AlphaDEX U.S. Energy Sector Index ETF,569.6667
-FHF.TO,First Trust AlphaDEX U.S. Financial Sector Index ETF,123.7143
-FHG-F.TO,First Trust AlphaDEX U.S. Industrials Sector Index ETF Hedged,1.7143
-FHG.TO,First Trust AlphaDEX U.S. Industrials Sector Index ETF,88.0952
-FHH-F.TO,First Trust AlphaDEX U.S. Health Care Sector Index ETF Hedged,70.1429
-FHH.TO,First Trust AlphaDEX U.S. Health Care Sector Index ETF,605.4286
-FHI-B.TO,CI First Asset Health Care Giants Covered Call ETF Unhedged units,129.6667
-FHM.TO,First Trust AlphaDEX U.S. Materials Sector Index ETF,118.0952
+FDE.TO,First Trust AlphaDEX Emerging Market Dividend ETF CAD-Hedged,304.7
+FDV.TO,CI First Asset Active Canadian Dividend ETF,386.2
+FEBB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF-Feb,2704.85
+FGB.TO,CI First Asset Short Term Government Bond Index Class ETF,4598.8
+FGGE.TO,Franklin Global Growth Active ETF,8733.7
+FGO-U.TO,CI First Asset Enhanced Government Bond ETF,3259.25
+FGO.TO,CI First Asset Enhanced Government Bond ETF,16352.05
+FGRO.NE,Fidelity All-in-One Growth ETF,13190.0
+FHB.TO,CI First Asset European Bank ETF,1611.35
+FHC-F.TO,First Trust AlphaDE U.S. Consumer Staples Sector Index ETF Hedged,55.05
+FHC.TO,First Trust AlphaDEX U.S. Consumer Staples Sector Index ETF,399.1
+FHD.TO,First Trust AlphaDEX U.S. Consumer Discretionary Sector Index ETF,413.75
+FHE.TO,First Trust AlphaDEX U.S. Energy Sector Index ETF,1387.1
+FHF.TO,First Trust AlphaDEX U.S. Financial Sector Index ETF,545.95
+FHG-F.TO,First Trust AlphaDEX U.S. Industrials Sector Index ETF Hedged,166.3
+FHG.TO,First Trust AlphaDEX U.S. Industrials Sector Index ETF,1282.55
+FHH-F.TO,First Trust AlphaDEX U.S. Health Care Sector Index ETF Hedged,52.25
+FHH.TO,First Trust AlphaDEX U.S. Health Care Sector Index ETF,1744.35
+FHI-B.TO,CI First Asset Health Care Giants Covered Call ETF Unhedged units,169.1
+FHM.TO,First Trust AlphaDEX U.S. Materials Sector Index ETF,150.9
 FHQ-F.TO,First Trust AlphaDEX U.S. Technology Sector Index ETF Hedged,106.85
-FHQ.TO,First Trust AlphaDEX U.S. Technology Sector Index ETF,505.0
+FHQ.TO,First Trust AlphaDEX U.S. Technology Sector Index ETF,3428.45
 FHU.TO,First Trust AlphaDEX U.S. Utilities Sector Index ETF,0.0
-FIE.TO,BlackRock iShares Canadian Financial Monthly Income ETF,164876.23
+FIE.TO,BlackRock iShares Canadian Financial Monthly Income ETF,274743.94
 FIG-U.TO,CI First Asset Investment Grade Bond ETF Trust Units,0.0
-FIG.TO,CI First Asset Investment Grade Bond ETF,27298.762
-FINT.TO,First Trust International Capital Strength ETF,122.4286
-FIXD.NE,Evolve Active Core Fixed Income Fund,673.8571
-FLAM.TO,Franklin FTSE U.S. Index ETF,1324.143
-FLB.TO,CI First Asset Long Duration Fixed Income ETF,4.3333
-FLBA.TO,Franklin Liberty Core Balanced ETF,328.7619
-FLCD.TO,Franklin FTSE Canada All Cap Index ETF,580.7143
-FLCI.TO,Franklin Liberty Canadian Investment Grade Corporate ETF,1272.2856
-FLCP.TO,Franklin Liberty Core Plus Bond ETF,453.619
-FLDM.TO,Franklin LibertyQT International Equity Index ETF,454.7619
-FLEM.TO,Franklin LibertyQT Emerging Markets Index ETF,400.0
-FLGA.TO,Franklin Liberty Global Aggregate Bond ETF CAD-Hedged,8922.333
-FLGD.TO,Franklin LibertyQT Global Dividend Index ETF,721.9048
-FLI.TO,CI First Asset U.S. & Canada Lifeco Income ETF,14938.048
-FLJA.TO,Franklin FTSE Japan Index ETF,2450.0476
-FLOT-B.TO,Purpose Floating Rate Income Fund Non-Currency Hedged CAD ETF,0.0
-FLOT-U.TO,Purpose Floating Rate Incm Fnd Non-Crncy Hdgd USD ETF,28.5714
-FLOT.TO,Purpose Floating Rate Income Fund ETF,4566.095
-FLRM.TO,Franklin Liberty Risk Managed Canadian Equity ETF,3570.2856
-FLSD.TO,Franklin Liberty Short Duration Bond ETF,797.619
-FLUI.TO,Franklin Liberty U.S. Investment Grade Corporate ETF CAD Hedged,1415.2382
-FLUR.TO,Franklin FTSE Europe ex U.K. Index ETF,466.9048
-FLUS.TO,Franklin LibertyQT U.S. Equity Index ETF,1065.6667
-FOUR.TO,Horizons Industry 4.0 Index ETF,526.4286
-FPR.TO,CI First Asset Preferred Share ETF,644.5238
-FQC.TO,CI First Asset MSCI Canada Quality Index Class ETF,2958.1428
-FSB-U.TO,CI First Asset Enhanced Short Duration Bond ETF,4463.524
-FSB.TO,CI First Asset Enhanced Short Duration Bond ETF,24864.38
-FSF.TO,CI First Asset Global Financial Sector ETF,116.8571
-FSL-A.TO,First Trust Senior Loan ETF CAD-Hedged - Advisor Class,0.0476
-FSL.TO,First Trust Senior Loan ETF CAD-Hedged,638.1429
-FSR.TO,First Trust Dorsey Wright U.S. Sector Rotation Index ETF,97.4286
-FST-A.TO,First Trust Canadian Capital Strength ETF Advisor Class,290.381
-FST.TO,First Trust Canadian Capital Strength ETF Common,2558.6667
-FTB.TO,First Trust Tactical Bond Index ETF,91.1905
-FUD-A.TO,First Trust Value Line Dividend Index ETF CAD-Hedged-Advisor Class,57.1429
-FUD.TO,First Trust Value Line Dividend Index ETF CAD-Hedged,329.0476
-FXM.TO,CI First Asset Morningstar Canada Value Index ETF,1742.143
-GBAL.TO,iShares ESG Balanced ETF Portfolio,771.7143
-GCNS.TO,iShares ESG Conservative Balanced ETF Portfolio,451.1429
-GDEP-B.TO,Guardian Directed Equity Path ETF Unhedged,7267.6665
-GDEP.TO,Guardian Directed Equity Path ETF Hedged,8389.762
-GDPY-B.TO,Guardian Directed Premium Yield ETF Unhedged,7775.7144
-GDPY.TO,Guardian Directed Premium Yield ETF Hedged,9880.477
-GEQT.TO,iShares ESG Equity ETF Portfolio,2772.8096
-GGRO.TO,iShares ESG Growth ETF Portfolio,1185.0952
-GHD-F.NE,Invesco S&P Global ex. Can High Div Low Vol Index ETF,858.9524
-GHD.NE,Invesco S&P Global ex. Canada High Dividend Low Vol Indx ETF,235.1905
-GIGR-B.TO,Guardian i3 Global REIT ETF Unhedged,484.6667
-GIGR.TO,Guardian i3 Global REIT ETF Hedged,417.381
-GIQG-B.TO,Guardian i3 Global Quality Growth ETF Unhedged,1086.7144
-GIQG.TO,Guardian i3 Global Quality Growth ETF Hedged,1721.3333
-GIQU-B.TO,Guardian i3 US Quality Growth ETF Unhedged,184.4286
-GIQU.TO,Guardian i3 US Quality Growth ETF  Hedged,160.8571
-GLC.NE,Evolve Funds Group Inc - Evolve Gold Miners Fund ETF,145.8571
-GLDE-U.NE,Ninepoint Gold and Precious Minerals Fund ETF,63.3333
-GLDE.NE,Ninepoint Gold and Precious Minerals Fund ETF,295.8571
-HAB.TO,Horizons ETFs Management Canada Inc (Class E),12439.714
-HAC.TO,Horizons ETFs Management Canada Inc (Class E),6602.381
+FIG.TO,CI First Asset Investment Grade Bond ETF,24942.0
+FINT.TO,First Trust International Capital Strength ETF,774.4
+FIXD.NE,Evolve Active Core Fixed Income Fund,1320.3
+FLAM.TO,Franklin FTSE U.S. Index ETF,1152.5
+FLB.TO,CI First Asset Long Duration Fixed Income ETF,17.5
+FLBA.TO,Franklin Liberty Core Balanced ETF,43.0
+FLCD.TO,Franklin FTSE Canada All Cap Index ETF,307.1
+FLCI.TO,Franklin Liberty Canadian Investment Grade Corporate ETF,1727.15
+FLCP.TO,Franklin Liberty Core Plus Bond ETF,1050.95
+FLDM.TO,Franklin LibertyQT International Equity Index ETF,1339.25
+FLEM.TO,Franklin LibertyQT Emerging Markets Index ETF,980.15
+FLGA.TO,Franklin Liberty Global Aggregate Bond ETF CAD-Hedged,10045.15
+FLGD.TO,Franklin LibertyQT Global Dividend Index ETF,1667.75
+FLI.TO,CI First Asset U.S. & Canada Lifeco Income ETF,15607.15
+FLJA.TO,Franklin FTSE Japan Index ETF,3500.25
+FLOT-B.TO,Purpose Floating Rate Income Fund Non-Currency Hedged CAD ETF,55.0
+FLOT-U.TO,Purpose Floating Rate Incm Fnd Non-Crncy Hdgd USD ETF,15.0
+FLOT.TO,Purpose Floating Rate Income Fund ETF,3035.6
+FLRM.TO,Franklin Liberty Risk Managed Canadian Equity ETF,387.2
+FLSD.TO,Franklin Liberty Short Duration Bond ETF,612.85
+FLUI.TO,Franklin Liberty U.S. Investment Grade Corporate ETF CAD Hedged,1771.0
+FLUR.TO,Franklin FTSE Europe ex U.K. Index ETF,226.05
+FLUS.TO,Franklin LibertyQT U.S. Equity Index ETF,2722.9
+FOUR.TO,Horizons Industry 4.0 Index ETF,1917.9
+FPR.TO,CI First Asset Preferred Share ETF,1180.5
+FQC.TO,CI First Asset MSCI Canada Quality Index Class ETF,7873.0
+FSB-U.TO,CI First Asset Enhanced Short Duration Bond ETF,564.15
+FSB.TO,CI First Asset Enhanced Short Duration Bond ETF,22631.25
+FSF.TO,CI First Asset Global Financial Sector ETF,233.9
+FSL-A.TO,First Trust Senior Loan ETF CAD-Hedged - Advisor Class,120.4
+FSL.TO,First Trust Senior Loan ETF CAD-Hedged,944.05
+FSR.TO,First Trust Dorsey Wright U.S. Sector Rotation Index ETF,37.85
+FST-A.TO,First Trust Canadian Capital Strength ETF Advisor Class,2471.75
+FST.TO,First Trust Canadian Capital Strength ETF Common,4057.8
+FTB.TO,First Trust Tactical Bond Index ETF,77.0
+FUD-A.TO,First Trust Value Line Dividend Index ETF CAD-Hedged-Advisor Class,193.6
+FUD.TO,First Trust Value Line Dividend Index ETF CAD-Hedged,795.3
+FXM.TO,CI First Asset Morningstar Canada Value Index ETF,2353.65
+GBAL.TO,iShares ESG Balanced ETF Portfolio,2669.65
+GCNS.TO,iShares ESG Conservative Balanced ETF Portfolio,575.5
+GDEP-B.TO,Guardian Directed Equity Path ETF Unhedged,1477.6
+GDEP.TO,Guardian Directed Equity Path ETF Hedged,2434.75
+GDPY-B.TO,Guardian Directed Premium Yield ETF Unhedged,3145.0
+GDPY.TO,Guardian Directed Premium Yield ETF Hedged,4810.35
+GEQT.TO,iShares ESG Equity ETF Portfolio,2140.95
+GGRO.TO,iShares ESG Growth ETF Portfolio,1876.25
+GHD-F.NE,Invesco S&P Global ex. Can High Div Low Vol Index ETF,746.95
+GHD.NE,Invesco S&P Global ex. Canada High Dividend Low Vol Indx ETF,125.6
+GIGR-B.TO,Guardian i3 Global REIT ETF Unhedged,25.8
+GIGR.TO,Guardian i3 Global REIT ETF Hedged,36.35
+GIQG-B.TO,Guardian i3 Global Quality Growth ETF Unhedged,278.7
+GIQG.TO,Guardian i3 Global Quality Growth ETF Hedged,1165.5
+GIQU-B.TO,Guardian i3 US Quality Growth ETF Unhedged,122.8
+GIQU.TO,Guardian i3 US Quality Growth ETF  Hedged,230.6
+GLC.NE,Evolve Funds Group Inc - Evolve Gold Miners Fund ETF,6290.05
+GLDE-U.NE,Ninepoint Gold and Precious Minerals Fund ETF,61.5
+GLDE.NE,Ninepoint Gold and Precious Minerals Fund ETF,33.15
+HAB.TO,Horizons ETFs Management Canada Inc (Class E),14129.8
+HAC.TO,Horizons ETFs Management Canada Inc (Class E),8351.7
 HAD.TO,Horizons ETFs Management Canada Inc (Class E),0.0
-HAF.TO,Horizons ETFs Management Canada Inc (Class E),573.0952
-HAJ.TO,Horizons ETFs Management Canada Inc (Class E),842.1905
-HAL.TO,Horizons ETFs Management Canada Inc (Class E),9156.714
-HARB-J.TO,Horizons Tactical Absolute Return Bond ETF Dividend Ser,59.25
-HARB.TO,Horizons Tactical Absolute Return Bond ETF Total Return Ser,828.125
-HARC.TO,Horizons Absolute Return Global Currency ETF,419.0952
-HAU.TO,Horizons ETFs Management Canada Inc (Class E),208.4762
-HAZ.TO,Horizons ETFs Management Canada Inc (Class E),3034.4287
-HBA.TO,Hamilton Australian Banks Equal-Weight Index ETF,4090.0476
-HBAL.TO,Horizons Balanced TRI ETF Portfolio Class A,17384.809
-HBB.TO,Horizons Cdn Select Universe Bond ETF,31876.62
-HBD.TO,BetaPro Gold Bullion -2x Daily Bear ETF NEW,2911.9524
-HBF-B.TO,Harvest Brand Leaders Plus Income ETF  Unhedged,105.4762
-HBF-U.TO,Harvest Portfolios Group Inc (Class U),4591.857
-HBF.TO,Harvest Portfolios Group Inc (Class A),20879.809
-HBGD.TO,Horizons ETFs Management Canada Inc (Class A),2305.2856
-HBLK.TO,Blockchain Technologies ETF Class A units,8823.81
-HBU.TO,BetaPro Gold Bullion 2x Daily Bull ETF,9703.714
-HCA.TO,Hamilton Canadian Bank Mean Reversion Index ETF,3286.0476
-HCAL.TO,Hamilton Canadian Bank 1.25x Leverage ETF Class E,26229.143
-HCLN.TO,Harvest Clean Energy ETF,0.0
-HCN.TO,Horizons China High Dividend Yield Index ETF,793.2381
-HCON.TO,Horizons Conservative TRI ETF Portfolio Class A,7061.095
-HCRE.TO,Horizons Equal Weight Canada REIT Index ETF,2785.381
-HDGE.TO,Accelerate Absolute Return Hedge Fund,342.9048
-HED.TO,BetaPro S&P/TSX Capped Energy -2x Daily Bear ETF,222175.28
-HEE.TO,Horizons ETFs Management Canada Inc (Class E),2407.0476
+HAF.TO,Horizons ETFs Management Canada Inc (Class E),1116.85
+HAJ.TO,Horizons ETFs Management Canada Inc (Class E),636.7
+HAL.TO,Horizons ETFs Management Canada Inc (Class E),8721.25
+HARB-J.TO,Horizons Tactical Absolute Return Bond ETF Dividend Ser,359.35
+HARB.TO,Horizons Tactical Absolute Return Bond ETF Total Return Ser,4688.95
+HARC.TO,Horizons Absolute Return Global Currency ETF,20.85
+HAU.TO,Horizons ETFs Management Canada Inc (Class E),61.8
+HAZ.TO,Horizons ETFs Management Canada Inc (Class E),4056.5
+HBA.TO,Hamilton Australian Banks Equal-Weight Index ETF,5494.35
+HBAL.TO,Horizons Balanced TRI ETF Portfolio Class A,21127.95
+HBB.TO,Horizons Cdn Select Universe Bond ETF,16685.3
+HBD.TO,BetaPro Gold Bullion -2x Daily Bear ETF NEW,1562.4
+HBF-B.TO,Harvest Brand Leaders Plus Income ETF  Unhedged,665.05
+HBF-U.TO,Harvest Portfolios Group Inc (Class U),9726.2
+HBF.TO,Harvest Portfolios Group Inc (Class A),33416.65
+HBGD.TO,Horizons ETFs Management Canada Inc (Class A),5864.65
+HBLK.TO,Blockchain Technologies ETF Class A units,24675.55
+HBU.TO,BetaPro Gold Bullion 2x Daily Bull ETF,28665.4
+HCA.TO,Hamilton Canadian Bank Mean Reversion Index ETF,3564.45
+HCAL.TO,Hamilton Canadian Bank 1.25x Leverage ETF Class E,31344.8
+HCLN.TO,Harvest Clean Energy ETF,105359.586
+HCN.TO,Horizons China High Dividend Yield Index ETF,4931.5
+HCON.TO,Horizons Conservative TRI ETF Portfolio Class A,10779.3
+HCRE.TO,Horizons Equal Weight Canada REIT Index ETF,1723.6
+HDGE.TO,Accelerate Absolute Return Hedge Fund,173.9
+HED.TO,BetaPro S&P/TSX Capped Energy -2x Daily Bear ETF,253206.5
+HEE.TO,Horizons ETFs Management Canada Inc (Class E),2934.1
 HEF.TO,Horizons ETFs Management Canada Inc (Class E),1508.05
-HEJ.TO,Horizons ETFs Management Canada Inc (Class E),2604.0952
-HEMB.TO,Horizons Active Emerging Markets Bond ETF Class A,375.7619
-HEP.TO,Horizons ETFs Management Canada Inc (Class E),15699.143
-HERO.TO,Evolve E-Gaming Index ETF  Hedged,8590.857
-HEU.TO,BetaPro S&P/TSX Capped Energy 2x Daily Bull ETF,129395.57
-HEWB.TO,Horizons Equal Weight Canada Banks Index ETF,1821.619
-HEX.TO,Horizons ETFs Management Canada Inc (Class E),2217.2856
-HFD.TO,BetaPro S&P/TSX Capped Financials -2x Daily Bear ETF,19345.715
-HFG.TO,Hamilton Global Financials ETF,1659.1906
+HEJ.TO,Horizons ETFs Management Canada Inc (Class E),1803.4
+HEMB.TO,Horizons Active Emerging Markets Bond ETF Class A,416.6
+HEP.TO,Horizons ETFs Management Canada Inc (Class E),17856.1
+HERO.TO,Evolve E-Gaming Index ETF  Hedged,12415.55
+HEU.TO,BetaPro S&P/TSX Capped Energy 2x Daily Bull ETF,150289.1
+HEWB.TO,Horizons Equal Weight Canada Banks Index ETF,1537.5
+HEX.TO,Horizons ETFs Management Canada Inc (Class E),1393.05
+HFD.TO,BetaPro S&P/TSX Capped Financials -2x Daily Bear ETF,17023.85
+HFG.TO,Hamilton Global Financials ETF,3456.75
 HFP.TO,Horizons ETFs Management Canada Inc (Class E),2831.0
-HFR.TO,Horizons Active Ultra-Short Term Investment Grade Bond ETF -,31818.523
-HFT.TO,Hamilton Financials Innovation ETF Class E,402.0952
-HFU.TO,BetaPro S&P/TSX Capped Financials 2x Daily Bull ETF,2954.9524
-HGD.TO,BetaPro Canadian Gold Miners -2x Daily Bear ETF,501000.25
-HGGG.TO,Harvest Global Gold Giants Index ETF,992.381
-HGR.TO,Harvest Global REIT Leaders Income ETF,3376.5713
-HGRO.TO,Horizons Growth TRI ETF Portfolio,7324.2383
-HGU.TO,BetaPro Canadian Gold Miners 2x Daily Bull ETF,361182.38
-HGY.TO,Horizons ETFs Management Canada Inc (Class E),23439.572
-HHF.TO,Horizons Morningstar Hedge Fund Index ETF,5635.9526
-HHL-B.TO,Harvest Healthcare Leaders Income ETF  Unhedged,1701.143
-HHL-U.TO,Harvest Portfolios Group Inc (Class U),10119.19
-HHL.TO,Harvest Portfolios Group Inc (Class A),130765.81
-HIG.TO,Global Healthcare Income & Growth Fund. - Brompton Global Healthcare Income & Growth ETF,1993.9048
-HII.TO,Horizons Cdn Insider Index ETF,790.7143
-HISA.NE,High Interest Savings Account Fund,124698.05
-HIU.TO,BetaPro S&P 500 Daily Inverse ETF,20672.143
-HIX.TO,BetaPro S&P/TSX 60 Daily Inverse ETF NEW,16643.572
-HLPR.TO,Horizons Laddered Canadian Preferred Share Index ETF,6520.095
-HMJI.TO,BetaPro Marijuana Companies Inverse ETF,1871.2382
-HMJU.TO,BetaPro Marijuana Companies 2x Daily Bull ETF,4632.905
-HMMJ.TO,Horizons Marijuana Life Sciences Index ETF,198383.9
-HMP.TO,AlphaPro Management Inc (Class E),2711.6667
+HFR.TO,Horizons Active Ultra-Short Term Investment Grade Bond ETF -,26994.1
+HFT.TO,Hamilton Financials Innovation ETF Class E,1524.65
+HFU.TO,BetaPro S&P/TSX Capped Financials 2x Daily Bull ETF,5187.65
+HGD.TO,BetaPro Canadian Gold Miners -2x Daily Bear ETF,472930.16
+HGGG.TO,Harvest Global Gold Giants Index ETF,885.5
+HGR.TO,Harvest Global REIT Leaders Income ETF,4722.85
+HGRO.TO,Horizons Growth TRI ETF Portfolio,16130.6
+HGU.TO,BetaPro Canadian Gold Miners 2x Daily Bull ETF,449637.5
+HGY.TO,Horizons ETFs Management Canada Inc (Class E),12430.25
+HHF.TO,Horizons Morningstar Hedge Fund Index ETF,3951.55
+HHL-B.TO,Harvest Healthcare Leaders Income ETF  Unhedged,1725.35
+HHL-U.TO,Harvest Portfolios Group Inc (Class U),12643.55
+HHL.TO,Harvest Portfolios Group Inc (Class A),161699.84
+HIG.TO,Global Healthcare Income & Growth Fund. - Brompton Global Healthcare Income & Growth ETF,2042.9
+HII.TO,Horizons Cdn Insider Index ETF,2699.55
+HISA.NE,High Interest Savings Account Fund,19803.2
+HIU.TO,BetaPro S&P 500 Daily Inverse ETF,26607.45
+HIX.TO,BetaPro S&P/TSX 60 Daily Inverse ETF NEW,7486.75
+HLPR.TO,Horizons Laddered Canadian Preferred Share Index ETF,5672.8
+HMJI.TO,BetaPro Marijuana Companies Inverse ETF,10704.15
+HMJU.TO,BetaPro Marijuana Companies 2x Daily Bull ETF,8707.95
+HMMJ.TO,Horizons Marijuana Life Sciences Index ETF,432147.94
+HMP.TO,AlphaPro Management Inc (Class E),5320.35
 HMUS.NE,Horizons US Marijuana Index ETF,9482.048
-HND.TO,BetaPro Natural Gas Inverse Leveraged Daily Bear ETF,1064566.0
-HNU.TO,BetaPro Natural Gas Leveraged Daily Bull ETF,2286226.0
-HNY.TO,Horizons ETFs Management Canada Inc (Class E),4102.5713
-HOD.TO,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF,187350.58
-HOG.TO,Horizons ETFs Management Canada Inc (Class A),16316.286
-HOU.TO,BetaPro Crude Oil Leveraged Daily Bull ETF,98423.664
-HPF-U.TO,Harvest Portfolios Group Inc (Class U),1186.0952
-HPF.TO,Harvest Portfolios Group Inc (Class A),72218.14
-HPR.TO,Horizons ETFs Management Canada Inc (Class E),100630.336
-HQD.TO,BetaPro NASDAQ-100 -2x Daily Bear ETF NEW,163323.62
-HQU.TO,BetaPro NASDAQ-100 2x Daily Bull ETF,278909.53
+HND.TO,BetaPro Natural Gas Inverse Leveraged Daily Bear ETF,1408874.2
+HNU.TO,BetaPro Natural Gas Leveraged Daily Bull ETF,2262936.8
+HNY.TO,Horizons ETFs Management Canada Inc (Class E),6411.85
+HOD.TO,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF,211207.25
+HOG.TO,Horizons ETFs Management Canada Inc (Class A),20930.45
+HOU.TO,BetaPro Crude Oil Leveraged Daily Bull ETF,133117.4
+HPF-U.TO,Harvest Portfolios Group Inc (Class U),3301.65
+HPF.TO,Harvest Portfolios Group Inc (Class A),83555.95
+HPR.TO,Horizons ETFs Management Canada Inc (Class E),116395.6
+HQD.TO,BetaPro NASDAQ-100 -2x Daily Bear ETF NEW,328125.7
+HQU.TO,BetaPro NASDAQ-100 2x Daily Bull ETF,417889.56
 HRAA.TO,Horizons ReSolve Adaptive Asset Allocation ETF,2238.7727
-HSAV.TO,Horizons Cash Maximizer ETF,14632.667
+HSAV.TO,Horizons Cash Maximizer ETF,6722.05
 HSD.TO,BetaPro S&P 500 -2x Daily Bear ETF NEW,377890.53
-HSH.TO,Horizons S&P 500 CAD Hedged Index ETF,3511.4763
-HSL.TO,Horizons ETFs Management Canada Inc (Class E),1733.143
+HSH.TO,Horizons S&P 500 CAD Hedged Index ETF,5295.4
+HSL.TO,Horizons ETFs Management Canada Inc (Class E),324.05
 HSU.TO,BetaPro S&P 500 2x Daily Bull ETF,897048.2
 HSUV-U.TO,Horizons USD Cash Maximizer ETF,1919.2382
-HTA-B.TO,Harvest Tech Achievers Growth & Income ETF  Unhedged,429.7619
-HTA-U.TO,Tech Achievers Growth & Income ETF (Class U),1697.381
-HTA.TO,Tech Achievers Growth & Income ETF (Class A),9343.477
-HTB.TO,Horizons US 7-10 Year Treasury Bond ETF,2951.5713
-HTH.TO,Horizons US 7-10 Year Treasury Bond CAD Hedged ETF,1734.0476
-HUBL-U.TO,Harvest Portfolios Group Inc (Class U),214.381
-HUBL.TO,Harvest US Bank Leaders Income ETF Class A units,4366.6665
-HUC.TO,Horizons Crude Oil ETF,9585.095
-HUF.TO,Horizons Active Ultra-Short Term US Investment Grade Bond ETF - Cl E,81.0
-HUG.TO,Horizons Gold ETF,3085.3333
-HUIB.TO,Harvest Portfolios Group Inc (Class A),7275.4287
-HUL-U.TO,Harvest Portfolios Group Inc (Class U),461.9048
-HUL.TO,Harvest Portfolios Group Inc (Class A),316.7619
+HTA-B.TO,Harvest Tech Achievers Growth & Income ETF  Unhedged,390.65
+HTA-U.TO,Tech Achievers Growth & Income ETF (Class U),2594.25
+HTA.TO,Tech Achievers Growth & Income ETF (Class A),12798.15
+HTB.TO,Horizons US 7-10 Year Treasury Bond ETF,2571.7
+HTH.TO,Horizons US 7-10 Year Treasury Bond CAD Hedged ETF,849.8
+HUBL-U.TO,Harvest Portfolios Group Inc (Class U),814.7
+HUBL.TO,Harvest US Bank Leaders Income ETF Class A units,4813.9
+HUC.TO,Horizons Crude Oil ETF,6604.55
+HUF.TO,Horizons Active Ultra-Short Term US Investment Grade Bond ETF - Cl E,394.3
+HUG.TO,Horizons Gold ETF,6899.9
+HUIB.TO,Harvest Portfolios Group Inc (Class A),2143.35
+HUL-U.TO,Harvest Portfolios Group Inc (Class U),300.0
+HUL.TO,Harvest Portfolios Group Inc (Class A),1047.2
 HULC.TO,Horizons US Large Cap Index ETF,553.15
-HUM.TO,Hamilton U.S. Mid/Small-Cap Financials ETF,1006.5238
-HUN.TO,Horizons Natural Gas ETF,5868.905
-HURA.TO,Horizons ETFs Management Canada Inc (Class A),6796.095
-HUTL.TO,Harvest Equal Weight Global Utilities Income ETF,9742.571
-HUV.TO,BetaPro S&P 500 VIX ShortTerm Futures ETF,42906.81
-HUZ.TO,Horizons Silver ETF,13831.381
-HWF.TO,Middlefield Ltd - Middlefield Health & Wellness ETF,3033.5237
-HXCN.TO,Horizons S&P/TSX Capped Composite Index ETF,13584.857
-HXD.TO,BetaPro S&P/TSX 60 -2x Daily Bear ETF,123801.62
-HXDM.TO,Horizons Intl Developed Markets Equity Index ETF,7080.8096
-HXE.TO,Horizons S&P/TSX Capped Energy Index ETF,13398.238
-HXEM.TO,Horizons Emerging Markets Equity Index ETF,2164.619
-HXF.TO,Horizons S&P/TSX Capped Financials Index ETF,625.1905
-HXH.TO,Horizons Cdn High Dividend Index ETF,1112.381
-HXQ.TO,Horizons NASDAQ-100 Index ETF,9995.048
-HXS.TO,Horizons S&P 500 Index ETF,16622.143
+HUM.TO,Hamilton U.S. Mid/Small-Cap Financials ETF,4346.65
+HUN.TO,Horizons Natural Gas ETF,6030.3
+HURA.TO,Horizons ETFs Management Canada Inc (Class A),6773.7
+HUTL.TO,Harvest Equal Weight Global Utilities Income ETF,13348.4
+HUV.TO,BetaPro S&P 500 VIX ShortTerm Futures ETF,132970.0
+HUZ.TO,Horizons Silver ETF,28357.6
+HWF.TO,Middlefield Ltd - Middlefield Health & Wellness ETF,674.05
+HXCN.TO,Horizons S&P/TSX Capped Composite Index ETF,2173.25
+HXD.TO,BetaPro S&P/TSX 60 -2x Daily Bear ETF,173142.16
+HXDM.TO,Horizons Intl Developed Markets Equity Index ETF,3962.5
+HXE.TO,Horizons S&P/TSX Capped Energy Index ETF,10444.55
+HXEM.TO,Horizons Emerging Markets Equity Index ETF,5775.0
+HXF.TO,Horizons S&P/TSX Capped Financials Index ETF,3136.8
+HXH.TO,Horizons Cdn High Dividend Index ETF,2445.6
+HXQ.TO,Horizons NASDAQ-100 Index ETF,17556.1
+HXS.TO,Horizons S&P 500 Index ETF,17237.85
 HXT.TO,Horizons S&P/TSX 60 Index ETF,453981.66
-HXU.TO,BetaPro S&P/TSX 60 2x Daily Bull ETF,41330.57
-HXX.TO,Horizons Europe 50 Index ETF,1512.143
+HXU.TO,BetaPro S&P/TSX 60 2x Daily Bull ETF,72017.9
+HXX.TO,Horizons Europe 50 Index ETF,2204.05
 HYI.TO,Horizons ETFs Management Canada Inc (Class E),7679.9
-HZD.TO,BetaPro Silver -2x Daily Bear ETF NEW,48545.906
-HZU.TO,BetaPro Silver 2x Daily Bull ETF,152488.77
-ICPB.TO,IA Clarington Core Plus Bond Fund,6589.1904
-IDR.TO,Middlefield REIT INDEXPLUS ETF,10004.619
-IEMB.TO,IA Clarington Emerging Markets Bond Fund,1.0
-IFRF.TO,IA Clarington Floating Rate Income Fund,3435.762
-IGAF.TO,IA Clarington Loomis Global Allocation Fund,1511.1906
-IGB.TO,Purpose Global Bond Class,1734.5238
-IGCF.TO,PIMCO Investment Grade Credit Fund ETF,2860.619
-IGLB.TO,IA Clarington Global Bond Fund,225.0952
+HZD.TO,BetaPro Silver -2x Daily Bear ETF NEW,99552.05
+HZU.TO,BetaPro Silver 2x Daily Bull ETF,242792.25
+ICPB.TO,IA Clarington Core Plus Bond Fund,1135.6
+IDR.TO,Middlefield REIT INDEXPLUS ETF,8022.1
+IEMB.TO,IA Clarington Emerging Markets Bond Fund,4.6
+IFRF.TO,IA Clarington Floating Rate Income Fund,1394.5
+IGAF.TO,IA Clarington Loomis Global Allocation Fund,5052.4
+IGB.TO,Purpose Global Bond Class,1907.75
+IGCF.TO,PIMCO Investment Grade Credit Fund ETF,1622.7
+IGLB.TO,IA Clarington Global Bond Fund,551.1
 ILV-F.TO,Invesco S&P Int. Devel. Low Volat. Index ETF Hedged,1608.75
-ILV.TO,Invesco S&P International Developed Low Vol Index ETF,2628.619
-INOC.TO,Horizons Inovestor Canadian Equity Index ETF Class A,2455.9048
-IQD-B.TO,CI WisdomTree International Qlty Divi Growth Index ETF,3329.1904
-IQD.TO,CI Investments Inc - CI WisdomTree International Qlty Divi Growth Index ETF(Hedged Units),626.8571
-ISIF.TO,IA Clarington Strategic Income Fund,0.0
-JAPN-B.TO,CI Investments Inc - CI WisdomTree Japan Equity Index ETF(Unhedged Units),342.2857
-JAPN.TO,CI Investments Inc - CI WisdomTree Japan Equity Index ETF(Hedged Units),115.7143
-KILO-B.TO,Purpose Gold Bullion Fund Non-Currency Hedged,3410.1428
-KILO-U.TO,Purpose Gold Bullion Fund Non-Currency Hedged,876.4286
-KILO.TO,Purpose Gold Bullion Fund,6216.3335
-LEAD-B.TO,Evolve Future Leadership Fund Unhedged ETF,622.4286
-LEAD-U.TO,Evolve Future Leadership Fund Unhedged ETF,288.0952
-LEAD.TO,Evolve Future Leadership Fund Hedged ETF,744.7143
-LIFE-B.TO,Evolve Global Healthcare Enhanced Yield Fund Unhedged,1321.3333
-LIFE-U.TO,Evolve Global Healthcare Enhanced Yield Fund Unhedged,272.9524
-LIFE.TO,Evolve Global Healthcare Enhanced Yield Fund Hedged,12772.714
-LONG.TO,CI Global Longevity Economy Fund,66.7619
-LS.TO,Middlefield Healthcare & Life Sciences ETF,2724.619
-MAYB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF - May Hedged,176.1905
-MBAL.TO,Mackenzie Balanced Allocation ETF,1026.6667
-MCLC.TO,Manulife Multifactor Canadian Large Cap Index ETF Unhedged,85.9048
-MCON.TO,Mackenzie Conservative Allocation ETF,1958.5714
-MCSB.TO,Mackenzie Canadian Short Term Fixed Income ETF Series E,1708.857
+ILV.TO,Invesco S&P International Developed Low Vol Index ETF,3702.5
+INOC.TO,Horizons Inovestor Canadian Equity Index ETF Class A,1135.0
+IQD-B.TO,CI WisdomTree International Qlty Divi Growth Index ETF,2926.75
+IQD.TO,CI Investments Inc - CI WisdomTree International Qlty Divi Growth Index ETF(Hedged Units),684.65
+ISIF.TO,IA Clarington Strategic Income Fund,35.1
+JAPN-B.TO,CI Investments Inc - CI WisdomTree Japan Equity Index ETF(Unhedged Units),354.5
+JAPN.TO,CI Investments Inc - CI WisdomTree Japan Equity Index ETF(Hedged Units),1165.5
+KILO-B.TO,Purpose Gold Bullion Fund Non-Currency Hedged,3584.7
+KILO-U.TO,Purpose Gold Bullion Fund Non-Currency Hedged,2658.4
+KILO.TO,Purpose Gold Bullion Fund,8810.75
+LEAD-B.TO,Evolve Future Leadership Fund Unhedged ETF,483.7
+LEAD-U.TO,Evolve Future Leadership Fund Unhedged ETF,511.55
+LEAD.TO,Evolve Future Leadership Fund Hedged ETF,2501.5
+LIFE-B.TO,Evolve Global Healthcare Enhanced Yield Fund Unhedged,2090.25
+LIFE-U.TO,Evolve Global Healthcare Enhanced Yield Fund Unhedged,418.95
+LIFE.TO,Evolve Global Healthcare Enhanced Yield Fund Hedged,12784.8
+LONG.TO,CI Global Longevity Economy Fund,116.9
+LS.TO,Middlefield Healthcare & Life Sciences ETF,4459.55
+MAYB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF - May Hedged,200.0
+MBAL.TO,Mackenzie Balanced Allocation ETF,344.7
+MCLC.TO,Manulife Multifactor Canadian Large Cap Index ETF Unhedged,166.2
+MCON.TO,Mackenzie Conservative Allocation ETF,1508.15
+MCSB.TO,Mackenzie Canadian Short Term Fixed Income ETF Series E,1247.95
 MCSM.TO,Manulife Multifactor Canadian SMID Cap Index ETF Unhedged,0.0
-MDVD-U.TO,Mackenzie Global Sustainable Dividend Index ETF - USD,3.0952
-MDVD.TO,Mackenzie Global Sustainable Dividend Index ETF CAD,28.1429
-MEE.TO,Mackenzie Maximum Diversification Emerging Markets Index ETF,4756.143
-MEME-B.TO,Manulife Multifactor Emerging Markets Index ETFUnhedged,2589.1904
-MEU.TO,Mackenzie Maximum Diversification Developed Europe Index ETF,3107.7144
-MFT.TO,Mackenzie Floating Rate Income ETF,10945.381
-MGAB.TO,Mackenzie Global Fixed Income Allocation ETF,353.2857
-MGB.TO,Mackenzie Core Plus Global Fixed Income ETF,5760.7144
-MGRW.TO,Mackenzie Growth Allocation ETF,828.9524
-MHYB.NE,Mackenzie Global High Yield Fixed Income ETF,9420.905
-MIND.TO,Horizons Active A.I. Global Equity ETF Class A,562.5238
-MINT-B.TO,Manulife Multifactor Developed International Index ETF Unhedged,522.7143
-MINT.TO,Manulife Multifactor Developed International Index ETF Hedged,287.8095
-MIVG.TO,Mackenzie Ivy Global Equity ETF Series E,358.0952
+MDVD-U.TO,Mackenzie Global Sustainable Dividend Index ETF - USD,3.25
+MDVD.TO,Mackenzie Global Sustainable Dividend Index ETF CAD,121.15
+MEE.TO,Mackenzie Maximum Diversification Emerging Markets Index ETF,8302.4
+MEME-B.TO,Manulife Multifactor Emerging Markets Index ETFUnhedged,5504.0
+MEU.TO,Mackenzie Maximum Diversification Developed Europe Index ETF,2698.0
+MFT.TO,Mackenzie Floating Rate Income ETF,15423.85
+MGAB.TO,Mackenzie Global Fixed Income Allocation ETF,171.35
+MGB.TO,Mackenzie Core Plus Global Fixed Income ETF,8077.15
+MGRW.TO,Mackenzie Growth Allocation ETF,531.6
+MHYB.NE,Mackenzie Global High Yield Fixed Income ETF,40692.95
+MIND.TO,Horizons Active A.I. Global Equity ETF Class A,407.7
+MINT-B.TO,Manulife Multifactor Developed International Index ETF Unhedged,810.35
+MINT.TO,Manulife Multifactor Developed International Index ETF Hedged,500.15
+MIVG.TO,Mackenzie Ivy Global Equity ETF Series E,933.25
 MJJ.NE,Purp Marij Oppo Trust Units,1571.0
-MKB.TO,Mackenzie Core Plus Canadian Fixed Income ETF,20891.904
-MKC.TO,Mackenzie Maximum Diversification Canada Index ETF,5100.2383
-MOM-F.NE,Invesco S&P 500 Momentum Index ETF,142.9524
-MOM.NE,Invesco S&P 500 Momentum Index ETF,291.381
-MPCF.TO,Mackenzie Portfolio Completion ETF Series E,514.9048
-MUB.TO,Mackenzie Unconstrained Bond ETF,34153.906
-MULC-B.TO,Manulife Multifactor U.S. Large Cap Index ETF Unhedged,113.0
-MULC.TO,Manulife Multifactor U.S. Large Cap Index ETF Hedged,243.8095
-MUMC-B.TO,Manulife Multifactor U.S.Mid Cap Index ETF Unhedged,580.0
-MUMC.TO,Manulife Multifactor U.S. Mid Cap Index ETF Hedged,526.0476
-MUS.TO,Mackenzie Maximum Diversification US Index ETF,4788.7144
-MUSC-B.TO,Manulife Multifactor U.S. Small Cap Index ETF Unhedged,238.0952
-MUSC.TO,Manulife Multifactor U.S. Small Cap Index ETF Hedged,761.0476
-MWD.TO,Mackenzie Maximum Diversification All World Developed Index ETF,8342.429
-MWMN.NE,Mackenzie Global Leadership Impact ETF,2178.381
-MXU.TO,Mackenzie Max Divers All World Developed ex North America Index ETF,3736.4763
-NALT.TO,NBI Liquid Alternatives ETF,3778.762
-NBND.NE,Ninepoint Diversified Bond Fund ETF,908.4762
-NCG.TO,NCM Core Global ETF SHS,1190.4762
-NFAM.TO,NBI Canadian Family Business ETF,247.1905
-NGPE.TO,NBI Global Private Equity ETF,9.5238
+MKB.TO,Mackenzie Core Plus Canadian Fixed Income ETF,29763.8
+MKC.TO,Mackenzie Maximum Diversification Canada Index ETF,6756.85
+MOM-F.NE,Invesco S&P 500 Momentum Index ETF,500.55
+MOM.NE,Invesco S&P 500 Momentum Index ETF,1290.75
+MPCF.TO,Mackenzie Portfolio Completion ETF Series E,627.75
+MUB.TO,Mackenzie Unconstrained Bond ETF,46553.2
+MULC-B.TO,Manulife Multifactor U.S. Large Cap Index ETF Unhedged,406.75
+MULC.TO,Manulife Multifactor U.S. Large Cap Index ETF Hedged,615.15
+MUMC-B.TO,Manulife Multifactor U.S.Mid Cap Index ETF Unhedged,668.4
+MUMC.TO,Manulife Multifactor U.S. Mid Cap Index ETF Hedged,794.6
+MUS.TO,Mackenzie Maximum Diversification US Index ETF,5573.15
+MUSC-B.TO,Manulife Multifactor U.S. Small Cap Index ETF Unhedged,63.9
+MUSC.TO,Manulife Multifactor U.S. Small Cap Index ETF Hedged,116.35
+MWD.TO,Mackenzie Maximum Diversification All World Developed Index ETF,11572.2
+MWMN.NE,Mackenzie Global Leadership Impact ETF,2027.25
+MXU.TO,Mackenzie Max Divers All World Developed ex North America Index ETF,4720.9
+NALT.TO,NBI Liquid Alternatives ETF,5780.55
+NBND.NE,Ninepoint Diversified Bond Fund ETF,82.8
+NCG.TO,NCM Core Global ETF SHS,10.1
+NFAM.TO,NBI Canadian Family Business ETF,36.25
+NGPE.TO,NBI Global Private Equity ETF,90.5
 NHYB.TO,NBI High Yield Bond ETF,80.0
-NOVB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF - November Hedged,1264.857
-NPRF.TO,NBI Active Canadian Preferred Shares ETF,4976.6665
-NREA.TO,NBI Global Real Assets Income ETF,2474.6667
-NSAV.NE,Ninepoint High Interest Savings Fund ETF,27.0
-NSCB.TO,NBI Sustainable Canadian Bond ETF,1812.5714
-NSCE.TO,NBI Sustainable Canadian Equity ETF,185.5714
-NSGE.TO,NBI Sustainable Global Equity ETF,929.5238
-NUBF.TO,NBI Unconstrained Fixed Income ETF,45676.383
-NXF-B.TO,CI First Asset Energy Giants Covered Call ETF Unhedged,14830.143
-NXF.TO,CI First Asset Energy Giants Covered Call ETF,78136.14
-ONEB.TO,CI Investments Inc - CI ONE North American Core Plus Bond ETF,1362.9048
-ONEQ.TO,CI Investments Inc - CI ONE Global Equity ETF,692.619
-PAYF.TO,Purpose Enhanced Premium Yield Fund ETF,80.6667
-PBD.TO,Purpose Total Return Bond Fund,2027.5714
-PBI-B.TO,Purpose Best Ideas Fund ETF non-currency hedged shares,65.8571
-PBI.TO,Purpose Best Ideas Fund,842.4286
-PCON.TO,PIMCO Managed Conservative Bond Pool,0.0
-PCOR.TO,PIMCO Managed Core Bond Pool,1396.4286
-PDC.TO,Invesco Canadian Dividend Index ETF,12646.238
-PDF.TO,Purpose Core Dividend Fund,3971.5713
-PDIV.TO,Purpose Enhanced Dividend Fund,340.2857
-PFAE.TO,Picton Mahoney Fortified Active Extension Alternative Fund,1477.2382
+NOVB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF - November Hedged,527.6
+NPRF.TO,NBI Active Canadian Preferred Shares ETF,9556.7
+NREA.TO,NBI Global Real Assets Income ETF,8224.5
+NSAV.NE,Ninepoint High Interest Savings Fund ETF,2227.35
+NSCB.TO,NBI Sustainable Canadian Bond ETF,2036.2
+NSCE.TO,NBI Sustainable Canadian Equity ETF,1537.25
+NSGE.TO,NBI Sustainable Global Equity ETF,1539.9
+NUBF.TO,NBI Unconstrained Fixed Income ETF,756.95
+NXF-B.TO,CI First Asset Energy Giants Covered Call ETF Unhedged,7250.85
+NXF.TO,CI First Asset Energy Giants Covered Call ETF,54120.55
+ONEB.TO,CI Investments Inc - CI ONE North American Core Plus Bond ETF,404.2
+ONEC.TO,Accelerate OneChoice Alternative Portfolio ETF,8098.0
+ONEQ.TO,CI Investments Inc - CI ONE Global Equity ETF,2150.7
+PAYF.TO,Purpose Enhanced Premium Yield Fund ETF,818.0
+PBD.TO,Purpose Total Return Bond Fund,6444.8
+PBI-B.TO,Purpose Best Ideas Fund ETF non-currency hedged shares,826.9
+PBI.TO,Purpose Best Ideas Fund,686.45
+PCON.TO,PIMCO Managed Conservative Bond Pool,329.0
+PCOR.TO,PIMCO Managed Core Bond Pool,1141.05
+PDC.TO,Invesco Canadian Dividend Index ETF,13378.9
+PDF.TO,Purpose Core Dividend Fund,4856.7
+PDIV.TO,Purpose Enhanced Dividend Fund,624.5
+PFAE.TO,Picton Mahoney Fortified Active Extension Alternative Fund,4815.25
 PFH-F.TO,Invesco Fundamental High Yield Corporate Bond Index ETF,0.0
-PFIA.TO,Picton Mahoney Fortified Income Alternative Fund,10543.905
-PFL.TO,Invesco 1-3 Year Laddered Floating Rate Note Index ETF,1046.0
-PFLS.TO,Picton Mahoney Fortified Long Short Alternative Fund,2013.6667
-PFMN.TO,Picton Mahoney Fortified Market Neutral Alternative Fund,6974.2856
+PFIA.TO,Picton Mahoney Fortified Income Alternative Fund,18992.8
+PFL.TO,Invesco 1-3 Year Laddered Floating Rate Note Index ETF,1276.9
+PFLS.TO,Picton Mahoney Fortified Long Short Alternative Fund,748.3
+PFMN.TO,Picton Mahoney Fortified Market Neutral Alternative Fund,6135.2
 PFMS.TO,Picton Mahoney Fortified Multi-Strategy Alternative Fund,0.0
-PGB.NE,Invesco 1-5 Year Laddered All Government Bond Index ETF,333.0
-PGL.NE,Invesco Long Term Government Bond Index ETF,110500.43
-PHE-B.TO,Purpose Tactical Hedged Equity Fund NON-CURRENCY HEDGED SHARES,271.4286
+PGB.NE,Invesco 1-5 Year Laddered All Government Bond Index ETF,299.55
+PGL.NE,Invesco Long Term Government Bond Index ETF,49930.4
+PHE-B.TO,Purpose Tactical Hedged Equity Fund NON-CURRENCY HEDGED SHARES,105.05
 PHE.TO,Purpose Tactical Hedged Equity Fund,419.85
-PHR.TO,Purpose Duration Hedged Real Estate Fund,116.2381
-PHW.TO,Purpose International Tactical Hedged Equity Fund ETF,45.8095
-PIB.NE,Invesco 1-10 Yr Laddered Invt Grade Corp Bond Index ETF,1616.7144
-PID.TO,Purpose International Dividend Fund ETF,16794.38
-PIN.TO,Purpose Monthly Income Fund,337.7143
-PINC.TO,Purpose Multi-Asset Income Fund ETF,2842.381
-PINV.TO,Purpose Global Innovators Fund ETF,414.1429
-PLDI.TO,PIMCO Low Duration Monthly Income Fund,27.1429
-PLV.TO,Invesco Low Volatility Portfolio ETF,1436.619
-PMIF-U.TO,PIMCO Monthly Income Fund ETF,3358.2856
-PMIF.TO,PIMCO Monthly Income Fund ETF,42711.855
-PMM.TO,Purpose Multi-Strategy Market Neutral Fund ETF,1775.381
+PHR.TO,Purpose Duration Hedged Real Estate Fund,891.6
+PHW.TO,Purpose International Tactical Hedged Equity Fund ETF,107.5
+PIB.NE,Invesco 1-10 Yr Laddered Invt Grade Corp Bond Index ETF,765.0
+PID.TO,Purpose International Dividend Fund ETF,9581.15
+PIN.TO,Purpose Monthly Income Fund,493.4
+PINC.TO,Purpose Multi-Asset Income Fund ETF,2551.05
+PINV.TO,Purpose Global Innovators Fund ETF,270.15
+PLDI.TO,PIMCO Low Duration Monthly Income Fund,3.5
+PLV.TO,Invesco Low Volatility Portfolio ETF,1510.5
+PMIF-U.TO,PIMCO Monthly Income Fund ETF,2264.65
+PMIF.TO,PIMCO Monthly Income Fund ETF,45986.85
+PMM.TO,Purpose Multi-Strategy Market Neutral Fund ETF,1124.85
 PMNT.TO,PIMCO Global Short Maturity Fund,4613.7144
-PPS.TO,Invesco Canadian Preferred Share Index ETF,4563.905
-PR.TO,Lysander-Slater Preferred Share ActivETF,8389.81
-PRA.TO,Purpose Diversified Real Asset Fund,735.8571
-PREF.TO,Evolve Dividend Stability Preferred Share Index ETF,812.2381
-PRP.TO,Purpose Conservative Income Fund,538.0952
-PSA.TO,Purpose High Interest Savings ETF,22381.0
-PSB.TO,Invesco 1-5 Year Laddered Invt Grade Corporate Bd Idx ETF,5296.6665
-PSU-U.TO,Purpose US Cash Fund,1553.3333
-PSY-U.TO,Invesco Global Shareholder Yield ETF,0.0
-PSY.TO,Invesco Global Shareholder Yield ETF,144.381
-PUD-B.TO,Purpose US Dividend Fund ETF Non Currency Hedged,289.2857
-PUD.TO,Purpose US Dividend Fund ETF,137.619
-PXC.TO,Invesco FTSE RAFI Canadian Index ETF,2964.381
-PXG-U.TO,Invesco FTSE RAFI Global+ Index ETF CAD,214.7619
-PXG.TO,Invesco FTSE RAFI Global+ Index ETF CAD,0.0952
+PPS.TO,Invesco Canadian Preferred Share Index ETF,3357.35
+PR.TO,Lysander-Slater Preferred Share ActivETF,8987.75
+PRA.TO,Purpose Diversified Real Asset Fund,295.45
+PREF.TO,Evolve Dividend Stability Preferred Share Index ETF,763.8
+PRP.TO,Purpose Conservative Income Fund,340.4
+PSA.TO,Purpose High Interest Savings ETF,22839.85
+PSB.TO,Invesco 1-5 Year Laddered Invt Grade Corporate Bd Idx ETF,11750.65
+PSU-U.TO,Purpose US Cash Fund,1177.8
+PSY-U.TO,Invesco Global Shareholder Yield ETF,391.55
+PSY.TO,Invesco Global Shareholder Yield ETF,217.3
+PSYK.NE,Horizons Psychedelic Stock Index ETF,652767.7
+PUD-B.TO,Purpose US Dividend Fund ETF Non Currency Hedged,240.7
+PUD.TO,Purpose US Dividend Fund ETF,170.5
+PXC.TO,Invesco FTSE RAFI Canadian Index ETF,2694.8
+PXG-U.TO,Invesco FTSE RAFI Global+ Index ETF CAD,585.0
+PXG.TO,Invesco FTSE RAFI Global+ Index ETF CAD,78.9
 PXS-U.TO,Invesco FTSE RAFI U.S. Index ETF II CAD,0.0
-PXS.TO,Invesco FTSE RAFI U.S. Index ETF II CAD,1462.381
-PXU-F.TO,Invesco FTSE RAFI U.S. Index ETF,476.7143
-PYF-B.TO,Purpose Premium Yield Fund ETF Non-Currency Hedged Shares,66.6667
+PXS.TO,Invesco FTSE RAFI U.S. Index ETF II CAD,1921.55
+PXU-F.TO,Invesco FTSE RAFI U.S. Index ETF,1353.3
+PYF-B.TO,Purpose Premium Yield Fund ETF Non-Currency Hedged Shares,710.0
 PYF-U.TO,Purpose Premium Yield Fund USD ETF Non-Crrncy Hdgd Shr,547.8636
-PYF.TO,Purpose Premium Yield Fund,6312.095
-PZC.TO,Invesco FTSE RAFI Canadian Small-Mid Index ETF,380.3333
-PZW-F.TO,Invesco FTSE RAFI Global Small-Mid ETF Hedged,1032.7618
-PZW-U.TO,Invesco FTSE RAFI Global Small-Mid ETF CAD,0.0
-PZW.TO,Invesco FTSE RAFI Global Small-Mid ETF CAD,184.5714
-QAH.TO,Mackenzie US Large Cap Equity Index ETF CAD-Hedged Series E,380.1429
-QBB.TO,Mackenzie Canadian Aggregate Bond Index ETF Series E,927.7619
-QBTL.TO,AGFiQ U.S. Market Neutral Anti-Beta CAD-Hedged ETF,21222.572
-QCB.NE,Mackenzie Canadian All Corporate Bond Index ETF,11126.19
-QCD.TO,AGFiQ Canadian Equity ETF,173.619
-QCE.TO,Mackenzie Canadian Large Cap Equity Index ETF Series E,518.4762
-QCH.NE,Mackenzie China A-Shares CSI 300 Index ETF,1679.2856
-QCN.TO,Mackenzie Canadian Equity Index ETF Series E,709.0
-QDX.TO,Mackenzie International Equity Index ETF Series E,1201.9524
-QDXB.TO,Mackenzie Developed ex-North America Aggregate Bond Index ETF CAD-Hedg,14.2857
+PYF.TO,Purpose Premium Yield Fund,2638.2
+PZC.TO,Invesco FTSE RAFI Canadian Small-Mid Index ETF,861.7
+PZW-F.TO,Invesco FTSE RAFI Global Small-Mid ETF Hedged,342.15
+PZW-U.TO,Invesco FTSE RAFI Global Small-Mid ETF CAD,130.1
+PZW.TO,Invesco FTSE RAFI Global Small-Mid ETF CAD,144.4
+QAH.TO,Mackenzie US Large Cap Equity Index ETF CAD-Hedged Series E,415.7
+QBB.TO,Mackenzie Canadian Aggregate Bond Index ETF Series E,450.0
+QBTL.TO,AGFiQ U.S. Market Neutral Anti-Beta CAD-Hedged ETF,12887.85
+QCB.NE,Mackenzie Canadian All Corporate Bond Index ETF,579.3
+QCD.TO,AGFiQ Canadian Equity ETF,218.45
+QCE.TO,Mackenzie Canadian Large Cap Equity Index ETF Series E,2831.1
+QCH.NE,Mackenzie China A-Shares CSI 300 Index ETF,3103.75
+QCN.TO,Mackenzie Canadian Equity Index ETF Series E,491.8
+QDX.TO,Mackenzie International Equity Index ETF Series E,1172.0
+QDXB.TO,Mackenzie Developed ex-North America Aggregate Bond Index ETF CAD-Hedg,5.0
 QDXH.TO,Mackenzie International Equity Index ETF CAD-Hedged Series E,0.0
-QEBH.TO,Mackenzie Emerging Markets Bond Index ETF CAD-Hedged,1054.5238
-QEBL.TO,Mackenzie Emerging Markets Local Currency Bond Index ETF Ser E,17.9048
-QEF.NE,AGFiQ Global ESG Factors ETF,1288.619
-QEM.TO,AGFiQ Emerging Markets Equity ETF,484.619
-QETH-U.TO,Ether Fund (The) - Unit - Class A,0.0
-QGB.NE,AGFiQ Global Multi-Sector Bond ETF,2330.2856
-QHY.TO,Mackenzie US High Yield Bond Index ETF CAD-Hedged Series E,83.5714
-QIE.TO,AGFiQ International Equity ETF,567.8095
-QIF.NE,AGFiQ Global Infrastructure ETF,1845.7144
-QINF.TO,MackenzieGlobal Infrastructure Index ETF,190.5238
-QMA.TO,AGFiQ Global Balanced ETF,27.8571
-QMY.TO,AGFiQ Global Income ETF,4.0476
-QQC-F.TO,Invesco QQQ Index ETF,12784.333
-QRET.TO,Mackenzie Developed Markets Real Estate Index ETF,0.0476
-QSB.TO,Mackenzie Canadian Short-Term Bond Index ETF Series E,362.381
-QTIP.NE,Mackenzie US TIPS Index ETF CAD-Hedged Ser E,23450.666
-QUB.TO,Mackenzie U.S. Aggregate Bond Index ETF CAD-Hedged,28.5714
-QUIG.TO,Mackenzie US Investment Grade Corporate Bond Index ETF CAD-Hedged,237.9048
-QUS.TO,AGFiQ U.S. Equity ETF,299.5238
-QUU-U.TO,Mackenzie US Large Cap Equity Index ETF - USD,249.7619
-QUU.TO,Mackenzie US Large Cap Equity Index ETF Series E,1744.5238
-QXM.TO,CI First Asset Morningstar National Bank Quebec Index ETF,1133.619
+QEBH.TO,Mackenzie Emerging Markets Bond Index ETF CAD-Hedged,729.8
+QEBL.TO,Mackenzie Emerging Markets Local Currency Bond Index ETF Ser E,40.1
+QEF.NE,AGFiQ Global ESG Factors ETF,39256.9
+QEM.TO,AGFiQ Emerging Markets Equity ETF,1253.95
+QETH-U.TO,Ether Fund (The) - Unit - Class A,212087.58
+QGB.NE,AGFiQ Global Multi-Sector Bond ETF,148505.4
+QHY.TO,Mackenzie US High Yield Bond Index ETF CAD-Hedged Series E,162.95
+QIE.TO,AGFiQ International Equity ETF,1157.25
+QIF.NE,AGFiQ Global Infrastructure ETF,14767.3
+QINF.TO,MackenzieGlobal Infrastructure Index ETF,785.6
+QMA.TO,AGFiQ Global Balanced ETF,11.35
+QMY.TO,AGFiQ Global Income ETF,5.35
+QQC-F.TO,Invesco QQQ Index ETF,15789.95
+QRET.TO,Mackenzie Developed Markets Real Estate Index ETF,0.05
+QSB.TO,Mackenzie Canadian Short-Term Bond Index ETF Series E,285.65
+QTIP.NE,Mackenzie US TIPS Index ETF CAD-Hedged Ser E,32064.75
+QUB.TO,Mackenzie U.S. Aggregate Bond Index ETF CAD-Hedged,190.0
+QUIG.TO,Mackenzie US Investment Grade Corporate Bond Index ETF CAD-Hedged,421.5
+QUS.TO,AGFiQ U.S. Equity ETF,658.8
+QUU-U.TO,Mackenzie US Large Cap Equity Index ETF - USD,371.75
+QUU.TO,Mackenzie US Large Cap Equity Index ETF Series E,4020.05
+QXM.TO,CI First Asset Morningstar National Bank Quebec Index ETF,709.15
 RBDI.TO,RBC BlueBay Global Diversified Income CAD Hedged ETF,134.85
-RBNK.TO,RBC Canadian Bank Yield Index ETF,5057.7144
+RBNK.TO,RBC Canadian Bank Yield Index ETF,8530.15
 RBO.TO,RBC 1-5 Year Laddered Corporate Bond ETF,3971.55
-RBOT.TO,Horizons Robotics and Automation Index ETF Class A,3082.3333
-RCD.TO,RBC Quant Canadian Dividend Leaders ETF,993.5714
-RCDB.NE,RBC Canadian Discount Bond ETF,13274.477
-RCE.TO,RBC Quant Canadian Equity Leaders ETF,176.0476
-RDE.NE,Purpose Core Equity Income Fund,2623.0476
-REIT.TO,Invesco S&P/TSX REIT Income Index ETF,693.9048
-REM.NE,Purpose Emerging Markets Dividend Fund,1357.4286
-RID-U.TO,RBC Quant EAFE Dividend Leaders ETF,266.6667
-RID.TO,RBC Quant EAFE Dividend Leaders ETF,1531.2382
-RIDH.TO,RBC Quant EAFE Dividend Leaders CAD Hedged ETF,624.1905
+RBOT.TO,Horizons Robotics and Automation Index ETF Class A,4531.55
+RCD.TO,RBC Quant Canadian Dividend Leaders ETF,3407.4
+RCDB.NE,RBC Canadian Discount Bond ETF,28418.15
+RCE.TO,RBC Quant Canadian Equity Leaders ETF,443.75
+RDE.NE,Purpose Core Equity Income Fund,35140.05
+REIT.TO,Invesco S&P/TSX REIT Income Index ETF,706.05
+REM.NE,Purpose Emerging Markets Dividend Fund,6441.05
+RID-U.TO,RBC Quant EAFE Dividend Leaders ETF,278.0
+RID.TO,RBC Quant EAFE Dividend Leaders ETF,2753.35
+RIDH.TO,RBC Quant EAFE Dividend Leaders CAD Hedged ETF,1073.9
 RIEH.TO,RBC Quant EAFE Equity Leaders CAD Hedged ETF,0.0
-RIFI.TO,Russell Investments Fixed Income Pool,113.0476
-RIGU.TO,Russell Investments Global Unconstrained Bond Pool,0.0952
-RIIN.TO,Russell Investments Global Infrastructure Pool,1397.0476
-RIRA.TO,Russell Investments Real Assets,1030.6667
-RIT.TO,CI First Asset Canadian REIT ETF,24393.143
-RLB.TO,RBC 1-5 Year Laddered Canadian Bond ETF,4072.6667
-RLDR.NE,RBC Vision Womens Leadership MSCI Canada Index ETF,172.619
+RIFI.TO,Russell Investments Fixed Income Pool,907.35
+RIGU.TO,Russell Investments Global Unconstrained Bond Pool,0.8
+RIIN.TO,Russell Investments Global Infrastructure Pool,1265.7
+RIRA.TO,Russell Investments Real Assets,992.1
+RIT.TO,CI First Asset Canadian REIT ETF,22564.2
+RLB.TO,RBC 1-5 Year Laddered Canadian Bond ETF,3562.9
+RLDR.NE,RBC Vision Womens Leadership MSCI Canada Index ETF,17080.2
 RPD-U.TO,RBC Quant European Dividend Leaders ETF CAD,39.3182
-RPD.TO,RBC Quant European Dividend Leaders ETF CAD,641.8095
-RPDH.TO,RBC Quant European Dividend Leaders CAD Hedged ETF,636.9048
-RPF.TO,RBC Canadian Preferred Share ETF,16781.523
-RPS.NE,Purpose Canadian Preferred Share Fund,6090.905
-RPSB.TO,RBC PH&N Short Term Canadian Bond ETF,1054.4762
+RPD.TO,RBC Quant European Dividend Leaders ETF CAD,525.15
+RPDH.TO,RBC Quant European Dividend Leaders CAD Hedged ETF,492.35
+RPF.TO,RBC Canadian Preferred Share ETF,15868.45
+RPS.NE,Purpose Canadian Preferred Share Fund,6182.25
+RPSB.TO,RBC PH&N Short Term Canadian Bond ETF,2480.1
 RPU-B.NE,Purpose U.S. Preferred Share Fund Non-Currency Hedged,11.6667
-RPU.NE,Purpose U.S. Preferred Share Fund,824.9048
+RPU.NE,Purpose U.S. Preferred Share Fund,784.2
 RQI.TO,RBC Target 2021 Corporate Bond Index ETF,2913.2
-RQJ.TO,RBC Target 2022 Corporate Bond Index ETF,2218.1904
-RQK.TO,RBC Target 2023 Corporate Bond Index ETF,566.6667
-RQL.TO,RBC Target 2024 Corporate Bond Index ETF,19.0
-RQN.TO,RBC Target 2025 Corporate Bond Index ETF,1239.3333
-RQO.TO,RBC Target 2026 Corporate Bond Index ETF CAD,4927.857
+RQJ.TO,RBC Target 2022 Corporate Bond Index ETF,1221.75
+RQK.TO,RBC Target 2023 Corporate Bond Index ETF,34.25
+RQL.TO,RBC Target 2024 Corporate Bond Index ETF,335.05
+RQN.TO,RBC Target 2025 Corporate Bond Index ETF,763.2
+RQO.TO,RBC Target 2026 Corporate Bond Index ETF CAD,260.0
 RQP.TO,RBC Target 2027 Corporate Bond Index ETF CAD,0.0
-RTA.NE,Purpose Tactical Asset Allocation Fund,28021.809
-RUBH.TO,RBC U.S. Banks Yield CAD Hedged Index ETF,528.0476
+RTA.NE,Purpose Tactical Asset Allocation Fund,23724.4
+RUBH.TO,RBC U.S. Banks Yield CAD Hedged Index ETF,423.3
 RUBY-U.TO,RBC U.S. Banks Yield Index ETF,4.7619
-RUBY.TO,RBC U.S. Banks Yield Index ETF,1148.143
-RUD-U.TO,RBC Quant U.S. Dividend Leaders ETF CAD,1533.6667
+RUBY.TO,RBC U.S. Banks Yield Index ETF,883.95
+RUD-U.TO,RBC Quant U.S. Dividend Leaders ETF CAD,1349.35
 RUD.TO,RBC Quant U.S. Dividend Leaders ETF CAD,2228.5237
-RUDH.TO,RBC Quant U.S. Dividend Leaders CAD Hedged ETF,1601.9524
-RUE-U.TO,RBC Quant U.S. Equity Leaders ETF,228.5714
-RUE.TO,RBC Quant U.S. Equity Leaders ETF,310.8571
-RUEH.TO,RBC Quant U.S. Equity Leaders CAD Hedged ETF,158.1429
-RUSB-U.TO,RBC Short Term U.S. Corporate Bond ETF CAD,6539.2856
+RUDH.TO,RBC Quant U.S. Dividend Leaders CAD Hedged ETF,1213.8
+RUE-U.TO,RBC Quant U.S. Equity Leaders ETF,401.0
+RUE.TO,RBC Quant U.S. Equity Leaders ETF,243.65
+RUEH.TO,RBC Quant U.S. Equity Leaders CAD Hedged ETF,50.95
+RUSB-U.TO,RBC Short Term U.S. Corporate Bond ETF CAD,917.75
 RUSB.TO,RBC Short Term U.S. Corporate Bond ETF CAD,224.9524
-RWC.TO,CI First Asset MSCI Canada Low Risk Weighted ETF,205.0952
-RWE-B.TO,CI First Asset MSCI Europe Low Risk Weighted ETF Unhedged,569.5238
-RWE.TO,CI First Asset MSCI Europe Low Risk Weighted ETF,1026.6667
-RWU-B.TO,CI First Asset MSCI USA Low Risk Weighted ETF Unhedged,269.4286
-RWU.TO,CI First Asset MSCI USA Low Risk Weighted ETF,627.7143
-RWW-B.TO,CI First Asset MSCI World Low Risk Weighted ETF Unhedged,190.4762
-RWW.TO,CI First Asset MSCI World Low Risk Weighted ETF,2267.1904
-RWX-B.TO,CI First Asset MSCI Intl. Low Risk Weighted ETF,1372.6667
-RWX.TO,CI First Asset MSCI International Low Risk Weighted ETF,330.9524
-RXD-U.TO,RBC Quant Emerging Markets Dividend Leaders ETF CAD,106.0476
+RWC.TO,CI First Asset MSCI Canada Low Risk Weighted ETF,265.7
+RWE-B.TO,CI First Asset MSCI Europe Low Risk Weighted ETF Unhedged,2446.85
+RWE.TO,CI First Asset MSCI Europe Low Risk Weighted ETF,1570.3
+RWU-B.TO,CI First Asset MSCI USA Low Risk Weighted ETF Unhedged,208.8
+RWU.TO,CI First Asset MSCI USA Low Risk Weighted ETF,483.65
+RWW-B.TO,CI First Asset MSCI World Low Risk Weighted ETF Unhedged,1593.0
+RWW.TO,CI First Asset MSCI World Low Risk Weighted ETF,2515.75
+RWX-B.TO,CI First Asset MSCI Intl. Low Risk Weighted ETF,1233.25
+RWX.TO,CI First Asset MSCI International Low Risk Weighted ETF,892.9
+RXD-U.TO,RBC Quant Emerging Markets Dividend Leaders ETF CAD,185.0
 RXD.TO,RBC Quant Emerging Markets Dividend Leaders ETF CAD,0.0
-RXE-U.TO,RBC Quant Emerging Markets Eqty Leaders ETF CAD,0.0476
-RXE.TO,RBC Quant Emerging Markets Eqty Leaders ETF CAD,101.0
-SBT-B.TO,ETF Non-Currency Hedged,639.8571
-SBT.TO,ETF Currency Hedged,225.8571
-SCAD.TO,Scotia Strategic Canadian Equity ETF Portfolio,481.7143
-SCGI.NE,Starlight Global Infrastructure Fund,2932.4287
-SCGR.NE,Starlight Global Real Estate Fund,6813.476
-SFIX.TO,Scotia Strategic Fixed Income ETF Portfolio,605.1429
+RXE-U.TO,RBC Quant Emerging Markets Eqty Leaders ETF CAD,104.6
+RXE.TO,RBC Quant Emerging Markets Eqty Leaders ETF CAD,622.1
+SBT-B.TO,ETF Non-Currency Hedged,505.0
+SBT.TO,ETF Currency Hedged,1543.5
+SCAD.TO,Scotia Strategic Canadian Equity ETF Portfolio,558.0
+SCGI.NE,Starlight Global Infrastructure Fund,2981.95
+SCGR.NE,Starlight Global Real Estate Fund,9409.25
+SFIX.TO,Scotia Strategic Fixed Income ETF Portfolio,1701.95
 SID.TO,CI First Asset U.S. TrendLeaders Index ETF,6094.65
-SINT.TO,Scotia Strategic International Equity ETF Portfolio,262.0
-SITB.NE,Scotia Canadian Bond Index Tracker ETF,22682.38
-SITC.NE,Scotia Canadian Large Cap Equity Index Tracker ETF,2425.9048
-SITI.NE,Scotia International Equity Index Tracker ETF,23787.047
-SITU.NE,Scotia U.S. Equity Index Tracker ETF,48882.145
-SLVE.NE,Ninepoint Silver Equities Class ETF,718.5238
-STPL.TO,BMO Global Consumer Staples Hedged to CAD Index ETF,1556.6667
-SUSA.TO,Scotia Strategic U.S. Equity ETF Portfolio,173.8571
-SVR-C.TO,BlackRock iShares Silver Bullion ETF Non-Hedged,2340.0476
-SVR.TO,BlackRock iShares Silver Bullion ETF Hedged,33755.332
-SYLD.TO,Purpose Strategic Yield Fund ETF,1944.2382
+SINT.TO,Scotia Strategic International Equity ETF Portfolio,255.7
+SITB.NE,Scotia Canadian Bond Index Tracker ETF,38996.0
+SITC.NE,Scotia Canadian Large Cap Equity Index Tracker ETF,4757.8
+SITI.NE,Scotia International Equity Index Tracker ETF,36145.0
+SITU.NE,Scotia U.S. Equity Index Tracker ETF,80571.3
+SLVE.NE,Ninepoint Silver Equities Class ETF,1771.0
+STPL.TO,BMO Global Consumer Staples Hedged to CAD Index ETF,2155.65
+SUSA.TO,Scotia Strategic U.S. Equity ETF Portfolio,158.5
+SVR-C.TO,BlackRock iShares Silver Bullion ETF Non-Hedged,5632.1
+SVR.TO,BlackRock iShares Silver Bullion ETF Hedged,63272.6
+SYLD.TO,Purpose Strategic Yield Fund ETF,3278.0
 TCLB.TO,TD Canadian Long Term Federal Bond ETF,101.55
-TCLV.TO,TD Q Canadian Low Volatility ETF CAD,695.8095
-TCSB.TO,TD Select Short Term Corporate Bond Ladder ETF,701.5714
-TDB.TO,TD Canadian Aggregate Bond Index ETF,3601.4763
-TEC.TO,TD Global Technology Leaders Index ETF,44243.0
-TERM.TO,Manulife Smart Short-Term Bond ETF,1332.0
-TGED.TO,TD Active Global Enhanced Dividend ETF,22613.38
-TGFI.TO,TD Active Global Income ETF,157.5238
-TGGR.TO,TD Active Global Equity Growth ETF CAD,237.2381
-TGRE.TO,TD Active Global Real Estate Equity ETF,1598.8094
-THE.TO,TD International Equity CAD Hedged Index ETF,217.7143
-THU.TO,TD U.S. Equity CAD Hedged Index ETF,1678.6667
-TILV.TO,TD Q International Low Volatility ETF,1053.3333
-TINF.TO,TD Active Global Infrastructure Equity ETF CAD,1488.857
-TLF-U.TO,Brompton Tech Leaders Income ETF,1326.1906
-TLF.TO,Brompton Tech Leaders Income ETF,3031.2856
-TLV.TO,Invesco S&P/TSX Composite Low Volatility Index ETF,4824.2383
-TMEC.TO,TD Morningstar ESG Canada Equity Index ETF,317.0952
-TMEI.TO,TD Morningstar ESG International Equity Index ETF,158.9048
-TMEU.TO,TD Morningstar ESG U.S. Equity Index ETF,882.4762
-TOCA.TO,TD One Click Aggressive ETF Portfolio,2607.762
-TOCC.TO,TD One Click Conservative ETF Portfolio,914.381
-TOCM.TO,TD One Click Moderate ETF Portfolio,1381.857
-TPAY.TO,TD Income Builder ETF,664.8571
-TPE.TO,TD International Equity Index ETF,2145.1428
-TPRF.TO,TD Active Preferred Share ETF,10508.286
-TPU.TO,TD U.S. Equity Index ETF,12020.905
-TQCD.TO,TD Q Canadian Dividend ETF,5261.7144
-TQGD.TO,TD Q Global Dividend ETF,883.7619
-TQGM.TO,TD Q Global Multifactor ETF,723.0952
-TQSM.TO,TD Q U.S. Small-Mid-Cap Equity ETF,1245.5714
-TRVL.TO,Harvest Travel & Leisure Index ETF -Class A,0.0
-TTP.TO,TD Canadian Equity Index ETF,5550.0474
+TCLV.TO,TD Q Canadian Low Volatility ETF CAD,974.25
+TCSB.TO,TD Select Short Term Corporate Bond Ladder ETF,1329.55
+TDB.TO,TD Canadian Aggregate Bond Index ETF,3051.1
+TEC.TO,TD Global Technology Leaders Index ETF,62100.5
+TERM.TO,Manulife Smart Short-Term Bond ETF,2915.0
+TGED.TO,TD Active Global Enhanced Dividend ETF,24827.05
+TGFI.TO,TD Active Global Income ETF,183.95
+TGGR.TO,TD Active Global Equity Growth ETF CAD,2174.65
+TGRE.TO,TD Active Global Real Estate Equity ETF,1846.25
+THE.TO,TD International Equity CAD Hedged Index ETF,467.5
+THU.TO,TD U.S. Equity CAD Hedged Index ETF,1959.15
+TILV.TO,TD Q International Low Volatility ETF,1038.35
+TINF.TO,TD Active Global Infrastructure Equity ETF CAD,3296.05
+TLF-U.TO,Brompton Tech Leaders Income ETF,690.75
+TLF.TO,Brompton Tech Leaders Income ETF,3847.85
+TLV.TO,Invesco S&P/TSX Composite Low Volatility Index ETF,6665.7
+TMEC.TO,TD Morningstar ESG Canada Equity Index ETF,500.85
+TMEI.TO,TD Morningstar ESG International Equity Index ETF,2340.6
+TMEU.TO,TD Morningstar ESG U.S. Equity Index ETF,1354.0
+TOCA.TO,TD One Click Aggressive ETF Portfolio,4631.8
+TOCC.TO,TD One Click Conservative ETF Portfolio,3342.3
+TOCM.TO,TD One Click Moderate ETF Portfolio,2649.0
+TPAY.TO,TD Income Builder ETF,365.6
+TPE.TO,TD International Equity Index ETF,4875.6
+TPRF.TO,TD Active Preferred Share ETF,10535.85
+TPU.TO,TD U.S. Equity Index ETF,9675.55
+TQCD.TO,TD Q Canadian Dividend ETF,4538.2
+TQGD.TO,TD Q Global Dividend ETF,2460.75
+TQGM.TO,TD Q Global Multifactor ETF,1400.5
+TQSM.TO,TD Q U.S. Small-Mid-Cap Equity ETF,1228.4
+TRVL-U.TO,Harvest Portfolios Group Inc (Class U),5022.9165
+TRVL.TO,Harvest Travel & Leisure Index ETF -Class A,38649.082
+TTP.TO,TD Canadian Equity Index ETF,7166.95
 TUED.TO,TD Active U.S. Enhanced Dividend ETF  CAD,0.0
-TUHY.TO,TD Active U.S. High Yield Bond ETF,194.9524
-TULB.TO,TD U.S. Long Term Treasury Bond ETF,249.4762
-TULV.TO,TD Q U.S. Low Volatility ETF CAD,202.9048
-TUSB-U.TO,TD Select U.S. Short Term Corporate Bond Ladder ETF,3320.1428
-TUSB.TO,TD Select U.S. Short Term Corporate Bond Ladder ETF,674.8571
-TXF-B.TO,CI First Asset Tech Giants Covered Call ETF - Unhedged,2204.9048
-TXF.TO,CI First Asset Tech Giants Covered Call ETF,28284.62
-UDA.TO,Caldwell U.S. Dividend Advantage Fund,292.4286
-UDIV-B.TO,Manulife Smart U.S. Dividend ETF Unhedged,1370.8094
-UDIV.TO,Manulife Smart U.S. Dividend ETF Hedged,566.7619
-UHD-F.NE,Invesco S&P 500 High Dividend Low Volatility Indx ETF CAD Hedgd,1094.5238
-UHD-U.NE,Invesco S&P 500 High Dividend Low Volatility Index ETF,15.619
-UHD.NE,Invesco S&P 500 High Dividend Low Volatility Index ETF,486.4762
-ULV-C.TO,Invesco S&P 500 Low Volatility Index ETF CAD Unhedged,2042.0952
-ULV-F.TO,Invesco S&P 500 Low Volatility Index ETF CAD,2266.0476
-ULV-U.TO,Invesco S&P 500 Low Volatility Index ETF CAD Unhedged,76.381
-UMI-B.TO,CI Investments Inc - CI WsdomTree US MdCp Dvdnd Unhdgd,326.7143
-UMI.TO,CI Investments Inc - CI WisdomTree U.S. MidCap Div,617.6667
-USB-U.TO,Invesco LadderRite US 0-5 Year Corp Bond Index ETF CAD,95.2381
-USB.TO,Invesco LadderRite US 0-5 Year Corp Bond Index ETF CAD,242.2857
-UXM-B.TO,CI First Asset Morningstar US Dividend Target 50 Index ETF Unhedged,287.0952
-UXM.TO,CI First Asset Morningstar US Dividend Target 50 Index ETF,1664.143
-VA.TO,Vanguard FTSE Developed Asia Pacific All Cap Index ETF,3828.762
-VAB.TO,Vanguard Canadian Aggregate Bond Index ETF,99400.43
-VALT.TO,CI Gold Bullion Fund CAD Hedged,0.0
-VBAL.TO,Vanguard Balanced ETF Portfolio the,70336.19
-VBG.TO,Vanguard Global ex-U.S. Aggregate Bond Index ETF,6523.905
-VBU.TO,Vanguard U.S. Aggregate Bond Index ETF,13126.477
-VCB.TO,Vanguard Canadian Corporate Bond Index ETF,1645.6667
-VCE.TO,Vanguard FTSE Canada Index ETF,19576.857
-VCIP.TO,Vanguard Conservative Income ETF,12121.714
-VCN.TO,Vanguard FTSE Canada All Cap Index ETF,66698.81
-VCNS.TO,Vanguard Conservative ETF Portfolio the,19360.38
-VDU.TO,Vanguard FTSE Developed All Cap Ex U.S. Index ETF,14330.095
-VDY.TO,Vanguard FTSE Canadian High Dividend Yield Index ETF,53744.24
-VE.TO,Vanguard FTSE Developed Europe All Cap Index ETF,2945.4287
-VEE.TO,Vanguard FTSE Emerging Markets All Cap Index ETF,50179.285
-VEF.TO,Vanguard FTSE Developed All Cap Ex U.S. Index ETF CAD-hedged,11384.714
-VEQT.TO,Vanguard All-Equity ETF,63498.76
-VFV.TO,Vanguard S&P 500 Index ETF,93561.81
-VGAB.TO,Vanguard Global Aggregate Bond Index ETF CAD-hedged Redeemable,7837.857
-VGG.TO,Vanguard U.S.Dividend Appreciation Index ETF,11228.0
-VGH.TO,Vanguard U.S. Dividend Appreciation Index ETF CAD-hedged,10642.238
-VGRO.TO,Vanguard Growth ETF Portfolio the,110853.86
-VGV.TO,Vanguard Canadian Government Bond Index ETF,4092.8572
-VI.TO,Vanguard FTSE Developed All Cap ex North America Index ETFCAD-Hedged,4524.2856
-VIDY.TO,Vanguard FTSE Developed ex North America High Dividend Yield Index ETF,3369.9524
-VIU.TO,Vanguard FTSE Developed All Cap ex North America Index ETF,32066.0
-VLB.TO,Vanguard Canadian Long-Term Bond Index ETF,2996.6667
-VMO.TO,Vanguard Global Momentum Factor ETF,2329.1428
+TUHY.TO,TD Active U.S. High Yield Bond ETF,179.05
+TULB.TO,TD U.S. Long Term Treasury Bond ETF,436.3
+TULV.TO,TD Q U.S. Low Volatility ETF CAD,515.25
+TUSB-U.TO,TD Select U.S. Short Term Corporate Bond Ladder ETF,1855.75
+TUSB.TO,TD Select U.S. Short Term Corporate Bond Ladder ETF,325.7
+TXF-B.TO,CI First Asset Tech Giants Covered Call ETF - Unhedged,2703.8
+TXF.TO,CI First Asset Tech Giants Covered Call ETF,29178.3
+UDA.TO,Caldwell U.S. Dividend Advantage Fund,40.5
+UDIV-B.TO,Manulife Smart U.S. Dividend ETF Unhedged,330.3
+UDIV.TO,Manulife Smart U.S. Dividend ETF Hedged,554.4
+UHD-F.NE,Invesco S&P 500 High Dividend Low Volatility Indx ETF CAD Hedgd,1226.45
+UHD-U.NE,Invesco S&P 500 High Dividend Low Volatility Index ETF,451.15
+UHD.NE,Invesco S&P 500 High Dividend Low Volatility Index ETF,1536.65
+ULV-C.TO,Invesco S&P 500 Low Volatility Index ETF CAD Unhedged,2575.9
+ULV-F.TO,Invesco S&P 500 Low Volatility Index ETF CAD,5677.65
+ULV-U.TO,Invesco S&P 500 Low Volatility Index ETF CAD Unhedged,178.35
+UMI-B.TO,CI Investments Inc - CI WsdomTree US MdCp Dvdnd Unhdgd,425.3
+UMI.TO,CI Investments Inc - CI WisdomTree U.S. MidCap Div,608.05
+USB-U.TO,Invesco LadderRite US 0-5 Year Corp Bond Index ETF CAD,500.0
+USB.TO,Invesco LadderRite US 0-5 Year Corp Bond Index ETF CAD,270.6
+UXM-B.TO,CI First Asset Morningstar US Dividend Target 50 Index ETF Unhedged,666.25
+UXM.TO,CI First Asset Morningstar US Dividend Target 50 Index ETF,1404.75
+VA.TO,Vanguard FTSE Developed Asia Pacific All Cap Index ETF,6946.65
+VAB.TO,Vanguard Canadian Aggregate Bond Index ETF,87520.1
+VALT.TO,CI Gold Bullion Fund CAD Hedged,3530.7144
+VBAL.TO,Vanguard Balanced ETF Portfolio the,109171.35
+VBG.TO,Vanguard Global ex-U.S. Aggregate Bond Index ETF,6220.0
+VBU.TO,Vanguard U.S. Aggregate Bond Index ETF,17092.95
+VCB.TO,Vanguard Canadian Corporate Bond Index ETF,3567.3
+VCE.TO,Vanguard FTSE Canada Index ETF,24904.5
+VCIP.TO,Vanguard Conservative Income ETF,17109.9
+VCN.TO,Vanguard FTSE Canada All Cap Index ETF,105200.5
+VCNS.TO,Vanguard Conservative ETF Portfolio the,30901.7
+VDU.TO,Vanguard FTSE Developed All Cap Ex U.S. Index ETF,19042.9
+VDY.TO,Vanguard FTSE Canadian High Dividend Yield Index ETF,77079.7
+VE.TO,Vanguard FTSE Developed Europe All Cap Index ETF,4853.4
+VEE.TO,Vanguard FTSE Emerging Markets All Cap Index ETF,88421.25
+VEF.TO,Vanguard FTSE Developed All Cap Ex U.S. Index ETF CAD-hedged,30726.85
+VEQT.TO,Vanguard All-Equity ETF,109337.7
+VFV.TO,Vanguard S&P 500 Index ETF,128511.5
+VGAB.TO,Vanguard Global Aggregate Bond Index ETF CAD-hedged Redeemable,6831.2
+VGG.TO,Vanguard U.S.Dividend Appreciation Index ETF,15526.5
+VGH.TO,Vanguard U.S. Dividend Appreciation Index ETF CAD-hedged,6841.4
+VGRO.TO,Vanguard Growth ETF Portfolio the,189977.9
+VGV.TO,Vanguard Canadian Government Bond Index ETF,3375.5
+VI.TO,Vanguard FTSE Developed All Cap ex North America Index ETFCAD-Hedged,6673.9
+VIDY.TO,Vanguard FTSE Developed ex North America High Dividend Yield Index ETF,1660.65
+VIU.TO,Vanguard FTSE Developed All Cap ex North America Index ETF,45683.5
+VLB.TO,Vanguard Canadian Long-Term Bond Index ETF,4924.65
+VMO.TO,Vanguard Global Momentum Factor ETF,4308.05
 VRE.TO,Vanguard FTSE Canadian Capped REIT Index ETF,18058.55
-VRIF.TO,Vanguard Retirement Income ETF Portfolio,29448.809
-VSB.TO,Vanguard Canadian Short-Term Bond Index ETF,69209.57
+VRIF.TO,Vanguard Retirement Income ETF Portfolio,34940.25
+VSB.TO,Vanguard Canadian Short-Term Bond Index ETF,108804.2
 VSC.TO,Vanguard Canadian Short-Term Corporate Bond Index ETF,19112.334
-VSP.TO,Vanguard S&P 500 Index ETF CAD-hedged,34611.953
-VUN.TO,Vanguard U.S.Total Market Index ETF,47632.0
-VUS.TO,Vanguard U.S. Total Market Index ETF CAD-hedged,10424.333
-VVL.TO,Vanguard Global Value Factor ETF,8053.2856
+VSP.TO,Vanguard S&P 500 Index ETF CAD-hedged,46378.45
+VUN.TO,Vanguard U.S.Total Market Index ETF,80518.9
+VUS.TO,Vanguard U.S. Total Market Index ETF CAD-hedged,18919.1
+VVL.TO,Vanguard Global Value Factor ETF,6738.1
 VVO.TO,Vanguard Global Minimum Volatility ETF,0.0
-VXC.TO,Vanguard FTSE Global All Cap ex Canada Index ETF,21396.428
-VXM-B.TO,CI First Asset Morningstar International Value Index ETF Unhedged,211.7619
-VXM.TO,CI First Asset Morningstar International Value Index ETF,1575.2382
-WOMN.TO,BMO Women in Leadership Fund ETF,133.4286
-WSRD.TO,Wealthsimple Developed Markets ex North America Socially Responsible Index ETF,4347.4287
-WSRI.TO,Wealthsimple North America Socially Responsible Index ETF,2124.619
-WXM.TO,CI First Asset Morningstar Canada Momentum Index ETF,5732.3335
-XAW-U.TO,BlackRock Canada iShares Core MSCI All Country Wrld ex Canada Ind ETF,1760.0476
-XAW.TO,BlackRock Canada iShares Core MSCI All Country Wrld ex Canada Ind ETF,39613.332
+VXC.TO,Vanguard FTSE Global All Cap ex Canada Index ETF,34692.55
+VXM-B.TO,CI First Asset Morningstar International Value Index ETF Unhedged,1149.55
+VXM.TO,CI First Asset Morningstar International Value Index ETF,1295.7
+WOMN.TO,BMO Women in Leadership Fund ETF,237.65
+WSRD.TO,Wealthsimple Developed Markets ex North America Socially Responsible Index ETF,4659.9
+WSRI.TO,Wealthsimple North America Socially Responsible Index ETF,1434.3
+WXM.TO,CI First Asset Morningstar Canada Momentum Index ETF,10243.8
+XAW-U.TO,BlackRock Canada iShares Core MSCI All Country Wrld ex Canada Ind ETF,114.9
+XAW.TO,BlackRock Canada iShares Core MSCI All Country Wrld ex Canada Ind ETF,72201.95
 XBAL.TO,iShares Core Balanced ETF Portfolio,40759.383
-XBB.TO,iShares Core Canadian Universe Bond Index ETF,111496.336
-XBM.TO,BlackRock Canada iShares S&P/TSX Global Base Metals Index ETF,21742.238
-XCB.TO,BlackRock Canada iShares Canadian Corporate Bond Index ETF,49788.19
-XCD.TO,BlackRock Canada iShares S&P Global Cons Disc Indx ETFCAD-Hedged,1217.381
-XCG.TO,BlackRock Canada iShares Canadian Growth Index ETF,3330.6667
-XCH.TO,BlackRock Canada iShares China Index ETF,8930.286
-XCNS.TO,iShares Core Conservative Balanced ETF Portfolio,7511.2856
-XCS.TO,BlackRock Canada iShares S&P/TSX SmallCap Index ETF,11497.0
-XCSR.TO,iShares ESG Advanced MSCI Canada Index ETF,1745.7144
+XBB.TO,iShares Core Canadian Universe Bond Index ETF,136632.6
+XBM.TO,BlackRock Canada iShares S&P/TSX Global Base Metals Index ETF,36171.8
+XCB.TO,BlackRock Canada iShares Canadian Corporate Bond Index ETF,40265.45
+XCD.TO,BlackRock Canada iShares S&P Global Cons Disc Indx ETFCAD-Hedged,5030.2
+XCG.TO,BlackRock Canada iShares Canadian Growth Index ETF,3485.75
+XCH.TO,BlackRock Canada iShares China Index ETF,10495.55
+XCNS.TO,iShares Core Conservative Balanced ETF Portfolio,10280.7
+XCS.TO,BlackRock Canada iShares S&P/TSX SmallCap Index ETF,14027.3
+XCSR.TO,iShares ESG Advanced MSCI Canada Index ETF,1359.05
 XCV.TO,BlackRock Canada iShares Canadian Value Index ETF,0.0
-XDG-U.TO,iShares Core MSCI Global Quality Dividend Index ETF,100.0
+XDG-U.TO,iShares Core MSCI Global Quality Dividend Index ETF,3208.25
 XDG.TO,iShares Core MSCI Global Quality Dividend Index ETF,0.0
-XDGH.TO,iShares Core MSCI Global Quality Dividend Index ETF CAD-Hedged,2359.1428
-XDIV.TO,iShares Core MSCI Canadian Quality Dividend Index ETF,33358.094
-XDSR.TO,iShares ESG Advanced MSCI EAFE Index ETF,948.4286
-XDU-U.TO,iShares Core MSCI US Quality Dividend Index ETF,1015.8095
+XDGH.TO,iShares Core MSCI Global Quality Dividend Index ETF CAD-Hedged,3570.85
+XDIV.TO,iShares Core MSCI Canadian Quality Dividend Index ETF,40384.25
+XDSR.TO,iShares ESG Advanced MSCI EAFE Index ETF,2071.7
+XDU-U.TO,iShares Core MSCI US Quality Dividend Index ETF,3142.45
 XDU.TO,iShares Core MSCI US Quality Dividend Index ETF,0.0
-XDUH.TO,iShares Core MSCI US Quality Dividend Index ETF CAD-Hedged,4469.0
-XDV.TO,BlackRock Canada iShares Canadian Select Dividend Index ETF,57135.047
-XEB.TO,iShares J.P. Morgan USD Emerging Markets Bond Index ETF CAD-Hedged,4067.8572
-XEC-U.TO,BlackRock Canada iShares Core MSCI Emerging Markets IMI Index ETF,96.9048
-XEC.TO,BlackRock Canada iShares Core MSCI Emerging Markets IMI Index ETF,25755.904
-XEF-U.TO,BlackRock Canada iShares Core MSCI EAFE IMI Index ETF,650.0476
-XEF.TO,BlackRock Canada iShares Core MSCI EAFE IMI Index ETF,39566.24
-XEG.TO,BlackRock Canada iShares S&P/TSX Capped Energy Index ETF,1820434.0
-XEH.TO,BlackRock Canada iShares MSCI Europe IMI Index ETF CAD-Hedged,3909.4763
-XEI.TO,iShares S&P/TSX Composite High Dividend Index ETF,70607.71
-XEM.TO,BlackRock Canada iShares MSCI Emerging Markets Index ETF,4143.143
-XEN.TO,BlackRock Canada iShares Jantzi Social Index ETF,3332.762
+XDUH.TO,iShares Core MSCI US Quality Dividend Index ETF CAD-Hedged,4854.3
+XDV.TO,BlackRock Canada iShares Canadian Select Dividend Index ETF,58626.05
+XEB.TO,iShares J.P. Morgan USD Emerging Markets Bond Index ETF CAD-Hedged,1377.6
+XEC-U.TO,BlackRock Canada iShares Core MSCI Emerging Markets IMI Index ETF,117.1
+XEC.TO,BlackRock Canada iShares Core MSCI Emerging Markets IMI Index ETF,41043.65
+XEF-U.TO,BlackRock Canada iShares Core MSCI EAFE IMI Index ETF,594.15
+XEF.TO,BlackRock Canada iShares Core MSCI EAFE IMI Index ETF,63533.05
+XEG.TO,BlackRock Canada iShares S&P/TSX Capped Energy Index ETF,1770784.9
+XEH.TO,BlackRock Canada iShares MSCI Europe IMI Index ETF CAD-Hedged,3358.55
+XEI.TO,iShares S&P/TSX Composite High Dividend Index ETF,96623.9
+XEM.TO,BlackRock Canada iShares MSCI Emerging Markets Index ETF,9025.2
+XEN.TO,BlackRock Canada iShares Jantzi Social Index ETF,2584.75
 XEQT.TO,iShares Core Equity ETF Portfolio,32705.1
-XESG.TO,iShares ESG Aware MSCI Canada Index ETF,6042.7617
-XEU.TO,BlackRock Canada iShares MSCI Europe IMI Index ETF,3124.1428
-XFA.TO,iShares Edge MSCI Multifactor USA Index ETF CAD-Hedged,497.9048
-XFC.TO,iShares Edge MSCI Multifactor Canada Index ETF,2369.1428
-XFF.TO,iShares Edge MSCI Multifactor EAFE Index ETF CAD-Hedged,791.9048
+XESG.TO,iShares ESG Aware MSCI Canada Index ETF,3146.35
+XEU.TO,BlackRock Canada iShares MSCI Europe IMI Index ETF,5839.1
+XFA.TO,iShares Edge MSCI Multifactor USA Index ETF CAD-Hedged,3940.2
+XFC.TO,iShares Edge MSCI Multifactor Canada Index ETF,1900.5
+XFF.TO,iShares Edge MSCI Multifactor EAFE Index ETF CAD-Hedged,800.55
 XFH.TO,BlackRock Canada iShares Core MSCI EAFE IMI Index ETF CAD Hedged,14079.05
-XFI.TO,iShares Edge MSCI Multifactor EAFE Index ETF,510.8571
-XFN.TO,BlackRock Canada iShares S&P/TSX Capped Financials Index ETF,231939.95
-XFR.TO,BlackRock Canada iShares Floating Rate Index ETF,5061.3335
-XFS-U.TO,iShares Edge MSCI Multifactor USA Index ETF,9.5238
+XFI.TO,iShares Edge MSCI Multifactor EAFE Index ETF,600.2
+XFN.TO,BlackRock Canada iShares S&P/TSX Capped Financials Index ETF,244996.34
+XFR.TO,BlackRock Canada iShares Floating Rate Index ETF,7265.0
+XFS-U.TO,iShares Edge MSCI Multifactor USA Index ETF,0.0
 XFS.TO,iShares Edge MSCI Multifactor USA Index ETF,637.8571
-XGB.TO,BlackRock Canada iShares Canadian Government Bond Index ETF,43895.285
-XGD.TO,BlackRock Canada iShares S&P/TSX Global Gold Index ETF,548857.7
-XGGB.NE,iShares Global Government Bond Index ETF CAD-Hedged,16118.571
-XGI.TO,BlackRock Canada iShares S&P Global Industrials Index ETFCAD-Hedged,2186.9524
-XGRO.TO,iShares Core Growth ETF Portfolio,68797.48
-XHB.TO,BlackRock Canada iShares Canadian HYBrid Corporate Bond Index ETF,8208.523
+XGB.TO,BlackRock Canada iShares Canadian Government Bond Index ETF,18043.0
+XGD.TO,BlackRock Canada iShares S&P/TSX Global Gold Index ETF,533258.44
+XGGB.NE,iShares Global Government Bond Index ETF CAD-Hedged,19618.8
+XGI.TO,BlackRock Canada iShares S&P Global Industrials Index ETFCAD-Hedged,6899.0
+XGRO.TO,iShares Core Growth ETF Portfolio,132025.4
+XHB.TO,BlackRock Canada iShares Canadian HYBrid Corporate Bond Index ETF,7719.35
 XHC.TO,BlackRock Canada iShares Global Healthcare Index ETF CAD-Hedged,5506.7275
-XHD.TO,BlackRock Canada iShares US High Div Equity Indx ETFCAD- Hedged,3696.9524
-XHU.TO,BlackRock Canada iShares U.S. High Dividend Equity Index ETF,7094.4287
-XHY.TO,BlackRock Canada iShares U.S. High Yield Bond Index ETF CAD-Hedged,41566.81
+XHD.TO,BlackRock Canada iShares US High Div Equity Indx ETFCAD- Hedged,8154.3
+XHU.TO,BlackRock Canada iShares U.S. High Dividend Equity Index ETF,11992.4
+XHY.TO,BlackRock Canada iShares U.S. High Yield Bond Index ETF CAD-Hedged,26983.7
 XIC.TO,BlackRock iShares Core S&P/TSX Capped Composite Index ETF,364831.8
-XID.TO,BlackRock iShares India Index ETF,762.7619
-XIG.TO,BlackRock Canada iShares US IG Corporate Bond Index ETFCAD-Hedged,4319.476
-XIN.TO,BlackRock Canada iShares MSCI EAFE Index ETF CAD-Hedged,24096.285
-XINC.TO,iShares Core Income Balanced ETF Portfolio,5308.095
-XIT.TO,BlackRock Canada iShares S&P/TSX Capped Information Tech Index ETF,38751.285
-XIU.TO,BlackRock Canada iShares S&P/TSX 60 Index ETF,2248991.8
-XLB.TO,BlackRock Canada iShares Core Canadian Long Term Bond Index ETF,12981.095
-XMA.TO,BlackRock Canada iShares S&P/TSX Capped Materials Index ETF,22695.857
-XMC-U.TO,BlackRock Canada iShares S&P U.S. Mid-Cap Index ETF,168.8095
-XMC.TO,BlackRock Canada iShares S&P U.S. Mid-Cap Index ETF,13382.048
-XMD.TO,BlackRock Canada iShares S&P/TSX Completion Index ETF,1215.2382
-XMH.TO,BlackRock Canada iShares S&P U.S. Mid-Cap Index ETF CAD-Hedged,10478.667
-XMI.TO,BlackRock Canada iShares Edge MSCI Min Vol EAFE Index ETF,3924.1428
-XML.TO,BlackRock Canada iShares Edge MSCI Min Vol EAFE Index ETF CAD-Hedged,2653.5237
-XMM.TO,BlackRock Canada iShares Edge MSCI Min Vol Emerging Markets Index ETF,3127.9524
-XMS.TO,BlackRock iShares Edge MSCI Min Vol USA Index ETF CAD-Hedged,1538.7144
-XMTM.TO,iShares Edge MSCI USA Momentum Factor Index ETF,4124.095
-XMU-U.TO,BlackRock Canada iShares Edge MSCI Min Vol USA Index ETF,224.5714
+XID.TO,BlackRock iShares India Index ETF,1698.75
+XIG.TO,BlackRock Canada iShares US IG Corporate Bond Index ETFCAD-Hedged,4423.65
+XIN.TO,BlackRock Canada iShares MSCI EAFE Index ETF CAD-Hedged,34188.95
+XINC.TO,iShares Core Income Balanced ETF Portfolio,6215.0
+XIT.TO,BlackRock Canada iShares S&P/TSX Capped Information Tech Index ETF,78569.0
+XIU.TO,BlackRock Canada iShares S&P/TSX 60 Index ETF,2944056.8
+XLB.TO,BlackRock Canada iShares Core Canadian Long Term Bond Index ETF,20065.0
+XMA.TO,BlackRock Canada iShares S&P/TSX Capped Materials Index ETF,28668.1
+XMC-U.TO,BlackRock Canada iShares S&P U.S. Mid-Cap Index ETF,48.45
+XMC.TO,BlackRock Canada iShares S&P U.S. Mid-Cap Index ETF,10051.25
+XMD.TO,BlackRock Canada iShares S&P/TSX Completion Index ETF,8787.9
+XMH.TO,BlackRock Canada iShares S&P U.S. Mid-Cap Index ETF CAD-Hedged,9538.0
+XMI.TO,BlackRock Canada iShares Edge MSCI Min Vol EAFE Index ETF,5823.7
+XML.TO,BlackRock Canada iShares Edge MSCI Min Vol EAFE Index ETF CAD-Hedged,2334.35
+XMM.TO,BlackRock Canada iShares Edge MSCI Min Vol Emerging Markets Index ETF,3609.15
+XMS.TO,BlackRock iShares Edge MSCI Min Vol USA Index ETF CAD-Hedged,2603.1
+XMTM.TO,iShares Edge MSCI USA Momentum Factor Index ETF,1756.25
+XMU-U.TO,BlackRock Canada iShares Edge MSCI Min Vol USA Index ETF,556.7
 XMU.TO,BlackRock Canada iShares Edge MSCI Min Vol USA Index ETF,5668.0
-XMV.TO,BlackRock Canada iShares Edge MSCI Min Vol Canada Index ETF,5409.857
-XMW.TO,iShares MSCI Min Vol Global Index ETF,5343.143
-XMY.TO,BlackRock Canada iShares Edge MSCI Min Vol Global Index ETF CAD-Hedge,992.5238
-XPF.TO,BlackRock Canada iShares S&P/TSX North American PRF Stk Idx ETF,6468.8096
-XQB.TO,iShares High Quality Canadian Bond Index ETF Com,17179.762
-XQLT.TO,iShares Edge MSCI USA Quality Factor Index ETF,612.9048
-XQQ.TO,BlackRock Canada iShares NASDAQ 100 Index ETF CAD-Hedged,60510.43
+XMV.TO,BlackRock Canada iShares Edge MSCI Min Vol Canada Index ETF,5200.35
+XMW.TO,iShares MSCI Min Vol Global Index ETF,9090.8
+XMY.TO,BlackRock Canada iShares Edge MSCI Min Vol Global Index ETF CAD-Hedge,3235.0
+XPF.TO,BlackRock Canada iShares S&P/TSX North American PRF Stk Idx ETF,7420.8
+XQB.TO,iShares High Quality Canadian Bond Index ETF Com,14199.0
+XQLT.TO,iShares Edge MSCI USA Quality Factor Index ETF,2450.2
+XQQ.TO,BlackRock Canada iShares NASDAQ 100 Index ETF CAD-Hedged,91121.5
 XRB.TO,BlackRock Canada iShares Canadian Real Return Bond Index ETF,23147.715
-XRE.TO,BlackRock Canada iShares S&P/TSX Capped REIT Index ETF,243504.9
-XSAB.TO,iShares ESG Canadian Aggregate Bond Index ETF,4951.8096
-XSB.TO,iShares Core Canadian Short Term Bond Index ETF,68940.09
+XRE.TO,BlackRock Canada iShares S&P/TSX Capped REIT Index ETF,197821.84
+XSAB.TO,iShares ESG Canadian Aggregate Bond Index ETF,3965.85
+XSB.TO,iShares Core Canadian Short Term Bond Index ETF,61292.2
 XSC.TO,iShares Conservative Short Term Strategic Fixed Income ETF,0.0
-XSE.TO,iShares Conservative Strategic Fixed Income ETF,6704.9526
-XSEA.TO,iShares ESG Aware MSCI EAFE Index ETF,3494.7144
+XSE.TO,iShares Conservative Strategic Fixed Income ETF,8804.4
+XSEA.TO,iShares ESG Aware MSCI EAFE Index ETF,3161.75
 XSEM.TO,iShares ESG Aware MSCI Emerging Markets Index ETF,0.0
 XSH.TO,BlackRock Canada iShares Core Cnd Short Term Corp+Maple Bnd idx ETF,21899.4
-XSI.TO,BlackRock Canada iShares Short Term Strategic Fixed Income ETF,3227.7144
-XSMC.TO,iShares S&P U.S. Small-Cap Index ETF,1645.143
-XSMH.TO,iShares S&P U.S. Small-Cap Index ETF CAD-Hedged,791.4286
+XSI.TO,BlackRock Canada iShares Short Term Strategic Fixed Income ETF,2532.95
+XSMC.TO,iShares S&P U.S. Small-Cap Index ETF,2480.25
+XSMH.TO,iShares S&P U.S. Small-Cap Index ETF CAD-Hedged,2830.85
 XSP.TO,BlackRock Canada iShares Core S&P 500 Index ETF CAD-Hedged,534871.0
-XSQ.TO,iShares Short Term High Quality Canadian Bond Index ETF,7033.9526
-XST.TO,BlackRock Canada iShares S&P/TSX Capped Consumer Staples Index ETF,2872.1428
-XSTB.TO,iShares ESG Canadian Short Term Bond Index ETF,2712.0
-XSU.TO,BlackRock Canada iShares U.S. Small Cap Index ETF CAD-Hedged,63527.047
-XSUS.TO,iShares ESG Aware MSCI USA Index ETF,4639.095
-XTR.TO,BlackRock Canada iShares Diversified Monthly Income ETF,28466.428
-XUH.TO,BlackRock Canada iShares Core S&P US Total Market Indx ETF CAD-Hedgd,5375.2383
-XUS-U.TO,BlackRock Canada iShares Core S&P 500 Index ETF,2372.7144
+XSQ.TO,iShares Short Term High Quality Canadian Bond Index ETF,8234.95
+XST.TO,BlackRock Canada iShares S&P/TSX Capped Consumer Staples Index ETF,7104.25
+XSTB.TO,iShares ESG Canadian Short Term Bond Index ETF,5970.35
+XSU.TO,BlackRock Canada iShares U.S. Small Cap Index ETF CAD-Hedged,84218.85
+XSUS.TO,iShares ESG Aware MSCI USA Index ETF,3484.65
+XTR.TO,BlackRock Canada iShares Diversified Monthly Income ETF,43741.15
+XUH.TO,BlackRock Canada iShares Core S&P US Total Market Indx ETF CAD-Hedgd,5173.45
+XUS-U.TO,BlackRock Canada iShares Core S&P 500 Index ETF,2325.95
 XUS.TO,BlackRock Canada iShares Core S&P 500 Index ETF,73034.55
-XUSR.TO,iShares ESG Advanced MSCI USA Index ETF,1349.9048
-XUT.TO,BlackRock Canada iShares S&P/TSX Capped Utilities Index ETF,81030.57
-XUU-U.TO,BlackRock Canada iShares Core S&P U.S. Total Market Index ETF,1873.619
-XUU.TO,BlackRock Canada iShares Core S&P U.S. Total Market Index ETF,30692.715
-XVLU.TO,iShares Edge MSCI USA Value Factor Index ETF,565.4762
-XWD.TO,BlackRock Canada iShares MSCI World Index ETF,17367.0
-XXM-B.TO,CI First Asset Morningstar US Value Index ETF Unhedged,356.2381
-XXM.TO,CI First Asset Morningstar US Value Index ETF,1137.619
-YXM-B.TO,CI First Asset Morningstar US Momentum Index ETF Unhedged,377.2857
-YXM.TO,CI First Asset Morningstar US Momentum Index ETF,407.1429
-ZAG.TO,BMO Aggregate Bond Index ETF,138205.81
-ZBAL.TO,BMO Balanced ETF,4194.619
-ZBBB.TO,BMO BBB Corporate Bond Index ETF,211.0
-ZBK.TO,BMO Equal Weight US Banks Index ETF,16887.238
-ZCB.TO,BMO Corporate Bond Index ETF CAD,2306.6667
-ZCH.TO,BMO China Equity Index ETF,14709.429
-ZCM.TO,BMO Mid Corporate Bond Index ETF,9702.619
-ZCN.TO,BMO SP TSX CAPPED COMP IDX ETF,83338.05
-ZCON.TO,BMO Conservative ETF,931.6667
+XUSR.TO,iShares ESG Advanced MSCI USA Index ETF,1677.9
+XUT.TO,BlackRock Canada iShares S&P/TSX Capped Utilities Index ETF,151292.75
+XUU-U.TO,BlackRock Canada iShares Core S&P U.S. Total Market Index ETF,595.2
+XUU.TO,BlackRock Canada iShares Core S&P U.S. Total Market Index ETF,50915.1
+XVLU.TO,iShares Edge MSCI USA Value Factor Index ETF,1077.0
+XWD.TO,BlackRock Canada iShares MSCI World Index ETF,27789.9
+XXM-B.TO,CI First Asset Morningstar US Value Index ETF Unhedged,486.9
+XXM.TO,CI First Asset Morningstar US Value Index ETF,1576.7
+YXM-B.TO,CI First Asset Morningstar US Momentum Index ETF Unhedged,670.1
+YXM.TO,CI First Asset Morningstar US Momentum Index ETF,775.05
+ZAG.TO,BMO Aggregate Bond Index ETF,174364.9
+ZAUT.TO,BMO MSCI Tech & Industrial Innovation Index ETF,1183.5
+ZBAL.TO,BMO Balanced ETF,6842.6
+ZBBB.TO,BMO BBB Corporate Bond Index ETF,23.0
+ZBK.TO,BMO Equal Weight US Banks Index ETF,20982.1
+ZCB.TO,BMO Corporate Bond Index ETF CAD,3536.65
+ZCH.TO,BMO China Equity Index ETF,17657.45
+ZCLN.TO,BMO Clean Energy Index ETF,23877.5
+ZCM.TO,BMO Mid Corporate Bond Index ETF,11069.35
+ZCN.TO,BMO SP TSX CAPPED COMP IDX ETF,96674.1
+ZCON.TO,BMO Conservative ETF,2730.75
 ZCPB.TO,BMO Core Plus Bond Fund ETF,376.8421
-ZCS-L.TO,BMO Short Corporate Bond Index ETF Accum,492.7143
-ZCS.TO,BMO Short Corporate Bond Index ETF,23421.904
-ZDB.TO,BMO Discount Bond Index ETF,18098.572
-ZDH.TO,BMO International Dividend Hedged to CAD ETF,4521.4287
-ZDI.TO,BMO International Dividend ETF,13815.048
-ZDJ.TO,BMO Dow Jones Industrial Average Hedged to CAD Index ETF,10877.143
-ZDM.TO,BMO MSCI EAFE Hedged to CAD Index ETF,8061.7617
-ZDV.TO,BMO Canadian Dividend ETF,58218.383
-ZDY-U.TO,BMO US Dividend ETF CAD,1235.0
-ZDY.TO,BMO US Dividend ETF CAD,7716.857
-ZEA.TO,BMO MSCI EAFE Index ETF,65170.24
-ZEB.TO,BMO Equal Weight Banks Index ETF,562423.75
-ZEF.TO,BMO Emerging Markets Bond Hedged to CAD Index ETF,4576.8096
-ZEM.TO,BMO MSCI Emerging Markets Index ETF,36857.0
-ZEO.TO,BMO Equal Weight Oil & Gas Index ETF,64200.855
-ZEQ.TO,BMO MSCI Europe High Quality Hedged to CAD Index ETF,11621.143
-ZESG.TO,BMO Balanced ESG ETF,1595.619
-ZFC.TO,BMO SIA Focused Canadian Equity Fund,267.619
-ZFH.TO,BMO Floating Rate High Yield ETF,5125.0474
-ZFL.TO,BMO Long Federal Bond Index ETF,20556.572
-ZFM.TO,BMO Mid Federal Bond Index ETF,8127.143
-ZFN.TO,BMO SIA Focused North American Equity Fund,1412.8094
-ZFS-L.TO,BMO Short Federal Bond Index ETF Accum,2078.619
-ZFS.TO,BMO Short Federal Bond Index ETF,4701.619
+ZCS-L.TO,BMO Short Corporate Bond Index ETF Accum,3312.3
+ZCS.TO,BMO Short Corporate Bond Index ETF,25126.2
+ZDB.TO,BMO Discount Bond Index ETF,31197.2
+ZDH.TO,BMO International Dividend Hedged to CAD ETF,6257.75
+ZDI.TO,BMO International Dividend ETF,14649.35
+ZDJ.TO,BMO Dow Jones Industrial Average Hedged to CAD Index ETF,9070.4
+ZDM.TO,BMO MSCI EAFE Hedged to CAD Index ETF,13165.05
+ZDV.TO,BMO Canadian Dividend ETF,59576.15
+ZDY-U.TO,BMO US Dividend ETF CAD,1173.85
+ZDY.TO,BMO US Dividend ETF CAD,10689.25
+ZEA.TO,BMO MSCI EAFE Index ETF,24373.85
+ZEB.TO,BMO Equal Weight Banks Index ETF,752861.1
+ZEF.TO,BMO Emerging Markets Bond Hedged to CAD Index ETF,8799.75
+ZEM.TO,BMO MSCI Emerging Markets Index ETF,71679.4
+ZEO.TO,BMO Equal Weight Oil & Gas Index ETF,48744.9
+ZEQ.TO,BMO MSCI Europe High Quality Hedged to CAD Index ETF,10016.05
+ZESG.TO,BMO Balanced ESG ETF,1783.95
+ZFC.TO,BMO SIA Focused Canadian Equity Fund,925.0
+ZFH.TO,BMO Floating Rate High Yield ETF,4378.9
+ZFIN.TO,BMO MSCI Fintech Innovation Index ETF,3184.5
+ZFL.TO,BMO Long Federal Bond Index ETF,22748.95
+ZFM.TO,BMO Mid Federal Bond Index ETF,8431.4
+ZFN.TO,BMO SIA Focused North American Equity Fund,3505.7
+ZFS-L.TO,BMO Short Federal Bond Index ETF Accum,2037.15
+ZFS.TO,BMO Short Federal Bond Index ETF,10618.5
 ZGB.TO,BMO Government Bond Index ETF CAD,0.0
-ZGD.TO,BMO Equal Weight Global Gold Index ETF,14363.714
-ZGI.TO,BMO Global Infrastructure Index ETF,9262.857
-ZGQ.TO,BMO MSCI All Country World High Quality Index ETF,7250.0
-ZGRO.TO,BMO Growth ETF,5420.857
-ZGSB.TO,BMO Global Strategic Bond Fund ETF,1606.7144
-ZHP.TO,BMO US Preferred Share Hedged to CAD Index ETF,549.3333
-ZHU.TO,BMO Equal Weight US Health Care Index ETF,741.7619
-ZHY.TO,BMO High Yield US Corporate Bond Hedged to CAD Index ETF,14847.381
-ZIC-U.TO,BMO Mid-Term US IG Corporate Bond Index ETF CAD,1555.4286
-ZIC.TO,BMO Mid-Term US IG Corporate Bond Index ETF CAD,6707.095
-ZID.TO,BMO India Equity Index ETF,3385.2856
-ZIN.TO,BMO Equal Weight Industrials Index ETF,2328.4763
-ZJG.TO,BMO Junior Gold Index ETF,17498.334
-ZJK.TO,BMO High Yield US Corporate Bond Index ETF,2482.0476
-ZLB.TO,BMO Low Volatility Canadian Equity ETF,67713.766
-ZLC.TO,BMO Long Corporate Bond Index ETF,6192.476
-ZLD.TO,BMO Low Volatility International Equity Hedged to CAD ETF,1156.7618
-ZLE.TO,BMO Low Volatility Emerging Markets Equity ETF,344.8095
-ZLH.TO,BMO Low Volatility US Equity Hedged to CAD ETF,1595.9048
-ZLI.TO,BMO Low Volatility International Equity ETF,3142.1904
-ZLU-U.TO,BMO Low Volatility US Equity ETF CAD,1940.4762
-ZLU.TO,BMO Low Volatility US Equity ETF CAD,11051.19
-ZMBS.TO,BMO Canadian MBS Index ETF,230.2381
-ZMI.TO,BMO Monthly Income ETF,4520.143
-ZMID-F.TO,BMO S&P US Mid Cap Index ETF Hedged,51.0952
-ZMID-U.TO,BMO S&P US Mid Cap Index ETF,26.0952
-ZMID.TO,BMO S&P US Mid Cap Index ETF,331.9524
-ZMP.TO,BMO Mid Provincial Bond Index ETF,12879.667
-ZMSB.TO,BMO Global Multi-Sector Bond Fund ETF,4078.381
-ZMT.TO,BMO Equal Weight Global Base Metals Hedged to CAD Index ETF,6740.143
-ZMU.TO,BMO Mid-Term US IG Corporate Bond Hedged to CAD Index ETF,4331.2856
-ZNQ.TO,BMO Nasdaq 100 Equity Index ETF,5316.857
-ZPAY-F.TO,BMO Premium Yield ETF  Hedged,2556.0952
-ZPAY-U.TO,BMO Premium Yield ETF,3236.8572
-ZPAY.TO,BMO Premium Yield ETF,19258.953
-ZPH.TO,BMO US Put Write Hedged to CAD ETF,703.5238
-ZPL.TO,BMO Long Provincial Bond Index ETF,14600.477
-ZPR.TO,BMO Laddered Preferred Share Index ETF,139291.77
-ZPS-L.TO,BMO Short Provincial Bond Index ETF Accum,218.381
-ZPS.TO,BMO Short Provincial Bond Index ETF,5585.905
-ZPW.TO,BMO US Put Write ETF,3073.7144
-ZQB.TO,BMO High Quality Corporate Bond Index ETF,282.3333
-ZQQ.TO,BMO Nasdaq 100 Equity Hedged To CAD Index ETF,63225.81
-ZRE.TO,BMO Equal Weight REITs Index ETF,26301.809
-ZRR.TO,BMO Real Return Bond Index ETF,9399.667
-ZSB.TO,BMO Short-Term Bond Index ETF CAD,1713.5714
-ZSML-F.TO,BMO S&P US Small Cap Index ETF Hedged,4.8571
-ZSML-U.TO,BMO S&P US Small Cap Index ETF,36.5714
-ZSML.TO,BMO S&P US Small Cap Index ETF,796.381
-ZSP-U.TO,BMO S&P 500 Index ETF,5740.0474
-ZSP.TO,BMO S&P 500 Index ETF,181110.86
-ZST-L.TO,BMO Ultra Short-Term Bond ETF Accum,9975.762
-ZST.TO,BMO Ultra Short-Term Bond ETF,20273.38
-ZSU.TO,BMO Short-Term US IG Corporate Bond Hedged to CAD Index ETF,2595.762
-ZTL-F.NE,BMO Long-Term US Treasury Bond Index ETF Hedged,21331.62
-ZTL-U.NE,BMO Long-Term US Treasury Bond Index ETF,19898.0
-ZTL.NE,BMO Long-Term US Treasury Bond Index ETF,5531.476
-ZTM-U.NE,BMO Mid-Term US Treasury Bond Index ETF,1519.9048
-ZTM.NE,BMO Mid-Term US Treasury Bond Index ETF,8665.857
-ZTS-U.NE,BMO Short-Term US Treasury Bond Index ETF,21055.62
-ZTS.NE,BMO Short-Term US Treasury Bond Index ETF,5959.095
-ZUB.TO,BMO Equal Weight US Banks Hedged to CAD Index ETF,23164.666
-ZUD.TO,BMO US Dividend Hedged to CAD ETF,2956.5713
-ZUE.TO,BMO S&P 500 Hedged to CAD Index ETF,7236.857
-ZUH.TO,BMO Equal Weight US Health Care Hdgd to CAD Index ETF,4711.476
-ZUP-U.TO,BMO US Preferred Share Index ETF,808.4286
-ZUP.TO,BMO US Preferred Share Index ETF,3092.9048
-ZUQ-F.TO,BMO MSCI USA High Quality Index ETF Hedged,1341.8094
-ZUQ.TO,BMO MSCI USA High Quality Index ETF,5814.381
-ZUS-U.TO,BMO Ultra Short-Term US Bond ETF,1415.0952
-ZUS-V.TO,BMO Ultra Short-Term US Bond ETF USD Accumulating,805.9048
-ZUT.TO,BMO EQ Wght UT Trust Units,42288.24
-ZVC.TO,BMO MSCI Canada Value Index ETF,513.0952
-ZVU.TO,BMO MSCI USA Value Index ETF,638.381
-ZWA.TO,BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF,4148.905
-ZWB.TO,BMO Covered Call Canadian Banks ETF,98219.766
-ZWC.TO,BMO Canadian High Dividend Covered Call ETF,132836.67
-ZWE.TO,BMO Europe High Dividend Covered Call Hedged to CAD ETF,42209.0
-ZWG.TO,BMO Global High Dividend Covered Call ETF,3021.9524
-ZWH-U.TO,BMO US High Dividend Covered Call ETF,2356.619
-ZWH.TO,BMO US High Dividend Covered Call ETF,25162.953
-ZWK.TO,BMO Covered Call US Banks ETF,28562.572
-ZWP.TO,BMO Europe High Dividend Covered Call ETF CAD,19953.285
-ZWS.TO,BMO US High Dividend Covered Call Hedged to CAD ETF,6464.9526
-ZWU.TO,BMO Covered Call Utilities ETF,153949.0
-ZXM-B.TO,CI First Asset Mngstar Intl. Mmtm. Index ETF Unhedged,265.0476
-ZXM.TO,CI First Asset Morningstar International Momentum Index ETF,1038.7144
-ZZZD.TO,BMO Tactical Dividend ETF Fund,8810.762
+ZGD.TO,BMO Equal Weight Global Gold Index ETF,5037.6
+ZGEN.TO,BMO MSCI Genomic Innovation Index ETF,2340.5
+ZGI.TO,BMO Global Infrastructure Index ETF,8316.05
+ZGQ.TO,BMO MSCI All Country World High Quality Index ETF,11733.45
+ZGRO.TO,BMO Growth ETF,7481.55
+ZGSB.TO,BMO Global Strategic Bond Fund ETF,2790.55
+ZHP.TO,BMO US Preferred Share Hedged to CAD Index ETF,946.55
+ZHU.TO,BMO Equal Weight US Health Care Index ETF,1358.9
+ZHY.TO,BMO High Yield US Corporate Bond Hedged to CAD Index ETF,20913.3
+ZIC-U.TO,BMO Mid-Term US IG Corporate Bond Index ETF CAD,2936.3
+ZIC.TO,BMO Mid-Term US IG Corporate Bond Index ETF CAD,5039.4
+ZID.TO,BMO India Equity Index ETF,5384.25
+ZIN.TO,BMO Equal Weight Industrials Index ETF,1360.5
+ZINN.TO,BMO MSCI Innovation Index ETF,5529.0
+ZINT.TO,BMO MSCI Next Gen Internet Innovation Index ETF,1046.5
+ZJG.TO,BMO Junior Gold Index ETF,20004.0
+ZJK.TO,BMO High Yield US Corporate Bond Index ETF,2823.55
+ZLB.TO,BMO Low Volatility Canadian Equity ETF,92440.2
+ZLC.TO,BMO Long Corporate Bond Index ETF,7793.4
+ZLD.TO,BMO Low Volatility International Equity Hedged to CAD ETF,2391.15
+ZLE.TO,BMO Low Volatility Emerging Markets Equity ETF,699.15
+ZLH.TO,BMO Low Volatility US Equity Hedged to CAD ETF,2258.85
+ZLI.TO,BMO Low Volatility International Equity ETF,3736.0
+ZLU-U.TO,BMO Low Volatility US Equity ETF CAD,1194.1
+ZLU.TO,BMO Low Volatility US Equity ETF CAD,15219.65
+ZMBS.TO,BMO Canadian MBS Index ETF,1076.6
+ZMI.TO,BMO Monthly Income ETF,5344.9
+ZMID-F.TO,BMO S&P US Mid Cap Index ETF Hedged,57.15
+ZMID-U.TO,BMO S&P US Mid Cap Index ETF,60.0
+ZMID.TO,BMO S&P US Mid Cap Index ETF,309.6
+ZMP.TO,BMO Mid Provincial Bond Index ETF,12683.55
+ZMSB.TO,BMO Global Multi-Sector Bond Fund ETF,1392.05
+ZMT.TO,BMO Equal Weight Global Base Metals Hedged to CAD Index ETF,4768.6
+ZMU.TO,BMO Mid-Term US IG Corporate Bond Hedged to CAD Index ETF,10752.55
+ZNQ.TO,BMO Nasdaq 100 Equity Index ETF,5470.45
+ZPAY-F.TO,BMO Premium Yield ETF  Hedged,2005.65
+ZPAY-U.TO,BMO Premium Yield ETF,2891.0
+ZPAY.TO,BMO Premium Yield ETF,29363.8
+ZPH.TO,BMO US Put Write Hedged to CAD ETF,856.75
+ZPL.TO,BMO Long Provincial Bond Index ETF,22524.75
+ZPR.TO,BMO Laddered Preferred Share Index ETF,203510.75
+ZPS-L.TO,BMO Short Provincial Bond Index ETF Accum,16.05
+ZPS.TO,BMO Short Provincial Bond Index ETF,5668.95
+ZPW.TO,BMO US Put Write ETF,2523.35
+ZQB.TO,BMO High Quality Corporate Bond Index ETF,261.2
+ZQQ.TO,BMO Nasdaq 100 Equity Hedged To CAD Index ETF,104595.0
+ZRE.TO,BMO Equal Weight REITs Index ETF,34404.05
+ZRR.TO,BMO Real Return Bond Index ETF,11923.7
+ZSB.TO,BMO Short-Term Bond Index ETF CAD,3144.7
+ZSML-F.TO,BMO S&P US Small Cap Index ETF Hedged,380.1
+ZSML-U.TO,BMO S&P US Small Cap Index ETF,69.8
+ZSML.TO,BMO S&P US Small Cap Index ETF,777.05
+ZSP-U.TO,BMO S&P 500 Index ETF,7589.9
+ZSP.TO,BMO S&P 500 Index ETF,282746.3
+ZST-L.TO,BMO Ultra Short-Term Bond ETF Accum,12656.5
+ZST.TO,BMO Ultra Short-Term Bond ETF,15184.55
+ZSU.TO,BMO Short-Term US IG Corporate Bond Hedged to CAD Index ETF,1277.9
+ZTIP-F.TO,BMO Short Term US TIPS Index ETF Hedged,0.0
+ZTIP-U.TO,BMO Short Term US TIPS Index ETF USD,0.0
+ZTIP.TO,BMO Short Term US TIPS Index ETF CAD,12.5
+ZTL-F.NE,BMO Long-Term US Treasury Bond Index ETF Hedged,371.3
+ZTL-U.NE,BMO Long-Term US Treasury Bond Index ETF,1378.65
+ZTL.NE,BMO Long-Term US Treasury Bond Index ETF,5973.9
+ZTM-U.NE,BMO Mid-Term US Treasury Bond Index ETF,1428.2
+ZTM.NE,BMO Mid-Term US Treasury Bond Index ETF,2564.65
+ZTS-U.NE,BMO Short-Term US Treasury Bond Index ETF,1664.95
+ZTS.NE,BMO Short-Term US Treasury Bond Index ETF,3205.95
+ZUB.TO,BMO Equal Weight US Banks Hedged to CAD Index ETF,41592.7
+ZUD.TO,BMO US Dividend Hedged to CAD ETF,4086.2
+ZUE.TO,BMO S&P 500 Hedged to CAD Index ETF,11962.5
+ZUH.TO,BMO Equal Weight US Health Care Hdgd to CAD Index ETF,6298.25
+ZUP-U.TO,BMO US Preferred Share Index ETF,958.65
+ZUP.TO,BMO US Preferred Share Index ETF,4529.3
+ZUQ-F.TO,BMO MSCI USA High Quality Index ETF Hedged,667.75
+ZUQ.TO,BMO MSCI USA High Quality Index ETF,16351.85
+ZUS-U.TO,BMO Ultra Short-Term US Bond ETF,2423.5
+ZUS-V.TO,BMO Ultra Short-Term US Bond ETF USD Accumulating,1205.65
+ZUT.TO,BMO EQ Wght UT Trust Units,95844.95
+ZVC.TO,BMO MSCI Canada Value Index ETF,86.1
+ZVU.TO,BMO MSCI USA Value Index ETF,982.35
+ZWA.TO,BMO Covered Call Dow Jones Industrial Average Hedged to CAD ETF,5455.25
+ZWB.TO,BMO Covered Call Canadian Banks ETF,101410.75
+ZWC.TO,BMO Canadian High Dividend Covered Call ETF,181832.75
+ZWE.TO,BMO Europe High Dividend Covered Call Hedged to CAD ETF,39560.2
+ZWG.TO,BMO Global High Dividend Covered Call ETF,3893.6
+ZWH-U.TO,BMO US High Dividend Covered Call ETF,10606.75
+ZWH.TO,BMO US High Dividend Covered Call ETF,40741.95
+ZWK.TO,BMO Covered Call US Banks ETF,43303.55
+ZWP.TO,BMO Europe High Dividend Covered Call ETF CAD,16636.0
+ZWS.TO,BMO US High Dividend Covered Call Hedged to CAD ETF,8848.0
+ZWT.TO,BMO Covered Call Technology ETF,588.25
+ZWU.TO,BMO Covered Call Utilities ETF,176307.2
+ZXM-B.TO,CI First Asset Mngstar Intl. Mmtm. Index ETF Unhedged,1749.55
+ZXM.TO,CI First Asset Morningstar International Momentum Index ETF,776.9
+ZZZD.TO,BMO Tactical Dividend ETF Fund,8795.75
