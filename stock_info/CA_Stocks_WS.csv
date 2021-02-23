@@ -13,7 +13,7 @@ ACO-X.TO,Atco Ltd. (Class I),273493.9000
 ACQ.TO,AutoCanada Inc,117412.8000
 ACST.V,Acasti Pharma Inc (Class A),1431502.8000
 ACU.V,Aurora Solar Technologies Inc,1390722.0500
-AD-UN.TO,Alaris Equity Partners Income Trust,227282.9000
+AD-UN.TO,Alaris Equity Partners Income Trust,176227.0000
 ADCO.V,Adcore Inc,62093.2500
 ADK.V,Diagnos Inc.,207365.9000
 ADZN.V,Adventus Mining Corporation,214490.0500
@@ -21,6 +21,7 @@ AEM.TO,Agnico Eagle Mines Ltd,574815.3000
 AEX.V,AEX Gold Inc,56088.5500
 AEZS.TO,Aeterna Zentaris Inc.,299798.4500
 AFE.V,Africa Energy Corp,58339.7500
+AFM.V,Alphamin Resources Corp,631618.7000
 AFN.TO,Ag Growth International Inc,82722.4000
 AGF-B.TO,AGF Management Ltd. (Class B),214574.5500
 AGI.TO,Alamos Gold Inc. (Class A),726777.8000
@@ -37,6 +38,7 @@ ALY.V,AnalytixInsight Inc,230995.0500
 AMC.V,Arizona Metals Corp,307308.6000
 AMK.V,American Creek Resources Ltd,335651.8000
 AMM.TO,Almaden Minerals Ltd,152365.0500
+AMU-P.V,Aumento Capital VIII Corp,0.0000
 AMX.V,Amex Exploration Inc.,137926.6500
 AMY.V,American Manganese Inc,1457530.9500
 AND.TO,Andlauer Healthcare Group Inc,41326.1000
@@ -54,7 +56,7 @@ AQUA.V,Aquarius AI Inc,56565.9500
 AR.TO,Argonaut Gold Inc,1032556.4500
 ARE.TO,Aecon Group Inc.,219680.0500
 ARG.TO,Amerigo Resources Ltd,157797.6000
-ARIS.V,Aris Gold Corp,31356.3500
+ARIS.TO,Aris Gold Corp,31356.3500
 ARS.V,Ares Strategic Mining Inc,390703.9500
 ART.V,Arht Media Inc,305216.8500
 ARTG.V,Artemis Gold Inc,69470.1000
@@ -82,11 +84,12 @@ AX-UN.TO,Artis Real Estate Investment Trust,318281.7000
 AXU.TO,Alexco Resource Corp,348200.4000
 AYA.TO,Aya Gold & Silver Inc,360040.9000
 AZM.V,Azimut Exploration Inc,86635.5500
+AZN.V,AZN Capital Corp,920375.5000
 AZT.V,Aztec Minerals Corp,285085.0000
 BABY.V,Else Nutrition Holdings Inc,176077.4500
 BAD.TO,Badger Daylighting Ltd,64767.7500
 BAM-A.TO,Brookfield Asset Management Inc. (Class A),1846739.7500
-BB.TO,BlackBerry Ltd,1710958.9524
+BB.TO,BlackBerry Ltd,12150510.6500
 BBB.V,Brixton Metals Corporation,590412.9000
 BBD-A.TO,Bombardier Inc. (Class A),143914.1500
 BBD-B.TO,Bombardier Inc. (Class B),8620776.9000
@@ -118,7 +121,7 @@ BMEX.V,BMEX Gold Inc.,160457.8500
 BMO.TO,Bank of Montreal,3016333.9000
 BNAU.TO,Battle North Gold Corp,147081.6000
 BNCH.V,Benchmark Metals Inc,217697.5000
-BNE.TO,Bonterra Energy Corp.,54213.9048
+BNE.TO,Bonterra Energy Corp.,50142.0000
 BNS.TO,Bank Of Nova Scotia,4435888.7500
 BNXA.V,Banxa Holdings Inc.,152623.2500
 BOS.TO,Airboss Of America Corp.,170129.3000
@@ -127,7 +130,6 @@ BPY-UN.TO,Brookfield Property Partners L.P.,1460391.8000
 BRAG.TO,Bragg Gaming Group Inc,2225785.9000
 BRC.V,Blackrock Gold Corp,355418.2000
 BRG.V,Brigadier Gold Ltd.,453689.5000
-BRL-H.V,Bearclaw Capital Corp.,3297.1429
 BRM.V,Biorem Inc,66292.7500
 BRND-A-U.NE,Mercer Park Brand Acquisition Corp (Class A),116734.1000
 BRO.V,Barksdale Resources Corp,80489.5500
@@ -137,7 +139,7 @@ BTB-UN.TO,BTB Real Estate Investment Trust - Unit,121693.8000
 BTCG-UN.TO,CI Galaxy Bitcoin Fund - Unit - Class A,154621.9000
 BTE.TO,Baytex Energy Corp,4945439.4500
 BTI.V,Bioasis Technologies Inc,89160.5500
-BTO.TO,B2gold Corp,10837187.9000
+BTO.TO,B2gold Corp,4014623.1000
 BTR.V,Bonterra Resources Inc,92822.1500
 BU.TO,Burcon Nutrascience Corp,680945.8500
 BUS.V,Grande West Transportation Group Inc,1384744.2500
@@ -160,9 +162,11 @@ CCM.TO,Canagold Resources Ltd,92815.2500
 CCO.TO,Cameco Corp.,1501647.6500
 CCW.V,Canada Cobalt Works Inc,538047.8500
 CD.V,Cantex Mine Development Corp.,94744.2000
+CDB.V,Cordoba Minerals Corp,14578.4618
 CDV.TO,Cardinal Resources Limited,141311.5789
+CDXX-UN-U.NE,Choice Consolidation Corp (Class A),0.0000
 CEU.TO,CES Energy Solutions Corp,424648.6000
-CF.TO,Canaccord Genuity Group Inc,242925.4091
+CF.TO,Canaccord Genuity Group Inc,256589.6500
 CFF.TO,Conifex Timber Inc,62774.9500
 CFP.TO,Canfor Corp.,337330.7000
 CFW.TO,Calfrac Well Services Ltd.,268390.8000
@@ -185,9 +189,9 @@ CM.TO,Canadian Imperial Bank Of Commerce,1942457.1000
 CMG.TO,Computer Modelling Group Ltd,98050.6500
 CMMC.TO,Copper Mountain Mining Corporation,1287548.5000
 CNC.V,Canada Nickel Company Inc,453130.5000
-CNE.TO,Canacol Energy Ltd,580109.7000
+CNE.TO,Canacol Energy Ltd,246873.4000
 CNQ.TO,Canadian Natural Resources Ltd.,4374149.3500
-CNR.TO,Canadian National Railway Co.,1417711.6190
+CNR.TO,Canadian National Railway Co.,1177609.5000
 CNX.V,Callinex Mines Inc,40191.9500
 CP.TO,Canadian Pacific Railway Ltd,258848.5500
 CPG.TO,Crescent Point Energy Corp,5158813.0500
@@ -197,23 +201,24 @@ CR.TO,Crew Energy Inc.,342844.6000
 CRBK.V,Carebook Technologies Inc.,81694.5000
 CRDL.TO,Cardiol Therapeutics Inc (Class A),166081.2000
 CRE.V,Critical Elements Lithium Corporation,483211.3000
-CRH.TO,CRH Medical Corporation,88534.2857
+CRH.TO,CRH Medical Corporation,118145.8000
 CRON.TO,Cronos Group Inc,1154210.2000
 CRR-UN.TO,Crombie Real Estate Investment Trust,154273.0500
+CRRX.TO,CareRx Corporation,86290.8500
 CRT-UN.TO,CT Real Estate Investment Trust,179722.7500
 CS.TO,Capstone Mining Corporation,839431.3500
 CSH-UN.TO,Chartwell Retirement Residences,475382.5500
 CSU.TO,Constellation Software Inc,35048.7000
 CTC-A.TO,"Canadian Tire Corp., Ltd. (Class A)",184330.9000
-CTS.V,Converge Technology Solutions Corp.,1133206.9500
+CTS.TO,Converge Technology Solutions Corp.,1133206.9500
 CU.TO,Canadian Utilities Ltd. (Class A),666241.3500
 CUB.V,CubicFarm Systems Corp,155717.9000
 CUF-UN.TO,Cominar Real Estate Investment Trust,342947.5000
 CUR.V,International Consolidated Uranium Inc,79864.3000
-CVE.TO,Cenovus Energy Inc,3833211.0476
+CVE.TO,Cenovus Energy Inc,8553448.0500
 CVV.V,Canalaska Uranium Ltd,178227.4500
 CVX.V,Cematrix Corporation,497689.9000
-CWB.TO,Canadian Western Bank,312160.2381
+CWB.TO,Canadian Western Bank,259507.1500
 CWEB.TO,Charlottes Web Holdings Inc,665473.3000
 CWL.TO,Caldwell Partners International Inc.,49842.4000
 CWRK.V,CurrencyWorks Inc,566296.8000
@@ -231,23 +236,24 @@ DCMC.V,Dore Copper Mining Corp,120164.2500
 DEAL.V,Playgon Games Inc.,152768.6500
 DEF.V,Defiance Silver Corp,518447.3000
 DEFI.NE,Routemaster Capital Inc,772043.1000
+DEFN.V,Defense Metals Corp,628017.0500
 DEX-H.V,Detector Exploration Ltd.,0
 DFN.TO,Dividend 15 Split Corp. (Class A),235988.3500
 DGHI.V,Sub voting,157373.4000
 DGS.TO,Dividend Growth Split Corp (Class A),75187.6000
 DGTL.V,DGTL Holdings Inc.,252613.7000
 DII-B.TO,Dorel Industries Inc. (Class B),77919.5500
-DIR-UN.TO,Dream Industrial Real Estate Investment Trust,313597.8095
+DIR-UN.TO,Dream Industrial Real Estate Investment Trust,620541.3000
 DIV.TO,Diversified Royalty Corp,270092.3500
 DLCG.V,Dominion Lending Centres Inc.,115957.4000
-DLTA.V,Delta Resources Ltd,69198.8571
+DLTA.V,Delta Resources Ltd,73387.7000
 DME.V,Desert Mountain Energy Corp,86794.7500
-DMGI.V,DMG Blockchain Solutions Inc,2176035.0476
+DMGI.V,DMG Blockchain Solutions Inc,5345633.3000
 DML.TO,Denison Mines Corp,1303688.9000
 DMX.V,District Metals Corp,151491.1000
-DN.TO,Delta 9 Cannabis Inc,179636.2381
+DN.TO,Delta 9 Cannabis Inc,120825.4000
 DND.TO,Dye & Durham Ltd,238122.5000
-DOC.V,CloudMD Software & Services Inc,3285090.7619
+DOC.V,CloudMD Software & Services Inc,1569824.1000
 DOL.TO,Dollarama Inc,637265.5000
 DOO.TO,BRP Inc,215433.9000
 DPM.TO,Dundee Precious Metals Inc.,477693.5500
@@ -261,19 +267,18 @@ DSV.V,Discovery Metals Corp,844539.9000
 DV.V,Dolly Varden Silver Corp,290339.3500
 DXT.TO,Dexterra Group Inc,46787.7500
 DYA.TO,DynaCERT Inc,1694113.5500
+EAM.V,East Africa Metals Inc,389184.4500
 ECN.TO,ECN Capital Corp,477044.9000
 ECO.TO,EcoSynthetix Inc,190625.6000
 ECOM.V,Emerge Commerce Ltd,578590.1000
 EDR.TO,Endeavour Silver Corp.,919968.4500
 EDT.TO,Spectral Medical Inc,89313.4000
 EDV.TO,Endeavour Mining Corp,792632.9000
-EFH.V,EFH Holdings Inc,39161.0476
-EFL.TO,"Electrovaya, Inc.",472825.1905
+EFL.TO,"Electrovaya, Inc.",753108.7000
 EFN.TO,Element Fleet Management Corp,1229783.3500
 EFR.TO,Energy Fuels Inc,905336.4000
 EFX.TO,Enerflex Ltd,346159.7000
-EGLD.V,Eclipse Gold Mining Corporation,112934.4000
-EGLX.TO,Enthusiast Gaming Holdings Inc.,111392.1500
+EGLX.TO,Enthusiast Gaming Holdings Inc.,635588.6500
 EGT.V,Eguana Technologies Inc,665132.3000
 EIF.TO,Exchange Income Corp,86327.3000
 EIT-UN.TO,Canoe EIT Income Fund,251549.6500
@@ -284,18 +289,21 @@ ELO.V,Eloro Resources Ltd,281633.0500
 ELR.TO,Eastern Platinum Ltd,116842.5000
 ELY.V,Ely Gold Royalties Inc,177568.9000
 EMA.TO,Emera Inc.,1327956.4500
+EMH.V,Emerald Health Therapeutics Inc,440694.2500
 EMM.V,Giyani Metals Corp,190638.3000
 EMN.V,Euro Manganese Inc,306498.6000
+EMNT.V,Eminent Gold Corp,16362.5000
 EMP-A.TO,"Empire Co., Ltd. (Class A)",596202.4000
 EMPR.V,Empress Royalty Corp.,96804.0500
 ENB.TO,Enbridge Inc,8382672.5500
 ENGH.TO,Enghouse Systems Ltd,140374.5500
 ENW.V,Enwave Corp.,106405.7000
 EOG.V,Eco (Atlantic) Oil & Gas Ltd,126200.0000
+EQ.V,EQ Inc,43647.8500
 EQX.TO,Equinox Gold Corp,772258.1000
 ERD.TO,Erdene Resource Development Corp,253770.9500
 ERE-UN.TO,European Residential Real Estate Investment Trust,118888.8500
-ERF.TO,Enerplus Corporation,1561442.5238
+ERF.TO,Enerplus Corporation,1624788.7500
 ERO.TO,Ero Copper Corp,266031.8000
 ESE.V,ESE Entertainment Inc.,263808.1000
 ESI.TO,Ensign Energy Services Inc,720226.6000
@@ -316,7 +324,7 @@ EXRO.V,Exro Technologies Inc,392288.7000
 FAF.TO,Fire & Flower Holdings Corp,1180542.6000
 FC.TO,Firm Capital Mortgage Investment Corporation,44468.5000
 FCR-UN.TO,First Capital Real Estate Investment Trust,689327.2000
-FCU.TO,Fission Uranium Corp,607209.1000
+FCU.TO,Fission Uranium Corp,1287140.1000
 FD.V,Facedrive Inc,252506.8000
 FEC.TO,Frontera Energy Corporation,261991.4500
 FF.TO,First Mining Gold Corp,1010661.9000
@@ -333,7 +341,8 @@ FM.TO,First Quantum Minerals Ltd.,2693751.3500
 FN.TO,First National Financial Corporation,61904.5000
 FNV.TO,Franco-Nevada Corporation,321742.6000
 FOM.V,Foran Mining Corp.,717955.8000
-FOOD.TO,Goodfood Market Corp,584465.7143
+FOOD.TO,Goodfood Market Corp,957259.7500
+FORT.V,Fortress Technologies Inc,1687806.3500
 FPC.V,Falco Resources Ltd.,187862.6500
 FPX.V,FPX Nickel Corp,241334.0000
 FR.TO,First Majestic Silver Corporation,1990087.5000
@@ -342,9 +351,10 @@ FRII.TO,Freshii Inc (Class A),52333.5500
 FRU.TO,Freehold Royalties Ltd,451864.1500
 FSV.TO,FirstService Corp,41797.7000
 FSX.V,Fosterville South Exploration Ltd,152656.5500
+FSY.TO,Forsys Metals Corp.,213329.7000
 FSZ.TO,Fiera Capital Corp (Class A),292357.4000
 FTN.TO,Financial 15 Split Corp. (Class A),168787.5500
-FTS.TO,Fortis Inc.,2389764.8500
+FTS.TO,Fortis Inc.,1570253.1000
 FTT.TO,Finning International Inc.,330270.4500
 FURY.TO,Fury Gold Mines Ltd.,203188.9500
 FVAN.V,First Vanadium Corp,78850.9500
@@ -366,7 +376,6 @@ GEI.TO,Gibson Energy Inc,611399.1000
 GEM.V,Goldcore Resources Ltd.,516375.4000
 GENM.TO,Generation Mining Ltd,412048.7000
 GFL.TO,GFL Environmental Inc.,203664.5000
-GFP.V,GreenFirst Forest Products Inc,15773.7000
 GGD.TO,Gogold Resources Inc,863823.1500
 GGI.V,Garibaldi Resources Corporation.,138718.6000
 GHE-H.V,Gold Horn International Enterprises Group Ltd,0
@@ -374,16 +383,17 @@ GIB-A.TO,CGI Inc (Class A),496451.4000
 GIGA.V,Giga Metals Corp,488299.5500
 GIII.V,GEN III Oil Corp,272652.3500
 GIL.TO,Gildan Activewear Inc,306807.2500
-GLD.V,GoldON Resources Ltd,61039.1000
+GLD.V,GoldON Resources Ltd,61839.0000
 GLDC.V,Cassiar Gold Corp,95790.3500
 GLDL.V,Gold Line Resources Ltd.,259450.0000
 GLDX.V,Gold X Mining Corp,72026.8500
 GLO.TO,Global Atomic Corp,318593.6000
-GLXY.TO,Galaxy Digital Holdings Ltd.,290040.7500
+GLXY.TO,Galaxy Digital Holdings Ltd.,622636.9000
+GMA.V,Geomega Resources Inc,382637.1000
 GMIN.V,G Mining Ventures Corp.,43618.4500
 GMTN.V,Gold Mountain Mining Corp.,258127.9500
 GOG.V,Golden Tag Resources Ltd.,467156.3000
-GOLD.TO,GoldMining Inc,768054.5714
+GOLD.TO,GoldMining Inc,398051.2500
 GOOS.TO,Canada Goose Holdings Inc,413349.2500
 GPH.V,Graphite One Inc,181829.0000
 GPR.TO,Great Panther Mining Ltd,325565.8500
@@ -392,7 +402,7 @@ GRA.V,NanoXplore Inc,152473.6500
 GRAM-U.NE,TPCO Holding Corp (Class A),1015331.0500
 GRAT.V,Gratomic Inc,1882055.0000
 GRB.V,Greenbriar Capital Corp,128882.4500
-GRN.V,Greenlane Renewables Inc,1914125.3000
+GRN.TO,Greenlane Renewables Inc,1914125.3000
 GRSL.V,Gr Silver Mining Ltd,352897.0000
 GRT-UN.TO,Granite Real Estate Investment Trust,165744.5500
 GSI.V,Gatekeeper Systems Inc.,283541.4000
@@ -400,7 +410,7 @@ GSPR.V,GSP Resource Corp,45270.6500
 GSV.TO,Gold Standard Ventures Corp,182322.8500
 GSY.TO,Goeasy Ltd,57616.2500
 GTE.TO,Gran Tierra Energy Inc,2065309.6000
-GTEC.V,GTEC Holdings Ltd,118297.5500
+GTEC.V,GTEC Holdings Ltd,289028.1000
 GTMS.TO,Greenbrook TMS Inc,16520.3200
 GTR.V,Gatling Exploration Inc,87326.9500
 GTT.V,GT Gold Corp,99525.4500
@@ -433,11 +443,12 @@ HTL.V,Hamilton Thorne Ltd,212654.8000
 HTR.V,Heatherdale Resources Ltd,70022.3000
 HULK.V,Pontus Protein Ltd,844810.5000
 HUT.TO,Hut 8 Mining Corp,3036134.7500
+HVT.V,Harvest One Cannabis Inc,514981.0500
 HWX.TO,Headwater Exploration Inc,634448.2500
 IAG.TO,iA Financial Corp,213321.1000
 IBG.TO,IBI Group Inc,74947.4500
 IFC.TO,Intact Financial Corp,244647.0500
-IFP.TO,Interfor Corp,497687.3333
+IFP.TO,Interfor Corp,348610.9000
 IGM.TO,IGM Financial Inc.,275840.7000
 III.TO,Imperial Metals Corp.,83648.9500
 IIP-UN.TO,InterRent Real Estate Investment Trust,305761.7000
@@ -455,13 +466,14 @@ IPO.TO,InPlay Oil Corp,211500.7500
 IPT.V,Impact Silver Corp.,543252.1500
 IQ.V,"Airiq, Inc",55020.1500
 ISO.V,IsoEnergy Ltd.,159455.0500
+ITM.V,Intema Solutions Inc,536717.7000
 ITP.TO,Intertape Polymer Group Inc.,239884.7500
 ITR.V,Integra Resources Corp,48950.0500
 IVN.TO,Ivanhoe Mines Ltd. (Class A),1385976.9500
 JAG.TO,Jaguar Mining Inc,208762.1500
 JCO.V,Jericho Oil Corporation,232274.1000
-JE.TO,Just Energy Group Inc,30094.3864
-JET.V,Global Crossing Airlines Group Inc,44815.2381
+JE.TO,Just Energy Group Inc,598837.5000
+JET.V,Global Crossing Airlines Group Inc,148245.2500
 JNH.V,Jack Nathan Medical Corp.,122884.0000
 JOSE.TO,Josemaria Resources Inc,136645.8000
 JRV.V,Jervois Mining Ltd.,447500.3500
@@ -471,7 +483,7 @@ K.TO,Kinross Gold Corp.,4239409.6000
 KC.V,Kutcho Copper Corp,83065.5000
 KCC.V,Kincora Copper Ltd,112065.6167
 KDK.V,Kodiak Copper Corp,153954.8500
-KEL.TO,Kelt Exploration Ltd,923657.0952
+KEL.TO,Kelt Exploration Ltd,1046166.8000
 KEY.TO,Keyera Corp,910184.5500
 KHRN.V,Khiron Life Sciences Corp,523316.6000
 KITS.TO,Kits Eyecare Ltd,279297.8889
@@ -481,14 +493,15 @@ KLS.TO,Kelso Technologies Inc.,150514.9000
 KMP-UN.TO,Killam Apartment Reit,226389.6500
 KNC.V,K9 Gold Corp.,176815.6000
 KNT.TO,K92 Mining Inc,581424.0000
-KOR.TO,Corvus Gold Inc,166771.4091
+KOR.TO,Corvus Gold Inc,123995.0000
 KORE.V,Kore Mining Ltd,219933.5250
+KR-H.V,KR Investment Ltd,1.5625
 KRR.TO,Karora Resources Inc,561777.7500
 KSI.V,kneat.com inc,117513.2000
+KSUM-H.V,Alset Capital Inc,9361.1650
 KTN.V,Kootenay Silver Inc,548895.6000
 KTO.V,K2 Gold Corp,91986.9000
 KUT.V,Redishred Capital Corp,390799.9500
-KUU.V,KuuHubb Inc,60351.0500
 KWE.V,KWESST Micro Systems Inc.,116566.5500
 KXS.TO,Kinaxis Inc,91218.4000
 L.TO,Loblaw Cos. Ltd.,568928.1500
@@ -496,17 +509,23 @@ LAB.V,Labrador Gold Corp,240948.5500
 LABS.TO,Medipharm Labs Corp,2347828.1000
 LAC.TO,Lithium Americas Corp,1450568.6000
 LB.TO,Laurentian Bank Of Canada,184216.2000
+LBC.V,Libero Copper & Gold Corporation,355026.2100
 LBS.TO,Life & Banc Split Corp (Class A),115704.8500
+LEAF.TO,Leaf Mobile Inc,0.0000
 LGD.TO,Liberty Gold Corp.,444793.6500
 LGO.TO,Largo Resources Ltd.,1061681.1000
+LI.V,American Lithium Corp,1765837.8000
 LIF.TO,Labrador Iron Ore Royalty Corp,274612.2500
 LIO.V,Lion One Metals Ltd,177028.5000
 LIS.V,Lithium South Development Corporation,312588.7000
+LITH.V,Lithium Chile Inc,459991.5500
+LLG.V,Mason Graphite Inc,349565.0500
 LN.TO,Loncor Resources Inc,82812.0500
 LNR.TO,Linamar Corp.,141318.2500
+LOOP.V,LOOPShare Ltd (Class A),65634.4000
 LPS.V,Legend Power Systems Inc.,142062.2000
 LR.V,Luminex Resources Corp,77977.2000
-LSPD.TO,Lightspeed POS Inc,641698.5000
+LSPD.TO,Lightspeed POS Inc,573326.3000
 LTE.V,Lite Access Technologies Inc,2013135.9500
 LTV.V,LeoNovus Inc,200447.2500
 LUC.TO,Lucara Diamond Corp,324559.6000
@@ -515,13 +534,11 @@ LUG.TO,Lundin Gold Inc,628353.3500
 LUM.V,Lumina Gold Corp,215589.1000
 LUN.TO,Lundin Mining Corp.,2084844.7500
 LXG.V,Lexagene Holdings Inc,637710.5500
-LXR.TO,LXRandCo Inc (Class B),68274.4500
 MAG.TO,MAG Silver Corp.,314001.3000
 MAI.V,Minera Alamos Inc,364305.9500
 MAPS.V,ProStar Holdings Inc.,140316.6667
 MAU.V,Montage Gold Corp,129196.4000
 MAW.TO,Mawson Gold Ltd,149882.4500
-MAX.TO,Midas Gold Corp,45358.7500
 MAXR.TO,Maxar Technologies Inc,233971.7500
 MBCN.TO,MindBeacon Holdings Inc,74145.9500
 MBX.TO,Microbix Biosystems Inc.,119852.6000
@@ -529,6 +546,7 @@ MCI.V,Minnova Corp,163379.6000
 MCLD.V,mCloud Technologies Corp,62817.1000
 MDF.TO,mdf commerce inc,74804.2500
 MDI.TO,Major Drilling Group International Inc.,138451.0500
+MDL.V,Medallion Resources Ltd,130517.3500
 MDNA.TO,Medicenna Therapeutics Corp,134682.3500
 MDP.V,Medexus Pharmaceuticals Inc,65576.5000
 MEDV.NE,Medivolve Inc,2705285.7000
@@ -547,7 +565,9 @@ MIR.V,Medmira Inc,3049729.3500
 MKO.V,Mako Mining Corp,310617.3500
 ML.V,Millennial Lithium Corp,342421.5500
 MMED.NE,Mind Medicine Inc,3930966.8500
-MMG.V,Metallic Minerals Corp,205259.0000
+MMG.V,Metallic Minerals Corp,184164.8500
+MMO-H.V,Mount Dakota Energy Corp.,75.0000
+MMS.V,Macarthur Minerals Ltd,96135.7500
 MMX.TO,Maverix Metals Inc,71691.5500
 MN.V,Manganese X Energy Corp,2835617.3500
 MND.TO,Mandalay Resources Corp,68161.6500
@@ -555,13 +575,15 @@ MOGO.TO,Mogo Inc,320532.0500
 MON.V,Montero Mining and Exploration Ltd,138142.6500
 MOZ.TO,Marathon Gold Corporation,795531.2000
 MPCT-UN.TO,Dream Impact Trust,55982.3000
-MPVD.TO,Mountain Province Diamonds Inc,830806.3500
+MPVD.TO,Mountain Province Diamonds Inc,127128.7000
 MRE.TO,"Martinrea International, Inc.",216298.2000
 MRG-UN.TO,Morguard North American Residential Real Estate Investment Trust,44899.7500
+MRS.V,Mission Ready Solutions Inc,3077343.7500
 MRT-UN.TO,Morguard Real Estate Investment Trust,75947.7500
 MRU.TO,Metro Inc,606673.1000
-MRZ.V,Mirasol Resources Ltd,59560.1000
-MSI.TO,Morneau Shepell Inc,120098.0500
+MRV.TO,Nuvo Pharmaceuticals Inc,68140.3500
+MRZ.V,Mirasol Resources Ltd,97101.1000
+MSI.TO,Morneau Shepell Inc,73538.1000
 MSV.TO,Minco Silver Corporation,52237.6000
 MTA.V,Metalla Royalty and Streaming Ltd,67395.4000
 MTB.V,Mountain Boy Minerals Ltd.,122899.3500
@@ -581,9 +603,12 @@ NBVA.V,Nubeva Technologies Ltd.,114312.8500
 NBY.V,Niobay Metals Inc,93355.1500
 NCAU.V,Newcore Gold Ltd.,108318.6000
 NDM.TO,Northern Dynasty Minerals Ltd.,2224037.3000
+NDVA.V,Indiva Ltd,346962.0500
 NEE.V,Northern Vertex Mining Corp,165720.1000
+NEO.TO,Neo Performance Materials Inc,46294.2500
 NEPT.TO,Neptune Wellness Solutions Inc,378873.6000
 NEXE.V,NEXE Innovations Inc (Class A),889015.4000
+NEXT.TO,NextSource Materials Inc,1225038.0500
 NFG.V,New Found Gold Corp,222671.6000
 NFI.TO,NFI Group Inc,411675.4500
 NG.TO,Novagold Resources Inc.,288244.7500
@@ -610,7 +635,7 @@ NSR.TO,Nomad Royalty Company Ltd,223126.6500
 NTAR.NE,NexTech AR Solutions Corp,223203.1053
 NTR.TO,Nutrien Ltd,1371615.1000
 NTS.V,Nanotech Security Corp,52089.5000
-NUAG.TO,New Pacific Metals Corp.,202741.4774
+NUAG.TO,New Pacific Metals Corp.,142206.8000
 NUMI.V,Numinus Wellness Inc.,2899518.0500
 NVA.TO,Nuvista Energy Ltd.,1112214.1500
 NVCN.TO,Neovasc Inc,116210.8500
@@ -622,6 +647,7 @@ NWX.V,Newport Exploration Ltd,94728.3500
 NXE.TO,NexGen Energy Ltd,1530222.8000
 NXO.V,Nexoptic Technology Corp,211230.5000
 NXR-UN.TO,Nexus Real Estate Investment Trust. - Unit,9855.7719
+OBE.TO,Obsidian Energy Ltd,118815.1500
 OCG.V,Outcrop Gold Corp,267475.3500
 OCO.V,Oroco Resource Corp,168893.5000
 OG.V,Organic Garage Ltd,765679.9500
@@ -634,11 +660,13 @@ OM.V,Osisko Metals Incorporated,122562.4500
 OMI.TO,Orosur Mining Inc,63525.1000
 OMM.V,Omineca Mining and Metals Ltd,52824.0000
 ONC.TO,"Oncolytics Biotech, Inc.",189921.3500
+ONE.V,01 Communique Laboratory Inc,108104.8500
 ONEX.TO,Onex Corp.,100112.1000
 OPS.TO,Opsens Inc,238232.3000
-OR.TO,Osisko Gold Royalties Ltd,560365.8000
+OR.TO,Osisko Gold Royalties Ltd,518569.3500
 ORE.V,Orezone Gold Corp,428795.5500
 ORG.V,Orca Gold Inc,172110.6000
+ORL.TO,Orocobre Ltd,169761.9000
 OSI.V,Osino Resources Corp.,104478.3500
 OSK.TO,Osisko Mining Inc,941798.0000
 OSS.V,OneSoft Solutions Inc,192653.6500
@@ -648,7 +676,6 @@ OVV.TO,Ovintiv Inc,724228.0500
 OYL.V,CGX Energy Inc,42071.8000
 PAAS.TO,Pan American Silver Corp,646179.1000
 PAC.V,Pacton Gold Inc,120698.4500
-PAR-H.V,Parent Capital Corp,11530.6000
 PAT.TO,Patriot One Technologies Inc,378335.3500
 PBH.TO,Premium Brands Holdings Corp,62266.9500
 PBX.V,PowerBand Solutions Inc,1068742.5000
@@ -657,7 +684,6 @@ PD.TO,Precision Drilling Corp,132668.9500
 PE.V,Pure Energy Minerals Ltd,220762.0000
 PEA.TO,Pieridae Energy Ltd,114317.1000
 PEAK.V,Sun Peak Metals Corp.,44268.3500
-PEO.V,People Corp,851781.1500
 PERU.V,Chakana Copper Corp,81223.9500
 PEY.TO,Peyto Exploration & Development Corp.,931029.4000
 PFM.V,ProntoForms Corp,44706.8500
@@ -673,10 +699,12 @@ PHYS.TO,Sprott Physical Gold Trust,94705.6500
 PIF.TO,Polaris Infrastructure Inc,144760.9500
 PINK.V,Perimeter Medical Imaging AI Inc,140994.1000
 PIPE.TO,Pipestone Energy Corp.,399307.1500
-PKI.TO,Parkland Corp,481255.0952
+PKI.TO,Parkland Corp,372094.5500
 PKT.V,Parkit Enterprise Inc,182314.9500
 PL.TO,Pinnacle Renewable Energy Inc,55718.1500
+PLAN.V,Progressive Planet Solutions Inc,321142.4000
 PLC.TO,Park Lawn Corp,97073.8000
+PLU.V,Plateau Energy Metals Inc,272945.6000
 PLUR.V,Plurilock Security Inc.,249860.7500
 PLZ-UN.TO,Plaza Retail REIT,93127.9500
 PNG.V,Kraken Robotics Inc,286818.7000
@@ -684,15 +712,16 @@ POPR.V,PopReach Corporation,93317.2500
 POU.TO,Paramount Resources Ltd. (Class A),484230.0000
 POW.TO,Power Corp. Of Canada,2617133.6500
 PPL.TO,Pembina Pipeline Corporation,2542611.1000
-PRB.V,Probe Metals Inc,120283.2500
+PPTA.TO,Perpetua Resources Corp.,45358.7500
+PRB.V,Probe Metals Inc,107465.3000
 PRMW.TO,Primo Water Corporation,129511.1000
 PRN.TO,Profound Medical Corp,87202.8500
-PRU.TO,Perseus Mining Limited,68750.4000
+PRU.TO,Perseus Mining Limited,42379.8500
 PRV-UN.TO,PRO Real Estate Investment Trust,63148.9000
 PRYM.V,Prime Mining Corp,472062.5500
-PSH.V,PetroShale Inc,220071.0500
 PSI.TO,Pason Systems Inc.,243851.3500
 PSK.TO,PrairieSky Royalty Ltd,489682.6500
+PSL-H.V,Prospero Silver Corp,6163.7333
 PSLV.TO,Sprott Physical Silver Trust,147034.4500
 PTK.V,POET Technologies Inc,948609.1000
 PTM.TO,Platinum Group Metals Ltd.,164983.4500
@@ -701,10 +730,11 @@ PVG.TO,Pretium Resources Inc,500041.3500
 PWM.V,Power Metals Corp,250807.6000
 PXI.V,Planet Ventures Inc,62644.4500
 PXT.TO,Parex Resources Inc,550272.7500
-PYR.TO,Pyrogenesis Canada Inc,201431.5238
+PYR.TO,Pyrogenesis Canada Inc,389030.1500
 PZA.TO,Pizza Pizza RoyaltyCorp,56065.8500
 QBR-B.TO,Quebecor Inc. (Class B),568113.7500
-QBTC-U.TO,The Bitcoin Fund - Unit - Class A,92309.9048
+QBTC-U.TO,The Bitcoin Fund - Unit - Class A,250235.0500
+QCX.V,QCX Gold Corp.,57457.5500
 QEX.V,QuestEx Gold & Copper Ltd.,48113.6500
 QMC.V,QMC Quantum Minerals Corp,497233.4500
 QRC.V,Queen`s Road Capital Investment Ltd,61806.2000
@@ -712,8 +742,10 @@ QSR.TO,Restaurant Brands International Inc,580062.2000
 QST.V,Questor Technology Inc,149975.5500
 QTRH.TO,Quarterhill Inc,200923.7000
 QUIS.V,Quisitive Technology Solutions Inc,273895.0500
+QYOU.V,QYOU Media Inc,4247718.9000
 RAY-A.TO,Stingray Group Inc,78073.9000
 RBA.TO,Ritchie Bros Auctioneers Inc,189349.5000
+RBX.V,Robex Resources Inc.,133446.7500
 RCG.TO,RF Capital Group Inc,45913.0000
 RCH.TO,Richelieu Hardware Ltd.,104595.9500
 RCI-B.TO,Rogers Communications Inc. (Class B),1001733.5000
@@ -724,8 +756,9 @@ REAX.V,The Real Brokerage Inc.,109580.4000
 RECO.V,Reconnaissance Energy Africa Ltd,1996369.5500
 REG.V,Regulus Resources Inc,196870.9500
 REI-UN.TO,RioCan Real Estate Investment Trust,1421703.3000
-RET-A.V,Reitmans Ltd. (Class A),72573.9048
+RET-A.V,Reitmans Ltd. (Class A),190621.3000
 REVO.V,RevoluGROUP Canada Inc,496453.9500
+RFP.TO,Resolute Forest Products Inc,40918.2500
 RHC.V,Royal Helium Ltd,397367.8000
 RHT.V,Reliq Health Technologies Inc,611739.2500
 RIO.V,Rio2 Ltd.,148724.1000
@@ -737,20 +770,22 @@ ROOT.TO,Roots Corp,46083.7000
 ROS.V,Roscan Gold Corp.,761198.5500
 ROXG.TO,Roxgold Inc,713840.3000
 RP.V,Replicel Life Sciences Inc,66491.6000
+RRI.V,- New,97775.8000
 RSI.TO,Rogers Sugar Inc,160308.5000
 RSLV.V,Reyna Silver Corp,322192.2500
 RSS.V,Resaas Services Inc,42784.9500
 RUP.V,Rupert Resources Ltd.,50972.7000
-RUS.TO,Russel Metals Inc.,431749.4000
+RUS.TO,Russel Metals Inc.,223915.4500
 RVG.V,Revival Gold Inc,78150.0000
 RVX.TO,Resverlogix Corp.,48605.0000
 RY.TO,Royal Bank of Canada,5820718.2500
+S.TO,Sherritt International Corp.,1947893.5000
 SAG.V,Sterling Metals Corp.,66219.0000
 SAP.TO,Saputo Inc,338619.3500
 SBB.TO,Sabina Gold & Silver Corp,648465.1500
 SCL.TO,ShawCor Ltd.,804642.1000
 SCOT.V,Scottie Resources Corp,507773.7500
-SCR.TO,Score Media and Gaming Inc (Class A),647968.0000
+SCR.TO,Score Media and Gaming Inc (Class A),517532.8650
 SCZ.V,Santacruz Silver Mining Ltd,302825.1000
 SDE.V,Spartan Delta Corp.,173797.1500
 SEA.TO,"Seabridge Gold, Inc.",75157.0000
@@ -775,7 +810,7 @@ SLV-H.V,Stealth Ventures Inc,0
 SLVR.V,Silver Tiger Metals Inc,423885.0500
 SMD.V,Strategic Metals Ltd,156735.1000
 SMN.V,Sun Summit Minerals Corp,410357.2000
-SMP.V,Southern Empire Resources Corp,58512.3333
+SMP.V,Southern Empire Resources Corp,67656.5000
 SMT.TO,Sierra Metals Inc,141714.9500
 SMU-UN.TO,Summit Industrial Income REIT,345694.7500
 SMVEN.NE,Silver Maple Ventures Inc,0
@@ -800,12 +835,13 @@ SSV.V,Southern Silver Exploration Corp.,676740.8500
 SSVR.V,Summa Silver Corp,145161.0500
 STC.V,Sangoma Technologies Corporation,273692.7500
 STE.V,Starr Peak Exploration Ltd,80289.0000
+STEP.TO,STEP Energy Services Ltd,54937.7000
 STGO.TO,Steppe Gold Ltd,88508.9000
-STLC.TO,Stelco Holdings Inc,178118.3810
+STLC.TO,Stelco Holdings Inc,243194.8000
 STN.TO,Stantec Inc,223570.7500
 SU.TO,"Suncor Energy, Inc.",7488442.1000
 SUP.V,Northern Superior Resources Inc,94548.5500
-SURG.V,Surge Copper Corp.,227313.0952
+SURG.V,Surge Copper Corp.,218899.6000
 SVA.V,Sernova Corp.,3197490.5000
 SVB.TO,Silver Bull Resources Inc,60076.8500
 SVI.V,Storagevault Canada Inc,83550.9000
@@ -832,14 +868,14 @@ TFII.TO,TFI International Inc,367388.5500
 TGL.TO,Transglobe Energy Corp.,100228.5000
 TGM.V,Trillium Gold Mines Inc.,134091.3500
 TGOD.TO,Green Organic Dutchman Holdings Ltd,3410034.8500
-TGZ.TO,Teranga Gold Corporation,563727.6000
 TH.TO,Theratechnologies Inc.,245459.3500
 THNK.V,Think Research Corporation,99939.1000
 THRM.V,Therma Bright Inc,10882949.4500
+TI.TO,Titan Mining Corp,49526.5500
 TIC.V,"Titanium Corporation, Inc.",221179.8500
 TIH.TO,Toromont Industries Ltd.,144226.4000
 TIXT.TO,TELUS International Cda Inc,0.0000
-TKO.TO,Taseko Mines Ltd.,89763.8000
+TKO.TO,Taseko Mines Ltd.,323491.4000
 TLG.TO,Troilus Gold Corp,217375.9500
 TLO.TO,Talon Metals Corp,861746.4500
 TM.V,Trigon Metals Inc,246615.4000
@@ -850,14 +886,14 @@ TNT-UN.TO,True North Commercial Real Estate Investment Trust,160601.0000
 TNX.TO,Tanzanian Gold Corp,110785.6000
 TOG.TO,TORC Oil & Gas Ltd,905012.3000
 TOI.V,Topicus.com Inc,0.0000
-TORO.V,Pucara Gold Ltd.,0.0000
+TORO.V,Pucara Gold Ltd.,343836.2000
 TOT.TO,Total Energy Services Inc,44603.4500
 TOU.TO,Tourmaline Oil Corp,1483777.3000
 TOY.TO,Spin Master Corp,109798.3000
 TPZ.TO,Topaz Energy Corp,68139.1500
 TRI.TO,Thomson-Reuters Corp,421532.7000
 TRIL.TO,Trillium Therapeutics Inc,225229.9000
-TRL.TO,Trilogy International Partners Inc,85204.4500
+TRL.TO,Trilogy International Partners Inc,79502.0000
 TRP.TO,TC Energy Corporation,4236774.3500
 TRQ.TO,Turquoise Hill Resources Ltd,358224.6500
 TRZ.TO,"Transat A.T., Inc.",241360.1500
@@ -868,7 +904,7 @@ TUO.V,Teuton Resources Corp.,45146.5000
 TVE.TO,Tamarack Valley Energy Ltd,1446960.8500
 TWM.TO,Tidewater Midstream and Infrastructure Ltd,318205.8000
 TXG.TO,Torex Gold Resources Inc,389218.7500
-TXP.TO,Touchstone Exploration Inc.,481590.7500
+TXP.TO,Touchstone Exploration Inc.,367286.1500
 U.TO,Uranium Participation Corporation,437596.3500
 UCU.V,Ucore Rare Metals Inc,193172.7000
 UGD.V,"Unigold, Inc.",244610.5000
@@ -878,21 +914,22 @@ UPI.V,Universal PropTech Inc.,172219.2000
 URC.V,Uranium Royalty Corp,160085.2000
 URE.TO,Ur-Energy Inc.,277677.3000
 USA.TO,Americas Gold and Silver Corp,623776.1500
-VET.TO,Vermilion Energy Inc,2578304.3500
+VET.TO,Vermilion Energy Inc,2600591.6000
 VFF.TO,Village Farms International Inc,1094104.6500
 VG.V,Volcanic Gold Mines Inc,187340.4500
 VGCX.TO,Victoria Gold Corp,223021.7000
 VHI.V,Vitalhub Corp,101998.3000
 VII.TO,Seven Generations Energy Ltd. (Class A),1112395.7000
 VIPR.V,Silver Viper Minerals Corp,219262.7500
-VISN.V,Binovi Technologies Corp.,959886.4000
 VIV.V,Avivagen Inc,78685.7000
 VLC.V,Velocity Minerals Ltd,48493.4500
-VLE.TO,Valeura Energy Inc,101429.9524
+VLE.TO,Valeura Energy Inc,125298.7000
+VLI.V,Vision Lithium Inc.,3285867.1000
 VLNS.TO,Valens Company Inc (The),868089.2000
 VMD.TO,Viemed Healthcare Inc,102475.0000
 VMX.V,Victory Metals Inc,74259.2500
-VQS.TO,VIQ Solutions Inc,47589.0952
+VNP.TO,5N Plus Inc,148618.5500
+VPT.V,Ventripoint Diagnostics Ltd,4949745.6500
 VSR.V,Vanstar Mining Resources Inc,123932.8000
 VXL.V,Vaxil Bio Ltd.,3275036.0500
 VXTR.V,Voxtur Analytics Corp,737225.3500
@@ -921,15 +958,14 @@ WN.TO,George Weston Ltd.,151748.3000
 WPM.TO,Wheaton Precious Metals Corp,929511.7500
 WPRT.TO,Westport Fuel Systems Inc,629110.1500
 WRN.TO,Western Copper & Gold Corp,114421.2000
-WRX.TO,Western Resources Corp,80609.1000
 WSP.TO,WSP Global Inc,124410.3000
 WTE.TO,Westshore Terminals Investment Corporation,318630.8500
 X.TO,TMX Group Ltd,138429.5500
 XAU.TO,GoldMoney Inc,201579.4000
-XBC.TO,Xebec Adsorption Inc,789199.6667
+XBC.TO,Xebec Adsorption Inc,1076766.7000
 XIM.V,Ximen Mining Corp,47055.3000
 XLY.V,Auxly Cannabis Group Inc.,2231394.6500
-YES.V,CHAR Technologies Ltd,144787.8095
+YES.V,CHAR Technologies Ltd,96308.5000
 YGR.TO,Yangarra Resources Ltd,143740.4000
 YGT.V,Gold Terra Resource Corp,255250.3500
 YNV.V,Ynvisible Interactive Inc (Class A),552984.4000

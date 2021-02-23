@@ -8,7 +8,7 @@ AMLP,ALPS Alerian MLP ETF,3639175.5263
 AMZA,Etfis InfraCap MLP ETF,135971.1053
 AOA,BTC iShares Core Aggressive Allocation ETF,77664.0526
 AOR,BTC iShares Core Growth Allocation ETF,133648.0000
-ARGT,Global X MSCI Argentina ETF,0
+ARGT,Global X MSCI Argentina ETF,18752.2632
 ARKF,ARK Fintech Innovation ETF,2118694.6842
 ARKK,ARK Investment Management LLC - ARK Innovation ETF,7686855.6316
 ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,3054508.2632
@@ -19,7 +19,7 @@ BIV,"Vanguard Group, Inc. - Vanguard Intermediate-Term Bond ETF",1597329.3158
 BKF,BTC iShares MSCI BRIC ETF,24007.5789
 BKLN,Invesco Senior Loan ETF,10415648.4737
 BLOK,Amplify Transformational Data Sharing ETF,692312.7895
-BLV,Vanguard Long-Term Bond ETF,372870.6000
+BLV,Vanguard Long-Term Bond ETF,659542.9474
 BNO,ed States Brent Crude Oil Fund,774519.6316
 BOND,PIMCO Active Bond ETF,279702.9474
 BRF,VanEck Vectors Brazil Small-Cap ETF,10236.4737
@@ -31,13 +31,13 @@ CANE,Teucrium Sugar Fund,90917.6316
 CEW,WisdomTree Emerging Currency Strategy Fund,15427.4737
 CGW,Invesco S&P Global Water Index ETF,74867.3158
 CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,23254.3158
-CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,0
+CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,13493.2632
 CHIQ,Global X MSCI China Consumer Discretionary ETF,530385.0000
 CHIX,Global X MSCI China Financials ETF,90534.8421
 CMF,BTC iShares California Muni Bond ETF,101936.9474
 CORN,Teucrium Corn Fund,323969.6842
 CRBN,BTC iShares MSCI ACWI Low Carbon Target ETF,17045.2632
-CSD,Invesco S&P Spin-Off ETF,8200.7000
+CSD,Invesco S&P Spin-Off ETF,2489.6316
 CUT,Invesco MSCI Global Timber ETF,18425.2105
 CVY,Invesco Zacks Multi-Asset Income ETF,24760.6316
 CWB,SPDR Bloomberg Barclays Convertible Securities ETF,1256472.8947
@@ -50,7 +50,7 @@ DBE,Invesco DB Energy Fund,61760.3684
 DBEU,Xtrackers MSCI Europe Hedged Equity ETF,67841.3158
 DBO,Invesco DB Oil Fund,997723.2105
 DBP,Invesco DB Precious Metals Fund,27450.2105
-DBS,Invesco DB Silver Fund,0
+DBS,Invesco DB Silver Fund,3654.7368
 DBV,Invesco DB G10 Currency Harvest Fund,1354.3158
 DDG,ProShares Short Oil & Gas,3172.6842
 DDM,ProShares Ultra Dow30,452717.0000
@@ -83,12 +83,12 @@ DSI,BTC iShares MSCI KLD 400 Social Index Fund,206979.7895
 DTD,WisdomTree U.S. Total Dividend Fund,26244.6842
 DTH,WisdomTree International High Dividend Fund,50061.2632
 DTN,WisdomTree U.S. Dividend Ex-Financials Fund,18630.4211
-DUG,ProShares UltraShort Oil & Gas,136485.2000
+DUG,ProShares UltraShort Oil & Gas,236662.6316
 DUST,Direxion Daily Gold Miners Index Bear 2X Shares,3509561.1053
 DVYA,BTC iShares Asia/Pacific Dividend ETF,8668.2105
 DVYE,BTC iShares Emerging Markets Dividend ETF,211481.6316
 DWM,WisdomTree International Equity Fund,46121.5789
-DWX,SSgA SPDR S&P International Dividend ETF,88154.9000
+DWX,SSgA SPDR S&P International Dividend ETF,76978.4737
 DXD,ProShares UltraShort Dow30,1645699.8947
 DXJ,WisdomTree Japan Hedged Equity Fund,362545.0526
 ECON,Columbia Emerging Markets Consumer ETF,45198.3158
@@ -96,7 +96,7 @@ EDC,Direxion Daily Emerging Markets Bull 3X Shares,265912.8421
 EDIV,SSgA SPDR S&P Emerging Markets Dividend ETF,64697.3158
 EDV,Vanguard Extended Duration Treasury ETF,257898.2105
 EDZ,Direxion Daily MSCI Emerging Markets Bear 3X Shares,275176.5789
-EELV,Invesco S&P Emerging Markets Low Volatility ETF,48216.5714
+EELV,Invesco S&P Emerging Markets Low Volatility ETF,50112.4211
 EEM,BTC iShares MSCI Emerging Markets ETF,46702675.4737
 EES,WisdomTree U.S. SmallCap Fund,66193.0000
 EEV,ProShares UltraShort MSCI Emerging Markets,12561.1053
@@ -116,13 +116,13 @@ EPI,WisdomTree India Earnings Fund,920401.0000
 EPOL,iShares MSCI Poland ETF,346069.3158
 EPP,BTC iShares MSCI Pacific ex Japan ETF,532273.8947
 EPU,iShares MSCI Peru ETF,13657.5263
-EPV,ProShares UltraShort FTSE Europe,18902.5500
+EPV,ProShares UltraShort FTSE Europe,12251.2632
 EQWL,Invesco Russell Top 200 Equal Weight ETF,2943.4211
 ERX,Direxion Daily Energy Bull 2X Shares,5075877.6316
 ERY,Direxion Daily Energy Bear 2X Shares,676104.9474
 EUM,ProShares Short MSCI Emerging Markets,76710.0000
 EUO,ProShares UltraShort Euro,43924.4737
-EWA,BTC iShares MSCI Australia ETF,3296681.5500
+EWA,BTC iShares MSCI Australia ETF,4995054.5789
 EWC,BTC iShares MSCI Canada ETF,3160802.0000
 EWD,iShares MSCI Sweden ETF,272764.5789
 EWG,BTC iShares MSCI Germany ETF,3756225.7368
@@ -145,22 +145,22 @@ EWW,iShares MSCI Mexico ETF,3081093.7895
 EWX,SSgA Active Trust - SSgA SPDR S&P Emerging Markets Small Cap ETF,95717.4737
 EWY,iShares MSCI South Korea ETF,4539322.3684
 EWZ,iShares MSCI Brazil ETF,30997996.0000
-EXI,BTC iShares Global Industrials ETF,38019.1500
+EXI,BTC iShares Global Industrials ETF,38848.0526
 EZA,BTC iShares MSCI South Africa ETF,559688.1579
-FAN,First Trust Global Wind Energy ETF,254418.0000
+FAN,First Trust Global Wind Energy ETF,484214.4737
 FAS,Direxion Daily Financial Bull 3x Shares,2650693.0526
 FAZ,Direxion Daily Financial Bear 3x Shares,4586380.2105
 FBT,First Trust NYSE Arca Biotechnology Index Fund,68578.5789
 FCG,First Trust Natural Gas ETF,986057.2632
-FDD,First Trust STOXX European Select Dividend Income Fund,87086.6500
+FDD,First Trust STOXX European Select Dividend Income Fund,110475.0000
 FDM,First Trust Dow Jones Select Microcap Index Fund,12965.0000
 FDN,First Trust Dow Jones Internet Index Fund,608091.5789
-FEZ,SPDR EURO Stoxx 50 ETF,3877190.6500
+FEZ,SPDR EURO Stoxx 50 ETF,1676660.4211
 FFR,First Trust FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,2280.2105
 FFTY,Innovator IBD 50 ETF,81701.6316
 FGD,First Trust Dow Jones Global Select Dividend Index Fund,120519.7895
 FHLC,Fidelity MSCI Health Care Index ETF,211473.2632
-FIW,First Trust Water ETF,33834.8500
+FIW,First Trust Water ETF,62644.9474
 FLM,First Trust Global Engineering and Construction ETF,2302.5789
 FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,463925.0526
 FM,BTC iShares MSCI Frontier 100 Fund,72771.4211
@@ -180,7 +180,7 @@ FXI,BlackRock Institutional Trust Company N.A. - BTC iShares China Large-Cap ETF
 FXL,First Trust Technology AlphaDEX Fund,191173.2105
 FXN,First Trust Energy AlphaDEX Fund,576083.1053
 FXO,First Trust Financials AlphaDEX Fund,259936.0526
-FXP,ProShares UltraShort FTSE China 50,69835.8000
+FXP,ProShares UltraShort FTSE China 50,24705.7895
 FXU,First Trust Utilities AlphaDEX Fund,88467.1579
 FXY,Invesco CurrencyShares Japanese Yen Trust,51549.0526
 FXZ,First Trust Materials AlphaDEX Fund,101944.9474
@@ -189,7 +189,7 @@ GBF,BTC iShares Barclays Government/Credit Bond Fund,53911.1053
 GCC,WisdomTree Enhanced Commodity Strategy Fund,67917.5789
 GDX,VanEck Vectors Gold Miners ETF,26840401.1053
 GDXJ,VanEck Vectors Junior Gold Miners ETF,8173584.2632
-GII,SSgA Active Trust - SSgA SPDR S&P Global Infrastructure ETF,29847.9500
+GII,SSgA Active Trust - SSgA SPDR S&P Global Infrastructure ETF,40509.0000
 GLD,SSgA SPDR Gold Shares,11103287.8947
 GLDM,SPDR Gold MiniShares Trust,2653801.7895
 GLIN,VanEck Vectors India Growth Leaders ETF,13759.9474
@@ -217,7 +217,7 @@ HYLD,High Yield ETF,23479.1053
 HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund,166389.4211
 IAI,BTC iShares U.S. Broker-Dealers ETF,54247.3158
 IAK,BTC iShares U.S. Insurance ETF,4305.6842
-IAT,BTC iShares U.S. Regional Banks ETF,229570.7500
+IAT,BTC iShares U.S. Regional Banks ETF,133918.3158
 IAU,BTC iShares Gold Trust,24271499.5263
 IBND,SPDR Bloomberg Barclays International Corporate Bond ETF,42054.4211
 IDHQ,Invesco S&P International Developed Quality ETF,19849.4737
@@ -258,12 +258,12 @@ IWN,BTC iShares Russell 2000 Value ETF,2161432.0526
 IWO,BTC iShares Russell 2000 Growth ETF,559853.1579
 IWP,BTC iShares Russell Mid-Cap Growth ETF,940178.2632
 IWR,BTC iShares Russell Mid-Cap ETF,1212696.5263
-IWS,BTC iShares Russell Mid-Cap Value ETF,563565.9000
-IWV,BTC iShares Russell 3000 ETF,174499.7273
+IWS,BTC iShares Russell Mid-Cap Value ETF,483904.3684
+IWV,BTC iShares Russell 3000 ETF,287398.0000
 IXC,BTC iShares Global Energy ETF,976497.4737
 IXG,BTC iShares Global Financials ETF,49547.2632
 IXJ,BTC iShares Global Healthcare ETF,82716.4737
-IXN,BTC iShares Global Tech ETF,69847.4500
+IXN,BTC iShares Global Tech ETF,110045.1579
 IXP,iShares Global Comm Services ETF,31732.4211
 IYC,BTC iShares U.S. Consumer Services ETF,103370.1579
 IYE,BTC iShares U.S. Energy ETF,2124173.6316
@@ -279,13 +279,13 @@ JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,5191575.5263
 JKD,BTC iShares Morningstar Large-Cap ETF,9901.0000
 JKE,BTC iShares Morningstar Large-Cap Growth ETF,34394.0526
 JKF,BTC iShares Morningstar Large-Cap Value ETF,15353.2632
-JKG,BTC iShares Morningstar Mid-Cap ETF,8938.2500
+JKG,BTC iShares Morningstar Mid-Cap ETF,13165.4737
 JKH,BTC iShares Morningstar Mid-Cap Growth ETF,33903.4211
 JKJ,BTC iShares Morningstar Small-Cap ETF,2756.7895
 JKK,BTC iShares Morningstar Small-Cap Growth ETF,27529.1579
 JKL,BTC iShares Morningstar Small-Cap Value ETF,7183.7895
 JNK,SPDR Bloomberg Barclays High Yield Bond ETF,8820225.7895
-JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,2403592.4500
+JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,1285536.1579
 JPXN,BTC iShares JPX-Nikkei 400 ETF,11007.8947
 JXI,BTC iShares Global Utilities ETF,12000.5263
 KBA,KraneShares Bosera MSCI China A ETF,153664.1053
@@ -306,7 +306,7 @@ MGK,Vanguard Mega Cap Growth ETF,285698.0526
 MIDU,Direxion Daily Mid Cap Bull 3x Shares,78339.1579
 MJ,ETFMG Alternative Harvest ETF,3403822.0526
 MOO,VanEck Vectors Agribusiness ETF,217928.4737
-MORT,VanEck Vectors Mortgage REIT Income ETF,189458.4500
+MORT,VanEck Vectors Mortgage REIT Income ETF,192511.2105
 MUB,BTC iShares National Muni Bond ETF,1454993.8947
 MVV,ProShares Ultra MidCap400,74844.3158
 MXI,BTC iShares Global Materials ETF,83407.3158
@@ -321,23 +321,23 @@ OIH,VanEck Vectors Oil Services ETF,534649.7368
 PALL,Aberdeen Standard Physical Palladium Shares ETF,23958.0000
 PBD,Invesco Global Clean Energy ETF,437444.2632
 PBE,Invesco Dynamic Biotechnology & Genome ETF,10485.8421
-PBJ,Invesco Dynamic Food & Beverage ETF,11290.9000
+PBJ,Invesco Dynamic Food & Beverage ETF,22167.9474
 PBP,Invesco S&P 500 BuyWrite ETF,26159.6316
 PBS,Invesco Dynamic Media ETF,24426.8947
 PBW,Invesco WilderHill Clean Energy ETF,1107491.9474
 PCEF,Invesco CEF Income Composite ETF,154057.4211
 PCY,Invesco Emerging Markets Sovereign Debt ETF,1373632.5263
 PDN,Invesco Capital Management LLC - Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,28382.4737
-PEJ,Invesco Dynamic Leisure and Entertainment ETF,0
+PEJ,Invesco Dynamic Leisure and Entertainment ETF,452697.2105
 PGF,Invesco Financial Preferred ETF,677721.4737
 PGX,Invesco Preferred ETF,4432897.9474
 PHB,Invesco Fundamental High Yield Corporate Bond ETF,266135.9474
 PIN,Invesco India ETF,37593.1053
 PJP,Invesco Dynamic Pharmaceuticals ETF,30112.3158
-PPA,Invesco Aerospace & Defense ETF,54042.3000
+PPA,Invesco Aerospace & Defense ETF,55433.1579
 PPLT,Aberdeen Standard Physical Platinum Shares ETF,193656.3158
 PRF,Invesco FTSE RAFI US 1000 ETF,146602.4211
-PSI,Invesco Dynamic Semiconductors ETF,21161.3500
+PSI,Invesco Dynamic Semiconductors ETF,82282.9474
 PSJ,Invesco Dynamic Software ETF,31858.8947
 PSK,SSgA SPDR Wells Fargo Preferred Stock ETF,328955.7895
 PSP,Invesco Global Listed Private Equity ETF,96454.3158
@@ -348,7 +348,7 @@ PWC,Invesco Dynamic Market ETF,2688.7368
 PWZ,Invesco California AMT-Free Municipal Bond ETF,45922.0526
 PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,103842.6316
 PXH,Invesco Capital Management LLC - Invesco FTSE RAFI Emerging Markets ETF,387254.5789
-PXJ,Invesco Dynamic Oil & Gas Services ETF,39067.0909
+PXJ,Invesco Dynamic Oil & Gas Services ETF,66841.7368
 PXQ,Invesco Dynamic Networking ETF,5987.2632
 PZA,Invesco National AMT-Free Municipal Bond ETF,465746.2105
 PZD,Invesco Cleantech ETF,80620.6316
@@ -375,7 +375,7 @@ RTM,Invesco S&P 500 Equal Weight Materials ETF,21246.7368
 RUSL,Direxion Daily Russia Bull 2X Shares,133095.4737
 RWJ,Invesco S&P SmallCap 600 Revenue ETF,73100.4211
 RWK,Invesco S&P MidCap 400 Revenue ETF,45098.9474
-RWL,Invesco S&P 500 Revenue ETF,0
+RWL,Invesco S&P 500 Revenue ETF,34215.8947
 RWM,ProShares Short Russell2000,1812236.3684
 RWO,SSgA SPDR Dow Jones Global Real Estate ETF,152417.3684
 RWR,SPDR DJ Wilshire REIT ETF,129851.0526
@@ -386,8 +386,8 @@ RXL,ProShares Ultra Health Care,9745.4211
 RYE,Invesco S&P 500 Equal Weight Energy ETF,85701.4737
 RYF,Invesco S&P 500 Equal Weight Financials ETF,53467.8947
 RYH,Invesco S&P 500 Equal Weight Health Care ETF,9022.2105
-RYJ,Invesco Raymond James SB-1 Equity ETF,6844.8000
-RYT,Invesco S&P 500 Equal Weight Technology ETF,0
+RYJ,Invesco Raymond James SB-1 Equity ETF,2821.3684
+RYT,Invesco S&P 500 Equal Weight Technology ETF,43380.9474
 RZG,Invesco S&P SmallCap 600 Pure Growth ETF,3664.7895
 SAA,ProShares Ultra SmallCap600,3580.6842
 SBB,ProShares Short SmallCap600,4335.3684
@@ -398,8 +398,8 @@ SCHB,CSIM Schwab U.S. Broad Market ETF,704986.0526
 SCHD,CSIM Schwab US Dividend Equity ETF,1928593.1053
 SCHM,CSIM Schwab U.S. Mid-Cap ETF,415482.6842
 SCHO,CSIM Schwab Short-Term U.S. Treasury ETF,1314263.7368
-SCHP,CSIM Schwab U.S. Tips ETF,1016793.5455
-SCHR,CSIM Schwab Intermediate-Term U.S. Treasury ETF,514164.7000
+SCHP,CSIM Schwab U.S. Tips ETF,1697824.4211
+SCHR,CSIM Schwab Intermediate-Term U.S. Treasury ETF,606000.5789
 SCHZ,CSIM Schwab US Aggregate Bond ETF,1061548.4211
 SCJ,BTC iShares MSCI Japan Small-Cap ETF,5289.8947
 SCO,ProShares UltraShort Bloomberg Crude Oil,3158028.3684
@@ -421,8 +421,8 @@ SIL,Global X Silver Miners ETF,790823.3158
 SIVR,Aberdeen Standard Physical Silver Shares ETF,1249477.5263
 SJB,ProShares Short High Yield,93756.1053
 SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,5125819.4211
-SKF,ProShares UltraShort Financials,32626.1364
-SLV,BTC iShares Silver Trust,24957067.0500
+SKF,ProShares UltraShort Financials,48602.9737
+SLV,BTC iShares Silver Trust,46227962.8947
 SLX,VanEck Vectors Steel ETF,65948.7368
 SLYG,SSgA SPDR S&P 600 Small Cap Growth ETF,195624.3158
 SLYV,SSqA SPDR S&P 600 Small Cap Value ETF,434379.2105
@@ -434,7 +434,7 @@ SOYB,Teucrium Soybean Fund,240432.0526
 SPAB,SPDR Portfolio Aggregate Bond ETF,1661526.5263
 SPDW,SPDR Portfolio Developed World ex-US ETF,2640884.9474
 SPEM,SSgA Active Trust - SPDR Portfolio Emerging Markets ETF,1774423.3158
-SPEU,SPDR Portfolio Europe ETF,134016.0000
+SPEU,SPDR Portfolio Europe ETF,24411.7368
 SPHB,Invesco Capital Management LLC - Invesco S&P 500 High Beta ETF,432662.4737
 SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,1915507.3158
 SPIP,SPDR Portfolio TIPS ETF,934910.6842
@@ -467,7 +467,7 @@ TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,366942.4737
 THD,iShares MSCI Thailand ETF,166167.7895
 TIP,BTC iShares TIPS Bond ETF,2780563.4737
 TLH,BTC iShares 10-20 Year Treasury Bond ETF,285642.1579
-TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,27264.8500
+TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,15054.8947
 TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares,856124.5789
 TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares,453844.1579
 TNA,Direxion Dialy Small Cap Bull 3X Shares,7747273.9474
@@ -485,7 +485,7 @@ UGE,ProShares Ultra Consumer Goods,1962.2632
 UGL,ProShares Ultra Gold,261132.7368
 ULE,ProShares Ultra Euro,7705.0000
 UNG,ed States Natural Gas Fund,5416967.1053
-UPW,ProShares Ultra Utilities,4793.7000
+UPW,ProShares Ultra Utilities,1750.7368
 URA,Global X Uranium ETF,524797.9474
 URE,ProShares Ultra Real Estate,9884.4211
 USD,ProShares Ultra Semiconductors,67257.0000
@@ -506,20 +506,20 @@ VDC,"Vanguard Group, Inc. - Vanguard Consumer Staples ETF",186880.2105
 VDE,"Vanguard Group, Inc. - Vanguard Energy ETF",1412630.0526
 VEA,"Vanguard Group, Inc. - Vanguard FTSE Developed Markets ETF",11216027.7368
 VEGN,US Vegan Climate ETF,11304.6842
-VEU,"Vanguard Group, Inc. - Vanguard FTSE All-World ex-US ETF",5405877.4500
+VEU,"Vanguard Group, Inc. - Vanguard FTSE All-World ex-US ETF",3164211.0000
 VFH,"Vanguard Group, Inc. - Vanguard Financials ETF",837569.8421
 VGK,"Vanguard Group, Inc. - Vanguard FTSE Europe ETF",3844304.2632
 VGT,"Vanguard Group, Inc. - Vanguard Information Technology ETF",702612.7895
 VHT,Vanguard Health Care ETF,309941.1579
 VIDI,WisdomTree Vident International Equity Fund,44759.5263
 VIG,Vanguard Dividend Appreciation FTF,1543423.3158
-VIOO,Vanguard S&P Small-Cap 600 ETF,38031.6500
+VIOO,Vanguard S&P Small-Cap 600 ETF,46435.0000
 VIS,"Vanguard Group, Inc. - Vanguard Industrials ETF",265586.0000
-VNQ,"Vanguard Group, Inc. - Vanguard Real Estate Index Fund ETF",7208137.6000
+VNQ,"Vanguard Group, Inc. - Vanguard Real Estate Index Fund ETF",5854998.5263
 VO,Vanguard Mid-Cap ETF,772818.1579
 VOE,"Vanguard Group, Inc. - Vanguard Mid-Cap Value ETF",373280.4737
 VOO,Vanguard S&P 500 ETF,3543416.2632
-VOT,Vanguard Mid-Cap Growth ETF,172398.4000
+VOT,Vanguard Mid-Cap Growth ETF,174846.8421
 VPL,"Vanguard Group, Inc. - Vanguard FTSE Pacific ETF",803542.6316
 VPU,"Vanguard Group, Inc. - Vanguard Utilities ETF",221311.4737
 VSS,"Vanguard Group, Inc. - Vanguard FTSE All-World Ex-US Small Capital Index Fund ETF",274321.4211
@@ -527,7 +527,7 @@ VT,Vanguard Total World Stock ETF,2426000.2105
 VTI,"Vanguard Group, Inc. - Vanguard Total Stock Market ETF",5016553.4211
 VTV,"Vanguard Group, Inc. - Vanguard Value ETF",2916099.4211
 VUG,"Vanguard Group, Inc. - Vanguard Growth ETF",1073476.1579
-VV,"Vanguard Group, Inc. - Vanguard Large Cap ETF",236085.3000
+VV,"Vanguard Group, Inc. - Vanguard Large Cap ETF",303734.8421
 VWO,"Vanguard Group, Inc. - Vanguard FTSE Emerging Markets ETF",13253289.8421
 VXF,Vanguard Extended Market Index ETF,601924.5263
 VYM,"Vanguard Group, Inc. - Vanguard High Dividend Yield Indx ETF",2093507.7895
@@ -557,13 +557,13 @@ XNTK,SPDR NYSE Technology ETF,33201.2105
 XOP,SSgA SPDR Oil & Gas Exploration and Production,8743783.6842
 XPH,SSgA SPDR Pharmaceuticals,66118.6842
 XPP,ProShares Ultra FTSE China 50,10417.7895
-XRT,SSgA SPDR Retail,3851068.7000
+XRT,SSgA SPDR Retail,7393985.2105
 XSD,SSgA SPDR Semiconductors,196861.7368
 XSMO,Invesco S&P SmallCap Momentum ETF,24483.7368
-XSVM,Invesco S&P SmallCap Value with Momentum ETF,0
+XSVM,Invesco S&P SmallCap Value with Momentum ETF,52534.3158
 XTN,SSgA SPDR S&P Transportation ETF,154499.8421
 YANG,Direxion Daily FTSE China Bear 3X Shares,482303.2105
 YCS,ProShares UltraShort Yen,4958.5263
 YXI,ProShares Short FTSE China 50,1983.2632
-ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,59659.5500
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,63100.2105
 ZSL,ProShares UltraShort Silver,1424944.4737

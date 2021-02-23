@@ -6,7 +6,7 @@ ADRE,Invesco BLDRS Emerging Markets 50  Index Fund,31538.2105
 AIA,BTC iShares Asia 50 ETF,400724.9474
 AIRR,First Trust RBA American Industrial Renaissance ETF,33715.7368
 ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,2114544.6316
-BBH,VanEck Vectors Biotech ETF,26958.1000
+BBH,VanEck Vectors Biotech ETF,16000.2632
 BIB,ProShares Ultra Nasdaq Biotechnology,133684.0000
 BIS,ProShares UltraShort Nasdaq Biotechnology,87338.6842
 BJK,VanEck Vectors Gaming ETF,42373.5789
@@ -25,7 +25,7 @@ EUFN,BTC iShares MSCI Europe Financials ETF,1009251.2632
 FEX,First Trust Large Cap Core AlphaDEX Fund,46356.7895
 FTC,First Trust Large Capital Growth AlphaDEX Fund,64950.5263
 FTHI,First Trust BuyWrite Income ETF,10713.8947
-FTSL,First Trust Senior Loan Fund ETF,266997.2000
+FTSL,First Trust Senior Loan Fund ETF,353998.1053
 GNMA,BTC iShares GNMA Bond ETF,96428.8421
 IBB,BTC iShares Nasdaq Biotechnology ETF,3048862.7895
 ICLN,BTC iShares Global Clean Energy ETF,11897329.8947
@@ -47,7 +47,7 @@ KBWR,Invesco KBW Regional Banking ETF,13867.0000
 KBWY,Invesco Capital Management LLC - Invesco KBW Premium Yield Equity REIT ETF,110091.8421
 KRMA,Global X Conscious Companies ETF,27428.5263
 MBB,BTC iShares MBS ETF,2330332.0000
-MCHI,BTC iShares MSCI China ETF,4304865.6000
+MCHI,BTC iShares MSCI China ETF,4391744.8421
 ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund,51629.7368
 PDP,Invesco DWA Momentum ETF,136127.6842
 PEY,Invesco High Yield Equity Dividend Achievers ETF,230352.4211
@@ -60,7 +60,7 @@ PHO,Invesco Water Resources ETF,126572.5263
 PID,Invesco International Dividend Achievers ETF,103235.5263
 PIE,Invesco DWA Emerging Markets Momentum ETF,86482.3684
 PIO,Invesco Global Water ETF,21189.6316
-PIZ,Invesco DWA Developed Markets Momentum ETF,51772.5000
+PIZ,Invesco DWA Developed Markets Momentum ETF,24553.7895
 PKW,Invesco BuyBack Achievers ETF,62333.5263
 PLW,Invesco 1-30 Laddered Treasury ETF,45887.5263
 PNQI,Invesco NASDAQ Internet ETF,31967.1053
@@ -86,7 +86,7 @@ SKYY,First Trust Cloud Computing ETF,521579.7895
 SMH,VanEck Vectors Semiconductor ETF,3425726.1053
 SOCL,Global X Social Media ETF,95131.7368
 SOXX,BTC iShares PHLX Semiconductor ETF,803592.8421
-SQQQ,ProShares UltraPro Short QQQ,70803282.1818
+SQQQ,ProShares UltraPro Short QQQ,68162318.1053
 SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF,282146.9474
 TLT,BTC iShares 20+ Year Treasury Bond ETF,11411687.8421
 TQQQ,ProShares UltraPro QQQ,34000559.6842
@@ -103,5 +103,5 @@ VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",82052.8421
 VWOB,Vanguard Emerging Markets Government Bond ETF,373122.5789
 VXUS,Vanguard Total International Stock ETF,4035034.3158
 VYMI,Vanguard International High Dividend Yield ETF,235661.2632
-WOOD,BTC iShares Global Timber & Forestry ETF,10846.3500
+WOOD,BTC iShares Global Timber & Forestry ETF,38236.4211
 XT,BTC iShares Exponential Technologies ETF,292701.6842

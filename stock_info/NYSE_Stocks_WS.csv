@@ -19,6 +19,7 @@ ACH,Aluminum Corporation Of China Limited.,100997.6842
 ACI,Albertsons Companies Inc (Class A),3562618.6842
 ACM,AECOM,987145.1579
 ACN,Accenture plc (Class A),2000346.0526
+ACR,ACRES Commercial Realty Corp,184977.1404
 ACRE,Ares Commercial Real Estate Corp,211470.1053
 ACY,Aerocentury Corp.,567634.7895
 ADC,Agree Realty Corp.,714348.8947
@@ -102,7 +103,7 @@ APLE,Apple Hospitality REIT Inc,1908305.4211
 APO,Apollo Global Management Inc (Class A),1348858.2632
 APRN,Blue Apron Holdings Inc (Class A),1237338.4737
 APT,Alpha Pro Tech Ltd.,1388441.0526
-APTS,Preferred Apartment Communities Inc (Class A),832103.8500
+APTS,Preferred Apartment Communities Inc (Class A),431295.2632
 APTV,Aptiv PLC,2152589.4737
 AQUA,Evoqua Water Technologies Corp,933857.2632
 AR,Antero Resources Corp,10267996.3684
@@ -173,6 +174,7 @@ BAX,Baxter International Inc.,2714743.7368
 BBAR,BBVA Argentina,363999.2632
 BBD,Banco Bradesco S.A.,29244951.5263
 BBDC,Barings BDC Inc,250290.4737
+BBF,BlackRock Municipal Income Investment Trust,41570.5789
 BBL,BHP Group Plc,1592898.2632
 BBVA,Banco Bilbao Vizcaya Argentaria.,3194797.4737
 BBW,Build A Bear Workshop Inc,860449.5263
@@ -192,12 +194,13 @@ BERY,Berry Global Group Inc,994569.4211
 BEST,BEST Inc,5668502.0000
 BF.A,Brown-Forman Corp. (Class A),60552.2105
 BF.B,Brown-Forman Corp. (Class B),954146.5789
-BFS,"Saul Centers, Inc.",56671.4500
+BFLY,Butterfly Network Inc (Class A),2297976.1579
+BFS,"Saul Centers, Inc.",75634.2105
 BFZ,BlackRock California Municipal Income Trust,66863.1053
 BG,Bunge Ltd.,1402588.7368
 BGI,Birks Group Inc (Class A),1942375.7895
 BGS,"B&G Foods, Inc",3622489.0000
-BHE,Benchmark Electronics Inc.,165711.7000
+BHE,Benchmark Electronics Inc.,160717.1053
 BHK,BlackRock Core Bond Trust,180473.7368
 BHLB,Berkshire Hills Bancorp Inc.,426228.9474
 BHP,BHP Group Limited,2922888.7368
@@ -209,7 +212,7 @@ BIO,Bio-Rad Laboratories Inc. (Class A),234790.0000
 BJ,BJ`s Wholesale Club Holdings Inc,2966759.2105
 BK,Bank Of New York Mellon Corp,6183899.7895
 BKD,Brookdale Senior Living Inc,1993593.7895
-BKE,"Buckle, Inc.",498396.8000
+BKE,"Buckle, Inc.",583375.1579
 BKH,Black Hills Corporation,425114.7368
 BKI,Black Knight Inc (Class A),863078.6842
 BKR,Baker Hughes Co (Class A),6980872.2105
@@ -241,7 +244,7 @@ BTI,British American Tobacco Plc,1876704.2105
 BTN,Ballantyne Strong Inc,110253.1579
 BTO,John Hancock Financial Opportunities Fund,72491.3158
 BUD,Anheuser-Busch In Bev SA/NV,1526326.1053
-BURL,Burlington Stores Inc,868309.8000
+BURL,Burlington Stores Inc,567107.3158
 BVN,Compania de Minas Buenaventura S.A.,1388043.5263
 BW,Babcock & Wilcox Enterprises Inc,790588.1053
 BWA,BorgWarner Inc,2909343.6842
@@ -273,7 +276,7 @@ CBAH.U,CBRE Acquisition Holdings Inc - Units (1 Ord Share Class A & 1/4 War),142
 CBB,"Cincinnati Bell, Inc.",663335.8421
 CBRE,CBRE Group Inc (Class A),1792411.7895
 CBT,Cabot Corp.,301983.6316
-CBU,"Community Bank System, Inc.",212295.6000
+CBU,"Community Bank System, Inc.",332685.3684
 CBZ,Cbiz Inc,224576.8947
 CC,Chemours Company,1293243.2632
 CCEP,Coca-Cola European Partners plc,1327683.8421
@@ -286,30 +289,29 @@ CCO,Clear Channel Outdoor Holdings Inc.,3357676.3684
 CCS,Century Communities Inc,455197.3158
 CCU,Compania Cervecerias Unidas S.A.,337595.1579
 CDE,Coeur Mining Inc,5367531.4737
-CDR,Cedar Realty Trust Inc,97250.6680
+CDR,Cedar Realty Trust Inc,70437.2105
 CE,Celanese Corp (Series A),967311.5789
 CEI,Camber Energy Inc,13703841.5263
 CEIX,Consol Energy Inc,479092.6842
 CEQP,Crestwood Equity Partners LP,647145.7895
 CF,CF Industries Holdings Inc,2827340.8421
-CFG,Citizens Financial Group Inc,5691563.5000
+CFG,Citizens Financial Group Inc,4271696.5263
 CFR,Cullen Frost Bankers Inc.,529296.0000
 CFX,Colfax Corp,1332155.5789
 CGA,China Green Agriculture Inc,173457.1053
-CHD,"Church & Dwight Co., Inc.",1663255.0500
+CHD,"Church & Dwight Co., Inc.",1556277.4211
 CHE,Chemed Corp.,107830.7368
 CHGG,Chegg Inc,1782861.5263
 CHH,"Choice Hotels International, Inc.",255169.2105
 CHS,"Chico`s Fas, Inc.",3568679.4737
-CHT,Chunghwa Telecom,69975.5500
-CHWY,Chewy Inc (Class A),5615308.1364
+CHT,Chunghwa Telecom,75806.5263
+CHWY,Chewy Inc (Class A),3263369.6316
 CI,Cigna Corp.,1897081.8947
 CIA,"Citizens, Inc. (Class A)",88337.2105
 CIB,Bancolombia S.A.,208565.7895
 CIF,MFS Intermediate High Income Fund,66502.8947
-CIG,Preference Shares,7604821.3684
 CIK,Credit Suisse Asset Management Income Fund Inc.,1656495.7368
-CIM,Chimera Investment Corp,2068100.7727
+CIM,Chimera Investment Corp,1846489.0526
 CIO,City Office REIT Inc,278433.8947
 CL,Colgate-Palmolive Co.,5550713.4211
 CLB,Core Laboratories N.V.,514132.1053
@@ -326,7 +328,7 @@ CLW,Clearwater Paper Corp,127898.3684
 CLX,Clorox Co.,1910411.9474
 CMA,"Comerica, Inc.",1489461.2632
 CMC,Commercial Metals Co.,1624545.6842
-CMCM,Cheetah Mobile Inc,885619.6000
+CMCM,Cheetah Mobile Inc,1040315.8947
 CMD,Cantel Medical Corp,654276.0000
 CMG,Chipotle Mexican Grill,264487.4211
 CMI,Cummins Inc.,1247800.6842
@@ -339,15 +341,15 @@ CMU,MFS High Yield Municipal Trust,82975.9474
 CNA,CNA Financial Corp.,189991.7368
 CNC,Centene Corp.,4136863.8421
 CNHI,CNH Industrial NV,1953617.0526
-CNK,Cinemark Holdings Inc,4082094.1500
+CNK,Cinemark Holdings Inc,7491900.6842
 CNMD,Conmed Corp.,329516.0000
 CNNE,Cannae Holdings Inc,592382.9474
 CNO,CNO Financial Group Inc,781946.5789
 CNP,Centerpoint Energy Inc.,4387320.6316
-CNR,Cornerstone Building Brands Inc,440065.4091
+CNR,Cornerstone Building Brands Inc,536339.3158
 CNS,Cohen & Steers Inc.,120973.8421
 CNX,CNX Resources Corp,4235717.3158
-COF,Capital One Financial Corp.,2934551.4500
+COF,Capital One Financial Corp.,4015446.7895
 COG,Cabot Oil & Gas Corp.,5506862.8421
 COP,Conoco Phillips,12680641.4737
 CPA,Copa Holdings S.A. (Class A),505831.4737
@@ -361,8 +363,8 @@ CPRI,Capri Holdings Ltd,4569910.3158
 CPT,Camden Property Trust,567511.2632
 CQP,Cheniere Energy Partners LP,254761.0455
 CR,Crane Co.,357439.1053
-CRF,Cornerstone Total Return Fund,343290.7000
-CRH,CRH Plc,425259.9500
+CRF,Cornerstone Total Return Fund,490346.7895
+CRH,CRH Plc,455895.3684
 CRI,Carters Inc,586561.2105
 CRK,"Comstock Resources, Inc.",2998157.8421
 CRL,Charles River Laboratories International Inc.,311695.8421
@@ -372,7 +374,7 @@ CRY,"Cryolife, Inc.",184831.5789
 CS,Credit Suisse Group AG,2062679.2105
 CSL,Carlisle Companies Inc.,272376.7895
 CSLT,Castlight Health Inc (Class B),1290323.2105
-CSPR,Casper Sleep Inc,206298.3636
+CSPR,Casper Sleep Inc,833027.3158
 CSTM,Constellium SE (Class A),722097.1579
 CSU,Capital Senior Living Corp.,49519.4737
 CSV,"Carriage Services, Inc.",97731.1053
@@ -394,9 +396,9 @@ CVU,CPI Aerostructures Inc,79659.6842
 CVX,Chevron Corp.,10397666.8947
 CW,Curtiss-Wright Corp.,204207.3684
 CWH,Camping World Holdings Inc (Class A),1732972.2105
-CWT,California Water Service Group,288217.5500
+CWT,California Water Service Group,240435.6842
 CX,Cemex S.A.B. De C.V.,15097794.8947
-CXE,MFS High Income Municipal Trust,83142.4500
+CXE,MFS High Income Municipal Trust,73309.7368
 CXW,CoreCivic Inc,3478430.4737
 CYH,"Community Health Systems, Inc.",2703028.4737
 CZZ,Cosan Ltd (Class A),734168.7368
@@ -424,14 +426,14 @@ DFIN,Donnelley Financial Solutions Inc,224044.9474
 DFS,Discover Financial Services,3240140.4737
 DG,Dollar General Corp.,2342449.3158
 DGX,"Quest Diagnostics, Inc.",1467752.9474
-DHF,BNY Mellon High Yield Strategies Fund,1629093.3182
+DHF,BNY Mellon High Yield Strategies Fund,1339715.6316
 DHI,D.R. Horton Inc.,3720507.2632
 DHR,Danaher Corp.,2883958.8421
 DHT,DHT Holdings Inc,2506816.4737
 DHX,DHI Group Inc,126896.8421
 DHY,Credit Suisse High Yield Bond Fund,2487927.7895
 DIN,Dine Brands Global Inc,451864.2105
-DK,Delek US Holdings Inc,1446268.1000
+DK,Delek US Holdings Inc,1189862.6842
 DKS,"Dicks Sporting Goods, Inc.",2283344.7368
 DLB,Dolby Laboratories Inc (Class A),433556.2105
 DLNG,Dynagas LNG Partners LP,125550.9545
@@ -439,14 +441,14 @@ DLR,Digital Realty Trust Inc,1901070.1053
 DLX,Deluxe Corp.,450189.4737
 DNB,Dun & Bradstreet Holdings Inc,2180996.3158
 DNOW,NOW Inc,1453655.0526
-DNP,DNP Select Income Fund Inc.,289013.7143
-DOOR,Masonite International Corp,256378.9500
+DNP,DNP Select Income Fund Inc.,576331.6842
+DOOR,Masonite International Corp,165022.6842
 DOV,Dover Corp.,822059.5789
 DOW,Dow Inc,4648495.0000
 DPW,Ault Global Holdings Inc,10372022.5263
 DPZ,Dominos Pizza Inc,543308.0526
 DRD,DRDGold Ltd.,317907.4737
-DRE,Duke Realty Corp,3120940.9500
+DRE,Duke Realty Corp,2020605.4737
 DRH,Diamondrock Hospitality Co.,2192206.2105
 DRI,"Darden Restaurants, Inc.",1619136.4737
 DRQ,"Dril-Quip, Inc.",232321.0526
@@ -469,8 +471,9 @@ EB,Eventbrite Inc (Class A),1039751.4737
 EBF,Ennis Inc.,153367.4737
 EBS,Emergent Biosolutions Inc,521052.7895
 EC,Ecopetrol SA,1085005.4211
+ECF,Ellsworth Growth and Income Fund Ltd,69476.8421
 ECL,"Ecolab, Inc.",943893.3158
-ECOM,ChannelAdvisor Corp,421162.0500
+ECOM,ChannelAdvisor Corp,334147.6842
 ED,"Consolidated Edison, Inc.",3053331.1053
 EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc,261307.1579
 EDN,Empresa Distribuidora y Comercial Norte S.A.,46505.9474
@@ -501,10 +504,10 @@ ENR,Energizer Holdings Inc,489017.0000
 ENS,Enersys,266130.4737
 ENSV,Enservco Corp,2299541.8947
 ENV,Envestnet Inc.,435616.8947
-ENVA,Enova International Inc.,273582.7143
-ENZ,"Enzo Biochem, Inc.",504210.2500
+ENVA,Enova International Inc.,402913.8947
+ENZ,"Enzo Biochem, Inc.",375382.6842
 EOD,Wells Fargo Global Dividend Opportunity Fund,192584.3684
-EOG,"EOG Resources, Inc.",6225919.5500
+EOG,"EOG Resources, Inc.",5315236.5789
 EPAC,Enerpac Tool Group Corp (Class A),282879.2632
 EPAM,EPAM Systems Inc,318699.4737
 EPC,Edgewell Personal Care Co,459418.9474
@@ -543,14 +546,14 @@ EXP,Eagle Materials Inc.,378906.6842
 EXPR,Express Inc.,54596888.5263
 EXR,Extra Space Storage Inc.,810332.6842
 F,Ford Motor Co.,101263233.7368
-FAF,First American Financial Corp,923718.2000
+FAF,First American Financial Corp,634682.1053
 FAX,Aberdeen Asia-Pacific Income Fund Inc,755542.5263
 FBC,"Flagstar Bancorp, Inc.",660297.8421
 FBHS,Fortune Brands Home & Security Inc,856530.6316
 FBP,First Bancorp PR,1990960.2632
 FC,Franklin Covey Co.,68061.4737
 FCF,First Commonwealth Financial Corp.,612231.9474
-FCN,FTI Consulting Inc.,555511.5500
+FCN,FTI Consulting Inc.,333357.9474
 FCO,Aberdeen Global Income Fund Inc,49996.0526
 FCPT,Four Corners Property Trust Inc,734745.8421
 FCX,Freeport-McMoRan Inc,25172999.7895
@@ -586,7 +589,7 @@ FR,"First Industrial Realty Trust, Inc.",865353.7368
 FRO,Frontline Ltd,2079240.6316
 FRT,Federal Realty Investment Trust,841408.1579
 FSI,Flexible Solutions International Inc,131077.1053
-FSLY,Fastly Inc (Class A),8092863.8182
+FSLY,Fastly Inc (Class A),5124914.8421
 FSR,Fisker Inc (Class A),9137073.2105
 FSS,Federal Signal Corp.,261306.9474
 FTI,TechnipFMC plc,9354359.7368
@@ -611,7 +614,7 @@ GEN,Genesis Healthcare Inc (Class A),4016335.5789
 GEO,"Geo Group, Inc.",6035045.7895
 GES,Guess Inc.,961784.7368
 GFF,Griffon Corp.,366808.2105
-GFI,- Level II,7280332.5000
+GFI,- Level II,6884188.5789
 GGB,Gerdau S.A.,6912025.8421
 GGG,Graco Inc.,801819.7895
 GGN,GAMCO Global Gold Natural Resources & Income Trust,1116985.7368
@@ -625,12 +628,12 @@ GL,Globe Life Inc,420218.8947
 GLOG,GasLog Ltd,2074325.5789
 GLT,Glatfelter Corporation,162401.3684
 GLW,"Corning, Inc.",4789771.1053
-GM,General Motors Company,19017808.5500
+GM,General Motors Company,33100159.1579
 GME,Gamestop Corporation (Class A),66441953.1053
 GMED,Globus Medical Inc (Class A),457906.4737
 GNE,Genie Energy Ltd (Class B),86628.6316
 GNK,Genco Shipping & Trading Limited,1360151.6842
-GNRC,Generac Holdings Inc,917224.2500
+GNRC,Generac Holdings Inc,698813.3684
 GNW,Genworth Financial Inc (Class A),9403839.4211
 GOF,Guggenheim Strategic Opportunities Fund,291037.4737
 GOL,Gol Linhas Aereas Inteligentes S.A.,1388668.5263
@@ -652,13 +655,14 @@ GSAT,Globalstar Inc.,61396755.9474
 GSK,Glaxosmithkline plc,4392983.8947
 GSL,Global Ship Lease Inc (Class A),588005.5263
 GSX,Gsx Techedu Inc,9222550.7368
+GTL,Chart Industries Inc,384175.2105
 GTT,GTT Communications Inc,1201871.1579
 GTY,Getty Realty Corp.,205306.3158
 GVA,Granite Construction Inc.,440464.5789
 GWRE,Guidewire Software Inc,575113.2105
 GWW,W.W. Grainger Inc.,411432.4737
 H,Hyatt Hotels Corporation (Class A),677041.0526
-HAE,Haemonetics Corp.,433853.5500
+HAE,Haemonetics Corp.,424293.0526
 HAL,Halliburton Co.,12702956.8947
 HASI,Hannon Armstrong Sustainable Infrastructure capital Inc,844512.8421
 HBB,Hamilton Beach Brands Holding Co (Class A),42049.9474
@@ -724,7 +728,7 @@ HVT,"Haverty Furniture Cos., Inc.",187720.2632
 HWM,Howmet Aerospace Inc,4249396.0526
 HXL,Hexcel Corp.,877223.1053
 HY,Hyster-Yale Materials Handling Inc (Class A),108152.7368
-HYLN,Hyliion Holdings Corporation (Class A),7256099.7619
+HYLN,Hyliion Holdings Corporation (Class A),5915148.7895
 HZO,"Marinemax, Inc.",563259.7368
 IAA,IAA Inc,999012.1579
 IAE,Voya Asia Pacific High Dividend Equity Income Fund,46651.7895
@@ -752,6 +756,7 @@ ING,ING Groep N.V.,4166449.5263
 INGR,Ingredion Inc,583231.4211
 INS,Intelligent Systems Corp.,56865.2632
 INT,World Fuel Services Corp.,357196.8421
+INTT,Intest Corp.,64207.6316
 INUV,Inuvo Inc,36853431.9474
 INVH,Invitation Homes Inc,3456192.0526
 IO,ION Geophysical Corp,323946.7895
@@ -795,7 +800,7 @@ JP,Jupai Holdings Ltd,45793.4737
 JPM,JPMorgan Chase & Co.,16768250.0526
 JPS,Nuveen Preferred & Income Securities Fund,583190.4211
 JWN,"Nordstrom, Inc.",5670349.4737
-K,Kellogg Co,2024680.0455
+K,Kellogg Co,3643072.7368
 KAI,"Kadant, Inc.",45302.1053
 KAMN,Kaman Corp.,125567.6842
 KAR,KAR Auction Services Inc,1875986.2105
@@ -809,13 +814,13 @@ KEYS,Keysight Technologies Inc,1792700.7895
 KFY,Korn Ferry,344805.6316
 KIM,Kimco Realty Corp.,5784048.8947
 KKR,KKR & Co. Inc.,2382079.6842
-KMB,Kimberly-Clark Corp.,2563434.0000
+KMB,Kimberly-Clark Corp.,2426201.3158
 KMI,Kinder Morgan Inc (Class P),19558108.1579
 KMPR,Kemper Corporation,220248.3684
 KMT,Kennametal Inc.,634860.3158
 KMX,Carmax Inc,1809083.5263
 KN,Knowles Corp,744977.2632
-KNX,Knight-Swift Transportation Holdings Inc (Class A),3415600.2273
+KNX,Knight-Swift Transportation Holdings Inc (Class A),2023973.9474
 KO,Coca-Cola Co,24064159.8421
 KODK,Eastman Kodak Co.,9114299.6842
 KOF,Coca-Cola Femsa S.A.B. DE C.V.,109683.1579
@@ -841,8 +846,8 @@ LCI,"Lannett Co., Inc.",540391.0000
 LCII,LCI Industries,127872.5263
 LCTX,Lineage Cell Therapeutics Inc,2411737.4211
 LDL,"Lydall, Inc.",89750.4211
-LDOS,Leidos Holdings Inc,980065.3500
-LEA,Lear Corp.,640599.1000
+LDOS,Leidos Holdings Inc,705386.4211
+LEA,Lear Corp.,413153.2632
 LEE,"Lee Enterprises, Inc.",178954.6316
 LEG,"Leggett & Platt, Inc.",1080298.7368
 LEJU,Leju Holdings Ltd,113891.4211
@@ -855,7 +860,6 @@ LFT,Lument Finance Trust Inc,63550.4737
 LGF.A,Lions Gate Entertainment Corp. (Class A),1739413.2105
 LGF.B,Lions Gate Entertainment Corp. (Class B),1114454.4211
 LGI,Lazard Global Total Return and Income Fund Inc,48583.8421
-LGVW.UN,Longview Acquisition Corp 1 Ord Share Class A & 1/3 War,17860.7368
 LH,Laboratory Corp. Of America Holdings,716634.5263
 LHX,L3Harris Technologies Inc,1433961.9474
 LII,Lennox International Inc,248198.0526
@@ -872,7 +876,7 @@ LNN,Lindsay Corporation,95939.5263
 LODE,Comstock Mining Inc,814404.6316
 LOV,Spark Networks SE,127177.2632
 LOW,"Lowe`s Cos., Inc.",4269443.6316
-LPI,Laredo Petroleum Inc.,254098.6375
+LPI,Laredo Petroleum Inc.,476168.5263
 LPL,LG Display Co Ltd.,687268.5263
 LPX,Louisiana-Pacific Corp.,1223278.2105
 LRN,Stride Inc,979889.6316
@@ -896,10 +900,10 @@ MAC,Macerich Co.,10836837.8947
 MAIN,Main Street Capital Corporation,448882.5789
 MAN,ManpowerGroup,362470.9474
 MANU,Manchester ed Plc. (Class A),131835.7895
-MAS,Masco Corp.,3431447.3500
+MAS,Masco Corp.,2344787.7368
 MAX,MediaAlpha Inc (Class A),152209.3684
 MBI,MBIA Inc.,452231.0526
-MBT,Mobile Telesystems PJSC,4327077.6000
+MBT,Mobile Telesystems PJSC,3547599.5789
 MCD,McDonald`s Corp,3378869.0000
 MCF,Contango Oil & Gas Company,1390093.6316
 MCK,Mckesson Corporation,1049995.2105
@@ -937,10 +941,10 @@ MLSS,Milestone Scientific Inc.,662270.1053
 MMC,"Marsh & McLennan Cos., Inc.",1835132.3684
 MMM,3M Co.,3690705.3158
 MMP,Magellan Midstream Partners L.P.,1226080.3158
-MMS,Maximus Inc.,483995.2500
+MMS,Maximus Inc.,428466.7368
 MMT,MFS Multimarket Income Trust,100785.1579
 MMU,Western Asset Managed Municipals Fund Inc,74700.7368
-MN,Manning & Napier Inc (Class A),104991.4500
+MN,Manning & Napier Inc (Class A),40568.9474
 MNR,Monmouth Real Estate Investment Corp. (Class A),637991.5789
 MO,Altria Group Inc.,8112179.0000
 MOD,Modine Manufacturing Co.,378497.5789
@@ -948,7 +952,7 @@ MODN,Model N Inc,244569.4737
 MOG.A,"Moog, Inc. (Class A)",130089.6316
 MOH,Molina Healthcare Inc,334164.0526
 MOS,Mosaic Company,5335711.3158
-MOV,"Movado Group, Inc.",255912.8500
+MOV,"Movado Group, Inc.",251995.8947
 MP,MP Materials Corporation (Class A),3892682.1579
 MPC,Marathon Petroleum Corp,6382088.3684
 MPLX,MPLX LP,2475824.0909
@@ -965,7 +969,7 @@ MSGN,MSG Networks Inc (Class A),766451.0526
 MSGS,Madison Square Garden Sports Corp (Class A),216362.6842
 MSI,Motorola Solutions Inc,740351.6842
 MSM,"MSC Industrial Direct Co., Inc. (Class A)",501751.3158
-MSN,Emerson Radio Corp.,548740.7500
+MSN,Emerson Radio Corp.,1485268.8947
 MSP,Datto Holding Corp,458573.2632
 MT,New York Shares - Level III,5050808.5263
 MTB,M & T Bank Corp,935960.8947
@@ -973,26 +977,26 @@ MTD,"Mettler-Toledo International, Inc.",115724.2105
 MTDR,Matador Resources Co,2934283.0526
 MTG,MGIC Investment Corp,4112238.4737
 MTH,Meritage Homes Corp.,649785.6842
-MTL,Mechel PJSC,936989.9545
+MTL,Mechel PJSC,316818.6316
 MTN,Vail Resorts Inc.,334760.5263
-MTOR,Meritor Inc,620811.1500
+MTOR,Meritor Inc,530597.7368
 MTR,Mesa Royalty Trust,52846.1579
-MTRN,Materion Corp,83555.4500
+MTRN,Materion Corp,103679.4211
 MTW,"Manitowoc Co., Inc.",354158.6842
 MTX,"Minerals Technologies, Inc.",125141.8947
 MTZ,Mastec Inc.,930615.5789
-MUC,BlackRock MuniHoldings California Quality Fund Inc,84425.4545
+MUC,BlackRock MuniHoldings California Quality Fund Inc,62085.8947
 MUFG,"Mitsubishi UFJ Financial Group, Inc.",1735233.7368
 MUJ,BlackRock MuniHoldings New Jersey Quality Fund Inc,62132.9474
 MUR,Murphy Oil Corp.,5874632.5789
-MUSA,Murphy USA Inc,319813.5000
+MUSA,Murphy USA Inc,316265.2632
 MVO,MV Oil Trust,126434.8421
 MWA,Mueller Water Products Inc (Series A),805198.6316
 MX,MagnaChip Semiconductor Corp,723746.7895
 MXC,Mexco Energy Corp,268823.9474
 MXL,MaxLinear Inc,546470.3158
 MYD,BlackRock MuniYield Fund Inc,81860.2105
-MYE,Myers Industries Inc.,174801.7273
+MYE,Myers Industries Inc.,186317.6842
 MYN,BlackRock MuniYield New York Quality Fund Inc,54109.5789
 MYO,Myomo Inc,218414.0526
 MYOV,Myovant Sciences Ltd,1354889.4737
@@ -1006,13 +1010,13 @@ NCLH,Norwegian Cruise Line Holdings Ltd,15529601.4211
 NCR,NCR Corp.,1739011.5263
 NEE,NextEra Energy Inc,9762768.9474
 NET,Cloudflare Inc (Class A),4021808.7895
-NFG,National Fuel Gas Co.,800554.5500
+NFG,National Fuel Gas Co.,630347.5789
 NFJ,Virtus AllianzGI Divid Interest & Prem Strategy Fund,270505.7368
 NGA,Northern Genesis Acquisition Corp,6111587.7895
 NGG,National Grid Plc,308633.5263
 NGL,NGL Energy Partners LP,2908838.7895
 NGS,"Natural Gas Services Group, Inc.",52334.6316
-NGVC,Natural Grocers by Vitamin Cottage Inc,178849.1000
+NGVC,Natural Grocers by Vitamin Cottage Inc,132395.2632
 NGVT,Ingevity Corp,214819.5789
 NHF,NexPoint Strategic Opportunities Fund,227745.2632
 NHI,"National Health Investors, Inc.",284860.5789
@@ -1032,14 +1036,14 @@ NNVC,NanoViricides Inc,483872.8947
 NOAH,Noah Holdings Limited,284398.2632
 NOC,Northrop Grumman Corp.,1304734.2105
 NOG,Northern Oil and Gas Inc.,1077494.6842
-NOK,Nokia Corp,34128815.7500
+NOK,Nokia Corp,177643770.3158
 NOMD,Nomad Foods Limited,869980.1053
 NOV,NOV Inc,5607254.0526
-NOVA,Sunnova Energy International Inc,2038719.9091
+NOVA,Sunnova Energy International Inc,2346382.7368
 NOW,ServiceNow Inc,1606883.3158
-NP,Neenah Inc,149932.9000
-NPK,"National Presto Industries, Inc.",58791.0500
+NP,Neenah Inc,85834.2105
 NPO,EnPro Industries Inc,91030.2105
+NQP,Nuveen Pennsylvania Quality Municipal Income Fund,45651.4211
 NR,"Newpark Resources, Inc.",880369.9474
 NRG,NRG Energy Inc.,2661392.6842
 NRT,North European Oil Royalty Trust,51594.8947
@@ -1065,7 +1069,6 @@ NX,Quanex Building Products Corp,209288.5263
 NXRT,NexPoint Residential Trust Inc,119578.3158
 NYCB,New York Community Bancorp Inc.,3285263.3684
 NYT,New York Times Co. (Class A),2034379.9474
-OBLG,Oblong Inc,192354.4737
 OC,Owens Corning,1091067.3158
 OCFT,Oneconnect Financial Technology Co Ltd,629969.9474
 OCN,Ocwen Financial Corp.,61447.1579
@@ -1087,10 +1090,10 @@ OLP,"One Liberty Properties, Inc.",65597.5789
 OMC,"Omnicom Group, Inc.",1951442.6842
 OMF,OneMain Holdings Inc,704467.5263
 OMI,"Owens & Minor, Inc.",1285772.6316
-ONTF,ON24 Inc,0
-ONTO,Onto Innovation Inc.,356667.8000
+ONTF,ON24 Inc,0.0000
+ONTO,Onto Innovation Inc.,296178.8421
 OPY,Oppenheimer Holdings Inc (Class A),120258.7368
-ORA,Ormat Technologies Inc,774491.3500
+ORA,Ormat Technologies Inc,825107.0000
 ORCL,Oracle Corp.,9110814.2105
 ORI,Old Republic International Corp.,2412053.2105
 OSH,Oak Street Health Inc,458586.8421
@@ -1099,7 +1102,7 @@ OTIS,Otis Worldwide Corp,2953136.7895
 OUT,Outfront Media Inc,1958370.2105
 OXM,"Oxford Industries, Inc.",104556.2105
 OXY,Occidental Petroleum Corp.,22758041.9474
-PAC,Grupo Aeroportuario Del Pacifico SAB de CV,75920.6000
+PAC,Grupo Aeroportuario Del Pacifico SAB de CV,52346.3684
 PAG,Penske Automotive Group Inc,359513.2632
 PAM,Pampa Energia SA,126320.5789
 PANW,Palo Alto Networks Inc,1078687.0000
@@ -1133,12 +1136,12 @@ PGR,Progressive Corp.,2834594.3684
 PGTI,PGT Innovations Inc,251528.0526
 PH,Parker-Hannifin Corp.,933344.7368
 PHG,Koninklijke Philips N.V.,505792.3158
-PHI,PLDT Inc,102692.1000
+PHI,PLDT Inc,83916.5263
 PHM,PulteGroup Inc,3612564.6842
 PHT,Pioneer High Income Trust,76725.2632
 PHX,PHX Minerals Inc (Class A),192557.3158
 PII,Polaris Inc,882107.6842
-PIM,Putnam Master Intermediate Income Trust,144170.0476
+PIM,Putnam Master Intermediate Income Trust,124901.4737
 PING,Ping Identity Holding Corp,1090888.4737
 PINS,Pinterest Inc (Class A),10551415.4211
 PIPR,Piper Sandler Co`s,75944.5263
@@ -1155,16 +1158,16 @@ PLT,"Plantronics, Inc.",523380.8421
 PLTR,Palantir Technologies Inc (Class A) ,65497267.5789
 PLX,Protalix BioTherapeutics Inc.,241517.6842
 PM,Philip Morris International Inc,4868637.0526
-PMM,Putnam Managed Municipal Income Trust.,76597.9048
+PMM,Putnam Managed Municipal Income Trust.,88749.7368
 PMO,Putnam Municipal Opportunities Trust,69676.0000
 PMT,Pennymac Mortgage Investment Trust,796242.4737
 PNC,PNC Financial Services Group,2272790.0526
-PNM,PNM Resources Inc,1547241.0000
+PNM,PNM Resources Inc,931873.5263
 PNR,Pentair plc,1326095.8421
 PNW,Pinnacle West Capital Corp.,921240.7368
 POR,Portland General Electric Co,679628.4737
 POST,Post Holdings Inc,424869.6842
-PPG,"PPG Industries, Inc.",1106664.9500
+PPG,"PPG Industries, Inc.",1688671.1053
 PPL,PPL Corp,4057752.3158
 PPT,Putnam Premier Income Trust,353822.1579
 PRA,Proassurance Corporation,266719.8947
@@ -1173,7 +1176,7 @@ PRGO,Perrigo Company plc,1325096.7368
 PRI,Primerica Inc,175683.5263
 PRK,Park National Corp.,55877.0526
 PRLB,Proto Labs Inc,713714.4737
-PRSP,Perspecta Inc,834477.9000
+PRSP,Perspecta Inc,2684419.9474
 PRTY,Party City Holdco Inc,4218457.1053
 PRU,Prudential Financial Inc.,2010890.2105
 PSA,Public Storage,1029007.4211
@@ -1192,7 +1195,7 @@ PVH,PVH Corp,1008221.1579
 PW,Power REIT,55005.0526
 PWR,"Quanta Services, Inc.",1205458.0526
 PXD,Pioneer Natural Resources Co.,3444043.2632
-PZG,Paramount Gold Nevada Corp,109867.1500
+PZG,Paramount Gold Nevada Corp,477578.7895
 PZN,Pzena Investment Management Inc (Class A),75584.2632
 QD,Qudian Inc,7883741.3158
 QEP,QEP Resources Inc,5007933.2105
@@ -1202,7 +1205,7 @@ QTS,Qts Realty Trust Inc (Class A),606004.3158
 QUAD,Quad/Graphics Inc (Class A),229903.4211
 R,"Ryder System, Inc.",440203.1053
 RACE,Ferrari N.V.,364867.7895
-RAD,Rite Aid Corp.,4740375.1905
+RAD,Rite Aid Corp.,3681727.8947
 RAMP,LiveRamp Holdings Inc,563895.0526
 RBC,Regal Beloit Corp,315339.7895
 RCL,Royal Caribbean Group,3989663.6842
@@ -1213,7 +1216,7 @@ REI,Ring Energy Inc,5719858.6842
 RELX,RELX Plc,535313.8947
 RENN,Renren Inc,100475.5789
 RES,"RPC, Inc.",908836.4211
-REV,"Revlon, Inc. (Class A)",2549080.4500
+REV,"Revlon, Inc. (Class A)",555910.6316
 REVG,REV Group Inc,466256.3684
 REZI,Resideo Technologies Inc,946205.0526
 RF,Regions Financial Corp.,8978542.1579
@@ -1229,7 +1232,7 @@ RHP,Ryman Hospitality Properties Inc,582956.6316
 RIG,Transocean Ltd,42678327.6842
 RIO,Rio Tinto plc,2017204.3684
 RJF,"Raymond James Financial, Inc.",869734.6842
-RKT,Class A,15925409.6667
+RKT,Class A,11752693.8421
 RL,Ralph Lauren Corp (Class A),1166837.0000
 RLGT,"Radiant Logistics, Inc.",224368.5263
 RLGY,Realogy Holdings Corp,1542660.2632
@@ -1253,11 +1256,11 @@ RRD,R.R. Donnelley & Sons Co.,805040.1579
 RS,Reliance Steel & Aluminum Co.,421814.5263
 RSG,"Republic Services, Inc.",1092135.8421
 RTX,Raytheon Technologies Corporation,8158961.3158
-RVI,Retail Value Inc,101053.1429
+RVI,Retail Value Inc,114500.5789
 RVLV,Revolve Group Inc (Class A),1066888.1579
 RVP,Retractable Technologies Inc,1464161.1053
-RWT,Redwood Trust Inc.,1900346.2000
-RYAM,Rayonier Advanced Materials Inc,684436.2000
+RWT,Redwood Trust Inc.,1391234.1579
+RYAM,Rayonier Advanced Materials Inc,583434.0526
 RYN,Rayonier Inc.,418053.7368
 SAH,"Sonic Automotive, Inc. (Class A)",306703.5263
 SAIC,Science Applications International Corp.,402432.4211
@@ -1276,7 +1279,7 @@ SCHW,Charles Schwab Corp.,10251907.5263
 SCI,Service Corp. International,877624.6842
 SCL,Stepan Co.,95251.4737
 SCS,"Steelcase, Inc. (Class A)",739713.9474
-SCU,Sculptor Capital Management Inc (Class A),113936.2000
+SCU,Sculptor Capital Management Inc (Class A),196736.6316
 SE,Sea Ltd,3701806.5263
 SEAS,SeaWorld Entertainment Inc,1108935.7368
 SEE,Sealed Air Corp.,1180430.5789
@@ -1284,6 +1287,7 @@ SEM,Select Medical Holdings Corporation,597935.7368
 SF,Stifel Financial Corp.,674577.7368
 SFE,"Safeguard Scientifics, Inc.",102506.5263
 SFL,SFL Corporation Ltd,1091559.6842
+SGFY,Signify Health Inc (Class A),0.0000
 SGU,Star Group L.P.,77156.1053
 SHAK,Shake Shack Inc (Class A),1203646.1053
 SHG,Shinhan Financial Group Co. Ltd.,122369.2632
@@ -1291,7 +1295,7 @@ SHO,Sunstone Hotel Investors Inc,1686640.4211
 SHW,Sherwin-Williams Co.,456686.9474
 SID,Companhia Siderurgica Nacional,4001137.1053
 SIF,SIFCO Industries Inc.,62406.9474
-SIG,Signet Jewelers Ltd,1159121.4000
+SIG,Signet Jewelers Ltd,1738791.9474
 SITC,SITE Centers Corp,1452145.8421
 SIX,Six Flags Entertainment Corp,1694943.2632
 SJI,South Jersey Industries Inc.,1303846.5789
@@ -1303,11 +1307,11 @@ SKT,"Tanger Factory Outlet Centers, Inc.",7054134.4211
 SKX,"Skechers U S A, Inc. (Class A)",1347800.5789
 SKY,Skyline Champion Corp,378591.1579
 SLB,Schlumberger Ltd.,15309651.6316
-SLCA,U.S. Silica Holdings Inc,1229868.5000
+SLCA,U.S. Silica Holdings Inc,1492541.3158
 SLG,SL Green Realty Corp.,1557513.7830
 SM,SM Energy Co,5879396.1579
 SMAR,Smartsheet Inc (Class A),1054934.3684
-SMFG,Sumitomo Mitsui Financial Group Inc,1294322.4500
+SMFG,Sumitomo Mitsui Financial Group Inc,1349447.8421
 SMG,Scotts Miracle-Gro Company (Class A),334435.4737
 SMP,"Standard Motor Products, Inc.",137651.7368
 SNA,"Snap-on, Inc.",485583.0000
@@ -1318,11 +1322,11 @@ SNN,Smith & Nephew plc,383072.8421
 SNOW,Snowflake Inc (Class A),4370497.6316
 SNP,China Petroleum & Chemical Corp,202303.4737
 SNR,New Senior Investment Group Inc,417345.1053
-SNV,Synovus Financial Corp.,1174438.7000
+SNV,Synovus Financial Corp.,1060129.6316
 SNX,Synnex Corp,449780.7368
 SO,Southern Company,4195659.8421
 SOL,Renesola,6461571.6316
-SON,Sonoco Products Co.,431930.3000
+SON,Sonoco Products Co.,410310.7368
 SPB,Spectrum Brands Holdings Inc.,324438.5263
 SPCE,Virgin Galactic Holdings Inc (Class A),23654792.7895
 SPG,"Simon Property Group, Inc.",4489507.1579
@@ -1343,7 +1347,7 @@ SSD,"Simpson Manufacturing Co., Inc.",226495.6842
 SSL,Sasol Ltd,1193653.5263
 SSTK,Shutterstock Inc,301716.1579
 SSY,Sunlink Health Systems Inc,266190.5263
-STAG,STAG Industrial Inc,1111323.3000
+STAG,STAG Industrial Inc,842827.3684
 STAR,iStar Inc,540865.7368
 STC,Stewart Information Services Corp.,184594.0000
 STE,Steris Plc,543429.4737
@@ -1353,7 +1357,7 @@ STM,New York Shares,2968192.8947
 STNG,Scorpio Tankers Inc,2036276.0526
 STON,StoneMor Inc,238423.7368
 STOR,Store Capital Corp,2099379.9474
-STT,State Street Corp.,2391614.2000
+STT,State Street Corp.,2522747.2632
 STWD,Starwood Property Trust Inc,2404240.7368
 STXS,Stereotaxis Inc,196777.8421
 STZ,Constellation Brands Inc (Class A),1377361.6316
@@ -1382,19 +1386,19 @@ TCP,"TC Pipelines, LP",421327.1579
 TCS,Container Store Group Inc,893824.5263
 TDC,Teradata Corp,1798567.7368
 TDG,Transdigm Group Incorporated,289229.8421
-TDOC,Teladoc Health Inc,4371048.1500
+TDOC,Teladoc Health Inc,3762004.8421
 TDS,"Telephone And Data Systems, Inc.",1074936.8947
 TDY,Teledyne Technologies Inc,495317.1053
-TEF,Telefonica S.A,3166973.3000
-TEI,Templeton Emerging Markets Income Fund Inc,120042.0870
+TEF,Telefonica S.A,1886312.8421
+TEI,Templeton Emerging Markets Income Fund Inc,113762.1053
 TEL,TE Connectivity Ltd,1953198.5263
 TEN,"Tenneco, Inc. (Class A)",980896.2105
-TEO,Telecom Argentina S.A.,183509.1500
+TEO,Telecom Argentina S.A.,234561.5263
 TEVA,Teva- Pharmaceutical Industries Ltd.,10721969.5789
 TEX,Terex Corp.,553867.4211
 TFC,Truist Financial Corporation,6043122.3158
 TFX,Teleflex Incorporated,222779.7895
-TG,Tredegar Corp.,123830.9000
+TG,Tredegar Corp.,216595.4211
 TGC,"Tengasco, Inc.",3920319.8421
 TGH,Textainer Group Holdings Limited,285883.5263
 TGI,Triumph Group Inc.,969537.7895
@@ -1423,18 +1427,18 @@ TMST,TimkenSteel Corp,464308.2632
 TNC,Tennant Co.,79439.1579
 TNET,TriNet Group Inc,257694.0526
 TNK,Teekay Tankers Ltd (Class A),493708.4737
+TNL,Travel+Leisure Co,698464.0000
 TNP,Tsakos Energy Navigation Limited,111038.1579
 TOL,Toll Brothers Inc.,2238748.4211
 TOT,Total SE,2335710.5263
 TPC,Tutor Perini Corp,400589.5789
 TPH,Tri Pointe Homes Inc.,2360994.6842
 TPHS,Trinity Place Holdings Inc,86348.8421
-TPL,Texas Pacific Land Corporation,28248.3684
 TPR,Tapestry Inc,4573846.5263
 TPRE,Third Point Reinsurance Ltd,284138.2632
 TPX,Tempur Sealy International Inc,1686512.5263
 TR,"Tootsie Roll Industries, Inc.",857736.5789
-TRC,Tejon Ranch Co.,99231.1000
+TRC,Tejon Ranch Co.,89728.7368
 TREC,Trecora Resources,53291.1579
 TREX,"TREX Co., Inc.",775106.7895
 TRGP,Targa Resources Corp,2079007.2632
@@ -1444,13 +1448,13 @@ TRTN,Triton International Ltd,382807.7895
 TRU,TransUnion,1235395.5263
 TRV,Travelers Companies Inc.,1505350.2632
 TRXC,TransEnterix Inc,64031960.4737
-TS,Tenaris S.A.,1513249.1500
+TS,Tenaris S.A.,2112181.5263
 TSE,Trinseo S.A.,416116.0000
 TSI,TCW Strategic Income Fund Inc,142449.2105
 TSM,Taiwan Semiconductor Manufacturing,16972852.4211
 TSN,"Tyson Foods, Inc. (Class A)",2261945.1053
 TT,Trane Technologies plc (Class A),1411941.7895
-TTC,Toro Co.,332520.4500
+TTC,Toro Co.,403391.9474
 TTI,"Tetra Technologies, Inc.",2084444.0526
 TTM,Tata Motors Ltd.,2933075.5263
 TUP,Tupperware Brands Corporation,894253.2632
@@ -1461,7 +1465,7 @@ TWO,Two Harbors Investment Corp,3760859.7368
 TWTR,Twitter Inc,21115580.6842
 TX,Ternium S.A.,489661.5789
 TXT,Textron Inc.,1199869.5263
-TYG,Tortoise Energy Infrastructure Corp,205621.9000
+TYG,Tortoise Energy Infrastructure Corp,88869.0526
 TYL,"Tyler Technologies, Inc.",244900.1053
 U,Unity Software Inc,2121994.3684
 UA,Under Armour Inc (Class C),3860433.1053
@@ -1470,21 +1474,21 @@ UAMY,United States Antimony Corp.,7733654.2105
 UAVS,AgEagle Aerial Systems Inc.,8953797.0526
 UBA,"Urstadt Biddle Properties, Inc. (Class A)",254994.6316
 UBER,Uber Technologies Inc,25344875.2105
-UBS,UBS Group AG,3786708.5000
+UBS,UBS Group AG,3586444.8947
 UDR,UDR Inc,1708971.5789
-UE,Urban Edge Properties,1136226.1500
+UE,Urban Edge Properties,865735.9474
 UEC,Uranium Energy Corp,3761545.5263
 UFI,"UNIFI, Inc.",124352.2632
 UGI,UGI Corp.,1099190.8947
 UGP,Ultrapar Participacoes S.A.,1806964.3684
 UHS,"Universal Health Services, Inc. (Class B)",635990.1053
-UI,Ubiquiti Inc,215543.7826
-UIS,Unisys Corp.,561170.6000
+UI,Ubiquiti Inc,135181.7895
+UIS,Unisys Corp.,697558.2105
 UL,Unilever plc,1720031.9474
 UMH,UMH Properties Inc,144988.5263
 UNF,Unifirst Corp.,88421.4737
 UNFI,United Natural Foods Inc.,2214626.0000
-UNH,Unitedhealth Group Inc,3721674.8000
+UNH,Unitedhealth Group Inc,3322518.1579
 UNM,Unum Group,2447160.6316
 UNP,Union Pacific Corp.,3212777.3158
 UPS,"United Parcel Service, Inc. (Class B)",3948684.4211
@@ -1499,7 +1503,7 @@ UTL,Unitil Corp.,67142.7895
 UUU,"Universal Security Instruments, Inc.",885174.5263
 UVE,Universal Insurance Holdings Inc,229920.4211
 UVV,Universal Corp.,156480.4211
-V,Visa Inc (Class A),9493770.5500
+V,Visa Inc (Class A),10440991.4211
 VAC,Marriott Vacations Worldwide Corp,374375.4737
 VAR,"Varian Medical Systems, Inc.",801208.7368
 VEC,Vectrus Inc,65057.5789
@@ -1508,7 +1512,7 @@ VER,VEREIT Inc,1871703.6316
 VFC,VF Corp.,2794849.0526
 VGR,Vector Group Ltd,687512.6842
 VHC,Virnetx Holding Corp,2308905.5789
-VICI,VICI Properties Inc,4327342.6522
+VICI,VICI Properties Inc,5743350.8421
 VIPS,Vipshop Holdings Ltd,6494247.8421
 VIV,"Telefonica Brasil S.A., - ADR (Representing Ord)",1503255.5789
 VKI,Invesco Advantage Municipal Income Trust II,89631.4211
@@ -1541,10 +1545,10 @@ WAT,Waters Corp.,354346.0526
 WBAI,500.com Ltd,961088.7895
 WBK,Westpac Banking Corp,130757.4737
 WBS,Webster Financial Corp.,655904.5263
-WBT,Welbilt Inc,2088135.8000
+WBT,Welbilt Inc,1414764.3158
 WCC,"Wesco International, Inc.",399902.7895
 WD,Walker & Dunlop Inc,153424.5263
-WDR,"Waddell & Reed Financial, Inc. (Class A)",806652.5000
+WDR,"Waddell & Reed Financial, Inc. (Class A)",1033525.2105
 WEC,WEC Energy Group Inc,1395620.5263
 WELL,Welltower Inc,2225484.4211
 WES,Western Midstream Partners LP,1488614.7895
@@ -1570,7 +1574,7 @@ WORK,Slack Technologies Inc (Class A),10299690.3684
 WPG,Washington Prime Group Inc,599994.6842
 WPP,WPP Plc.,108258.6842
 WRB,W.R. Berkley Corp.,1006509.0526
-WRE,Washington Real Estate Investment Trust,455691.4545
+WRE,Washington Real Estate Investment Trust,450518.8421
 WRI,Weingarten Realty Investors,797235.3158
 WRK,WestRock Co,2027177.5789
 WSM,"Williams-Sonoma, Inc.",1530682.5789
@@ -1582,12 +1586,10 @@ WTRG,Essential Utilities Inc,1248075.2105
 WTS,"Watts Water Technologies, Inc. (Class A)",137039.6316
 WTT,"Wireless Telecom Group, Inc.",77009.1579
 WU,Western Union Company,5197530.6316
-WWE,"World Wrestling Entertainment, Inc. (Class A)",890072.4500
+WWE,"World Wrestling Entertainment, Inc. (Class A)",1149143.5789
 WWW,"Wolverine World Wide, Inc.",417027.6316
 WY,Weyerhaeuser Co.,4604548.4211
-WYND,Wyndham Destinations Inc,625134.3500
 WYY,Widepoint Corp,380931.6316
-XAN,Exantas Capital Corp,554931.4211
 XEC,Cimarex Energy Co.,1447848.1053
 XIN,Xinyuan Real Estate Co. Ltd.,150303.3684
 XL,XL Fleet Corporation (Class A),9440288.5263
@@ -1602,7 +1604,7 @@ YCBD,cbdMD Inc,1161139.5263
 YELP,Yelp Inc,1277523.6316
 YETI,YETI Holdings Inc,1972115.1053
 YEXT,Yext Inc,912195.3158
-YPF,YPF,1233732.5455
+YPF,YPF,2975695.8947
 YRD,Yiren Digital Ltd,159591.7368
 YUM,Yum Brands Inc.,1552079.5263
 YUMC,Yum China Holdings Inc,1637039.7368
