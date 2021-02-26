@@ -19,6 +19,6 @@ It also lists *106* NASDAQ ETFs, from `BTC iShares MSCI All Country Asia ex Japa
 Currently lists *1560* American assets traded in the NYSE, from `Agilent Technologies Inc.` (A) to `Zymeworks Inc` (ZYME)
 It also lists *571* NYSE ETFs, from `VanEck Vectors Africa Index ETF` (AFK) to `ProShares UltraShort Silver` (ZSL)
 
-# Recently Changed / Added
+### Did you enjoy this?
 
-The `change_info` folder contains information about assets that went through change recently. For example, it contains recent and to be added IPOs. It also contains all the de-listed and split stocks. This info might not be up to date at the time of your reading, since it requires daily changes. Last updated October 7th 2020.
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="vnasilva" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
