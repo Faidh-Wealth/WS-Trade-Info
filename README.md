@@ -21,4 +21,4 @@ It also lists *571* NYSE ETFs, from `VanEck Vectors Africa Index ETF` (AFK) to `
 
 ### Did you enjoy this?
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="vnasilva" data-color="#FFDD00" data-emoji=""  data-font="Lato" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+[![image](https://user-images.githubusercontent.com/37382997/109364179-71ad5f80-784b-11eb-8fa3-4f02b2e0065e.png)](https://www.buymeacoffee.com/vnasilva)
