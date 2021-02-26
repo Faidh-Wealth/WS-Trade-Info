@@ -1,6 +1,6 @@
 # WS Trade Info
-Collection of information about Stocks in the Toronto Stock Exchange, New York Stock Exchange and NASDAQ traded in Wealthsimple Trade
-
+Collection of information about Stocks in the Toronto Stock Exchange, New York Stock Exchange and NASDAQ traded in Wealthsimple Trade.
+We use this information to populate our research at [https://faidhwealth.com/](https://faidhwealth.com/).
 
 # Asset Information
 The `stock_info` folder contains information about assets traded in Canada, NASDAQ and NYSE
