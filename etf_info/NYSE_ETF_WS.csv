@@ -1,569 +1,574 @@
 symbol,name,currency,sector,active_date,avg_daily_volume_last_month
-AFK,VanEck Vectors Africa Index ETF,USD,ETFs,2008-06-14,28691.6316
-AGG,BTC iShares Core U.S. Aggregate Bond ETF,USD,ETFs,2007-08-31,6819479.8947
-AGQ,ProShares Ultra Silver,USD,ETFs,2008-12-03,1693191.8421
-AGZ,BTC iShares Agency Bond ETF,USD,ETFs,2008-11-07,104340.1579
-AIEQ,AI Powered Equity ETF,USD,ETFs,2017-10-18,59937.1579
-AMLP,ALPS Alerian MLP ETF,USD,,2015-09-14,3639175.5263
-AMZA,Etfis InfraCap MLP ETF,USD,,2015-09-14,135971.1053
-AOA,BTC iShares Core Aggressive Allocation ETF,USD,ETFs,2008-11-07,77664.0526
-AOR,BTC iShares Core Growth Allocation ETF,USD,ETFs,2008-11-07,133648.0000
-ARGT,Global X MSCI Argentina ETF,USD,ETFs,2011-03-03,18752.2632
-ARKF,ARK Fintech Innovation ETF,USD,,2019-02-04,2118694.6842
-ARKK,ARK Investment Management LLC - ARK Innovation ETF,USD,ETFs,2014-10-31,7686855.6316
-ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,USD,ETFs,2013-11-06,3054508.2632
-BAB,Invesco Taxable Municipal Bond ETF,USD,ETFs,2009-11-17,370435.8947
-BAR,GraniteShares Gold Shares,USD,,2017-08-31,535734.6842
-BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,USD,ETFs,2008-11-07,1807803.3684
-BIV,"Vanguard Group, Inc. - Vanguard Intermediate-Term Bond ETF",USD,ETFs,2008-09-19,1597329.3158
-BKF,BTC iShares MSCI BRIC ETF,USD,ETFs,2007-11-16,24007.5789
-BKLN,Invesco Senior Loan ETF,USD,ETFs,2011-03-03,10415648.4737
-BLOK,Amplify Transformational Data Sharing ETF,USD,ETFs,2018-01-17,692312.7895
-BLV,Vanguard Long-Term Bond ETF,USD,ETFs,2008-09-19,659542.9474
-BNO,ed States Brent Crude Oil Fund,USD,ETFs,2010-06-02,774519.6316
-BOND,PIMCO Active Bond ETF,USD,ETFs,2012-03-01,279702.9474
-BRF,VanEck Vectors Brazil Small-Cap ETF,USD,ETFs,2009-05-14,10236.4737
-BSV,Vanguard Short-Term Bond ETF,USD,ETFs,2008-09-19,2838886.6842
-BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,USD,ETFs,2008-11-07,488982.6316
-BWZ,SPDR Bloomberg Barclays Short Term International Treasury Bond ETF,USD,ETFs,2009-01-27,41088.7368
-BZQ,ProShares UltraShort MSCI Brazil Capped ETF,USD,,2009-06-18,345321.0000
-CANE,Teucrium Sugar Fund,USD,ETFs,2011-09-19,90917.6316
-CEW,WisdomTree Emerging Currency Strategy Fund,USD,ETFs,2009-05-06,15427.4737
-CGW,Invesco S&P Global Water Index ETF,USD,,2018-04-09,74867.3158
-CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,USD,ETFs,2015-06-17,23254.3158
-CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,USD,ETFs,2017-10-10,13493.2632
-CHIQ,Global X MSCI China Consumer Discretionary ETF,USD,ETFs,2009-12-01,530385.0000
-CHIX,Global X MSCI China Financials ETF,USD,ETFs,2009-12-11,90534.8421
-CMF,BTC iShares California Muni Bond ETF,USD,ETFs,2008-11-06,101936.9474
-CORN,Teucrium Corn Fund,USD,ETFs,2010-06-08,323969.6842
-CRBN,BTC iShares MSCI ACWI Low Carbon Target ETF,USD,ETFs,2014-12-09,17045.2632
-CSD,Invesco S&P Spin-Off ETF,USD,,2018-04-09,2489.6316
-CUT,Invesco MSCI Global Timber ETF,USD,,2018-04-09,18425.2105
-CVY,Invesco Zacks Multi-Asset Income ETF,USD,,2018-04-09,24760.6316
-CWB,SPDR Bloomberg Barclays Convertible Securities ETF,USD,ETFs,2009-04-16,1256472.8947
-CYB,WisdomTree Chinese Yuan Strategy Fund,USD,ETFs,2008-05-13,22818.8421
-CZA,Invesco Zacks Mid-Cap ETF,USD,,2018-04-09,20552.6316
-DBA,Invesco DB Agriculture Fund,USD,,2008-11-25,1294075.8947
-DBB,Invesco DB Base Metals Fund,USD,,2008-11-25,184426.6316
-DBC,DB Commodity Services LLC - Invesco DB Commodity Index Tracking Fund,USD,ETFs,2008-11-25,2271605.7895
-DBE,Invesco DB Energy Fund,USD,,2008-11-25,61760.3684
-DBEU,Xtrackers MSCI Europe Hedged Equity ETF,USD,ETFs,2013-10-01,67841.3158
-DBO,Invesco DB Oil Fund,USD,,2008-11-25,997723.2105
-DBP,Invesco DB Precious Metals Fund,USD,,2008-11-24,27450.2105
-DBS,Invesco DB Silver Fund,USD,,2008-11-25,3654.7368
-DBV,Invesco DB G10 Currency Harvest Fund,USD,,2008-11-25,1354.3158
-DDG,ProShares Short Oil & Gas,USD,ETFs,2008-11-12,3172.6842
-DDM,ProShares Ultra Dow30,USD,ETFs,2008-11-12,452717.0000
-DEF,Invesco Defensive Equity ETF,USD,,2018-04-09,13689.4737
-DEM,WisdomTree Emerging Markets High Dividend Fund,USD,ETFs,2007-10-30,300861.6842
-DES,WisdomTree U.S. SmallCap Dividend Fund,USD,ETFs,2007-11-28,347017.6842
-DEW,WisdomTree Global High Dividend Fund,USD,ETFs,2007-11-28,5525.4211
-DFE,WisdomTree Europe SmallCap Dividend Fund,USD,ETFs,2007-10-11,12747.8947
-DFJ,WisdomTree Japan SmallCap Dividend Fund,USD,ETFs,2007-10-11,9072.7368
-DGL,Invesco DB Gold Fund,USD,,2008-11-25,10633.2105
-DGRO,BTC iShares Core Dividend Growth ETF,USD,ETFs,2014-06-12,1979825.2632
-DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,USD,ETFs,2007-10-30,210245.9474
-DGT,SSgA SPDR Global Dow ETF,USD,ETFs,2008-11-07,3213.3684
-DHS,WisdomTree U.S. High Dividend Fund,USD,ETFs,2007-10-11,60898.2632
-DIA,SPDR Dow Jones Industrial Average ETF,USD,ETFs,2008-11-07,3754730.5263
-DIG,ProShares Ultra Oil & Gas,USD,,2020-04-21,115211.0000
-DIM,WisdomTree International MidCap Dividend Fund,USD,ETFs,2007-10-11,19238.0526
-DIV,Global X SuperDividend U.S. ETF,USD,ETFs,2013-03-12,284673.0000
-DLN,WisdomTree U.S. LargeCap Dividend Fund,USD,ETFs,2007-11-28,102866.1579
-DLS,WisdomTree International SmallCap Dividend Fund,USD,ETFs,2007-10-11,59005.2632
-DOG,ProShares Short Dow30,USD,,2008-11-12,945259.1579
-DOL,WisdomTree International LargeCap Dividend Index,USD,ETFs,2007-10-11,24728.0000
-DON,WisdomTree U.S. MidCap Dividend Fund,USD,ETFs,2007-11-28,410281.4211
-DOO,WisdomTree International Dividend Ex-Financials Fund,USD,ETFs,2007-10-11,10031.6316
-DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Sh,USD,,2020-08-28,2728907.3158
-DRN,Direxion Real Estate Bull 3x Shares,USD,ETFs,2009-07-16,440787.3158
-DRV,Direxion Daily Real Estate Bear 3X Shares,USD,ETFs,2009-07-16,148931.4737
-DRW,WisdomTree Global ex-US Real Estate Fund,USD,ETFs,2008-11-20,11933.1053
-DSI,BTC iShares MSCI KLD 400 Social Index Fund,USD,ETFs,2008-11-06,206979.7895
-DTD,WisdomTree U.S. Total Dividend Fund,USD,ETFs,2007-10-11,26244.6842
-DTH,WisdomTree International High Dividend Fund,USD,ETFs,2007-10-11,50061.2632
-DTN,WisdomTree U.S. Dividend Ex-Financials Fund,USD,ETFs,2007-11-28,18630.4211
-DUG,ProShares UltraShort Oil & Gas,USD,ETFs,2008-11-12,236662.6316
-DUST,Direxion Daily Gold Miners Index Bear 2X Shares,USD,,2015-09-14,3509561.1053
-DVYA,BTC iShares Asia/Pacific Dividend ETF,USD,ETFs,2012-02-24,8668.2105
-DVYE,BTC iShares Emerging Markets Dividend ETF,USD,ETFs,2012-02-24,211481.6316
-DWM,WisdomTree International Equity Fund,USD,ETFs,2007-10-11,46121.5789
-DWX,SSgA SPDR S&P International Dividend ETF,USD,ETFs,2008-11-07,76978.4737
-DXD,ProShares UltraShort Dow30,USD,,2008-11-12,1645699.8947
-DXJ,WisdomTree Japan Hedged Equity Fund,USD,ETFs,2007-10-11,362545.0526
-ECON,Columbia Emerging Markets Consumer ETF,USD,ETFs,2010-09-14,45198.3158
-EDC,Direxion Daily Emerging Markets Bull 3X Shares,USD,ETFs,2008-12-17,265912.8421
-EDIV,SSgA SPDR S&P Emerging Markets Dividend ETF,USD,ETFs,2011-02-24,64697.3158
-EDV,Vanguard Extended Duration Treasury ETF,USD,ETFs,2008-09-19,257898.2105
-EDZ,Direxion Daily MSCI Emerging Markets Bear 3X Shares,USD,ETFs,2008-12-17,275176.5789
-EELV,Invesco S&P Emerging Markets Low Volatility ETF,USD,,2012-01-13,50112.4211
-EEM,BTC iShares MSCI Emerging Markets ETF,USD,ETFs,2007-12-06,46702675.4737
-EES,WisdomTree U.S. SmallCap Fund,USD,ETFs,2008-11-20,66193.0000
-EEV,ProShares UltraShort MSCI Emerging Markets,USD,,2008-11-12,12561.1053
-EFA,BTC iShares MSCI EAFE ETF,USD,ETFs,2007-12-06,22923381.8421
-EFU,ProShares UltraShort MSCI EAFE,USD,ETFs,2008-11-12,934.4737
-EFZ,ProShares Short MSCI EAFE,USD,ETFs,2008-11-12,14348.5789
-EGPT,VanEck Vectors Egypt Index ETF,USD,ETFs,2010-02-18,3902.1579
-EIDO,BTC iShares MSCI Indonesia ETF,USD,ETFs,2010-05-07,878867.7368
-EINC,VanEck Vectors Energy Income ETF,USD,,2020-04-15,3993.8947
-EIRL,iShares MSCI Ireland ETF,USD,ETFs,2010-05-07,5714.7368
-EIS,iShares MSCI Israel ETF,USD,ETFs,2008-03-28,51189.1053
-ELD,WisdomTree Emerging Market Local Debt Fund,USD,ETFs,2010-08-09,43735.2632
-EMLC,VanEck Vectors J.P. Morgan EM Local Currency Bond ETF,USD,ETFs,2010-07-23,1932833.4211
-EMQQ,ETCT EMQQ The Emerging Markets Internet and Ecommerce ETF,USD,ETFs,2014-11-13,401282.4737
-EPHE,BTC iShares MSCI Philippines ETF,USD,ETFs,2010-09-29,132908.7368
-EPI,WisdomTree India Earnings Fund,USD,ETFs,2008-02-22,920401.0000
-EPOL,iShares MSCI Poland ETF,USD,ETFs,2010-05-26,346069.3158
-EPP,BTC iShares MSCI Pacific ex Japan ETF,USD,ETFs,2007-12-06,532273.8947
-EPU,iShares MSCI Peru ETF,USD,ETFs,2009-06-22,13657.5263
-EPV,ProShares UltraShort FTSE Europe,USD,ETFs,2009-06-18,12251.2632
-EQWL,Invesco Russell Top 200 Equal Weight ETF,USD,,2008-11-03,2943.4211
-ERX,Direxion Daily Energy Bull 2X Shares,USD,,2015-09-14,5075877.6316
-ERY,Direxion Daily Energy Bear 2X Shares,USD,ETFs,2008-11-05,676104.9474
-EUM,ProShares Short MSCI Emerging Markets,USD,ETFs,2008-11-12,76710.0000
-EUO,ProShares UltraShort Euro,USD,ETFs,2008-11-25,43924.4737
-EWA,BTC iShares MSCI Australia ETF,USD,ETFs,2006-10-20,4995054.5789
-EWC,BTC iShares MSCI Canada ETF,USD,ETFs,2006-10-20,3160802.0000
-EWD,iShares MSCI Sweden ETF,USD,ETFs,2007-12-06,272764.5789
-EWG,BTC iShares MSCI Germany ETF,USD,ETFs,2006-06-20,3756225.7368
-EWH,BTC iShares MSCI Hong Kong ETF,USD,ETFs,2007-12-06,5766800.8421
-EWI,iShares MSCI Italy ETF,USD,ETFs,2007-12-06,617709.3158
-EWJ,BTC iShares MSCI Japan ETF,USD,ETFs,2007-12-06,6740024.1053
-EWK,iShares MSCI Belgium ETF,USD,ETFs,2007-12-06,10053.4211
-EWL,iShares MSCI Switzerland ETF,USD,ETFs,2007-12-06,925682.8421
-EWM,BTC iShares MSCI Malaysia ETF,USD,ETFs,2007-12-06,529203.1579
-EWN,BTC iShares MSCI Netherlands ETF,USD,ETFs,2007-12-06,226243.9474
-EWO,iShares MSCI Austria ETF,USD,ETFs,2006-10-20,30427.7895
-EWP,iShares MSCI Spain ETF,USD,ETFs,2007-12-06,1096128.0000
-EWQ,BTC iShares MSCI France ETF,USD,ETFs,2007-12-06,1215460.3684
-EWRE,Invesco S&P 500 Equal Weight Real Estate ETF,USD,,2018-04-09,5974.5789
-EWS,iShares MSCI Singapore ETF,USD,ETFs,2007-12-06,956725.4211
-EWT,iShares MSCI Taiwan ETF,USD,ETFs,2007-12-06,3965165.4737
-EWU,BTC iShares MSCI ed Kingdom ETF,USD,ETFs,2005-11-30,3619483.8421
-EWV,ProShares UltraShort MSCI Japan,USD,ETFs,2008-11-12,5113.6842
-EWW,iShares MSCI Mexico ETF,USD,ETFs,2006-10-20,3081093.7895
-EWX,SSgA Active Trust - SSgA SPDR S&P Emerging Markets Small Cap ETF,USD,ETFs,2008-11-07,95717.4737
-EWY,iShares MSCI South Korea ETF,USD,ETFs,2007-12-06,4539322.3684
-EWZ,iShares MSCI Brazil ETF,USD,ETFs,2007-12-06,30997996.0000
-EXI,BTC iShares Global Industrials ETF,USD,ETFs,2007-12-06,38848.0526
-EZA,BTC iShares MSCI South Africa ETF,USD,ETFs,2007-12-06,559688.1579
-FAN,First Trust Global Wind Energy ETF,USD,ETFs,2008-06-18,484214.4737
-FAS,Direxion Daily Financial Bull 3x Shares,USD,ETFs,2008-11-05,2650693.0526
-FAZ,Direxion Daily Financial Bear 3x Shares,USD,ETFs,2008-11-05,4586380.2105
-FBT,First Trust NYSE Arca Biotechnology Index Fund,USD,ETFs,2008-11-06,68578.5789
-FCG,First Trust Natural Gas ETF,USD,ETFs,2007-05-11,986057.2632
-FDD,First Trust STOXX European Select Dividend Income Fund,USD,ETFs,2008-11-06,110475.0000
-FDM,First Trust Dow Jones Select Microcap Index Fund,USD,ETFs,2008-11-06,12965.0000
-FDN,First Trust Dow Jones Internet Index Fund,USD,ETFs,2008-11-06,608091.5789
-FEZ,SPDR EURO Stoxx 50 ETF,USD,ETFs,2007-12-27,1676660.4211
-FFR,First Trust FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,USD,ETFs,2008-11-06,2280.2105
-FFTY,Innovator IBD 50 ETF,USD,ETFs,2015-04-09,81701.6316
-FGD,First Trust Dow Jones Global Select Dividend Index Fund,USD,ETFs,2008-11-06,120519.7895
-FHLC,Fidelity MSCI Health Care Index ETF,USD,ETFs,2013-10-24,211473.2632
-FIW,First Trust Water ETF,USD,ETFs,2007-05-11,62644.9474
-FLM,First Trust Global Engineering and Construction ETF,USD,ETFs,2008-10-13,2302.5789
-FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,USD,ETFs,2011-12-01,463925.0526
-FM,BTC iShares MSCI Frontier 100 Fund,USD,ETFs,2012-09-13,72771.4211
-FNI,First Trust Exchange-Traded Fund III - First Trust Chindia ETF,USD,ETFs,2007-05-11,49747.0526
-FPX,First Trust US Equity Opportunities ETF,USD,ETFs,2008-11-06,115171.9474
-FRI,First Trust S&P REIT Index Fund,USD,ETFs,2008-11-06,23992.2632
-FVD,First Trust Value Line Dividend Index Fund,USD,ETFs,2008-11-06,1440949.6842
-FXA,Invesco CurrencyShares Australian Dollar Trust,USD,,2007-10-30,33241.7895
-FXB,Invesco CurrencyShares British Pound Sterling Trust,USD,,2007-10-30,15812.1053
-FXC,Invesco CurrencyShares Canadian Dollar Trust,USD,,2007-11-30,47170.5263
-FXD,First Trust Consumer Discretionary AlphaDEX Fund,USD,ETFs,2008-11-06,261364.9474
-FXE,Invesco CurrencyShares Euro Trust,USD,,2007-10-30,103740.0000
-FXF,Invesco CurrencyShares Swiss Franc Trust,USD,,2007-10-30,93744.6316
-FXG,First Trust Consumer Staples AlphaDEX Fund,USD,ETFs,2008-11-06,40473.7895
-FXH,First Trust Health Care AlphaDEX Fund,USD,ETFs,2008-11-06,76258.7368
-FXI,BlackRock Institutional Trust Company N.A. - BTC iShares China Large-Cap ETF,USD,ETFs,2007-12-06,17683648.4211
-FXL,First Trust Technology AlphaDEX Fund,USD,ETFs,2008-11-06,191173.2105
-FXN,First Trust Energy AlphaDEX Fund,USD,ETFs,2008-11-06,576083.1053
-FXO,First Trust Financials AlphaDEX Fund,USD,ETFs,2008-11-06,259936.0526
-FXP,ProShares UltraShort FTSE China 50,USD,,2008-11-12,24705.7895
-FXU,First Trust Utilities AlphaDEX Fund,USD,ETFs,2008-11-06,88467.1579
-FXY,Invesco CurrencyShares Japanese Yen Trust,USD,,2007-10-30,51549.0526
-FXZ,First Trust Materials AlphaDEX Fund,USD,ETFs,2008-11-06,101944.9474
-GAMR,Wedbush ETFMG Video Game Tech ETF,USD,ETFs,2016-03-09,79149.0526
-GBF,BTC iShares Barclays Government/Credit Bond Fund,USD,ETFs,2007-12-06,53911.1053
-GCC,WisdomTree Enhanced Commodity Strategy Fund,USD,,2020-12-21,67917.5789
-GDX,VanEck Vectors Gold Miners ETF,USD,ETFs,2008-11-21,26840401.1053
-GDXJ,VanEck Vectors Junior Gold Miners ETF,USD,ETFs,2009-11-11,8173584.2632
-GII,SSgA Active Trust - SSgA SPDR S&P Global Infrastructure ETF,USD,ETFs,2008-11-07,40509.0000
-GLD,SSgA SPDR Gold Shares,USD,ETFs,2007-12-13,11103287.8947
-GLDM,SPDR Gold MiniShares Trust,USD,,2018-06-26,2653801.7895
-GLIN,VanEck Vectors India Growth Leaders ETF,USD,ETFs,2010-08-25,13759.9474
-GLL,ProShares UltraShort Gold,USD,ETFs,2008-12-03,74412.5789
-GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,USD,,2010-10-22,57369.0526
-GMF,SSgA Active Trust - SSgA SPDR S&P Emerging Asia Pacific ETF,USD,ETFs,2008-11-07,29806.1053
-GOEX,Global X Gold Explorers ETF,USD,ETFs,2010-11-04,41178.5789
-GREK,Global X MSCI Greece ETF,USD,,2015-09-14,86069.4211
-GSG,BTC iShares S&P GSCI Commodity-Indexed Trust,USD,ETFs,2007-12-27,972978.0000
-GURU,Global X Guru Index ETF,USD,ETFs,2012-06-05,4801.8421
-GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,USD,,2015-05-29,2740091.7895
-GWX,SSgA Active Trust - SSgA SPDR S&P International Small Cap ETF,USD,ETFs,2008-11-07,83869.6842
-GXC,SSgA Active Trust - SSgA SPDR S&P China ETF,USD,ETFs,2008-11-07,99684.4737
-GXG,Global X MSCI Colombia ETF,USD,,2015-09-14,15890.0000
-HACK,ETFMG Prime Cyber Security ETF,USD,ETFs,2014-11-12,313674.5789
-HAP,VanEck Vectors Natural Resources ETF,USD,ETFs,2008-11-21,4718.5263
-HDGE,AdvisorShares Ranger Equity Bear ETF,USD,,2021-02-08,61676.6737
-HDV,BTC iShares Core High Dividend ETF,USD,ETFs,2011-03-31,376951.8947
-HEDJ,WisdomTree Europe Hedged Equity Fund,USD,ETFs,2009-12-31,189937.8947
-HEWJ,BTC iShares Currency Hedged MSCI Japan ETF,USD,ETFs,2014-02-04,121167.7368
-HEZU,BTC iShares Currency Hedged MSCI EMU ETF,USD,ETFs,2014-07-10,194613.6842
-HKIB,Amtd International Inc,USD,Finance,2019-08-05,6121.7368
-HYG,BTC iShares iBoxx USD High Yield Corporate Bond ETF,USD,ETFs,2008-11-06,33868028.1053
-HYLD,High Yield ETF,USD,,2018-09-04,23479.1053
-HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund,USD,ETFs,2011-06-17,166389.4211
-IAI,BTC iShares U.S. Broker-Dealers ETF,USD,ETFs,2007-12-06,54247.3158
-IAK,BTC iShares U.S. Insurance ETF,USD,ETFs,2006-05-05,4305.6842
-IAT,BTC iShares U.S. Regional Banks ETF,USD,ETFs,2007-12-06,133918.3158
-IAU,BTC iShares Gold Trust,USD,,2008-12-04,24271499.5263
-IBND,SPDR Bloomberg Barclays International Corporate Bond ETF,USD,ETFs,2010-05-20,42054.4211
-IDHQ,Invesco S&P International Developed Quality ETF,USD,,2008-11-03,19849.4737
-IDLV,Invesco S&P International Developed Low Volatility ETF,USD,,2012-01-13,168366.3684
-IDOG,ALPS International Sector Dividend Dogs ETF,USD,ETFs,2013-06-28,17651.3158
-IDU,BTC iShares U.S. Utilities ETF,USD,ETFs,2007-12-06,81699.6316
-IDX,VanEck Vectors Indonesia Index ETF,USD,ETFs,2009-01-20,19536.4737
-IEMG,BTC iShares Core MSCI Emerging Markets ETF,USD,ETFs,2012-10-22,15930134.0000
-IEUR,BTC iShares Core MSCI Europe ETF,USD,ETFs,2014-06-12,377561.6316
-IEV,BTC iShares Europe ETF,USD,ETFs,2007-12-06,220772.1053
-IEZ,BTC iShares U.S. Oil Equipment & Services ETF,USD,ETFs,2007-12-06,629774.3684
-IGM,iShares Expanded Tech Sector ETF,USD,ETFs,2007-12-06,34605.2105
-IGN,BTC iShares North American Tech-Multimedia Networking ETF,USD,ETFs,2007-12-06,9097.1579
-IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,USD,ETFs,2014-05-07,98483.3158
-IHE,BTC iShares U.S. Pharmaceuticals ETF,USD,ETFs,2007-12-06,9763.0526
-IHF,BTC iShares U.S. Healthcare Providers ETF,USD,ETFs,2007-12-06,35546.7368
-IHI,BTC iShares U.S. Medical Devices ETF,USD,ETFs,2007-12-06,325729.8947
-IJH,BTC iShares Core S&P Mid-Cap ETF,USD,ETFs,2007-12-06,1459295.5789
-IJJ,BTC iShares S&P Mid-Cap 400 Value ETF,USD,ETFs,2007-12-06,507005.4737
-IJK,BTC iShares S&P Mid-Cap 400 Growth ETF,USD,ETFs,2007-12-06,627060.5789
-IJR,BTC iShares Core S&P Small-Cap ETF,USD,ETFs,2007-12-06,6336962.0526
-IJS,BTC iShares S&P Small-Cap 600 Value ETF,USD,ETFs,2007-12-06,705400.8947
-ILF,BTC iShares Latin America 40 ETF,USD,ETFs,2007-12-06,3030442.3684
-ILTB,BTC iShares Core 10+ Year USD Bond ETF,USD,ETFs,2009-12-09,63808.4737
-IOO,BTC iShares Global 100 ETF,USD,ETFs,2007-12-06,77229.8421
-IPAY,ETFMG Prime Mobile Payments ETF,USD,ETFs,2015-07-16,146840.3158
-ISRA,VanEck Vectors Israel ETF,USD,ETFs,2013-06-26,5370.5263
-ITOT,BTC iShares Core S&P Total U.S. Stock Market ETF,USD,ETFs,2007-12-06,1635746.6316
-IVE,BTC iShares S&P 500 Value ETF,USD,ETFs,2007-12-06,775258.6316
-IVV,BTC iShares Core S&P 500 ETF,USD,ETFs,2007-12-06,4907048.2632
-IVW,BTC iShares S&P 500 Growth ETF,USD,ETFs,2007-12-06,2475524.6842
-IWB,BTC iShares Russell 1000 ETF,USD,ETFs,2006-10-20,696386.0000
-IWC,BTC iShares Micro-Cap ETF,USD,ETFs,2007-12-06,76770.1579
-IWD,BTC iShares Russell 1000 Value ETF,USD,ETFs,2006-10-20,2725549.8947
-IWF,BTC iShares Russell 1000 Growth ETF,USD,ETFs,2006-10-20,1664693.7368
-IWM,BTC iShares Russell 2000 ETF,USD,ETFs,2006-10-20,30446631.8421
-IWN,BTC iShares Russell 2000 Value ETF,USD,ETFs,2006-10-20,2161432.0526
-IWO,BTC iShares Russell 2000 Growth ETF,USD,ETFs,2006-06-20,559853.1579
-IWP,BTC iShares Russell Mid-Cap Growth ETF,USD,ETFs,2006-10-20,940178.2632
-IWR,BTC iShares Russell Mid-Cap ETF,USD,ETFs,2006-12-18,1212696.5263
-IWS,BTC iShares Russell Mid-Cap Value ETF,USD,ETFs,2006-10-20,483904.3684
-IWV,BTC iShares Russell 3000 ETF,USD,,2006-10-20,287398.0000
-IXC,BTC iShares Global Energy ETF,USD,ETFs,2007-12-06,976497.4737
-IXG,BTC iShares Global Financials ETF,USD,ETFs,2007-12-06,49547.2632
-IXJ,BTC iShares Global Healthcare ETF,USD,ETFs,2007-12-06,82716.4737
-IXN,BTC iShares Global Tech ETF,USD,ETFs,2007-12-06,110045.1579
-IXP,iShares Global Comm Services ETF,USD,ETFs,2007-12-06,31732.4211
-IYC,BTC iShares U.S. Consumer Services ETF,USD,ETFs,2007-12-06,103370.1579
-IYE,BTC iShares U.S. Energy ETF,USD,ETFs,2007-12-06,2124173.6316
-IYF,BTC iShares U.S. Financials ETF,USD,ETFs,2007-12-06,613127.4211
-IYG,BTC iShares U.S. Financial Services ETF,USD,ETFs,2007-12-06,99671.2632
-IYH,BTC iShares U.S. Healthcare ETF,USD,ETFs,2007-12-06,42374.6316
-IYK,BTC iShares U.S. Consumer Goods ETF,USD,ETFs,2007-12-06,34286.5789
-IYM,BTC iShares U.S. Basic Materials ETF,USD,ETFs,2007-12-06,316342.8421
-IYR,BTC iShares U.S. Real Estate ETF,USD,ETFs,2007-12-06,7239068.2632
-IYW,BTC iShares U.S. Technology ETF,USD,ETFs,2007-12-06,609913.3158
-IYY,BTC iShares Dow Jones U.S. ETF,USD,ETFs,2007-12-06,71511.5263
-JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,USD,,2015-09-14,5191575.5263
-JKD,BTC iShares Morningstar Large-Cap ETF,USD,ETFs,2007-12-06,9901.0000
-JKE,BTC iShares Morningstar Large-Cap Growth ETF,USD,ETFs,2007-12-06,34394.0526
-JKF,BTC iShares Morningstar Large-Cap Value ETF,USD,ETFs,2007-12-06,15353.2632
-JKG,BTC iShares Morningstar Mid-Cap ETF,USD,ETFs,2007-12-06,13165.4737
-JKH,BTC iShares Morningstar Mid-Cap Growth ETF,USD,ETFs,2007-12-06,33903.4211
-JKJ,BTC iShares Morningstar Small-Cap ETF,USD,ETFs,2007-12-06,2756.7895
-JKK,BTC iShares Morningstar Small-Cap Growth ETF,USD,ETFs,2007-12-06,27529.1579
-JKL,BTC iShares Morningstar Small-Cap Value ETF,USD,ETFs,2007-12-06,7183.7895
-JNK,SPDR Bloomberg Barclays High Yield Bond ETF,USD,ETFs,2008-11-07,8820225.7895
-JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,USD,,2015-09-14,1285536.1579
-JPXN,BTC iShares JPX-Nikkei 400 ETF,USD,ETFs,2007-12-06,11007.8947
-JXI,BTC iShares Global Utilities ETF,USD,ETFs,2007-12-06,12000.5263
-KBA,KraneShares Bosera MSCI China A ETF,USD,ETFs,2014-03-05,153664.1053
-KBE,SPDR S&P Bank ETF,USD,ETFs,2008-11-07,3131815.8421
-KCE,SPDR S&P Capital Markets ETF,USD,ETFs,2008-11-07,18160.3158
-KCNY,KraneShares E Fund China Commercial Paper ETF,USD,ETFs,2014-12-03,1075.6316
-KIE,SPDR S&P Insurance ETF,USD,ETFs,2008-11-07,234296.6842
-KRE,SPDR S&P Regional Banking ETF,USD,ETFs,2008-11-07,10210945.0526
-KWEB,KraneShares CSI China Internet ETF,USD,,2017-11-09,1576216.3684
-KXI,BTC iShares Global Consumer Staples ETF,USD,ETFs,2007-12-06,97233.8947
-LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,USD,ETFs,2011-10-20,104113.8947
-LIT,Global X Lithium & Battery Tech ETF,USD,ETFs,2010-07-23,1951748.4737
-LQD,BTC iShares iBoxx USD Investment Grade Corporate Bond ETF,USD,ETFs,2007-08-31,15452463.4211
-LTPZ,PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund,USD,,2009-09-04,213987.5263
-MDYG,SSgA SPDR S&P 400 Mid Cap Growth ETF,USD,ETFs,2008-11-07,220976.0526
-MGC,"Vanguard Group, Inc. - Vanguard Mega Cap 300 Index ETF",USD,ETFs,2007-12-21,104751.8947
-MGK,Vanguard Mega Cap Growth ETF,USD,ETFs,2007-12-21,285698.0526
-MIDU,Direxion Daily Mid Cap Bull 3x Shares,USD,ETFs,2009-01-08,78339.1579
-MJ,ETFMG Alternative Harvest ETF,USD,ETFs,2015-12-03,3403822.0526
-MOO,VanEck Vectors Agribusiness ETF,USD,ETFs,2008-11-21,217928.4737
-MORT,VanEck Vectors Mortgage REIT Income ETF,USD,ETFs,2011-08-16,192511.2105
-MUB,BTC iShares National Muni Bond ETF,USD,ETFs,2008-11-06,1454993.8947
-MVV,ProShares Ultra MidCap400,USD,ETFs,2008-11-12,74844.3158
-MXI,BTC iShares Global Materials ETF,USD,ETFs,2007-12-06,83407.3158
-MYY,ProShares Short Midcap400,USD,,2008-11-12,6624.3684
-MZZ,ProShares UltraShort MidCap400,USD,,2021-01-21,12226.1842
-NACP,Impact Shares NAACP Minority Empowerment ETF,USD,,2018-07-19,6290.7368
-NLR,VanEck Vectors Uranium+Nuclear Energy ETF,USD,ETFs,2008-11-21,2096.4737
-NORW,Global X MSCI Norway ETF,USD,ETFs,2010-11-10,41146.4211
-NUGT,Direxion Daily Gold Miners Index Bull 2X Shares,USD,,2015-09-14,2924219.0526
-OEF,BTC iShares S&P 100 ETF,USD,ETFs,2008-09-23,337172.1579
-OIH,VanEck Vectors Oil Services ETF,USD,,2020-04-15,534649.7368
-PALL,Aberdeen Standard Physical Palladium Shares ETF,USD,,2010-01-08,23958.0000
-PBD,Invesco Global Clean Energy ETF,USD,,2008-11-03,437444.2632
-PBE,Invesco Dynamic Biotechnology & Genome ETF,USD,,2008-11-03,10485.8421
-PBJ,Invesco Dynamic Food & Beverage ETF,USD,,2008-11-03,22167.9474
-PBP,Invesco S&P 500 BuyWrite ETF,USD,,2007-12-20,26159.6316
-PBS,Invesco Dynamic Media ETF,USD,,2008-11-03,24426.8947
-PBW,Invesco WilderHill Clean Energy ETF,USD,,2008-11-03,1107491.9474
-PCEF,Invesco CEF Income Composite ETF,USD,,2010-02-19,154057.4211
-PCY,Invesco Emerging Markets Sovereign Debt ETF,USD,,2008-11-03,1373632.5263
-PDN,Invesco Capital Management LLC - Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,USD,ETFs,2008-11-03,28382.4737
-PEJ,Invesco Dynamic Leisure and Entertainment ETF,USD,,2008-11-03,452697.2105
-PGF,Invesco Financial Preferred ETF,USD,,2008-11-25,677721.4737
-PGX,Invesco Preferred ETF,USD,,2008-11-25,4432897.9474
-PHB,Invesco Fundamental High Yield Corporate Bond ETF,USD,,2008-11-03,266135.9474
-PIN,Invesco India ETF,USD,,2008-03-05,37593.1053
-PJP,Invesco Dynamic Pharmaceuticals ETF,USD,,2008-11-03,30112.3158
-PPA,Invesco Aerospace & Defense ETF,USD,,2008-11-03,55433.1579
-PPLT,Aberdeen Standard Physical Platinum Shares ETF,USD,,2010-01-08,193656.3158
-PRF,Invesco FTSE RAFI US 1000 ETF,USD,,2007-12-31,146602.4211
-PSI,Invesco Dynamic Semiconductors ETF,USD,,2008-11-03,82282.9474
-PSJ,Invesco Dynamic Software ETF,USD,,2008-11-03,31858.8947
-PSK,SSgA SPDR Wells Fargo Preferred Stock ETF,USD,ETFs,2009-09-17,328955.7895
-PSP,Invesco Global Listed Private Equity ETF,USD,,2008-11-03,96454.3158
-PSQ,ProShares Short QQQ,USD,ETFs,2008-11-12,3961828.8421
-PST,PowerShares UltraShort Lehman 7-10 + Year Treasury ProShares,USD,ETFs,2008-11-12,14753.9474
-PVI,Invesco VRDO Tax-Free Weekly ETF,USD,,2008-11-25,6572.1579
-PWC,Invesco Dynamic Market ETF,USD,,2008-11-03,2688.7368
-PWZ,Invesco California AMT-Free Municipal Bond ETF,USD,,2008-11-03,45922.0526
-PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,USD,ETFs,2007-06-25,103842.6316
-PXH,Invesco Capital Management LLC - Invesco FTSE RAFI Emerging Markets ETF,USD,,2008-11-03,387254.5789
-PXJ,Invesco Dynamic Oil & Gas Services ETF,USD,,2008-11-03,66841.7368
-PXQ,Invesco Dynamic Networking ETF,USD,,2008-11-03,5987.2632
-PZA,Invesco National AMT-Free Municipal Bond ETF,USD,,2008-11-03,465746.2105
-PZD,Invesco Cleantech ETF,USD,ETFs,2008-11-03,80620.6316
-PZT,Invesco New York AMT-Free Municipal Bond ETF,USD,,2008-11-03,16914.3684
-QID,ProShares UltraShort QQQ,USD,,2021-01-21,3673857.1579
-QLD,ProShares Ultra QQQ,USD,ETFs,2008-11-12,2056088.2632
-QSY,WisdomTree U.S. Quality Shareholder Yield Fund,USD,ETFs,2008-11-20,5917.3158
-RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,USD,,2018-04-09,72816.2105
-RDOG,ALPS REIT Dividend Dogs ETF,USD,ETFs,2008-11-12,1959.2105
-REET,BTC iShares Global REIT ETF,USD,ETFs,2014-07-10,604342.1053
-REMX,VanEck Vectors Rare Earth/Strategic Metals ETF,USD,,2020-04-15,351219.3158
-REW,ProShares UltraShort Technology,USD,,2020-08-18,14775.2105
-REZ,iShares Residential Real Estate,USD,ETFs,2007-05-04,49178.8947
-RFG,Invesco S&P MidCap 400 Pure Growth ETF,USD,,2018-04-09,7335.2105
-RFV,Invesco S&P MidCap 400 Pure Value ETF,USD,,2018-04-09,15983.6842
-RGI,Invesco S&P 500 Equal Weight Industrials ETF,USD,,2018-04-09,31745.1579
-RHS,Invesco S&P 500 Equal Weight Consumer Staples ETF,USD,,2018-04-09,25445.5789
-ROBO,ETCT ROBO Global Robotics and Automation Index ETF,USD,ETFs,2018-05-04,243851.6842
-ROM,ProShares Ultra Technology,USD,ETFs,2008-11-12,126267.5789
-RPG,Invesco S&P 500 Pure Growth ETF,USD,,2018-04-09,71248.5263
-RPV,Invesco S&P 500 Pure Value ETF,USD,ETFs,2018-04-09,475740.3158
-RSP,Invesco S&P 500 Equal Weight ETF,USD,ETFs,2018-04-09,2438248.1579
-RTM,Invesco S&P 500 Equal Weight Materials ETF,USD,,2018-04-09,21246.7368
-RUSL,Direxion Daily Russia Bull 2X Shares,USD,ETFs,2011-05-25,133095.4737
-RWJ,Invesco S&P SmallCap 600 Revenue ETF,USD,ETFs,2019-05-28,73100.4211
-RWK,Invesco S&P MidCap 400 Revenue ETF,USD,ETFs,2019-05-28,45098.9474
-RWL,Invesco S&P 500 Revenue ETF,USD,ETFs,2019-05-28,34215.8947
-RWM,ProShares Short Russell2000,USD,ETFs,2008-11-12,1812236.3684
-RWO,SSgA SPDR Dow Jones Global Real Estate ETF,USD,ETFs,2008-11-07,152417.3684
-RWR,SPDR DJ Wilshire REIT ETF,USD,ETFs,2008-11-07,129851.0526
-RWX,SSgA SPDR Dow Jones International Real Estate ETF,USD,ETFs,2008-11-07,307013.7368
-RXD,ProShares UltraShort Health Care,USD,ETFs,2008-11-12,2420.4737
-RXI,BTC iShares Global Consumer Discretionary ETF,USD,ETFs,2007-12-06,21593.5263
-RXL,ProShares Ultra Health Care,USD,ETFs,2008-11-12,9745.4211
-RYE,Invesco S&P 500 Equal Weight Energy ETF,USD,,2018-04-09,85701.4737
-RYF,Invesco S&P 500 Equal Weight Financials ETF,USD,,2018-04-09,53467.8947
-RYH,Invesco S&P 500 Equal Weight Health Care ETF,USD,,2018-04-09,9022.2105
-RYJ,Invesco Raymond James SB-1 Equity ETF,USD,,2018-04-06,2821.3684
-RYT,Invesco S&P 500 Equal Weight Technology ETF,USD,,2018-04-09,43380.9474
-RZG,Invesco S&P SmallCap 600 Pure Growth ETF,USD,,2018-04-09,3664.7895
-SAA,ProShares Ultra SmallCap600,USD,ETFs,2008-11-12,3580.6842
-SBB,ProShares Short SmallCap600,USD,ETFs,2008-11-12,4335.3684
-SBIO,ALPS Medical Breakthroughs ETF,USD,ETFs,2014-12-31,34552.1579
-SCC,ProShares UltraShort Consumer Services,USD,,2020-08-18,1903.4737
-SCHA,CSIM Schwab U.S. Small-Cap ETF,USD,ETFs,2009-11-03,1123661.2105
-SCHB,CSIM Schwab U.S. Broad Market ETF,USD,,2009-11-03,704986.0526
-SCHD,CSIM Schwab US Dividend Equity ETF,USD,ETFs,2011-10-20,1928593.1053
-SCHM,CSIM Schwab U.S. Mid-Cap ETF,USD,ETFs,2011-01-13,415482.6842
-SCHO,CSIM Schwab Short-Term U.S. Treasury ETF,USD,ETFs,2010-08-05,1314263.7368
-SCHP,CSIM Schwab U.S. Tips ETF,USD,ETFs,2010-08-05,1697824.4211
-SCHR,CSIM Schwab Intermediate-Term U.S. Treasury ETF,USD,,2010-08-05,606000.5789
-SCHZ,CSIM Schwab US Aggregate Bond ETF,USD,ETFs,2011-07-14,1061548.4211
-SCJ,BTC iShares MSCI Japan Small-Cap ETF,USD,ETFs,2007-12-21,5289.8947
-SCO,ProShares UltraShort Bloomberg Crude Oil,USD,ETFs,2008-11-25,3158028.3684
-SDD,ProShares UltraShort SmallCap600,USD,,2021-01-21,10920.9211
-SDIV,Global X SuperDividend ETF,USD,ETFs,2011-06-09,463890.5789
-SDOG,ALPS Sector Dividend Dogs ETF,USD,ETFs,2012-06-29,57401.3684
-SDOW,ProShares UltraPro Short Dow30,USD,ETFs,2010-02-11,10378245.8947
-SDP,ProShares UltraShort Utilities,USD,,2021-01-21,4441.1053
-SDS,ProShares UltraShort S&P500,USD,ETFs,2008-11-12,12910712.0526
-SDY,SSgA SPDR Dividend ETF,USD,ETFs,2008-11-07,625029.6842
-SEF,ProShares Short Financials,USD,,2008-11-12,24670.0526
-SGDM,Sprott Gold Miners ETF,USD,ETFs,2019-07-22,40735.0526
-SGOL,Aberdeen Standard Physical Gold Shares ETF,USD,,2009-09-09,1753475.8947
-SH,ProShares Short S&P500,USD,ETFs,2008-11-12,12215521.2632
-SHE,SPDR SSGA Gender Diversity Index ETF,USD,ETFs,2016-03-08,11315.3158
-SHYG,BTC iShares 0-5 Year High Yield Corporate Bond ETF,USD,ETFs,2013-10-17,4689805.9474
-SIJ,ProShares UltraShort Industrials,USD,,2021-01-21,2603.7105
-SIL,Global X Silver Miners ETF,USD,ETFs,2010-04-20,790823.3158
-SIVR,Aberdeen Standard Physical Silver Shares ETF,USD,,2009-07-24,1249477.5263
-SJB,ProShares Short High Yield,USD,ETFs,2011-03-22,93756.1053
-SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,USD,ETFs,2012-03-15,5125819.4211
-SKF,ProShares UltraShort Financials,USD,,2021-01-21,48602.9737
-SLV,BTC iShares Silver Trust,USD,ETFs,2008-12-04,46227962.8947
-SLX,VanEck Vectors Steel ETF,USD,ETFs,2008-11-21,65948.7368
-SLYG,SSgA SPDR S&P 600 Small Cap Growth ETF,USD,ETFs,2008-11-07,195624.3158
-SLYV,SSqA SPDR S&P 600 Small Cap Value ETF,USD,ETFs,2008-11-07,434379.2105
-SMN,ProShares UltraShort Basic Materials,USD,,2008-11-12,4706.1053
-SMOG,VanEck Vectors Low Carbon Energy ETF,USD,ETFs,2019-07-16,32372.8421
-SOXL,Direxion Daily Semiconductor Bull 3X Shares,USD,ETFs,2010-03-11,863632.1053
-SOXS,Direxion Daily Semiconductor Bear 3X Shares,USD,,2020-08-28,4695490.3158
-SOYB,Teucrium Soybean Fund,USD,ETFs,2011-09-19,240432.0526
-SPAB,SPDR Portfolio Aggregate Bond ETF,USD,ETFs,2008-11-07,1661526.5263
-SPDW,SPDR Portfolio Developed World ex-US ETF,USD,ETFs,2008-11-07,2640884.9474
-SPEM,SSgA Active Trust - SPDR Portfolio Emerging Markets ETF,USD,ETFs,2008-11-07,1774423.3158
-SPEU,SPDR Portfolio Europe ETF,USD,ETFs,2007-12-27,24411.7368
-SPHB,Invesco Capital Management LLC - Invesco S&P 500 High Beta ETF,USD,,2011-05-05,432662.4737
-SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,USD,ETFs,2009-02-11,1915507.3158
-SPIP,SPDR Portfolio TIPS ETF,USD,,2008-11-07,934910.6842
-SPLG,SPDR Portfolio S&P 500 ETF,USD,ETFs,2008-11-07,2365966.6842
-SPLV,Invesco S&P 500 Low Volatility ETF,USD,,2011-05-05,3498043.0000
-SPTL,SPDR Portfolio Long Term Treasury ETF,USD,ETFs,2008-11-07,1865766.1579
-SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,USD,,2008-11-07,532329.8421
-SPTS,SPDR Portfolio Short Term Treasury ETF,USD,ETFs,2011-12-01,730093.5789
-SPXL,Direxion Daily S&P 500 Bull 3X Shares,USD,ETFs,2008-11-05,6545035.3684
-SPXS,Direxion Daily S&P 500 Bear 3X Shares,USD,,2021-01-11,5943070.5474
-SPXU,ProShares UltraPro Short S&P 500 ETF,USD,,2021-01-21,6934393.3263
-SPY,SSGA SPDR S&P 500 ETF,USD,ETFs,2009-02-24,73778922.1053
-SPYG,SPDR Portfolio S&P 500 Growth ETF,USD,ETFs,2008-11-07,1867214.8947
-SPYV,SPDR Portfolio S&P 500 Value ETF,USD,ETFs,2008-11-07,2614421.4737
-SPYX,SSGA SPDR S&P 500 Fossil Fuel Free ETF,USD,ETFs,2015-12-01,35516.9474
-SRS,ProShares UltraShort Real Estate,USD,ETFs,2008-11-12,95116.5263
-SRTY,ProShares UltraPro Short Russell2000,USD,,2021-01-21,3430360.1474
-SSG,ProShares UltraShort Semiconductors,USD,,2020-08-18,22910.3158
-SSO,ProShares Ultra S&P500,USD,ETFs,2008-11-12,2067969.8947
-STIP,BTC iShares 0-5 Year TIPS Bond ETF,USD,ETFs,2010-12-03,390404.3158
-STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,USD,ETFs,2009-08-21,74457.0526
-SUSA,BTC MSCI USA ESG Select ETF,USD,ETFs,2007-12-06,232464.2632
-TAGS,Teucrium Agricultural Fund,USD,ETFs,2012-03-28,7137.1053
-TAN,Invesco Solar ETF,USD,,2018-04-06,3220137.3158
-TBF,ProShares Short 20+ Year Treasury,USD,ETFs,2009-08-20,905653.7895
-TBT,PowerShares UltraShort Lehman 20+ Year Treasury ProShares,USD,ETFs,2008-11-12,2853156.6316
-TECL,Direxion Daily Technology Bull 3X Shares,USD,ETFs,2008-12-17,285147.5789
-TECS,Direxion Daily Technology Bear 3X Shares,USD,,2015-05-11,2229683.8947
-TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,USD,ETFs,2008-11-07,366942.4737
-THD,iShares MSCI Thailand ETF,USD,,2008-03-28,166167.7895
-TIP,BTC iShares TIPS Bond ETF,USD,ETFs,2003-12-05,2780563.4737
-TLH,BTC iShares 10-20 Year Treasury Bond ETF,USD,ETFs,2007-12-06,285642.1579
-TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,USD,ETFs,2012-09-28,15054.8947
-TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares,USD,ETFs,2009-04-16,856124.5789
-TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares,USD,,2015-05-11,453844.1579
-TNA,Direxion Dialy Small Cap Bull 3X Shares,USD,ETFs,2008-11-05,7747273.9474
-TOK,BTC iShares MSCI KLD 400 Social ETF,USD,ETFs,2007-12-12,6893.6316
-TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,USD,,2014-03-27,39507.1579
-TWM,ProShares UltraShort Russell2000,USD,,2021-01-21,1968454.2500
-TYD,Direxion Daily 7-10 Year Treasury Bull 3X Shares,USD,ETFs,2009-04-16,9848.1053
-TZA,Direxion Daily Small Cap Bear 3X Shares,USD,ETFs,2008-11-05,38734346.5789
-UCC,ProShares Ultra Consumer Services,USD,ETFs,2008-11-12,3410.0000
-UCO,ProShares Ultra Bloomberg Crude Oil,USD,,2020-04-21,2276350.3684
-UDN,Invesco DB US Dollar Index Bearish Fund,USD,,2008-11-25,174426.2105
-UDOW,ProShares UltraPro Dow30,USD,ETFs,2010-02-11,1711016.7368
-UGA,ed States Gasoline Fund LP,USD,ETFs,2008-11-25,50611.0000
-UGE,ProShares Ultra Consumer Goods,USD,ETFs,2008-11-12,1962.2632
-UGL,ProShares Ultra Gold,USD,,2008-12-03,261132.7368
-ULE,ProShares Ultra Euro,USD,ETFs,2008-11-25,7705.0000
-UNG,ed States Natural Gas Fund,USD,ETFs,2008-11-25,5416967.1053
-UPW,ProShares Ultra Utilities,USD,ETFs,2008-11-12,1750.7368
-URA,Global X Uranium ETF,USD,ETFs,2010-11-05,524797.9474
-URE,ProShares Ultra Real Estate,USD,ETFs,2008-11-12,9884.4211
-USD,ProShares Ultra Semiconductors,USD,ETFs,2008-11-12,67257.0000
-USL,ed States 12 Month Oil Fund LP,USD,ETFs,2008-11-25,105954.2105
-USO,United States Oil Fund,USD,,2015-04-24,5643103.3684
-USRT,BTC iShares Core U.S. REIT ETF,USD,ETFs,2007-05-04,208729.1053
-UUP,Invesco DB US Dollar Index Bullish Fund,USD,,2008-11-25,992177.8947
-UWM,ProShares Ultra Russell2000,USD,ETFs,2008-11-12,593215.7895
-UXI,ProShares Ultra Industrials,USD,ETFs,2008-11-12,1761.7368
-UYG,ProShares Ultra Financials,USD,ETFs,2008-11-12,74255.6316
-UYM,ProShares Ultra Basic Materials,USD,ETFs,2008-11-12,11179.2105
-VAW,"Vanguard Group, Inc. - Vanguard Materials ETF",USD,ETFs,2008-09-19,221190.1053
-VB,"Vanguard Group, Inc. - Vanguard Small Cap ETF",USD,ETFs,2008-09-19,1168890.3158
-VBK,"Vanguard Group, Inc. - Vanguard Small Cap Growth ETF",USD,ETFs,2019-10-15,290135.4737
-VBR,"Vanguard Group, Inc. - Vanguard Small Cap Value ETF",USD,ETFs,2019-10-15,890161.3158
-VCR,Vanguard Consumer Discretionary ETF,USD,ETFs,2008-09-19,142197.4211
-VDC,"Vanguard Group, Inc. - Vanguard Consumer Staples ETF",USD,ETFs,2019-10-15,186880.2105
-VDE,"Vanguard Group, Inc. - Vanguard Energy ETF",USD,ETFs,2008-09-19,1412630.0526
-VEA,"Vanguard Group, Inc. - Vanguard FTSE Developed Markets ETF",USD,ETFs,2019-10-15,11216027.7368
-VEGN,US Vegan Climate ETF,USD,,2019-09-10,11304.6842
-VEU,"Vanguard Group, Inc. - Vanguard FTSE All-World ex-US ETF",USD,ETFs,2019-10-15,3164211.0000
-VFH,"Vanguard Group, Inc. - Vanguard Financials ETF",USD,ETFs,2008-09-19,837569.8421
-VGK,"Vanguard Group, Inc. - Vanguard FTSE Europe ETF",USD,ETFs,2019-10-15,3844304.2632
-VGT,"Vanguard Group, Inc. - Vanguard Information Technology ETF",USD,ETFs,2019-10-15,702612.7895
-VHT,Vanguard Health Care ETF,USD,ETFs,2019-10-15,309941.1579
-VIDI,WisdomTree Vident International Equity Fund,USD,ETFs,2018-03-06,44759.5263
-VIG,Vanguard Dividend Appreciation FTF,USD,ETFs,2019-10-15,1543423.3158
-VIOO,Vanguard S&P Small-Cap 600 ETF,USD,ETFs,2019-10-15,46435.0000
-VIS,"Vanguard Group, Inc. - Vanguard Industrials ETF",USD,ETFs,2008-09-19,265586.0000
-VNQ,"Vanguard Group, Inc. - Vanguard Real Estate Index Fund ETF",USD,ETFs,2019-10-15,5854998.5263
-VO,Vanguard Mid-Cap ETF,USD,ETFs,2008-09-19,772818.1579
-VOE,"Vanguard Group, Inc. - Vanguard Mid-Cap Value ETF",USD,ETFs,2019-10-15,373280.4737
-VOO,Vanguard S&P 500 ETF,USD,,2019-10-15,3543416.2632
-VOT,Vanguard Mid-Cap Growth ETF,USD,ETFs,2019-10-15,174846.8421
-VPL,"Vanguard Group, Inc. - Vanguard FTSE Pacific ETF",USD,ETFs,2019-10-15,803542.6316
-VPU,"Vanguard Group, Inc. - Vanguard Utilities ETF",USD,ETFs,2008-09-19,221311.4737
-VSS,"Vanguard Group, Inc. - Vanguard FTSE All-World Ex-US Small Capital Index Fund ETF",USD,ETFs,2009-04-06,274321.4211
-VT,Vanguard Total World Stock ETF,USD,ETFs,2019-10-15,2426000.2105
-VTI,"Vanguard Group, Inc. - Vanguard Total Stock Market ETF",USD,ETFs,2019-10-15,5016553.4211
-VTV,"Vanguard Group, Inc. - Vanguard Value ETF",USD,ETFs,2008-09-19,2916099.4211
-VUG,"Vanguard Group, Inc. - Vanguard Growth ETF",USD,ETFs,2008-09-19,1073476.1579
-VV,"Vanguard Group, Inc. - Vanguard Large Cap ETF",USD,ETFs,2008-09-19,303734.8421
-VWO,"Vanguard Group, Inc. - Vanguard FTSE Emerging Markets ETF",USD,ETFs,2019-10-15,13253289.8421
-VXF,Vanguard Extended Market Index ETF,USD,ETFs,2008-09-19,601924.5263
-VYM,"Vanguard Group, Inc. - Vanguard High Dividend Yield Indx ETF",USD,ETFs,2019-10-15,2093507.7895
-WDIV,SSgA SPDR S&P Global Dividend ETF,USD,ETFs,2013-05-30,21461.1053
-WEAT,Teucrium Wheat Fund,USD,ETFs,2011-09-19,550908.5789
-WIP,SPDR Citi International Government Inflation-Protected Bond ETF,USD,ETFs,2008-11-07,100450.8947
-WPS,BTC iShares International Developed Property ETF,USD,ETFs,2007-12-06,6022.3684
-XAR,SSGA SPDR S&P Aerospace & Defense ETF,USD,ETFs,2011-09-29,97369.5789
-XBI,SSgA SPDR Biotech,USD,ETFs,2008-11-07,5131082.3684
-XES,SSgA SPDR Oil & Gas Equipment and Services,USD,,2015-05-11,96253.5789
-XHB,SSgA Active Trust - SSgA SPDR Homebuilders,USD,ETFs,2008-11-07,2205427.1579
-XLB,SSgA Materials Select Sector SPDR,USD,ETFs,2008-11-07,8942400.2105
-XLE,SSgA Energy Select Sector SPDR,USD,ETFs,2008-11-07,34364964.7895
-XLF,SSgA Financial Select Sector SPDR,USD,ETFs,2008-11-07,62017189.7368
-XLI,SSgA Industrial Select Sector SPDR,USD,ETFs,2008-11-07,13439046.8947
-XLK,SSgA Technology Select Sector SPDR,USD,ETFs,2008-11-07,7881935.2105
-XLP,SSgA Consumer Staples Select Sector SPDR,USD,ETFs,2008-11-07,12811611.2105
-XLRE,SSgA Real Estate Select Sector SPDR Fund,USD,ETFs,2015-10-08,4781938.4737
-XLU,SSgA Utilities Select Sector SPDR,USD,ETFs,2008-11-07,13093082.4211
-XLV,SSgA Health Care Select Sector SPDR,USD,ETFs,2008-11-07,9101995.1053
-XLY,SSgA Consumer Discretionary Select Sector SPDR,USD,ETFs,2008-11-07,4223445.4211
-XME,SSgA SPDR Metals & Mining,USD,ETFs,2008-11-07,4128500.2105
-XMHQ,Invesco S&P MidCap Quality ETF,USD,,2019-09-05,37231.9474
-XMLV,Invesco S&P MidCap Low Volatility ETF,USD,ETFs,2013-02-15,385967.4737
-XMVM,Invesco S&P MidCap Value with Momentum ETF,USD,,2008-11-03,58681.2105
-XNTK,SPDR NYSE Technology ETF,USD,ETFs,2008-11-07,33201.2105
-XOP,SSgA SPDR Oil & Gas Exploration and Production,USD,,2015-05-11,8743783.6842
-XPH,SSgA SPDR Pharmaceuticals,USD,ETFs,2008-11-07,66118.6842
-XPP,ProShares Ultra FTSE China 50,USD,ETFs,2009-06-04,10417.7895
-XRT,SSgA SPDR Retail,USD,ETFs,2008-11-07,7393985.2105
-XSD,SSgA SPDR Semiconductors,USD,ETFs,2008-11-07,196861.7368
-XSMO,Invesco S&P SmallCap Momentum ETF,USD,,2008-11-03,24483.7368
-XSVM,Invesco S&P SmallCap Value with Momentum ETF,USD,,2008-11-03,52534.3158
-XTN,SSgA SPDR S&P Transportation ETF,USD,ETFs,2011-01-27,154499.8421
-YANG,Direxion Daily FTSE China Bear 3X Shares,USD,ETFs,2009-12-03,482303.2105
-YCS,ProShares UltraShort Yen,USD,ETFs,2008-11-25,4958.5263
-YXI,ProShares Short FTSE China 50,USD,ETFs,2010-03-18,1983.2632
-ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,USD,ETFs,2009-11-02,63100.2105
-ZSL,ProShares UltraShort Silver,USD,ETFs,2008-12-03,1424944.4737
+AFK,VanEck Vectors Africa Index ETF,USD,ETFs,2008-06-14,23060.2632
+AGG,BTC iShares Core U.S. Aggregate Bond ETF,USD,ETFs,2007-08-31,6076412.5789
+AGQ,ProShares Ultra Silver,USD,ETFs,2008-12-03,1970905.5789
+AGZ,BTC iShares Agency Bond ETF,USD,ETFs,2008-11-07,44836.7895
+AIEQ,AI Powered Equity ETF,USD,ETFs,2017-10-18,70038.3684
+AMLP,ALPS Alerian MLP ETF,USD,,2015-09-14,2631480.5789
+AMZA,Etfis InfraCap MLP ETF,USD,,2015-09-14,139998.3158
+AOA,BTC iShares Core Aggressive Allocation ETF,USD,ETFs,2008-11-07,73584.9474
+AOR,BTC iShares Core Growth Allocation ETF,USD,ETFs,2008-11-07,112737.6842
+ARGT,Global X MSCI Argentina ETF,USD,ETFs,2011-03-03,18361.6316
+ARKF,ARK Fintech Innovation ETF,USD,,2019-02-04,5285393.8421
+ARKK,ARK Investment Management LLC - ARK Innovation ETF,USD,ETFs,2014-10-31,11927621.8947
+ARKW,ARK Investment Mgmt LLC - ARK Next Gen Internet ETF,USD,,2014-09-30,2528253.1579
+ASHR,Xtrackers Harvest CSI 300 China A-Shares ETF,USD,ETFs,2013-11-06,3628681.4737
+BAB,Invesco Taxable Municipal Bond ETF,USD,ETFs,2009-11-17,558239.2105
+BAR,GraniteShares Gold Shares,USD,,2017-08-31,501980.0526
+BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,USD,ETFs,2008-11-07,1158761.8421
+BIV,"Vanguard Group, Inc. - Vanguard Intermediate-Term Bond ETF",USD,ETFs,2008-09-19,1483007.1053
+BKF,BTC iShares MSCI BRIC ETF,USD,ETFs,2007-11-16,19816.1053
+BKLN,Invesco Senior Loan ETF,USD,ETFs,2011-03-03,8186456.1053
+BLOK,Amplify Transformational Data Sharing ETF,USD,ETFs,2018-01-17,1765092.3158
+BLV,Vanguard Long-Term Bond ETF,USD,ETFs,2008-09-19,513406.5263
+BNO,ed States Brent Crude Oil Fund,USD,ETFs,2010-06-02,879547.6842
+BOND,PIMCO Active Bond ETF,USD,ETFs,2012-03-01,274793.1579
+BRF,VanEck Vectors Brazil Small-Cap ETF,USD,ETFs,2009-05-14,11690.0000
+BSV,Vanguard Short-Term Bond ETF,USD,ETFs,2008-09-19,2450022.1579
+BUZZ,VanEck Vectors Social Sentiment ETF,USD,Recent IPOs,2021-03-04,0.0000
+BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,USD,ETFs,2008-11-07,496470.3684
+BWZ,SPDR Bloomberg Barclays Short Term International Treasury Bond ETF,USD,ETFs,2009-01-27,29189.1053
+BZQ,ProShares UltraShort MSCI Brazil Capped ETF,USD,,2009-06-18,330866.7895
+CANE,Teucrium Sugar Fund,USD,ETFs,2011-09-19,78582.7368
+CEW,WisdomTree Emerging Currency Strategy Fund,USD,ETFs,2009-05-06,13807.7895
+CGW,Invesco S&P Global Water Index ETF,USD,,2018-04-09,58001.3684
+CHAD,Direxion Daily CSI 300 China A Share Bear 1X Shares,USD,ETFs,2015-06-17,19044.8421
+CHGX,Change Finance U.S. Large Cap Fossil Fuel Free ETF,USD,ETFs,2017-10-10,18926.6842
+CHIQ,Global X MSCI China Consumer Discretionary ETF,USD,ETFs,2009-12-01,482633.9474
+CHIX,Global X MSCI China Financials ETF,USD,ETFs,2009-12-11,55730.8947
+CMF,BTC iShares California Muni Bond ETF,USD,ETFs,2008-11-06,128753.6316
+CORN,Teucrium Corn Fund,USD,ETFs,2010-06-08,481541.9474
+CRBN,BTC iShares MSCI ACWI Low Carbon Target ETF,USD,ETFs,2014-12-09,17334.2105
+CSD,Invesco S&P Spin-Off ETF,USD,,2018-04-09,2147.5789
+CUT,Invesco MSCI Global Timber ETF,USD,,2018-04-09,21013.4211
+CVY,Invesco Zacks Multi-Asset Income ETF,USD,,2018-04-09,12847.0526
+CWB,SPDR Bloomberg Barclays Convertible Securities ETF,USD,ETFs,2009-04-16,1247799.8421
+CYB,WisdomTree Chinese Yuan Strategy Fund,USD,ETFs,2008-05-13,36993.1579
+CZA,Invesco Zacks Mid-Cap ETF,USD,,2018-04-09,9652.6842
+DBA,Invesco DB Agriculture Fund,USD,,2008-11-25,1548786.8421
+DBB,Invesco DB Base Metals Fund,USD,,2008-11-25,324639.9474
+DBC,DB Commodity Services LLC - Invesco DB Commodity Index Tracking Fund,USD,ETFs,2008-11-25,3201205.0526
+DBE,Invesco DB Energy Fund,USD,,2008-11-25,141494.2632
+DBEU,Xtrackers MSCI Europe Hedged Equity ETF,USD,ETFs,2013-10-01,66687.7368
+DBO,Invesco DB Oil Fund,USD,,2008-11-25,821260.1053
+DBP,Invesco DB Precious Metals Fund,USD,,2008-11-24,17189.7368
+DBS,Invesco DB Silver Fund,USD,,2008-11-25,7693.7368
+DBV,Invesco DB G10 Currency Harvest Fund,USD,,2008-11-25,5992.3158
+DDG,ProShares Short Oil & Gas,USD,ETFs,2008-11-12,4048.6316
+DDM,ProShares Ultra Dow30,USD,ETFs,2008-11-12,421884.4737
+DEF,Invesco Defensive Equity ETF,USD,,2018-04-09,13712.9474
+DEM,WisdomTree Emerging Markets High Dividend Fund,USD,ETFs,2007-10-30,272115.2632
+DES,WisdomTree U.S. SmallCap Dividend Fund,USD,ETFs,2007-11-28,248994.0526
+DEW,WisdomTree Global High Dividend Fund,USD,ETFs,2007-11-28,6627.4737
+DFE,WisdomTree Europe SmallCap Dividend Fund,USD,ETFs,2007-10-11,22123.6842
+DFJ,WisdomTree Japan SmallCap Dividend Fund,USD,ETFs,2007-10-11,7389.2105
+DGL,Invesco DB Gold Fund,USD,,2008-11-25,20130.3684
+DGRO,BTC iShares Core Dividend Growth ETF,USD,ETFs,2014-06-12,2211326.2105
+DGS,WisdomTree Emerging Markets SmallCap Dividend Fund,USD,ETFs,2007-10-30,182935.4211
+DGT,SSgA SPDR Global Dow ETF,USD,ETFs,2008-11-07,1698.3158
+DHS,WisdomTree U.S. High Dividend Fund,USD,ETFs,2007-10-11,53990.6842
+DIA,SPDR Dow Jones Industrial Average ETF,USD,ETFs,2008-11-07,3223446.1053
+DIG,ProShares Ultra Oil & Gas,USD,,2020-04-21,91213.3158
+DIM,WisdomTree International MidCap Dividend Fund,USD,ETFs,2007-10-11,10706.7895
+DIV,Global X SuperDividend U.S. ETF,USD,ETFs,2013-03-12,306363.8421
+DLN,WisdomTree U.S. LargeCap Dividend Fund,USD,ETFs,2007-11-28,73679.3684
+DLS,WisdomTree International SmallCap Dividend Fund,USD,ETFs,2007-10-11,64769.6316
+DOG,ProShares Short Dow30,USD,,2008-11-12,927522.5789
+DOL,WisdomTree International LargeCap Dividend Index,USD,ETFs,2007-10-11,19722.1053
+DON,WisdomTree U.S. MidCap Dividend Fund,USD,ETFs,2007-11-28,237033.0526
+DOO,WisdomTree International Dividend Ex-Financials Fund,USD,ETFs,2007-10-11,13928.0526
+DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Sh,USD,,2020-08-28,3363442.3684
+DRN,Direxion Real Estate Bull 3x Shares,USD,ETFs,2009-07-16,342019.6316
+DRV,Direxion Daily Real Estate Bear 3X Shares,USD,ETFs,2009-07-16,147249.8421
+DRW,WisdomTree Global ex-US Real Estate Fund,USD,ETFs,2008-11-20,10610.0000
+DSI,BTC iShares MSCI KLD 400 Social Index Fund,USD,ETFs,2008-11-06,156512.7895
+DTD,WisdomTree U.S. Total Dividend Fund,USD,ETFs,2007-10-11,18131.6316
+DTH,WisdomTree International High Dividend Fund,USD,ETFs,2007-10-11,37803.6842
+DTN,WisdomTree U.S. Dividend Ex-Financials Fund,USD,ETFs,2007-11-28,11214.4211
+DUG,ProShares UltraShort Oil & Gas,USD,ETFs,2008-11-12,265713.0526
+DUST,Direxion Daily Gold Miners Index Bear 2X Shares,USD,,2015-09-14,3263065.9474
+DVYA,BTC iShares Asia/Pacific Dividend ETF,USD,ETFs,2012-02-24,8650.6316
+DVYE,BTC iShares Emerging Markets Dividend ETF,USD,ETFs,2012-02-24,149474.2632
+DWM,WisdomTree International Equity Fund,USD,ETFs,2007-10-11,36898.7895
+DWX,SSgA SPDR S&P International Dividend ETF,USD,ETFs,2008-11-07,53436.0526
+DXD,ProShares UltraShort Dow30,USD,,2008-11-12,1907496.2632
+DXJ,WisdomTree Japan Hedged Equity Fund,USD,ETFs,2007-10-11,501009.2632
+ECON,Columbia Emerging Markets Consumer ETF,USD,ETFs,2010-09-14,30391.7895
+EDC,Direxion Daily Emerging Markets Bull 3X Shares,USD,ETFs,2008-12-17,137772.5789
+EDIV,SSgA SPDR S&P Emerging Markets Dividend ETF,USD,ETFs,2011-02-24,66389.3684
+EDV,Vanguard Extended Duration Treasury ETF,USD,ETFs,2008-09-19,249347.8421
+EDZ,Direxion Daily MSCI Emerging Markets Bear 3X Shares,USD,ETFs,2008-12-17,374288.9474
+EELV,Invesco S&P Emerging Markets Low Volatility ETF,USD,,2012-01-13,27937.0000
+EEM,BTC iShares MSCI Emerging Markets ETF,USD,ETFs,2007-12-06,38966193.3158
+EES,WisdomTree U.S. SmallCap Fund,USD,ETFs,2008-11-20,69941.1579
+EEV,ProShares UltraShort MSCI Emerging Markets,USD,,2008-11-12,8394.3158
+EFA,BTC iShares MSCI EAFE ETF,USD,ETFs,2007-12-06,19714247.4211
+EFU,ProShares UltraShort MSCI EAFE,USD,ETFs,2008-11-12,1707.5263
+EFZ,ProShares Short MSCI EAFE,USD,ETFs,2008-11-12,8550.6842
+EGPT,VanEck Vectors Egypt Index ETF,USD,ETFs,2010-02-18,3350.0000
+EIDO,BTC iShares MSCI Indonesia ETF,USD,ETFs,2010-05-07,611361.5263
+EINC,VanEck Vectors Energy Income ETF,USD,,2020-04-15,6427.9474
+EIRL,iShares MSCI Ireland ETF,USD,ETFs,2010-05-07,7803.2105
+EIS,iShares MSCI Israel ETF,USD,ETFs,2008-03-28,34987.2632
+ELD,WisdomTree Emerging Market Local Debt Fund,USD,ETFs,2010-08-09,38312.1579
+EMLC,VanEck Vectors J.P. Morgan EM Local Currency Bond ETF,USD,ETFs,2010-07-23,2463599.4737
+EMQQ,ETCT EMQQ The Emerging Markets Internet and Ecommerce ETF,USD,ETFs,2014-11-13,472506.0526
+EPHE,BTC iShares MSCI Philippines ETF,USD,ETFs,2010-09-29,107491.9474
+EPI,WisdomTree India Earnings Fund,USD,ETFs,2008-02-22,861242.0000
+EPOL,iShares MSCI Poland ETF,USD,ETFs,2010-05-26,227756.2105
+EPP,BTC iShares MSCI Pacific ex Japan ETF,USD,ETFs,2007-12-06,291032.6316
+EPU,iShares MSCI Peru ETF,USD,ETFs,2009-06-22,60124.4211
+EPV,ProShares UltraShort FTSE Europe,USD,ETFs,2009-06-18,9027.1053
+EQWL,Invesco Russell Top 200 Equal Weight ETF,USD,,2008-11-03,3194.3158
+ERX,Direxion Daily Energy Bull 2X Shares,USD,,2015-09-14,6016483.7895
+ERY,Direxion Daily Energy Bear 2X Shares,USD,ETFs,2008-11-05,798297.8421
+EUM,ProShares Short MSCI Emerging Markets,USD,ETFs,2008-11-12,110075.3158
+EUO,ProShares UltraShort Euro,USD,ETFs,2008-11-25,47092.5789
+EWA,BTC iShares MSCI Australia ETF,USD,ETFs,2006-10-20,3648271.8421
+EWC,BTC iShares MSCI Canada ETF,USD,ETFs,2006-10-20,2843347.5263
+EWD,iShares MSCI Sweden ETF,USD,ETFs,2007-12-06,193653.1053
+EWG,BTC iShares MSCI Germany ETF,USD,ETFs,2006-06-20,2827722.1053
+EWH,BTC iShares MSCI Hong Kong ETF,USD,ETFs,2007-12-06,5569930.1053
+EWI,iShares MSCI Italy ETF,USD,ETFs,2007-12-06,1130766.6842
+EWJ,BTC iShares MSCI Japan ETF,USD,ETFs,2007-12-06,6725947.3158
+EWK,iShares MSCI Belgium ETF,USD,ETFs,2007-12-06,12147.7368
+EWL,iShares MSCI Switzerland ETF,USD,ETFs,2007-12-06,865061.2632
+EWM,BTC iShares MSCI Malaysia ETF,USD,ETFs,2007-12-06,655064.5263
+EWN,BTC iShares MSCI Netherlands ETF,USD,ETFs,2007-12-06,158422.0526
+EWO,iShares MSCI Austria ETF,USD,ETFs,2006-10-20,23969.5263
+EWP,iShares MSCI Spain ETF,USD,ETFs,2007-12-06,949736.2105
+EWQ,BTC iShares MSCI France ETF,USD,ETFs,2007-12-06,612158.6842
+EWRE,Invesco S&P 500 Equal Weight Real Estate ETF,USD,,2018-04-09,4418.4737
+EWS,iShares MSCI Singapore ETF,USD,ETFs,2007-12-06,793519.2632
+EWT,iShares MSCI Taiwan ETF,USD,ETFs,2007-12-06,3182773.4211
+EWU,BTC iShares MSCI ed Kingdom ETF,USD,ETFs,2005-11-30,2698952.0526
+EWV,ProShares UltraShort MSCI Japan,USD,ETFs,2008-11-12,3563.4737
+EWW,iShares MSCI Mexico ETF,USD,ETFs,2006-10-20,2730414.8421
+EWX,SSgA Active Trust - SSgA SPDR S&P Emerging Markets Small Cap ETF,USD,ETFs,2008-11-07,41947.8947
+EWY,iShares MSCI South Korea ETF,USD,ETFs,2007-12-06,3342058.0000
+EWZ,iShares MSCI Brazil ETF,USD,ETFs,2007-12-06,27759591.4211
+EXI,BTC iShares Global Industrials ETF,USD,ETFs,2007-12-06,160423.1579
+EZA,BTC iShares MSCI South Africa ETF,USD,ETFs,2007-12-06,434754.7368
+FAN,First Trust Global Wind Energy ETF,USD,ETFs,2008-06-18,432742.3158
+FAS,Direxion Daily Financial Bull 3x Shares,USD,ETFs,2008-11-05,2292101.2632
+FAZ,Direxion Daily Financial Bear 3x Shares,USD,,2021-03-02,549032.7434
+FBT,First Trust NYSE Arca Biotechnology Index Fund,USD,ETFs,2008-11-06,69162.2105
+FCG,First Trust Natural Gas ETF,USD,ETFs,2007-05-11,1103812.7895
+FDD,First Trust STOXX European Select Dividend Income Fund,USD,ETFs,2008-11-06,109117.8421
+FDM,First Trust Dow Jones Select Microcap Index Fund,USD,ETFs,2008-11-06,26017.6842
+FDN,First Trust Dow Jones Internet Index Fund,USD,ETFs,2008-11-06,387774.2105
+FEZ,SPDR EURO Stoxx 50 ETF,USD,ETFs,2007-12-27,1351470.8947
+FFR,First Trust FTSE EPRA/NAREIT Developed Markets Real Estate Index Fund,USD,ETFs,2008-11-06,3250.2632
+FFTY,Innovator IBD 50 ETF,USD,ETFs,2015-04-09,132122.7368
+FGD,First Trust Dow Jones Global Select Dividend Index Fund,USD,ETFs,2008-11-06,81440.8947
+FHLC,Fidelity MSCI Health Care Index ETF,USD,ETFs,2013-10-24,196671.5789
+FIW,First Trust Water ETF,USD,ETFs,2007-05-11,60055.6842
+FLM,First Trust Global Engineering and Construction ETF,USD,ETFs,2008-10-13,1181.0526
+FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,USD,ETFs,2011-12-01,762042.1053
+FM,BTC iShares MSCI Frontier 100 Fund,USD,ETFs,2012-09-13,59908.4737
+FNI,First Trust Exchange-Traded Fund III - First Trust Chindia ETF,USD,ETFs,2007-05-11,66870.2105
+FPX,First Trust US Equity Opportunities ETF,USD,ETFs,2008-11-06,143684.7368
+FRI,First Trust S&P REIT Index Fund,USD,ETFs,2008-11-06,35281.4211
+FVD,First Trust Value Line Dividend Index Fund,USD,ETFs,2008-11-06,1472639.3158
+FXA,Invesco CurrencyShares Australian Dollar Trust,USD,,2007-10-30,30167.1579
+FXB,Invesco CurrencyShares British Pound Sterling Trust,USD,,2007-10-30,23172.5789
+FXC,Invesco CurrencyShares Canadian Dollar Trust,USD,,2007-11-30,32513.3684
+FXD,First Trust Consumer Discretionary AlphaDEX Fund,USD,ETFs,2008-11-06,122145.7368
+FXE,Invesco CurrencyShares Euro Trust,USD,,2007-10-30,103378.2632
+FXF,Invesco CurrencyShares Swiss Franc Trust,USD,,2007-10-30,65987.7895
+FXG,First Trust Consumer Staples AlphaDEX Fund,USD,ETFs,2008-11-06,19172.3684
+FXH,First Trust Health Care AlphaDEX Fund,USD,ETFs,2008-11-06,59498.4737
+FXI,BlackRock Institutional Trust Company N.A. - BTC iShares China Large-Cap ETF,USD,ETFs,2007-12-06,15175624.0526
+FXL,First Trust Technology AlphaDEX Fund,USD,ETFs,2008-11-06,161808.7895
+FXN,First Trust Energy AlphaDEX Fund,USD,ETFs,2008-11-06,428236.4737
+FXO,First Trust Financials AlphaDEX Fund,USD,ETFs,2008-11-06,218857.6316
+FXP,ProShares UltraShort FTSE China 50,USD,,2008-11-12,10571.5263
+FXU,First Trust Utilities AlphaDEX Fund,USD,ETFs,2008-11-06,49802.4737
+FXY,Invesco CurrencyShares Japanese Yen Trust,USD,,2007-10-30,44392.6842
+FXZ,First Trust Materials AlphaDEX Fund,USD,ETFs,2008-11-06,92061.8947
+GAMR,Wedbush ETFMG Video Game Tech ETF,USD,ETFs,2016-03-09,46066.9474
+GBF,BTC iShares Barclays Government/Credit Bond Fund,USD,ETFs,2007-12-06,9391.0526
+GCC,WisdomTree Enhanced Commodity Strategy Fund,USD,,2020-12-21,95290.2105
+GDX,VanEck Vectors Gold Miners ETF,USD,ETFs,2008-11-21,23218773.8421
+GDXJ,VanEck Vectors Junior Gold Miners ETF,USD,ETFs,2009-11-11,7390701.0526
+GII,SSgA Active Trust - SSgA SPDR S&P Global Infrastructure ETF,USD,ETFs,2008-11-07,18872.3158
+GLD,SSgA SPDR Gold Shares,USD,ETFs,2007-12-13,9527272.5263
+GLDM,SPDR Gold MiniShares Trust,USD,,2018-06-26,2734833.1579
+GLIN,VanEck Vectors India Growth Leaders ETF,USD,ETFs,2010-08-25,10651.7368
+GLL,ProShares UltraShort Gold,USD,ETFs,2008-12-03,136805.1579
+GLTR,Aberdeen Standard Physical Precious Metals Basket Shares ETF,USD,,2010-10-22,78820.0526
+GMF,SSgA Active Trust - SSgA SPDR S&P Emerging Asia Pacific ETF,USD,ETFs,2008-11-07,35645.8947
+GOEX,Global X Gold Explorers ETF,USD,ETFs,2010-11-04,23648.0526
+GREK,Global X MSCI Greece ETF,USD,,2015-09-14,43382.2105
+GSG,BTC iShares S&P GSCI Commodity-Indexed Trust,USD,ETFs,2007-12-27,1582528.8421
+GURU,Global X Guru Index ETF,USD,ETFs,2012-06-05,5422.2632
+GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,USD,,2015-05-29,2361586.7895
+GWX,SSgA Active Trust - SSgA SPDR S&P International Small Cap ETF,USD,ETFs,2008-11-07,145508.2105
+GXC,SSgA Active Trust - SSgA SPDR S&P China ETF,USD,ETFs,2008-11-07,113762.0000
+GXG,Global X MSCI Colombia ETF,USD,,2015-09-14,7258.7368
+HACK,ETFMG Prime Cyber Security ETF,USD,ETFs,2014-11-12,303527.6316
+HAP,VanEck Vectors Natural Resources ETF,USD,ETFs,2008-11-21,7545.7895
+HDGE,AdvisorShares Ranger Equity Bear ETF,USD,,2021-02-08,99258.6737
+HDV,BTC iShares Core High Dividend ETF,USD,ETFs,2011-03-31,282485.7895
+HEDJ,WisdomTree Europe Hedged Equity Fund,USD,ETFs,2009-12-31,203599.4211
+HEWJ,BTC iShares Currency Hedged MSCI Japan ETF,USD,ETFs,2014-02-04,62155.1053
+HEZU,BTC iShares Currency Hedged MSCI EMU ETF,USD,ETFs,2014-07-10,197906.5263
+HKIB,Amtd International Inc,USD,Finance,2019-08-05,40563.4211
+HYG,BTC iShares iBoxx USD High Yield Corporate Bond ETF,USD,ETFs,2008-11-06,26610253.5789
+HYLD,High Yield ETF,USD,,2018-09-04,28020.8421
+HYS,PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund,USD,ETFs,2011-06-17,247390.4211
+IAI,BTC iShares U.S. Broker-Dealers ETF,USD,ETFs,2007-12-06,65004.8947
+IAK,BTC iShares U.S. Insurance ETF,USD,ETFs,2006-05-05,6096.6316
+IAT,BTC iShares U.S. Regional Banks ETF,USD,ETFs,2007-12-06,241689.6842
+IAU,BTC iShares Gold Trust,USD,,2008-12-04,21968736.5263
+IBND,SPDR Bloomberg Barclays International Corporate Bond ETF,USD,ETFs,2010-05-20,66644.4211
+IDEV,iShares Core MSCI International Developed Markets ETF,USD,,2017-03-23,187031.1579
+IDHQ,Invesco S&P International Developed Quality ETF,USD,,2008-11-03,16361.4211
+IDLV,Invesco S&P International Developed Low Volatility ETF,USD,,2012-01-13,156739.4737
+IDOG,ALPS International Sector Dividend Dogs ETF,USD,ETFs,2013-06-28,28266.3684
+IDU,BTC iShares U.S. Utilities ETF,USD,ETFs,2007-12-06,78080.1579
+IDX,VanEck Vectors Indonesia Index ETF,USD,ETFs,2009-01-20,12720.5263
+IEMG,BTC iShares Core MSCI Emerging Markets ETF,USD,ETFs,2012-10-22,10594233.6316
+IEUR,BTC iShares Core MSCI Europe ETF,USD,ETFs,2014-06-12,339035.2632
+IEV,BTC iShares Europe ETF,USD,ETFs,2007-12-06,198183.0526
+IEZ,BTC iShares U.S. Oil Equipment & Services ETF,USD,ETFs,2007-12-06,379190.1579
+IGM,iShares Expanded Tech Sector ETF,USD,ETFs,2007-12-06,33592.0000
+IGN,BTC iShares North American Tech-Multimedia Networking ETF,USD,ETFs,2007-12-06,26289.8947
+IHDG,WisdomTree International Hedged Quality Dividend Growth Fund,USD,ETFs,2014-05-07,111864.1579
+IHE,BTC iShares U.S. Pharmaceuticals ETF,USD,ETFs,2007-12-06,6533.3158
+IHF,BTC iShares U.S. Healthcare Providers ETF,USD,ETFs,2007-12-06,24032.6842
+IHI,BTC iShares U.S. Medical Devices ETF,USD,ETFs,2007-12-06,157849.8421
+IJH,BTC iShares Core S&P Mid-Cap ETF,USD,ETFs,2007-12-06,1303386.9474
+IJJ,BTC iShares S&P Mid-Cap 400 Value ETF,USD,ETFs,2007-12-06,721256.6316
+IJK,BTC iShares S&P Mid-Cap 400 Growth ETF,USD,ETFs,2007-12-06,239078.4211
+IJR,BTC iShares Core S&P Small-Cap ETF,USD,ETFs,2007-12-06,4352841.8947
+IJS,BTC iShares S&P Small-Cap 600 Value ETF,USD,ETFs,2007-12-06,633683.8421
+ILF,BTC iShares Latin America 40 ETF,USD,ETFs,2007-12-06,1460391.2632
+ILTB,BTC iShares Core 10+ Year USD Bond ETF,USD,ETFs,2009-12-09,59071.6842
+IOO,BTC iShares Global 100 ETF,USD,ETFs,2007-12-06,191654.6316
+IPAY,ETFMG Prime Mobile Payments ETF,USD,ETFs,2015-07-16,180378.4211
+ISRA,VanEck Vectors Israel ETF,USD,ETFs,2013-06-26,5098.2105
+ITOT,BTC iShares Core S&P Total U.S. Stock Market ETF,USD,ETFs,2007-12-06,1857211.5789
+IVE,BTC iShares S&P 500 Value ETF,USD,ETFs,2007-12-06,781346.2632
+IVV,BTC iShares Core S&P 500 ETF,USD,ETFs,2007-12-06,3451013.2632
+IVW,BTC iShares S&P 500 Growth ETF,USD,ETFs,2007-12-06,2078593.9474
+IWB,BTC iShares Russell 1000 ETF,USD,ETFs,2006-10-20,718052.5789
+IWC,BTC iShares Micro-Cap ETF,USD,ETFs,2007-12-06,153874.2632
+IWD,BTC iShares Russell 1000 Value ETF,USD,ETFs,2006-10-20,2614647.3158
+IWF,BTC iShares Russell 1000 Growth ETF,USD,ETFs,2006-10-20,1306268.1579
+IWM,BTC iShares Russell 2000 ETF,USD,ETFs,2006-10-20,27605186.3684
+IWN,BTC iShares Russell 2000 Value ETF,USD,ETFs,2006-10-20,1538799.6316
+IWO,BTC iShares Russell 2000 Growth ETF,USD,ETFs,2006-06-20,627638.0000
+IWP,BTC iShares Russell Mid-Cap Growth ETF,USD,ETFs,2006-10-20,733412.6316
+IWR,BTC iShares Russell Mid-Cap ETF,USD,ETFs,2006-12-18,1158554.4737
+IWS,BTC iShares Russell Mid-Cap Value ETF,USD,ETFs,2006-10-20,557554.0526
+IWV,BTC iShares Russell 3000 ETF,USD,,2006-10-20,133223.2632
+IXC,BTC iShares Global Energy ETF,USD,ETFs,2007-12-06,1256482.5263
+IXG,BTC iShares Global Financials ETF,USD,ETFs,2007-12-06,51463.7895
+IXJ,BTC iShares Global Healthcare ETF,USD,ETFs,2007-12-06,249607.4737
+IXN,BTC iShares Global Tech ETF,USD,ETFs,2007-12-06,89182.1053
+IXP,iShares Global Comm Services ETF,USD,ETFs,2007-12-06,14144.0526
+IYC,BTC iShares U.S. Consumer Services ETF,USD,ETFs,2007-12-06,90047.7895
+IYE,BTC iShares U.S. Energy ETF,USD,ETFs,2007-12-06,1708650.3158
+IYF,BTC iShares U.S. Financials ETF,USD,ETFs,2007-12-06,438827.7368
+IYG,BTC iShares U.S. Financial Services ETF,USD,ETFs,2007-12-06,61829.6316
+IYH,BTC iShares U.S. Healthcare ETF,USD,ETFs,2007-12-06,44647.6842
+IYK,BTC iShares U.S. Consumer Goods ETF,USD,ETFs,2007-12-06,39273.2105
+IYM,BTC iShares U.S. Basic Materials ETF,USD,ETFs,2007-12-06,136212.4737
+IYR,BTC iShares U.S. Real Estate ETF,USD,ETFs,2007-12-06,6837527.0526
+IYW,BTC iShares U.S. Technology ETF,USD,ETFs,2007-12-06,573869.3158
+IYY,BTC iShares Dow Jones U.S. ETF,USD,ETFs,2007-12-06,40584.5789
+JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,USD,,2015-09-14,4442407.9474
+JKD,BTC iShares Morningstar Large-Cap ETF,USD,ETFs,2007-12-06,6566.2632
+JKE,BTC iShares Morningstar Large-Cap Growth ETF,USD,ETFs,2007-12-06,20289.3684
+JKF,BTC iShares Morningstar Large-Cap Value ETF,USD,ETFs,2007-12-06,19192.0526
+JKG,BTC iShares Morningstar Mid-Cap ETF,USD,ETFs,2007-12-06,5451.1053
+JKH,BTC iShares Morningstar Mid-Cap Growth ETF,USD,ETFs,2007-12-06,25148.1579
+JKJ,BTC iShares Morningstar Small-Cap ETF,USD,ETFs,2007-12-06,1421.0526
+JKK,BTC iShares Morningstar Small-Cap Growth ETF,USD,ETFs,2007-12-06,26091.6842
+JKL,BTC iShares Morningstar Small-Cap Value ETF,USD,ETFs,2007-12-06,8199.1579
+JNK,SPDR Bloomberg Barclays High Yield Bond ETF,USD,ETFs,2008-11-07,8315326.8421
+JNUG,Direxion Daily Junior Gold Miners Index Bull 2X Shares,USD,,2015-09-14,1385909.2632
+JPXN,BTC iShares JPX-Nikkei 400 ETF,USD,ETFs,2007-12-06,4252.7368
+JXI,BTC iShares Global Utilities ETF,USD,ETFs,2007-12-06,19099.8947
+KBA,KraneShares Bosera MSCI China A ETF,USD,ETFs,2014-03-05,193344.2632
+KBE,SPDR S&P Bank ETF,USD,ETFs,2008-11-07,2976549.5263
+KCE,SPDR S&P Capital Markets ETF,USD,ETFs,2008-11-07,14258.5789
+KCNY,KraneShares E Fund China Commercial Paper ETF,USD,ETFs,2014-12-03,842.2632
+KIE,SPDR S&P Insurance ETF,USD,ETFs,2008-11-07,288137.9474
+KRE,SPDR S&P Regional Banking ETF,USD,ETFs,2008-11-07,7774129.0526
+KWEB,KraneShares CSI China Internet ETF,USD,,2017-11-09,1977720.7895
+KXI,BTC iShares Global Consumer Staples ETF,USD,ETFs,2007-12-06,38520.8947
+LEMB,iShares J.P. Morgan EM Local Currency Bond ETF,USD,ETFs,2011-10-20,238079.3684
+LIT,Global X Lithium & Battery Tech ETF,USD,ETFs,2010-07-23,1532397.0526
+LQD,BTC iShares iBoxx USD Investment Grade Corporate Bond ETF,USD,ETFs,2007-08-31,15891072.5263
+LTPZ,PIMCO 15+ Year U.S. TIPS Index Exchange-Traded Fund,USD,,2009-09-04,257234.4737
+MDYG,SSgA SPDR S&P 400 Mid Cap Growth ETF,USD,ETFs,2008-11-07,171250.5789
+MGC,"Vanguard Group, Inc. - Vanguard Mega Cap 300 Index ETF",USD,ETFs,2007-12-21,78176.7895
+MGK,Vanguard Mega Cap Growth ETF,USD,ETFs,2007-12-21,226389.4211
+MIDU,Direxion Daily Mid Cap Bull 3x Shares,USD,ETFs,2009-01-08,72009.5789
+MJ,ETFMG Alternative Harvest ETF,USD,ETFs,2015-12-03,5473407.6842
+MOO,VanEck Vectors Agribusiness ETF,USD,ETFs,2008-11-21,193522.9474
+MORT,VanEck Vectors Mortgage REIT Income ETF,USD,ETFs,2011-08-16,173629.2632
+MUB,BTC iShares National Muni Bond ETF,USD,ETFs,2008-11-06,1498155.1579
+MVV,ProShares Ultra MidCap400,USD,ETFs,2008-11-12,49419.6316
+MXI,BTC iShares Global Materials ETF,USD,ETFs,2007-12-06,74816.5789
+MYY,ProShares Short Midcap400,USD,,2008-11-12,6442.7895
+MZZ,ProShares UltraShort MidCap400,USD,,2021-01-21,5792.2632
+NACP,Impact Shares NAACP Minority Empowerment ETF,USD,,2018-07-19,5023.4737
+NLR,VanEck Vectors Uranium+Nuclear Energy ETF,USD,ETFs,2008-11-21,3125.1579
+NORW,Global X MSCI Norway ETF,USD,ETFs,2010-11-10,23855.4737
+NUGT,Direxion Daily Gold Miners Index Bull 2X Shares,USD,,2015-09-14,3170883.5789
+OEF,BTC iShares S&P 100 ETF,USD,ETFs,2008-09-23,290957.7895
+OIH,VanEck Vectors Oil Services ETF,USD,,2020-04-15,460824.6842
+PALL,Aberdeen Standard Physical Palladium Shares ETF,USD,,2010-01-08,28526.5263
+PBD,Invesco Global Clean Energy ETF,USD,,2008-11-03,274324.9474
+PBE,Invesco Dynamic Biotechnology & Genome ETF,USD,,2008-11-03,11875.3158
+PBJ,Invesco Dynamic Food & Beverage ETF,USD,,2008-11-03,22124.9474
+PBP,Invesco S&P 500 BuyWrite ETF,USD,,2007-12-20,38604.3684
+PBS,Invesco Dynamic Media ETF,USD,,2008-11-03,18205.4737
+PBW,Invesco WilderHill Clean Energy ETF,USD,,2008-11-03,1188710.4737
+PCEF,Invesco CEF Income Composite ETF,USD,,2010-02-19,143925.0526
+PCY,Invesco Emerging Markets Sovereign Debt ETF,USD,,2008-11-03,1088268.3684
+PDN,Invesco Capital Management LLC - Invesco FTSE RAFI Developed Markets ex-U.S. Small-Mid ETF,USD,ETFs,2008-11-03,23530.3158
+PEJ,Invesco Dynamic Leisure and Entertainment ETF,USD,,2008-11-03,772294.9474
+PGF,Invesco Financial Preferred ETF,USD,,2008-11-25,608315.7368
+PGX,Invesco Preferred ETF,USD,,2008-11-25,4357961.2105
+PHB,Invesco Fundamental High Yield Corporate Bond ETF,USD,,2008-11-03,443404.5263
+PIN,Invesco India ETF,USD,,2008-03-05,45717.0526
+PJP,Invesco Dynamic Pharmaceuticals ETF,USD,,2008-11-03,18775.2105
+PPA,Invesco Aerospace & Defense ETF,USD,,2008-11-03,43906.8421
+PPLT,Aberdeen Standard Physical Platinum Shares ETF,USD,,2010-01-08,356842.8947
+PRF,Invesco FTSE RAFI US 1000 ETF,USD,,2007-12-31,87783.5789
+PSI,Invesco Dynamic Semiconductors ETF,USD,,2008-11-03,77254.3158
+PSJ,Invesco Dynamic Software ETF,USD,,2008-11-03,29274.4211
+PSK,SSgA SPDR Wells Fargo Preferred Stock ETF,USD,ETFs,2009-09-17,259048.1053
+PSP,Invesco Global Listed Private Equity ETF,USD,,2008-11-03,263871.2632
+PSQ,ProShares Short QQQ,USD,ETFs,2008-11-12,5479535.2632
+PST,PowerShares UltraShort Lehman 7-10 + Year Treasury ProShares,USD,ETFs,2008-11-12,41007.5263
+PVI,Invesco VRDO Tax-Free Weekly ETF,USD,,2008-11-25,9496.0000
+PWC,Invesco Dynamic Market ETF,USD,,2008-11-03,926.2632
+PWZ,Invesco California AMT-Free Municipal Bond ETF,USD,,2008-11-03,90528.9474
+PXF,Invesco FTSE RAFI Developed Markets ex-U.S. ETF,USD,ETFs,2007-06-25,48521.5263
+PXH,Invesco Capital Management LLC - Invesco FTSE RAFI Emerging Markets ETF,USD,,2008-11-03,304156.1053
+PXJ,Invesco Dynamic Oil & Gas Services ETF,USD,,2008-11-03,59109.0526
+PXQ,Invesco Dynamic Networking ETF,USD,,2008-11-03,1268.7368
+PZA,Invesco National AMT-Free Municipal Bond ETF,USD,,2008-11-03,461886.5263
+PZD,Invesco Cleantech ETF,USD,ETFs,2008-11-03,48773.7368
+PZT,Invesco New York AMT-Free Municipal Bond ETF,USD,,2008-11-03,15387.0000
+QID,ProShares UltraShort QQQ,USD,,2021-01-21,7198126.1579
+QLD,ProShares Ultra QQQ,USD,ETFs,2008-11-12,1966520.4737
+QSY,WisdomTree U.S. Quality Shareholder Yield Fund,USD,ETFs,2008-11-20,5459.9474
+RCD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,USD,,2018-04-09,76778.9474
+RDOG,ALPS REIT Dividend Dogs ETF,USD,ETFs,2008-11-12,2335.4211
+REET,BTC iShares Global REIT ETF,USD,ETFs,2014-07-10,686031.2632
+REMX,VanEck Vectors Rare Earth/Strategic Metals ETF,USD,,2020-04-15,469568.2105
+REW,ProShares UltraShort Technology,USD,,2020-08-18,21442.3684
+REZ,iShares Residential Real Estate,USD,ETFs,2007-05-04,42492.1579
+RFG,Invesco S&P MidCap 400 Pure Growth ETF,USD,,2018-04-09,3483.1053
+RFV,Invesco S&P MidCap 400 Pure Value ETF,USD,,2018-04-09,9141.3158
+RGI,Invesco S&P 500 Equal Weight Industrials ETF,USD,,2018-04-09,30635.4211
+RHS,Invesco S&P 500 Equal Weight Consumer Staples ETF,USD,,2018-04-09,15634.1053
+ROBO,ETCT ROBO Global Robotics and Automation Index ETF,USD,ETFs,2018-05-04,247078.2105
+ROM,ProShares Ultra Technology,USD,ETFs,2008-11-12,108025.6316
+RPG,Invesco S&P 500 Pure Growth ETF,USD,,2018-04-09,60213.2632
+RPV,Invesco S&P 500 Pure Value ETF,USD,ETFs,2018-04-09,360396.3684
+RSP,Invesco S&P 500 Equal Weight ETF,USD,ETFs,2018-04-09,2155280.7368
+RTM,Invesco S&P 500 Equal Weight Materials ETF,USD,,2018-04-09,45049.8421
+RUSL,Direxion Daily Russia Bull 2X Shares,USD,ETFs,2011-05-25,137772.0526
+RWJ,Invesco S&P SmallCap 600 Revenue ETF,USD,ETFs,2019-05-28,48839.1053
+RWK,Invesco S&P MidCap 400 Revenue ETF,USD,ETFs,2019-05-28,11742.3158
+RWL,Invesco S&P 500 Revenue ETF,USD,ETFs,2019-05-28,37872.0526
+RWM,ProShares Short Russell2000,USD,ETFs,2008-11-12,2090595.4737
+RWO,SSgA SPDR Dow Jones Global Real Estate ETF,USD,ETFs,2008-11-07,130547.4737
+RWR,SPDR DJ Wilshire REIT ETF,USD,ETFs,2008-11-07,114070.2105
+RWX,SSgA SPDR Dow Jones International Real Estate ETF,USD,ETFs,2008-11-07,244661.2632
+RXD,ProShares UltraShort Health Care,USD,ETFs,2008-11-12,3668.3684
+RXI,BTC iShares Global Consumer Discretionary ETF,USD,ETFs,2007-12-06,14595.7895
+RXL,ProShares Ultra Health Care,USD,ETFs,2008-11-12,5242.4211
+RYE,Invesco S&P 500 Equal Weight Energy ETF,USD,,2018-04-09,60332.6842
+RYF,Invesco S&P 500 Equal Weight Financials ETF,USD,,2018-04-09,105937.1053
+RYH,Invesco S&P 500 Equal Weight Health Care ETF,USD,,2018-04-09,7219.3684
+RYJ,Invesco Raymond James SB-1 Equity ETF,USD,,2018-04-06,1875.7368
+RYT,Invesco S&P 500 Equal Weight Technology ETF,USD,,2018-04-09,53698.7368
+RZG,Invesco S&P SmallCap 600 Pure Growth ETF,USD,,2018-04-09,7932.4211
+SAA,ProShares Ultra SmallCap600,USD,ETFs,2008-11-12,3394.1053
+SBB,ProShares Short SmallCap600,USD,ETFs,2008-11-12,3814.0000
+SBIO,ALPS Medical Breakthroughs ETF,USD,ETFs,2014-12-31,44563.0526
+SCC,ProShares UltraShort Consumer Services,USD,,2020-08-18,2035.3684
+SCHA,CSIM Schwab U.S. Small-Cap ETF,USD,ETFs,2009-11-03,696890.4737
+SCHB,CSIM Schwab U.S. Broad Market ETF,USD,,2009-11-03,637110.7368
+SCHD,CSIM Schwab US Dividend Equity ETF,USD,ETFs,2011-10-20,1902003.9474
+SCHF,Schwab International Equity ETF,USD,,2009-11-03,2809638.7368
+SCHM,CSIM Schwab U.S. Mid-Cap ETF,USD,ETFs,2011-01-13,332614.5789
+SCHO,CSIM Schwab Short-Term U.S. Treasury ETF,USD,ETFs,2010-08-05,936476.1053
+SCHP,CSIM Schwab U.S. Tips ETF,USD,ETFs,2010-08-05,1917902.7368
+SCHR,CSIM Schwab Intermediate-Term U.S. Treasury ETF,USD,,2010-08-05,592926.7368
+SCHX,CSIM Schwab U.S. Large-Cap ETF,USD,,2009-11-03,839472.3684
+SCHZ,CSIM Schwab US Aggregate Bond ETF,USD,ETFs,2011-07-14,997173.8947
+SCJ,BTC iShares MSCI Japan Small-Cap ETF,USD,ETFs,2007-12-21,6412.5263
+SCO,ProShares UltraShort Bloomberg Crude Oil,USD,ETFs,2008-11-25,3769524.3158
+SDD,ProShares UltraShort SmallCap600,USD,,2021-01-21,14602.5263
+SDIV,Global X SuperDividend ETF,USD,ETFs,2011-06-09,489261.7368
+SDOG,ALPS Sector Dividend Dogs ETF,USD,ETFs,2012-06-29,45809.0526
+SDOW,ProShares UltraPro Short Dow30,USD,ETFs,2010-02-11,9575695.2105
+SDP,ProShares UltraShort Utilities,USD,,2021-01-21,5357.7895
+SDS,ProShares UltraShort S&P500,USD,ETFs,2008-11-12,12577188.7895
+SDY,SSgA SPDR Dividend ETF,USD,ETFs,2008-11-07,662848.8421
+SEF,ProShares Short Financials,USD,,2008-11-12,15146.4737
+SGDM,Sprott Gold Miners ETF,USD,ETFs,2019-07-22,64742.1579
+SGOL,Aberdeen Standard Physical Gold Shares ETF,USD,,2009-09-09,1767385.0000
+SH,ProShares Short S&P500,USD,ETFs,2008-11-12,9767611.5263
+SHE,SPDR SSGA Gender Diversity Index ETF,USD,ETFs,2016-03-08,9933.6316
+SHYG,BTC iShares 0-5 Year High Yield Corporate Bond ETF,USD,ETFs,2013-10-17,1389320.6842
+SIJ,ProShares UltraShort Industrials,USD,,2021-01-21,3171.9474
+SIL,Global X Silver Miners ETF,USD,ETFs,2010-04-20,833865.4737
+SIVR,Aberdeen Standard Physical Silver Shares ETF,USD,,2009-07-24,1604050.8947
+SJB,ProShares Short High Yield,USD,ETFs,2011-03-22,101374.0000
+SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,USD,ETFs,2012-03-15,5005325.7368
+SKF,ProShares UltraShort Financials,USD,,2021-01-21,47241.7895
+SLV,BTC iShares Silver Trust,USD,ETFs,2008-12-04,55819975.7368
+SLX,VanEck Vectors Steel ETF,USD,ETFs,2008-11-21,46744.8947
+SLYG,SSgA SPDR S&P 600 Small Cap Growth ETF,USD,ETFs,2008-11-07,247267.8947
+SLYV,SSqA SPDR S&P 600 Small Cap Value ETF,USD,ETFs,2008-11-07,435259.4737
+SMN,ProShares UltraShort Basic Materials,USD,,2008-11-12,2224.7368
+SMOG,VanEck Vectors Low Carbon Energy ETF,USD,ETFs,2019-07-16,19819.8947
+SOXL,Direxion Daily Semiconductor Bull 3X Shares,USD,ETFs,2010-03-11,17848039.7368
+SOXS,Direxion Daily Semiconductor Bear 3X Shares,USD,,2020-08-28,5225923.1053
+SOYB,Teucrium Soybean Fund,USD,ETFs,2011-09-19,138615.3684
+SPAB,SPDR Portfolio Aggregate Bond ETF,USD,ETFs,2008-11-07,1736211.7895
+SPDW,SPDR Portfolio Developed World ex-US ETF,USD,ETFs,2008-11-07,1992417.2632
+SPEM,SSgA Active Trust - SPDR Portfolio Emerging Markets ETF,USD,ETFs,2008-11-07,888789.0526
+SPEU,SPDR Portfolio Europe ETF,USD,ETFs,2007-12-27,9609.0000
+SPHB,Invesco Capital Management LLC - Invesco S&P 500 High Beta ETF,USD,,2011-05-05,622011.8421
+SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,USD,ETFs,2009-02-11,2226871.4737
+SPIP,SPDR Portfolio TIPS ETF,USD,,2008-11-07,1186361.5789
+SPLG,SPDR Portfolio S&P 500 ETF,USD,ETFs,2008-11-07,2691199.6842
+SPLV,Invesco S&P 500 Low Volatility ETF,USD,,2011-05-05,3200008.0526
+SPTL,SPDR Portfolio Long Term Treasury ETF,USD,ETFs,2008-11-07,2228315.0000
+SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,USD,,2008-11-07,341339.7895
+SPTS,SPDR Portfolio Short Term Treasury ETF,USD,ETFs,2011-12-01,684177.9474
+SPXL,Direxion Daily S&P 500 Bull 3X Shares,USD,ETFs,2008-11-05,5933339.1579
+SPXS,Direxion Daily S&P 500 Bear 3X Shares,USD,,2021-01-11,6408843.8947
+SPXU,ProShares UltraPro Short S&P 500 ETF,USD,,2021-01-21,7835861.7895
+SPY,SSGA SPDR S&P 500 ETF,USD,ETFs,2009-02-24,68859053.7368
+SPYG,SPDR Portfolio S&P 500 Growth ETF,USD,ETFs,2008-11-07,1463032.2632
+SPYV,SPDR Portfolio S&P 500 Value ETF,USD,ETFs,2008-11-07,1789716.2105
+SPYX,SSGA SPDR S&P 500 Fossil Fuel Free ETF,USD,ETFs,2015-12-01,43690.8947
+SRS,ProShares UltraShort Real Estate,USD,ETFs,2008-11-12,80817.2105
+SRTY,ProShares UltraPro Short Russell2000,USD,,2021-01-21,5055062.8421
+SSG,ProShares UltraShort Semiconductors,USD,,2020-08-18,18070.3684
+SSO,ProShares Ultra S&P500,USD,ETFs,2008-11-12,1861374.4737
+STIP,BTC iShares 0-5 Year TIPS Bond ETF,USD,ETFs,2010-12-03,313252.4737
+STPZ,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund,USD,ETFs,2009-08-21,75127.4737
+SUSA,BTC MSCI USA ESG Select ETF,USD,ETFs,2007-12-06,197526.3158
+TAGS,Teucrium Agricultural Fund,USD,ETFs,2012-03-28,17973.3158
+TAN,Invesco Solar ETF,USD,,2018-04-06,2366707.7895
+TBF,ProShares Short 20+ Year Treasury,USD,ETFs,2009-08-20,1869322.3684
+TBT,PowerShares UltraShort Lehman 20+ Year Treasury ProShares,USD,ETFs,2008-11-12,4756349.8947
+TECL,Direxion Daily Technology Bull 3X Shares,USD,ETFs,2008-12-17,2211166.8421
+TECS,Direxion Daily Technology Bear 3X Shares,USD,,2015-05-11,2337615.2632
+TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,USD,ETFs,2008-11-07,483967.7368
+THD,iShares MSCI Thailand ETF,USD,,2008-03-28,120404.9474
+TIP,BTC iShares TIPS Bond ETF,USD,ETFs,2003-12-05,3226665.3158
+TLH,BTC iShares 10-20 Year Treasury Bond ETF,USD,ETFs,2007-12-06,300527.0000
+TLTE,FlexShares Morningstar Emerging Markets Factor Tilt Index Fund,USD,ETFs,2012-09-28,13369.7895
+TMF,Direxion Daily 20+ Year Treasury Bull 3X Shares,USD,ETFs,2009-04-16,1175033.5789
+TMV,Direxion Daily 20+ Year Treasury Bear 3X Shares,USD,,2015-05-11,592158.4737
+TNA,Direxion Dialy Small Cap Bull 3X Shares,USD,ETFs,2008-11-05,6358769.0000
+TOK,BTC iShares MSCI KLD 400 Social ETF,USD,ETFs,2007-12-12,2106.1579
+TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,USD,,2014-03-27,25964.2105
+TWM,ProShares UltraShort Russell2000,USD,,2021-01-21,3124340.4737
+TYD,Direxion Daily 7-10 Year Treasury Bull 3X Shares,USD,ETFs,2009-04-16,8545.9474
+TZA,Direxion Daily Small Cap Bear 3X Shares,USD,,2021-03-02,6281724.8487
+UCC,ProShares Ultra Consumer Services,USD,ETFs,2008-11-12,4636.3684
+UCO,ProShares Ultra Bloomberg Crude Oil,USD,,2020-04-21,2096343.0000
+UDN,Invesco DB US Dollar Index Bearish Fund,USD,,2008-11-25,132723.7368
+UDOW,ProShares UltraPro Dow30,USD,ETFs,2010-02-11,1216046.9474
+UGA,ed States Gasoline Fund LP,USD,ETFs,2008-11-25,88112.7368
+UGE,ProShares Ultra Consumer Goods,USD,ETFs,2008-11-12,1470.6316
+UGL,ProShares Ultra Gold,USD,,2008-12-03,179193.7368
+ULE,ProShares Ultra Euro,USD,ETFs,2008-11-25,6649.5263
+UNG,ed States Natural Gas Fund,USD,ETFs,2008-11-25,6193171.1579
+UPW,ProShares Ultra Utilities,USD,ETFs,2008-11-12,2977.0000
+URA,Global X Uranium ETF,USD,ETFs,2010-11-05,1021273.4737
+URE,ProShares Ultra Real Estate,USD,ETFs,2008-11-12,5624.3158
+USD,ProShares Ultra Semiconductors,USD,ETFs,2008-11-12,60900.4211
+USL,ed States 12 Month Oil Fund LP,USD,ETFs,2008-11-25,118978.5263
+USO,United States Oil Fund,USD,,2015-04-24,5566714.7895
+USRT,BTC iShares Core U.S. REIT ETF,USD,ETFs,2007-05-04,157119.3158
+UUP,Invesco DB US Dollar Index Bullish Fund,USD,,2008-11-25,1126559.8947
+UWM,ProShares Ultra Russell2000,USD,ETFs,2008-11-12,507222.3158
+UXI,ProShares Ultra Industrials,USD,ETFs,2008-11-12,942.7368
+UYG,ProShares Ultra Financials,USD,ETFs,2008-11-12,70165.8421
+UYM,ProShares Ultra Basic Materials,USD,ETFs,2008-11-12,6038.2105
+VAW,"Vanguard Group, Inc. - Vanguard Materials ETF",USD,ETFs,2008-09-19,121991.4211
+VB,"Vanguard Group, Inc. - Vanguard Small Cap ETF",USD,ETFs,2008-09-19,734207.4211
+VBK,"Vanguard Group, Inc. - Vanguard Small Cap Growth ETF",USD,ETFs,2019-10-15,260589.1053
+VBR,"Vanguard Group, Inc. - Vanguard Small Cap Value ETF",USD,ETFs,2019-10-15,556537.1053
+VCR,Vanguard Consumer Discretionary ETF,USD,ETFs,2008-09-19,124004.1053
+VDC,"Vanguard Group, Inc. - Vanguard Consumer Staples ETF",USD,ETFs,2019-10-15,122865.8421
+VDE,"Vanguard Group, Inc. - Vanguard Energy ETF",USD,ETFs,2008-09-19,1110686.2632
+VEA,"Vanguard Group, Inc. - Vanguard FTSE Developed Markets ETF",USD,ETFs,2019-10-15,9058882.8421
+VEGN,US Vegan Climate ETF,USD,,2019-09-10,9326.8421
+VEU,"Vanguard Group, Inc. - Vanguard FTSE All-World ex-US ETF",USD,ETFs,2019-10-15,2980062.1579
+VFH,"Vanguard Group, Inc. - Vanguard Financials ETF",USD,ETFs,2008-09-19,560461.6316
+VGK,"Vanguard Group, Inc. - Vanguard FTSE Europe ETF",USD,ETFs,2019-10-15,3061390.6842
+VGT,"Vanguard Group, Inc. - Vanguard Information Technology ETF",USD,ETFs,2019-10-15,510403.7368
+VHT,Vanguard Health Care ETF,USD,ETFs,2019-10-15,220961.9474
+VIDI,WisdomTree Vident International Equity Fund,USD,ETFs,2018-03-06,25768.4211
+VIG,Vanguard Dividend Appreciation FTF,USD,ETFs,2019-10-15,1323828.5263
+VIOO,Vanguard S&P Small-Cap 600 ETF,USD,ETFs,2019-10-15,41373.8421
+VIS,"Vanguard Group, Inc. - Vanguard Industrials ETF",USD,ETFs,2008-09-19,150280.3684
+VNQ,"Vanguard Group, Inc. - Vanguard Real Estate Index Fund ETF",USD,ETFs,2019-10-15,3981511.8947
+VO,Vanguard Mid-Cap ETF,USD,ETFs,2008-09-19,581883.7368
+VOE,"Vanguard Group, Inc. - Vanguard Mid-Cap Value ETF",USD,ETFs,2019-10-15,306660.0526
+VOO,Vanguard S&P 500 ETF,USD,,2019-10-15,3442672.3158
+VOT,Vanguard Mid-Cap Growth ETF,USD,ETFs,2019-10-15,157340.2632
+VPL,"Vanguard Group, Inc. - Vanguard FTSE Pacific ETF",USD,ETFs,2019-10-15,633292.0526
+VPU,"Vanguard Group, Inc. - Vanguard Utilities ETF",USD,ETFs,2008-09-19,270445.8947
+VSS,"Vanguard Group, Inc. - Vanguard FTSE All-World Ex-US Small Capital Index Fund ETF",USD,ETFs,2009-04-06,413750.8421
+VT,Vanguard Total World Stock ETF,USD,ETFs,2019-10-15,1406653.8947
+VTI,"Vanguard Group, Inc. - Vanguard Total Stock Market ETF",USD,ETFs,2019-10-15,4082158.4737
+VTV,"Vanguard Group, Inc. - Vanguard Value ETF",USD,ETFs,2008-09-19,2392113.6842
+VUG,"Vanguard Group, Inc. - Vanguard Growth ETF",USD,ETFs,2008-09-19,835712.1053
+VV,"Vanguard Group, Inc. - Vanguard Large Cap ETF",USD,ETFs,2008-09-19,278701.7368
+VWO,"Vanguard Group, Inc. - Vanguard FTSE Emerging Markets ETF",USD,ETFs,2019-10-15,9045656.2105
+VXF,Vanguard Extended Market Index ETF,USD,ETFs,2008-09-19,453063.4737
+VYM,"Vanguard Group, Inc. - Vanguard High Dividend Yield Indx ETF",USD,ETFs,2019-10-15,1885706.7895
+WDIV,SSgA SPDR S&P Global Dividend ETF,USD,ETFs,2013-05-30,21013.0526
+WEAT,Teucrium Wheat Fund,USD,ETFs,2011-09-19,573692.6842
+WIP,SPDR Citi International Government Inflation-Protected Bond ETF,USD,ETFs,2008-11-07,50055.7368
+WPS,BTC iShares International Developed Property ETF,USD,ETFs,2007-12-06,5245.7368
+XAR,SSGA SPDR S&P Aerospace & Defense ETF,USD,ETFs,2011-09-29,109996.1579
+XBI,SSgA SPDR Biotech,USD,ETFs,2008-11-07,6136985.2105
+XES,SSgA SPDR Oil & Gas Equipment and Services,USD,,2015-05-11,123304.6842
+XHB,SSgA Active Trust - SSgA SPDR Homebuilders,USD,ETFs,2008-11-07,1873203.9474
+XLB,SSgA Materials Select Sector SPDR,USD,ETFs,2008-11-07,6882530.8947
+XLE,SSgA Energy Select Sector SPDR,USD,ETFs,2008-11-07,33102662.1579
+XLF,SSgA Financial Select Sector SPDR,USD,ETFs,2008-11-07,57283570.0526
+XLI,SSgA Industrial Select Sector SPDR,USD,ETFs,2008-11-07,10719687.6316
+XLK,SSgA Technology Select Sector SPDR,USD,ETFs,2008-11-07,7036882.3684
+XLP,SSgA Consumer Staples Select Sector SPDR,USD,ETFs,2008-11-07,10380549.8421
+XLRE,SSgA Real Estate Select Sector SPDR Fund,USD,ETFs,2015-10-08,3571829.9474
+XLU,SSgA Utilities Select Sector SPDR,USD,ETFs,2008-11-07,11242016.7895
+XLV,SSgA Health Care Select Sector SPDR,USD,ETFs,2008-11-07,8510868.3684
+XLY,SSgA Consumer Discretionary Select Sector SPDR,USD,ETFs,2008-11-07,3136157.2632
+XME,SSgA SPDR Metals & Mining,USD,ETFs,2008-11-07,4404621.4737
+XMHQ,Invesco S&P MidCap Quality ETF,USD,,2019-09-05,25964.4211
+XMLV,Invesco S&P MidCap Low Volatility ETF,USD,ETFs,2013-02-15,262772.4211
+XMVM,Invesco S&P MidCap Value with Momentum ETF,USD,,2008-11-03,44498.8947
+XNTK,SPDR NYSE Technology ETF,USD,ETFs,2008-11-07,45868.8421
+XOP,SSgA SPDR Oil & Gas Exploration and Production,USD,,2015-05-11,7452128.1053
+XPH,SSgA SPDR Pharmaceuticals,USD,ETFs,2008-11-07,54789.3158
+XPP,ProShares Ultra FTSE China 50,USD,ETFs,2009-06-04,21165.8421
+XRT,SSgA SPDR Retail,USD,ETFs,2008-11-07,3325005.5789
+XSD,SSgA SPDR Semiconductors,USD,ETFs,2008-11-07,148763.1053
+XSMO,Invesco S&P SmallCap Momentum ETF,USD,,2008-11-03,31584.7368
+XSVM,Invesco S&P SmallCap Value with Momentum ETF,USD,,2008-11-03,29103.8947
+XTN,SSgA SPDR S&P Transportation ETF,USD,ETFs,2011-01-27,55772.7895
+YANG,Direxion Daily FTSE China Bear 3X Shares,USD,ETFs,2009-12-03,537371.5789
+YCS,ProShares UltraShort Yen,USD,ETFs,2008-11-25,11350.1053
+YXI,ProShares Short FTSE China 50,USD,ETFs,2010-03-18,1309.9474
+ZROZ,PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund,USD,ETFs,2009-11-02,52466.2105
+ZSL,ProShares UltraShort Silver,USD,ETFs,2008-12-03,2922739.8421
