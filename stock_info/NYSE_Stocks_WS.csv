@@ -403,7 +403,6 @@ CX,Cemex S.A.B. De C.V.,USD,"Manufacturing, Construction, Materials",1999-09-15,
 CXE,MFS High Income Municipal Trust,USD,Finance,1989-02-17,94248.3158
 CXW,CoreCivic Inc,USD,"Real Estate, Finance",1997-07-15,2778588.6842
 CYH,"Community Health Systems, Inc.",USD,"Consulting, Healthcare",2000-06-09,1609598.5789
-CZZ,Cosan Ltd (Class A),USD,"Clean Energy, Agriculture",2007-08-16,770763.6842
 D,Dominion Energy Inc,USD,"Energy, Oil and Gas, Utilities",1983-05-20,3797576.8947
 DAC,Danaos Corporation,USD,,2006-10-06,611615.6316
 DAL,"Delta Air Lines, Inc.",USD,"Travel, Transportation",2007-04-26,13333512.7368
@@ -461,7 +460,6 @@ DSSI,Diamond S Shipping Inc,USD,,2019-09-05,351555.3158
 DSX,Diana Shipping Inc,USD,"Logistics, Transportation",2005-03-18,1647185.2105
 DT,Dynatrace Inc,USD,,2019-08-01,3099122.4737
 DTE,DTE Energy Co.,USD,"Energy, Oil and Gas, Utilities",1949-11-16,1037393.0000
-DUC,Duff & Phelps Utility & Corporate Bond Trust,USD,Finance,1993-01-22,98187.2105
 DUK,Duke Energy Corp.,USD,"Energy, Clean Energy, Oil and Gas, Utilities",2006-04-03,2879593.7368
 DVA,DaVita Inc,USD,Healthcare,1995-10-31,1062964.0526
 DVD,Dover Motorsports Inc,USD,Entertainment and Media,1996-10-04,107339.1053
@@ -480,7 +478,7 @@ ECL,"Ecolab, Inc.",USD,"Manufacturing, Materials",1986-12-10,935528.1579
 ECOM,ChannelAdvisor Corp,USD,"Advertising and Marketing, Software, Internet, Technology",2013-05-23,405830.5789
 ED,"Consolidated Edison, Inc.",USD,"Energy, Oil and Gas, Utilities",2019-10-16,2458595.7368
 EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc,USD,Finance,2007-04-24,224446.1579
-EDU,New Oriental Education & Technology Group Inc.,USD,"Education, Machinery, Consulting, Technology",2006-09-07,945169.6316
+EDU,New Oriental Education & Technology Group Inc.,USD,"Education, Machinery, Consulting, Technology",2006-09-07,9451696.3158
 EFX,"Equifax, Inc.",USD,Finance,1971-05-11,1005936.6842
 EGHT,8X8 Inc.,USD,"Entertainment and Media, Software, Internet, Technology",2017-12-08,1951365.0526
 EGP,"Eastgroup Properties, Inc.",USD,"Real Estate, Finance",1994-05-03,162836.7895
@@ -658,7 +656,7 @@ GS,"Goldman Sachs Group, Inc.",USD,"Finance, Banking",1999-05-04,2969674.0526
 GSAT,Globalstar Inc.,USD,"Telecommunications, Technology",2014-04-21,71140462.1053
 GSK,Glaxosmithkline plc,USD,"Manufacturing, Healthcare, Pharmaceuticals",1987-06-10,8333648.3684
 GSL,Global Ship Lease Inc (Class A),USD,Logistics,2008-08-15,545814.7368
-GSX,Gsx Techedu Inc,USD,,2019-06-06,4805851.7895
+GSX,Gsx Techedu Inc,USD,,2019-06-06,0
 GTLS,Chart Industries Inc,USD,,2006-07-26,393812.4211
 GTT,GTT Communications Inc,USD,"Telecommunications, Internet, Technology",2014-11-28,3518520.4737
 GTY,Getty Realty Corp.,USD,"Real Estate, Finance",1985-08-12,139787.9474
@@ -669,6 +667,7 @@ H,Hyatt Hotels Corporation (Class A),USD,"Travel, Real Estate",2009-11-05,733930
 HAE,Haemonetics Corp.,USD,"Manufacturing, Healthcare, Engineering, Technology",1991-05-10,325091.0526
 HAL,Halliburton Co.,USD,"Manufacturing, Machinery, Oil and Gas, Mining, Engineering",1948-09-15,10740834.7368
 HASI,Hannon Armstrong Sustainable Infrastructure capital Inc,USD,"Clean Energy, Real Estate, Finance",2013-04-18,755942.5789
+HAYW,Hayward Holdings Inc,USD,Recent IPOs,2021-03-12,0.0000
 HBI,Hanesbrands Inc,USD,"Manufacturing, Apparel and Footwear, Fashion and Jewelry, Consumer Products",2006-08-16,6370791.8421
 HCA,HCA Healthcare Inc,USD,"Consulting, Healthcare",2011-03-10,1702340.8947
 HCHC,HC2 Holdings Inc,USD,"Telecommunications, Energy, Oil and Gas, Construction, Healthcare, Insurance",2011-06-23,398343.2632
@@ -746,7 +745,7 @@ IDA,"Idacorp, Inc.",USD,"Energy, Utilities",1944-01-03,333514.7895
 IDT,IDT Corp. (Class B),USD,"Telecommunications, Mobile, Internet, Technology",2009-02-25,162689.4211
 IEX,Idex Corporation,USD,"Manufacturing, Machinery, Engineering",1989-06-02,486116.8947
 IFF,International Flavors & Fragrances Inc.,USD,"Manufacturing, Fashion and Jewelry, Consumer Products",1964-03-02,8475472.8947
-IGT,International Game Technology PLC,USD,,2015-04-07,2519192.8947
+IGT,International Game Technology PLC,USD,,2015-04-07,2519042.1053
 IHG,Intercontinental Hotels Group,USD,"Travel, Real Estate",2005-06-27,114235.8947
 IHT,Innsuites Hospitality Trust,USD,"Real Estate, Finance",1999-04-07,107924.5263
 IIM,Invesco Value Municipal Income Trust,USD,Finance,1993-02-19,126114.2632
@@ -1076,7 +1075,6 @@ NYT,New York Times Co. (Class A),USD,"Advertising and Marketing, Mobile, Enterta
 OC,Owens Corning,USD,"Manufacturing, Construction, Materials",2006-10-23,872005.6842
 OCFT,Oneconnect Financial Technology Co Ltd,USD,,2019-12-13,651701.4737
 OCN,Ocwen Financial Corp.,USD,,2020-08-14,81931.8947
-OCX,OncoCyte Corp,USD,"Manufacturing, Healthcare, Engineering, Technology",2016-01-04,1461446.3684
 OFC,Corporate Office Properties Trust,USD,"Real Estate, Finance",1998-04-23,875048.6842
 OFG,OFG Bancorp,USD,"Finance, Banking",1994-12-29,197549.7368
 OGE,Oge Energy Corp.,USD,"Energy, Oil and Gas, Utilities",1950-09-27,1119716.5789
@@ -1213,6 +1211,7 @@ RACE,Ferrari N.V.,USD,,2015-10-21,417747.6842
 RAD,Rite Aid Corp.,USD,"Healthcare, Pharmaceuticals, Retail, Consumer Products",1970-01-26,2322474.7368
 RAMP,LiveRamp Holdings Inc,USD,,2018-10-02,853454.0526
 RBC,Regal Beloit Corp,USD,"Manufacturing, Machinery, Engineering",2005-01-21,306408.3684
+RBLX,Roblox Corporation (Class A),USD,Recent IPOs,2021-03-10,0.0000
 RCL,Royal Caribbean Group,USD,,1993-04-28,5749905.0000
 RDN,"Radian Group, Inc.",USD,"Finance, Insurance",1992-10-30,1507656.6842
 RDY,Dr. Reddy`s Laboratories Ltd.,USD,"Manufacturing, Healthcare, Pharmaceuticals, Biotechnology",2001-04-11,262596.1053
@@ -1359,7 +1358,6 @@ STAR,iStar Inc,USD,"Real Estate, Finance",2019-09-05,569668.0526
 STC,Stewart Information Services Corp.,USD,"Finance, Insurance",1994-01-05,199235.5263
 STE,Steris Plc,USD,,2019-10-16,645227.9474
 STL,Sterling Bancorp.,USD,"Finance, Banking",2019-09-09,3174345.8421
-STLA,Stellantis N.V,USD,,2021-02-02,2414669.2632
 STM,New York Shares,USD,"Manufacturing, Semiconductors, Software, Internet, Technology",1994-12-08,2172041.3158
 STNG,Scorpio Tankers Inc,USD,,2010-03-31,1716194.8421
 STON,StoneMor Inc,USD,,2019-12-23,191248.4737

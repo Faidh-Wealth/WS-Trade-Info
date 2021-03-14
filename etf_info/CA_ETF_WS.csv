@@ -2,7 +2,6 @@ symbol,name,currency,sector,active_date,avg_daily_volume_last_month
 ACZ.TO,Middlefield Ltd - Middlefield American Core Dividend ETF,CAD,ETFs,2019-06-11,178.5789
 AGLB.NE,AGF Global Opportunities Bond ETF,CAD,,2020-10-02,5.1579
 AGSG.NE,AGF Global Sustainable Growth Equity ETF,CAD,,2020-10-02,3803.5263
-ALFA.TO,Accelerate Private Equity Alpha Fund,CAD,,2019-05-10,120.7895
 ARB.TO,Accelerate Arbitrage Fund,CAD,,2020-04-07,12926.8421
 ATSX.TO,Accelerate Enhanced Benchmark Alternative Fund,CAD,,2019-05-10,59.4211
 AUGB-F.TO,First Trust Cboe Vest U.S. Equity Buffer ETF-Aug Hedged,CAD,,2019-08-30,1871.8947
@@ -28,6 +27,8 @@ BSKT.TO,Manulife Smart Core Bond ETF,CAD,,2020-11-25,1632.1053
 BTCC-B.TO,Purpose Bitcoin ETF CAD ETF non-currency hedged units,CAD,,2021-02-18,5358724.2857
 BTCC-U.TO,Purpose Bitcoin ETF USD ETF non-currency hedged units,USD,,2021-02-18,1143152.7143
 BTCC.TO,Purpose Bitcoin ETF CAD denominat cur Hedge,CAD,,2021-02-25,219892.0000
+BTCX-B.TO,CI Galaxy Bitcoin ETF CAD Unhedged,CAD,,2021-03-09,0.0000
+BTCX-U.TO,CI Galaxy Bitcoin ETF USD Unhedged,USD,,2021-03-09,0.0000
 BXF.TO,CI First Asset 1-5 Year Laddered Government Strip Bond Index ETF,CAD,ETFs,2013-06-11,6266.1579
 CACB.TO,CIBC Active Investment Grade Corporate Bond ETF,CAD,,2019-01-22,1290.6316
 CAFR.TO,CIBC Active Investment Grade Floating Rate Bond ETF,CAD,,2019-01-22,21.1579
@@ -335,7 +336,6 @@ HBU.TO,BetaPro Gold Bullion 2x Daily Bull ETF,CAD,,2019-11-28,14534.3684
 HCA.TO,Hamilton Canadian Bank Mean Reversion Index ETF,CAD,,2020-06-24,4307.7895
 HCAL.TO,Hamilton Canadian Bank 1.25x Leverage ETF Class E,CAD,,2020-10-15,33947.6842
 HCLN.TO,Harvest Clean Energy ETF,CAD,,2021-01-14,50378.8421
-HCN.TO,Horizons China High Dividend Yield Index ETF,CAD,ETFs,2016-01-12,1433.8421
 HCON.TO,Horizons Conservative TRI ETF Portfolio Class A,CAD,,2018-08-02,4820.2105
 HCRE.TO,Horizons Equal Weight Canada REIT Index ETF,CAD,,2019-12-02,2374.5263
 HDGE.TO,Accelerate Absolute Return Hedge Fund,CAD,,2019-05-10,398.8947
@@ -351,7 +351,6 @@ HEWB.TO,Horizons Equal Weight Canada Banks Index ETF,CAD,,2019-12-02,985.8947
 HEX.TO,Horizons ETFs Management Canada Inc (Class E),CAD,ETFs,2011-03-17,1518.3684
 HFD.TO,BetaPro S&P/TSX Capped Financials -2x Daily Bear ETF,CAD,,2020-03-23,12785.5789
 HFG.TO,Hamilton Global Financials ETF,CAD,,2020-06-24,1729.2105
-HFP.TO,Horizons ETFs Management Canada Inc (Class E),CAD,ETFs,2013-10-02,5964.0526
 HFR.TO,Horizons Active Ultra-Short Term Investment Grade Bond ETF -,CAD,ETFs,2010-12-08,36653.2632
 HFT.TO,Hamilton Financials Innovation ETF Class E,CAD,,2020-06-02,1305.1579
 HFU.TO,BetaPro S&P/TSX Capped Financials 2x Daily Bull ETF,CAD,,2019-11-28,5395.0000
@@ -366,7 +365,6 @@ HHL-B.TO,Harvest Healthcare Leaders Income ETF  Unhedged,CAD,,2020-03-12,3344.26
 HHL-U.TO,Harvest Portfolios Group Inc (Class U),USD,,2017-02-09,5208.3158
 HHL.TO,Harvest Portfolios Group Inc (Class A),CAD,ETFs,2016-10-24,171459.5263
 HIG.TO,Global Healthcare Income & Growth Fund. - Brompton Global Healthcare Income & Growth ETF,CAD,ETFs,2018-04-03,3653.5789
-HII.TO,Horizons Cdn Insider Index ETF,CAD,ETFs,2015-01-21,1489.4211
 HISA.NE,High Interest Savings Account Fund,CAD,,2019-11-29,70366.1579
 HIU.TO,BetaPro S&P 500 Daily Inverse ETF,CAD,,2019-11-28,31444.5263
 HIX.TO,BetaPro S&P/TSX 60 Daily Inverse ETF NEW,CAD,,2020-11-26,14015.5263
@@ -378,7 +376,6 @@ HMP.TO,AlphaPro Management Inc (Class E),CAD,ETFs,2015-08-13,7356.5789
 HMUS.NE,Horizons US Marijuana Index ETF,CAD,,2020-03-23,33479.3684
 HND.TO,BetaPro Natural Gas Inverse Leveraged Daily Bear ETF,CAD,,2020-09-04,2577359.9474
 HNU.TO,BetaPro Natural Gas Leveraged Daily Bull ETF,CAD,,2020-09-04,2316591.8421
-HNY.TO,Horizons ETFs Management Canada Inc (Class E),CAD,ETFs,2012-03-01,6262.6316
 HOD.TO,BetaPro Crude Oil Inverse Leveraged Daily Bear ETF,CAD,,2020-07-15,479885.2632
 HOG.TO,Horizons ETFs Management Canada Inc (Class A),CAD,,2020-02-27,13372.4211
 HOU.TO,BetaPro Crude Oil Leveraged Daily Bull ETF,CAD,,2020-07-15,217104.9474
@@ -398,7 +395,6 @@ HTA-B.TO,Harvest Tech Achievers Growth & Income ETF  Unhedged,CAD,,2020-03-12,37
 HTA-U.TO,Tech Achievers Growth & Income ETF (Class U),USD,,2017-06-22,1433.1053
 HTA.TO,Tech Achievers Growth & Income ETF (Class A),CAD,,2017-06-22,16206.7368
 HTB.TO,Horizons US 7-10 Year Treasury Bond ETF,CAD,,2019-12-02,1348.1053
-HTH.TO,Horizons US 7-10 Year Treasury Bond CAD Hedged ETF,CAD,,2019-12-02,586.3684
 HUBL-U.TO,Harvest Portfolios Group Inc (Class U),USD,ETFs,2018-02-05,189.5263
 HUBL.TO,Harvest US Bank Leaders Income ETF Class A units,CAD,ETFs,2018-02-05,5647.9474
 HUC.TO,Horizons Crude Oil ETF,CAD,,2019-11-28,19370.3684
@@ -427,6 +423,7 @@ HXS.TO,Horizons S&P 500 Index ETF,CAD,,2019-12-02,21410.7368
 HXT.TO,Horizons S&P/TSX 60 Index ETF,CAD,,2019-12-02,517843.1579
 HXU.TO,BetaPro S&P/TSX 60 2x Daily Bull ETF,CAD,,2019-11-28,79268.5789
 HXX.TO,Horizons Europe 50 Index ETF,CAD,,2020-12-02,1728.2105
+HYBR.TO,Horizons ETFs Management Canada Inc (Class E),CAD,ETFs,2013-10-02,5964.0526
 HYI.TO,Horizons ETFs Management Canada Inc (Class E),CAD,ETFs,2012-02-15,11352.8947
 HZD.TO,BetaPro Silver -2x Daily Bear ETF NEW,CAD,,2020-11-26,188401.5263
 HZU.TO,BetaPro Silver 2x Daily Bull ETF,CAD,,2019-11-28,279397.3158
@@ -806,6 +803,7 @@ XCB.TO,BlackRock Canada iShares Canadian Corporate Bond Index ETF,CAD,ETFs,2007-
 XCD.TO,BlackRock Canada iShares S&P Global Cons Disc Indx ETFCAD-Hedged,CAD,ETFs,2013-04-02,1989.3158
 XCG.TO,BlackRock Canada iShares Canadian Growth Index ETF,CAD,ETFs,2007-03-19,2333.5263
 XCH.TO,BlackRock Canada iShares China Index ETF,CAD,ETFs,2010-01-26,9932.8947
+XCLR.TO,iShares ESG MSCI Canada Leaders Index ETF,CAD,,2021-03-11,0.0000
 XCNS.TO,iShares Core Conservative Balanced ETF Portfolio,CAD,,2019-08-13,11455.2632
 XCS.TO,BlackRock Canada iShares S&P/TSX SmallCap Index ETF,CAD,ETFs,2007-05-18,18681.4737
 XCSR.TO,iShares ESG Advanced MSCI Canada Index ETF,CAD,,2020-04-21,1938.6842
@@ -814,6 +812,7 @@ XDG-U.TO,iShares Core MSCI Global Quality Dividend Index ETF,USD,,2017-06-13,431
 XDG.TO,iShares Core MSCI Global Quality Dividend Index ETF,CAD,ETFs,2017-06-13,13583.7895
 XDGH.TO,iShares Core MSCI Global Quality Dividend Index ETF CAD-Hedged,CAD,ETFs,2017-06-16,2698.9474
 XDIV.TO,iShares Core MSCI Canadian Quality Dividend Index ETF,CAD,ETFs,2017-06-13,24790.7368
+XDLR.TO,iShares ESG MSCI EAFE Leaders Index ETF,CAD,,2021-03-11,0.0000
 XDSR.TO,iShares ESG Advanced MSCI EAFE Index ETF,CAD,,2020-04-21,2101.0000
 XDU-U.TO,iShares Core MSCI US Quality Dividend Index ETF,USD,,2017-06-13,2041.6316
 XDU.TO,iShares Core MSCI US Quality Dividend Index ETF,CAD,ETFs,2017-06-13,5878.6316
@@ -898,6 +897,7 @@ XSU.TO,BlackRock Canada iShares U.S. Small Cap Index ETF CAD-Hedged,CAD,ETFs,200
 XSUS.TO,iShares ESG Aware MSCI USA Index ETF,CAD,,2019-03-21,3761.2105
 XTR.TO,BlackRock Canada iShares Diversified Monthly Income ETF,CAD,ETFs,2005-12-22,64981.5263
 XUH.TO,BlackRock Canada iShares Core S&P US Total Market Indx ETF CAD-Hedgd,CAD,,2015-02-19,8924.3684
+XULR.TO,iShares ESG MSCI USA Leaders Index ETF,CAD,,2021-03-11,0.0000
 XUS-U.TO,BlackRock Canada iShares Core S&P 500 Index ETF,USD,,2013-04-15,2731.2105
 XUS.TO,BlackRock Canada iShares Core S&P 500 Index ETF,CAD,ETFs,2013-04-15,54423.1053
 XUSR.TO,iShares ESG Advanced MSCI USA Index ETF,CAD,,2020-04-21,2384.3158

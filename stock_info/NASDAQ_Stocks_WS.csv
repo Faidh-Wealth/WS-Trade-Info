@@ -90,7 +90,7 @@ ANSS,Ansys Inc.,USD,"Software, Internet, Technology",2001-05-05,428129.1053
 ANTE,AirNet Technology Inc,USD,Advertising and Marketing,2007-11-13,1956310.8947
 ANY,Sphere 3D Corp,USD,,2014-07-08,1717338.9474
 AOUT,American Outdoor Brands Inc,USD,,2020-08-10,154815.6316
-APA,APA Corporation,USD,,2021-03-02,0.0000
+APA,APA Corporation,USD,,2021-03-02,9436479.9474
 APDN,Applied Dna Sciences Inc,USD,,2019-11-01,1084380.3158
 APEI,American Public Education Inc,USD,Education,2007-11-09,132401.4211
 APEN,Apollo Endosurgery Inc,USD,"Manufacturing, Healthcare, Engineering, Technology",2012-10-22,272216.3684
@@ -126,6 +126,8 @@ ATHE,Alterity Therapeutics Ltd,USD,"Manufacturing, Healthcare, Biotechnology",20
 ATHX,Athersys Inc,USD,"Manufacturing, Healthcare, Biotechnology",2007-12-12,4548215.8421
 ATLC,Atlanticus Holdings Corp,USD,Finance,1999-04-23,57219.7895
 ATNI,ATN International Inc,USD,"Telecommunications, Clean Energy, Internet, Technology",2006-05-23,47509.0526
+ATNX,Athenex Inc,USD,,2017-06-14,1304744.3684
+ATOS,Atossa Therapeutics Inc,USD,,2012-11-08,28515695.1053
 ATRO,Astronics Corp.,USD,"Manufacturing, Aerospace and Defence, Engineering",2001-05-05,289487.0526
 ATRS,Antares Pharma Inc,USD,"Manufacturing, Healthcare, Engineering, Technology",2002-05-31,1480211.5263
 ATSG,Air Transport Services Group Inc,USD,"Logistics, Transportation",2005-05-09,369334.0000
@@ -257,6 +259,7 @@ CCOI,Cogent Communications Holdings Inc,USD,"Telecommunications, Internet, Techn
 CCRN,"Cross Country Healthcares, Inc.",USD,"Consulting, Healthcare",2001-10-25,268563.4737
 CDEV,Centennial Resource Development Inc. (Class A),USD,"Energy, Oil and Gas",2016-04-15,9218667.3684
 CDK,CDK Global Inc,USD,"Advertising and Marketing, Transportation, Automotive",2014-10-01,800241.6842
+CDLX,Cardlytics Inc,USD,,2018-02-09,311422.1053
 CDMO,Avid Bioservices Inc,USD,"Manufacturing, Healthcare, Engineering, Technology",1988-08-11,696022.5789
 CDNA,Caredx Inc,USD,"Manufacturing, Healthcare, Engineering, Technology",2014-07-17,696824.0000
 CDNS,"Cadence Design Systems, Inc.",USD,"Manufacturing, Machinery, Electronics, Engineering, Technology",2005-10-31,1718325.5263
@@ -303,6 +306,7 @@ CLFD,Clearfield Inc,USD,,2001-05-05,190360.3158
 CLIR,ClearSign Technologies Corp,USD,"Manufacturing, Machinery, Electronics, Engineering, Technology",2012-04-25,306154.2105
 CLMT,Calumet Specialty Products,USD,"Manufacturing, Engineering, Materials",2006-01-26,139166.0455
 CLNE,Clean Energy Fuels Corp,USD,"Energy, Manufacturing, Clean Energy, Oil and Gas",2007-05-25,9615111.0526
+CLOV,Clover Health Investments Corp (Class A),USD,,2021-01-08,21466126.8947
 CLRB,Cellectar Biosciences Inc,USD,,2014-08-15,2862310.8947
 CLRO,ClearOne Inc,USD,,2007-08-14,89047.4211
 CLSK,Cleanspark Inc,USD,,2019-12-11,2795024.1053
@@ -500,6 +504,7 @@ EXPE,Expedia Group Inc,USD,"Mobile, Travel, Software, Internet, Technology",2005
 EXPI,eXp World Holdings Inc,USD,,2018-05-21,2211598.8947
 EXPO,Exponent Inc.,USD,"Manufacturing, Consulting, Construction, Engineering",1990-08-17,206228.1053
 EXTR,Extreme Networks Inc.,USD,"Electronics, Software, Internet, Technology",1999-04-09,1668918.5789
+EYEG,Eyegate Pharmaceuticals Inc,USD,,2015-07-29,102740.4211
 EYPT,EyePoint Pharmaceuticals Inc,USD,,2020-12-09,529873.1053
 EZPW,"EZCorp, Inc. (Class A)",USD,Finance,1991-08-27,501699.7895
 FANG,Diamondback Energy Inc,USD,"Energy, Oil and Gas",2012-10-12,2628714.1053
@@ -659,7 +664,7 @@ HOLX,"Hologic, Inc.",USD,"Manufacturing, Healthcare, Engineering, Technology",19
 HOMB,Home Bancshares Inc,USD,"Finance, Banking",2006-06-23,620962.3158
 HOPE,Hope Bancorp Inc,USD,"Consulting, Finance, Banking",2003-04-04,713894.0526
 HOTH,Hoth Therapeutics Inc,USD,,2019-02-08,4990360.8947
-HRMY,Harmony Biosciences Holdings Inc,USD,,2020-08-19,47717.4737
+HRMY,Harmony Biosciences Holdings Inc,USD,,2020-08-19,0
 HRTX,Heron Therapeutics Inc,USD,"Manufacturing, Healthcare, Biotechnology",2014-01-23,870805.5263
 HSIC,Henry Schein Inc.,USD,"Manufacturing, Healthcare, Engineering, Technology",1995-11-03,1329751.0526
 HSII,"Heidrick & Struggles International, Inc.",USD,Consulting,1999-04-27,110608.3158
@@ -1016,6 +1021,7 @@ OCGN,Ocugen Inc,USD,,2014-12-03,121152245.6316
 OCSI,Oaktree Strategic Income Corp,USD,,2013-07-12,64965.3684
 OCSL,Oaktree Specialty Lending Corp,USD,Finance,2011-11-28,761923.6316
 OCUP,Ocuphire Pharma Inc,USD,,2020-11-06,96445.5789
+OCX,OncoCyte Corp,USD,"Manufacturing, Healthcare, Engineering, Technology",2016-01-04,1461446.3684
 ODFL,"Old Dominion Freight Line, Inc.",USD,"Consulting, Travel, Logistics, Transportation",1991-10-24,642331.7368
 ODP,ODP Corporation (The),USD,,2020-07-01,481815.3684
 OEG,Orbital Energy Group Inc,USD,,2020-05-11,5728316.0000
@@ -1093,7 +1099,6 @@ PGNY,Progyny Inc,USD,,2019-09-28,788290.7368
 PHIO,Phio Pharmaceuticals Corp,USD,,2020-01-15,2485484.2105
 PHUN,Phunware Inc,USD,,2016-10-10,15395467.6842
 PI,Impinj Inc,USD,"Manufacturing, Machinery, Electronics, Engineering, Technology",2016-07-21,473431.6842
-PICO,Pico Holdings Inc.,USD,"Real Estate, Finance",1991-03-21,42076.4211
 PIXY,ShiftPixy Inc,USD,,2019-12-16,602865.6842
 PLAB,"Photronics, Inc.",USD,"Manufacturing, Electronics, Semiconductors, Engineering, Technology",1987-03-10,469723.6316
 PLAY,Dave & Buster`s Entertainment Inc,USD,"Food, Restaurants, Retail",2014-10-10,1343573.3684
@@ -1127,7 +1132,7 @@ PSEC,Prospect Capital Corp,USD,Finance,2004-07-27,3835716.5789
 PSHG,Performance Shipping Inc,USD,,2020-11-02,113455.7368
 PSMT,Pricesmart Inc.,USD,"Retail, Fashion and Jewelry, Consumer Products",1997-09-02,115798.6842
 PSTI,Pluristem Therapeutics Inc,USD,"Healthcare, Biotechnology",2007-12-10,893265.4737
-PSTV,Plus Therapeutics Inc,USD,,2019-07-29,1769777.7895
+PSTV,Plus Therapeutics Inc,USD,,2019-07-29,0
 PTC,PTC Inc,USD,"Consulting, Software, Technology",1989-12-08,655494.8947
 PTCT,PTC Therapeutics Inc,USD,"Manufacturing, Healthcare, Biotechnology",2013-06-20,574971.8421
 PTE,PolarityTE Inc,USD,"Manufacturing, Healthcare, Biotechnology",2019-09-06,9905493.7895
@@ -1135,7 +1140,6 @@ PTEN,Patterson-UTI Energy Inc,USD,"Oil and Gas, Mining, Materials",1993-11-02,27
 PTMN,Portman Ridge Finance Corp,USD,"Consulting, Finance, Banking",2006-12-12,557778.9474
 PTON,Peloton Interactive Inc (Class A),USD,,2019-09-26,8358980.3158
 PTPI,Petros Pharmaceuticals Inc,USD,,2020-12-02,164713.6316
-PTVCB,Protective Insurance Corp. (Class B),USD,,1986-05-08,164829.4211
 PTVE,Pactiv Evergreen Inc,USD,Recent IPOs,2020-09-17,516840.9474
 PUBM,PubMatic Inc (Class A),USD,Recent IPOs,2020-12-09,802941.4737
 PWFL,PowerFleet Inc,USD,"Software, Logistics, Technology",2019-10-03,250208.2105
@@ -1497,10 +1501,11 @@ VTNR,Vertex Energy Inc,USD,Environmental Services,2013-02-13,3255745.9474
 VTRS,Viatris Inc,USD,,2020-11-12,11370481.4211
 VTSI,VirTra Inc,USD,Aerospace and Defence,2018-03-29,80854.7895
 VUZI,Vuzix Corporation,USD,"Manufacturing, Electronics, Engineering, Technology",2013-06-05,6230719.6842
+VWTR,Vidler Water Resources Inc,USD,,2021-03-09,42076.4211
 VXRT,Vaxart Inc,USD,"Manufacturing, Healthcare, Biotechnology",2003-04-04,28206832.2105
 WABC,Westamerica Bancorporation,USD,"Finance, Banking",1994-04-26,79879.1579
 WAFD,Washington Federal Inc.,USD,"Finance, Banking",2019-09-05,541367.8421
-WASH,"Washington Trust Bancorp, Inc.",USD,,1987-06-08,61366.3158
+WASH,"Washington Trust Bancorp, Inc.",USD,,1987-06-08,0
 WATT,Energous Corp,USD,"Manufacturing, Electronics, Technology",2014-03-28,16037949.1053
 WB,Weibo Corp,USD,"Social Media, Entertainment and Media, Software, Internet, Technology",2014-04-17,1618452.6316
 WBA,Walgreens Boots Alliance Inc,USD,"Healthcare, Pharmaceuticals, Retail, Consumer Products",2014-12-31,5129528.2632

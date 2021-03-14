@@ -4,7 +4,7 @@ AAU.V,Angold Resources Ltd,CAD,,2020-12-31,429126.4737
 AAV.TO,Advantage Oil & Gas Ltd.,CAD,"Energy, Oil and Gas",2009-07-14,1333705.3158
 ABCT.TO,ABC Technologies Holdings Inc,CAD,,2021-02-22,228102.6000
 ABR.V,Arbor Metals Corp,CAD,,2012-02-21,43092.3684
-ABRA.V,AbraPlata Resource Corp,CAD,,2002-06-26,1061839.8947
+ABRA.V,Abrasilver Resource Corp,CAD,,2021-03-09,1061839.8947
 ABST.TO,Absolute Software Corp,CAD,"Software, Internet, Technology",2005-12-02,233424.2105
 ABX.TO,Barrick Gold Corp.,CAD,,1985-12-13,5043487.7368
 ABXX.NE,Abaxx Technologies Inc,CAD,,2020-12-15,158040.2632
@@ -102,6 +102,7 @@ BBD-A.TO,Bombardier Inc. (Class A),CAD,,1980-12-19,136560.7368
 BBD-B.TO,Bombardier Inc. (Class B),CAD,"Manufacturing, Aerospace and Defence, Engineering, Transportation",1981-02-11,7873190.1579
 BBTV.TO,BBTV Holdings Inc,CAD,,2020-10-28,90560.5789
 BBU-UN.TO,Brookfield Business Partners L.P.,CAD,"Consulting, Real Estate, Finance",2016-06-20,74675.9500
+BC-U.TO,Bespoke Capital Acquisition Corp (Class A),USD,,2019-09-24,212290.8947
 BCE.TO,BCE Inc,CAD,"Telecommunications, Internet, Technology",1905-07-11,3695737.9474
 BCM.V,Bear Creek Mining Corp.,CAD,,2001-09-04,286347.1579
 BDI.TO,Black Diamond Group Ltd,CAD,"Real Estate, Logistics",2010-01-06,51660.3158
@@ -111,7 +112,6 @@ BEP-UN.TO,Brookfield Renewable Partners LP,CAD,,2011-11-30,338358.5000
 BEPC.TO,Brookfield Renewable Corporation (Class A),CAD,,2020-07-24,382133.9474
 BES.V,Braille Energy Systems Inc,CAD,,2012-02-10,5697381.3158
 BGP-UN.NE,BGP Acquisition Corp (Class A),USD,,2021-02-04,41071.3750
-BGZ-H.V,"Brandgamz Marketing, Inc.",CAD,,2017-01-13,0
 BHC.TO,Bausch Health Companies Inc,CAD,"Manufacturing, Healthcare, Pharmaceuticals",1987-06-29,663690.4211
 BIP-UN.TO,Brookfield Infrastructure Partners L.P,CAD,"Energy, Utilities",2009-09-10,316502.3500
 BIPC.TO,Brookfield Infrastructure Corp (Class A),CAD,,2020-03-19,80224.9474
@@ -169,7 +169,6 @@ CCL-B.TO,CCL Industries Inc. (Class B),CAD,"Manufacturing, Consumer Products, Te
 CCM.TO,Canagold Resources Ltd,CAD,,2020-12-08,92219.4737
 CCO.TO,Cameco Corp.,CAD,"Mining, Materials",1991-07-04,2098029.4211
 CCW.V,Canada Cobalt Works Inc,CAD,,2005-08-22,602574.0526
-CDB.V,Cordoba Minerals Corp,CAD,,2021-02-09,37883.9226
 CDXX-UN-U.NE,Choice Consolidation Corp (Class A),USD,,2021-02-19,212194.0000
 CEN.V,Claren Energy Corp,CAD,,2002-05-17,62997.2632
 CERE-U.NE,- Class A,USD,,2020-04-13,133013.6842
@@ -183,7 +182,7 @@ CFW.TO,Calfrac Well Services Ltd.,CAD,,2020-12-29,47684.1053
 CFX.TO,Canfor Pulp Products Inc,CAD,"Manufacturing, Materials",2011-01-06,109611.6316
 CG.TO,Centerra Gold Inc.,CAD,"Mining, Materials",2004-06-29,866935.8947
 CGG.TO,China Gold International Resources Corp Ltd,CAD,"Mining, Materials",2006-10-06,175136.2632
-CGGZ-UN.NE,Canaccord Genuity Growth II Corp (Class A),CAD,,2019-04-05,126890.2632
+CGGZ-UN.NE,Canaccord Genuity Growth II Corp - Unit - Class A,CAD,,2019-04-05,126890.2632
 CGX.TO,Cineplex Inc,CAD,"Entertainment and Media, Internet, Technology",2011-01-04,1347454.8421
 CHE-UN.TO,Chemtrade Logistics Income Fund,CAD,"Manufacturing, Materials",2001-07-17,425727.4000
 CHP-UN.TO,Choice Properties Real Estate Investment Trust,CAD,"Real Estate, Finance",2013-07-05,548716.8000
@@ -198,12 +197,14 @@ CLS.TO,"Celestica, Inc.",CAD,"Energy, Aerospace and Defence, Consulting, Logisti
 CM.TO,Canadian Imperial Bank Of Commerce,CAD,"Finance, Banking",1961-06-02,1644763.6316
 CMG.TO,Computer Modelling Group Ltd,CAD,"Oil and Gas, Software, Internet, Technology",2003-10-20,83516.1053
 CMMC.TO,Copper Mountain Mining Corporation,CAD,"Mining, Materials",2008-09-19,1605308.8947
+CMX.V,Chilean Metals Inc,CAD,,2002-05-01,811059.0000
 CNC.V,Canada Nickel Company Inc,CAD,,2020-02-27,719099.4211
 CNE.TO,Canacol Energy Ltd,CAD,"Energy, Oil and Gas",2011-05-03,174773.6316
 CNQ.TO,Canadian Natural Resources Ltd.,CAD,"Energy, Oil and Gas",1976-05-14,4928049.3158
 CNR.TO,Canadian National Railway Co.,CAD,"Travel, Transportation",1996-11-20,1428168.1053
 CNX.V,Callinex Mines Inc,CAD,,2011-07-14,44129.6316
 CP.TO,Canadian Pacific Railway Ltd,CAD,"Travel, Transportation",2001-08-21,206798.5789
+CPAU.V,CopAur Minerals Inc.,CAD,,2020-08-27,276755.6316
 CPG.TO,Crescent Point Energy Corp,CAD,"Energy, Oil and Gas",2009-07-07,5891657.4211
 CPH.TO,Cipher Pharmaceuticals Inc,CAD,"Manufacturing, Healthcare, Pharmaceuticals",2004-02-25,46658.0000
 CPX.TO,Capital Power Corp,CAD,"Energy, Utilities, Construction",2009-07-09,357551.4211
@@ -276,6 +277,7 @@ DRM.TO,DREAM Unlimited Corp (Class A),CAD,,2020-07-06,120925.5789
 DRT.TO,DIRTT Environmental Solutions Ltd,CAD,"Manufacturing, Construction, Materials",2013-11-28,116911.1579
 DRX.TO,ADF Group Inc,CAD,,1999-07-21,42854.9474
 DSG.TO,Descartes Systems Group Inc,CAD,"Software, Internet, Logistics, Technology",1998-01-20,112951.8947
+DSLV.V,Denarius Silver Corp,CAD,,2021-03-02,0.0000
 DSV.V,Discovery Metals Corp,CAD,"Mining, Materials",2006-08-15,1164273.3158
 DTG.V,Dynamic Technologies Group Inc (Class A),CAD,,2021-03-01,186276.3684
 DV.V,Dolly Varden Silver Corp,CAD,"Mining, Materials",2012-02-06,446772.1053
@@ -304,13 +306,13 @@ EMA.TO,Emera Inc.,CAD,"Energy, Oil and Gas, Utilities",1992-08-11,1327868.3684
 EMH.V,Emerald Health Therapeutics Inc,CAD,"Manufacturing, Cannabis, Healthcare, Pharmaceuticals",2008-10-16,1606690.1053
 EMM.V,Giyani Metals Corp,CAD,,2019-09-05,130467.3684
 EMN.V,Euro Manganese Inc,CAD,,2018-10-02,165906.3158
-EMNT.V,Eminent Gold Corp,CAD,,2021-02-10,29020.2632
 EMP-A.TO,"Empire Co., Ltd. (Class A)",CAD,"Food, Retail, Consumer Products",1982-07-09,578519.6842
 EMPR.V,Empress Royalty Corp.,CAD,,2020-12-29,188781.8947
 ENB.TO,Enbridge Inc,CAD,"Energy, Oil and Gas",1979-05-07,15185774.8947
 ENGH.TO,Enghouse Systems Ltd,CAD,"Software, Internet, Technology",1998-02-26,133493.4211
 ENW.V,Enwave Corp.,CAD,"Manufacturing, Machinery, Engineering",2002-06-25,207205.6316
 EOG.V,Eco (Atlantic) Oil & Gas Ltd,CAD,"Mining, Materials",2007-11-06,79968.5789
+EPRX.TO,Eupraxia Pharmaceuticals Inc,CAD,,2021-03-09,0.0000
 EQ.V,EQ Inc,CAD,,2015-03-31,94739.4737
 EQX.TO,Equinox Gold Corp,CAD,,2018-08-03,756769.9474
 ERD.TO,Erdene Resource Development Corp,CAD,,2005-12-14,210189.8947
@@ -333,6 +335,7 @@ EVER.V,Evergold Corp,CAD,,2019-10-07,170939.5789
 EWS.V,Environmental Waste International Inc.,CAD,,2002-05-14,278000.8947
 EXE.TO,Extendicare Inc,CAD,"Consulting, Healthcare",2012-07-05,420104.2105
 EXN.TO,Excellon Resources Inc,CAD,,2020-09-10,105160.7368
+EXRO.V,Exro Technologies Inc,CAD,,2017-08-29,728725.1579
 FAF.TO,Fire & Flower Holdings Corp,CAD,Cannabis,2019-08-07,2788426.4211
 FC.TO,Firm Capital Mortgage Investment Corporation,CAD,Finance,2011-01-05,42228.4211
 FCR-UN.TO,First Capital Real Estate Investment Trust,CAD,,2019-12-26,689327.2000
@@ -394,7 +397,6 @@ GENM.TO,Generation Mining Ltd,CAD,,2018-05-09,389299.5263
 GFL.TO,GFL Environmental Inc.,CAD,,2019-07-20,195203.8947
 GGD.TO,Gogold Resources Inc,CAD,"Mining, Materials",2013-01-22,588465.1579
 GGI.V,Garibaldi Resources Corporation.,CAD,"Mining, Materials",2001-09-04,306525.8421
-GHE-H.V,Gold Horn International Enterprises Group Ltd,CAD,,0,0
 GIB-A.TO,CGI Inc (Class A),CAD,"Consulting, Software, Technology",1992-04-21,456065.3684
 GIGA.V,Giga Metals Corp,CAD,,2001-09-04,216761.1579
 GIII.V,GEN III Oil Corp,CAD,"Energy, Manufacturing, Oil and Gas, Engineering",2002-05-21,360315.4737
@@ -435,6 +437,7 @@ GTWO.V,G2 Goldfields Inc,CAD,,2010-11-09,64632.2632
 GUD.TO,Knight Therapeutics Inc,CAD,"Manufacturing, Healthcare, Pharmaceuticals",2014-04-29,329048.6842
 GWM.V,Galway Metals Inc,CAD,,2013-01-04,148888.1053
 GWO.TO,Great-West Lifeco Inc,CAD,"Healthcare, Finance, Insurance",0,1427251.0000
+GXE.TO,Gear Energy Ltd,CAD,"Energy, Oil and Gas",2013-11-18,470900.0526
 H.TO,Hydro One Ltd,CAD,"Energy, Oil and Gas, Utilities",2015-11-05,964595.3158
 HAI.TO,Haivision Systems Inc,CAD,,2020-12-16,121873.1053
 HAN.V,Hannan Metals ltd,CAD,,2001-09-04,73238.4737
@@ -450,6 +453,7 @@ HEXO.TO,HEXO Corp,CAD,,2020-12-23,3245202.4211
 HIRE.V,Hire Technologies Inc,CAD,,2020-04-21,56779.3158
 HITI.V,High Tide Inc.,CAD,,2018-12-17,11025911.4211
 HIVE.V,HIVE Blockchain Technologies Ltd,CAD,"Software, Internet, Technology",2001-09-04,9117960.5789
+HME.V,Hemisphere Energy Corp,CAD,,2001-09-04,208377.2632
 HOC.V,Hunter Technology Corp,CAD,,2020-11-05,222496.5789
 HOT-UN.TO,American Hotel Income Properties REIT LP,CAD,"Real Estate, Finance",2013-02-20,122249.7500
 HPQ.V,HPQ-Silicon Resources Inc,CAD,,2002-06-06,2222643.3158
@@ -484,6 +488,7 @@ IPA.V,ImmunoPrecise Antibodies Ltd,CAD,,2020-11-23,84715.9474
 IPCI.TO,Intellipharmaceutics International Inc,CAD,,2009-10-22,111498.3684
 IPCO.TO,International Petroleum Corp.,CAD,,2017-04-24,113699.3684
 IPL.TO,Inter Pipeline Ltd,CAD,"Energy, Oil and Gas",2013-09-05,2369075.1579
+IPO.TO,InPlay Oil Corp,CAD,"Energy, Oil and Gas",2015-01-27,218207.7895
 IPT.V,Impact Silver Corp.,CAD,"Mining, Materials",2002-05-20,467047.3684
 IQ.V,"Airiq, Inc",CAD,,2009-09-09,70067.7368
 ISO.V,IsoEnergy Ltd.,CAD,"Mining, Materials",2016-10-19,349773.3684
@@ -499,6 +504,7 @@ JNH.V,Jack Nathan Medical Corp.,CAD,,2020-10-06,187757.9474
 JOSE.TO,Josemaria Resources Inc,CAD,"Mining, Materials",1994-07-14,191962.4211
 JOY.TO,Journey Energy Inc,CAD,,2014-06-19,52100.3158
 JRV.V,Jervois Mining Ltd.,CAD,,2019-06-21,325186.7368
+JUGR.V,Juggernaut Exploration Ltd,CAD,,2019-10-17,157224.5263
 JUMP.V,Leveljump Healthcare Corp.,CAD,,2020-02-13,137825.7368
 JWEL.TO,Jamieson Wellness Inc,CAD,,2017-07-07,112718.3158
 K.TO,Kinross Gold Corp.,CAD,,1983-07-26,4756475.5263
@@ -536,7 +542,7 @@ LBS.TO,Life & Banc Split Corp (Class A),CAD,,2006-10-17,110174.7895
 LEAF.TO,Leaf Mobile Inc,CAD,,2019-09-05,2222145.7500
 LFE.TO,Canadian Life Companies Split Corp (Class A),CAD,Finance,2005-04-15,43120.2632
 LGD.TO,Liberty Gold Corp.,CAD,,2011-04-11,551972.8421
-LGO.TO,Largo Resources Ltd.,CAD,"Mining, Materials",2016-07-04,1078028.4211
+LGO.TO,Largo Resources Ltd.,CAD,,2021-03-08,107802.8421
 LI.V,American Lithium Corp,CAD,,2019-10-10,2305862.7368
 LIF.TO,Labrador Iron Ore Royalty Corp,CAD,,2012-10-05,250021.2105
 LIO.V,Lion One Metals Ltd,CAD,"Mining, Materials",2002-06-26,151321.2632
@@ -545,6 +551,7 @@ LITH.V,Lithium Chile Inc,CAD,,2011-02-28,1519189.1053
 LLG.V,Mason Graphite Inc,CAD,"Mining, Materials",2011-07-19,706196.8947
 LN.TO,Loncor Resources Inc,CAD,,2013-04-26,79520.3158
 LNR.TO,Linamar Corp.,CAD,,1986-01-30,119251.6316
+LOOP.V,LOOPShare Ltd (Class A),CAD,,2021-03-11,22888.0158
 LPEN.TO,Loop Energy Inc,CAD,,2021-02-25,881344.5000
 LPS.V,Legend Power Systems Inc.,CAD,"Manufacturing, Clean Energy, Electronics, Engineering, Technology",2001-09-04,261432.1053
 LR.V,Luminex Resources Corp,CAD,,2018-09-05,127038.1579
@@ -596,9 +603,9 @@ MMS.V,Macarthur Minerals Ltd,CAD,,2002-05-10,237949.1053
 MMX.TO,Maverix Metals Inc,CAD,,2019-06-25,79552.8947
 MN.V,Manganese X Energy Corp,CAD,,2008-07-17,2031452.0000
 MND.TO,Mandalay Resources Corp,CAD,,2010-06-29,49135.8947
+MNOW.V,Mednow Inc (Class A),CAD,,2021-03-09,0.0000
 MOGO.TO,Mogo Inc,CAD,,1993-12-09,865582.5263
 MON.V,Montero Mining and Exploration Ltd,CAD,,2011-02-15,46154.4737
-MOX.V,Morien Resources Corp,CAD,"Mining, Materials",2012-11-09,46573.5263
 MOZ.TO,Marathon Gold Corporation,CAD,,2010-12-03,785323.9474
 MPCT-UN.TO,Dream Impact Trust,CAD,,2020-10-29,55982.3000
 MPVD.TO,Mountain Province Diamonds Inc,CAD,"Mining, Materials",1999-01-22,110886.2632
@@ -647,7 +654,7 @@ NGLD.V,New Placer Dome Gold Corp.,CAD,,2019-04-24,272035.2632
 NGT.TO,Newmont Corp,CAD,,2019-04-22,127923.1579
 NHK.TO,Nighthawk Gold Corp,CAD,,2020-01-13,129594.3684
 NICL.V,Nickel Rock Resources Inc.,CAD,,2020-11-09,380103.3158
-NKL.V,Conic Metals Corp,CAD,,2019-11-04,159155.4737
+NKL.V,Nickel 28 Capital Corp,CAD,,2021-03-10,159155.4737
 NLC.V,Neo Lithium Corp,CAD,"Manufacturing, Mining, Materials",2015-01-15,621604.8947
 NLH.V,Nova Leap Health Corp,CAD,,2016-04-26,61848.7368
 NNO.V,Nano One Materials Corp,CAD,,2002-06-19,261724.3158
@@ -675,6 +682,7 @@ NWST.V,Northwest Copper Corp,CAD,,2021-03-05,58419.1842
 NWX.V,Newport Exploration Ltd,CAD,,2001-09-04,123099.3684
 NXE.TO,NexGen Energy Ltd,CAD,,2016-07-15,3190722.2105
 NXO.V,Nexoptic Technology Corp,CAD,"Mining, Materials",2011-03-28,274344.5263
+NXR-UN.TO,Nexus Real Estate Investment Trust. - Unit,CAD,,2021-01-29,9855.7719
 OBE.TO,Obsidian Energy Ltd,CAD,,2011-01-10,105502.2105
 OCG.V,Outcrop Gold Corp,CAD,,2002-05-23,322895.8947
 OCO.V,Oroco Resource Corp,CAD,"Mining, Materials",2008-03-18,180672.5263
@@ -824,6 +832,7 @@ SCL.TO,ShawCor Ltd.,CAD,"Manufacturing, Machinery, Consulting, Engineering",2013
 SCOT.V,Scottie Resources Corp,CAD,,2011-10-07,269458.8947
 SCR.TO,Score Media and Gaming Inc (Class A),CAD,,2021-02-18,638208.7105
 SCZ.V,Santacruz Silver Mining Ltd,CAD,,2011-10-07,686578.5789
+SDE-R.V,Subscription Receipts - March 2021,CAD,,2021-03-08,0.0000
 SDE.V,Spartan Delta Corp.,CAD,,2020-05-29,223792.8947
 SEA.TO,"Seabridge Gold, Inc.",CAD,"Mining, Materials",2008-07-14,98159.8421
 SES.TO,Secure Energy Services Inc,CAD,"Manufacturing, Machinery, Oil and Gas, Mining, Engineering",2010-03-30,806704.6316
@@ -853,7 +862,6 @@ SMN.V,Sun Summit Minerals Corp,CAD,,2020-11-02,186199.5789
 SMP.V,Southern Empire Resources Corp,CAD,,2019-09-05,97020.4211
 SMT.TO,Sierra Metals Inc,CAD,"Mining, Materials",2013-07-08,159029.1053
 SMU-UN.TO,Summit Industrial Income REIT,CAD,"Real Estate, Finance",2013-11-11,345694.7500
-SMVEN.NE,Silver Maple Ventures Inc,CAD,,2019-06-13,0
 SNC.TO,SNC - Lavalin Group Inc.,CAD,"Manufacturing, Consulting, Construction, Engineering",1986-06-11,778990.5263
 SOLG.TO,SolGold Plc,CAD,,2017-07-14,180964.0526
 SOLR.V,Solar Alliance Energy Inc.,CAD,,2017-12-18,3936112.2632
@@ -862,6 +870,7 @@ SOT-UN.TO,Slate Office Real Estate Investment Trust,CAD,"Real Estate, Finance",2
 SOY.TO,"Sunopta, Inc.",CAD,"Food, Manufacturing, Consumer Products",2001-11-06,239082.3684
 SPA.V,Spanish Mountain Gold Ltd,CAD,,2002-05-01,382099.8421
 SPB.TO,Superior Plus Corp,CAD,"Energy, Oil and Gas, Materials",2009-01-07,761110.3684
+SPC.V,SPC Nickel Corp.,CAD,,2021-03-08,0.0000
 SPG.TO,Spark Power Group Inc,CAD,"Energy, Oil and Gas, Utilities",2018-09-05,75588.2105
 SQD.V,SQI Diagnostics Inc,CAD,,2005-02-09,329596.7368
 SRG.V,SRG Mining Inc,CAD,,2001-09-04,115140.8947
@@ -879,6 +888,7 @@ STEP.TO,STEP Energy Services Ltd,CAD,"Energy, Oil and Gas",2017-05-02,59662.7368
 STGO.TO,Steppe Gold Ltd,CAD,,2018-05-22,85527.2105
 STLC.TO,Stelco Holdings Inc,CAD,"Manufacturing, Mining, Engineering, Materials",2017-11-10,345989.3684
 STN.TO,Stantec Inc,CAD,"Construction, Engineering",2001-09-04,322454.6316
+STNG.V,Stinger Resources Inc,CAD,Recent IPOs,2021-02-17,0.0000
 STRR.V,Star Royalties Ltd.,CAD,,2021-02-19,572237.0000
 SU.TO,"Suncor Energy, Inc.",CAD,"Energy, Oil and Gas",1993-03-18,14042410.1053
 SUP.V,Northern Superior Resources Inc,CAD,,2001-09-04,74069.4737
@@ -888,6 +898,7 @@ SVB.TO,Silver Bull Resources Inc,CAD,,2020-09-18,92799.1053
 SVE.V,Silver One Resources Inc,CAD,,2008-03-04,610086.1053
 SVI.V,Storagevault Canada Inc,CAD,"Real Estate, Logistics",2007-11-12,179528.8421
 SVM.TO,Silvercorp Metals Inc,CAD,"Mining, Materials",2005-10-24,1012619.6842
+SVTN.V,Silverton Metals Corp,CAD,,2021-03-05,0.0000
 SW.TO,Sierra Wireless Inc,CAD,"Telecommunications, Manufacturing, Electronics, Software, Internet, Technology",1999-05-10,96126.1579
 SXP.TO,Supremex Inc,CAD,"Cannabis, Consumer Products",2011-01-04,78794.5263
 SYZ.V,"Sylogist, Ltd",CAD,,2001-09-04,73828.4211
@@ -916,7 +927,6 @@ TH.TO,Theratechnologies Inc.,CAD,"Manufacturing, Healthcare, Pharmaceuticals",19
 THNK.V,Think Research Corporation,CAD,,2020-12-30,59338.6842
 THRM.V,Therma Bright Inc,CAD,,2002-06-22,3929997.8947
 TI.TO,Titan Mining Corp,CAD,"Mining, Materials",2017-10-19,74516.4211
-TIC.V,"Titanium Corporation, Inc.",CAD,,2002-06-25,185125.4211
 TIH.TO,Toromont Industries Ltd.,CAD,"Machinery, Construction",1968-12-31,122335.3684
 TIXT.TO,TELUS International Cda Inc,CAD,,2021-01-15,208299.1765
 TKO.TO,Taseko Mines Ltd.,CAD,"Mining, Materials",2006-03-08,937684.1579
@@ -942,7 +952,6 @@ TRQ.TO,Turquoise Hill Resources Ltd,CAD,,2020-10-26,369468.2105
 TRZ.TO,"Transat A.T., Inc.",CAD,Travel,2015-11-16,266606.8421
 TSK.TO,Talisker Resources Ltd,CAD,,2019-04-26,321634.2105
 TSU.TO,Trisura Group Ltd,CAD,,2017-06-22,71624.0000
-TTR.V,Titanium Transportation Group Inc,CAD,"Logistics, Transportation",2015-04-16,106641.4211
 TUD.V,Tudor Gold Corp,CAD,,2010-07-08,161294.2632
 TUO.V,Teuton Resources Corp.,CAD,"Mining, Materials",2002-04-10,75110.1053
 TVE.TO,Tamarack Valley Energy Ltd,CAD,"Energy, Oil and Gas",2015-08-24,3485238.1579
@@ -964,6 +973,7 @@ VET.TO,Vermilion Energy Inc,CAD,"Energy, Oil and Gas",2010-09-07,2392781.5263
 VFF.TO,Village Farms International Inc,CAD,"Agriculture, Biotechnology",2010-01-05,1023845.2632
 VG.V,Volcanic Gold Mines Inc,CAD,,2008-04-17,95946.0000
 VGCX.TO,Victoria Gold Corp,CAD,,2019-11-20,193793.2632
+VGLD.V,Vangold Mining Corp,CAD,,2001-09-04,936933.5263
 VHI.V,Vitalhub Corp,CAD,,2020-01-06,126138.2632
 VII.TO,Seven Generations Energy Ltd. (Class A),CAD,"Energy, Oil and Gas",2014-11-05,2343447.1053
 VIPR.V,Silver Viper Minerals Corp,CAD,,2017-09-27,85641.6316
@@ -1002,7 +1012,7 @@ WISH.V,Wishpond Technologies Ltd.,CAD,,2020-12-11,134454.8947
 WJX.TO,Wajax Corp,CAD,Machinery,2011-01-04,84642.3684
 WLLW.TO,Willow Biosciences Inc,CAD,,2017-09-14,707469.2632
 WM.TO,Wallbridge Mining Company Ltd.,CAD,,2000-07-24,916764.3158
-WMD.V,WeedMD Inc,CAD,,2014-11-13,2147509.6842
+WMD.V,WeedMD Inc,CAD,Cannabis,2014-11-13,2147509.6842
 WN.TO,George Weston Ltd.,CAD,"Food, Manufacturing, Retail, Consumer Products",1929-04-19,170562.0000
 WPK.TO,"Winpak, Ltd.",CAD,"Manufacturing, Materials",1986-08-28,44680.9474
 WPM.TO,Wheaton Precious Metals Corp,CAD,"Mining, Materials",2004-10-22,1093841.6842

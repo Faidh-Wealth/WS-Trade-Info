@@ -9,7 +9,7 @@ ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,USD,ETFs,2012-04-11,3015565
 BBH,VanEck Vectors Biotech ETF,USD,ETFs,2016-02-01,14137.5789
 BIB,ProShares Ultra Nasdaq Biotechnology,USD,ETFs,2010-04-08,135571.0526
 BIS,ProShares UltraShort Nasdaq Biotechnology,USD,,2020-08-19,129550.4737
-BJK,VanEck Vectors Gaming ETF,USD,ETFs,2008-11-21,53877.3684
+BJK,VanEck Vectors Gaming ETF,USD,ETFs,2008-11-21,0
 BND,Vanguard Total Bond Market ETF,USD,ETFs,2019-10-15,5387628.7895
 BNDX,Vanguard Total International Bond ETF,USD,ETFs,2013-06-04,3789629.7895
 BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF,USD,ETFs,2016-09-13,1071933.9474
@@ -28,6 +28,7 @@ FTC,First Trust Large Capital Growth AlphaDEX Fund,USD,,2016-04-08,52498.6316
 FTHI,First Trust BuyWrite Income ETF,USD,ETFs,2014-01-07,10745.4211
 FTSL,First Trust Senior Loan Fund ETF,USD,ETFs,2013-05-02,391510.7368
 GNMA,BTC iShares GNMA Bond ETF,USD,ETFs,2012-02-16,85662.3158
+HLAL,Wahed FTSE USA Shariah ETF,USD,,2019-07-16,21280.1579
 IBB,BTC iShares Nasdaq Biotechnology ETF,USD,ETFs,2008-09-23,2756173.2105
 ICLN,BTC iShares Global Clean Energy ETF,USD,ETFs,2008-06-25,8123689.1053
 IEF,BTC iShares 7-10 Year Treasury Bond ETF,USD,ETFs,2017-08-02,8095490.3158
