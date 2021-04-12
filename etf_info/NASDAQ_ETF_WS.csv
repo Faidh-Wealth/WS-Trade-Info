@@ -1,110 +1,111 @@
 symbol,name,currency,sector,active_date,avg_daily_volume_last_month
-AAXJ,BTC iShares MSCI All Country Asia ex Japan ETF,USD,ETFs,2008-08-15,1265450.7368
-ACWI,BTC iShares MSCI ACWI ETF,USD,ETFs,2008-03-28,3693214.7895
-ACWX,BTC iShares MSCI ACWI ex US ETF,USD,ETFs,2008-03-28,1040894.0000
-ADRE,Invesco BLDRS Emerging Markets 50  Index Fund,USD,,2007-03-05,34996.5263
-AIA,BTC iShares Asia 50 ETF,USD,ETFs,2016-02-02,319450.6842
-AIRR,First Trust RBA American Industrial Renaissance ETF,USD,ETFs,2014-03-11,34311.4211
-ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,USD,ETFs,2012-04-11,3015565.8947
-BBH,VanEck Vectors Biotech ETF,USD,ETFs,2016-02-01,14137.5789
-BIB,ProShares Ultra Nasdaq Biotechnology,USD,ETFs,2010-04-08,135571.0526
-BIS,ProShares UltraShort Nasdaq Biotechnology,USD,,2020-08-19,129550.4737
-BJK,VanEck Vectors Gaming ETF,USD,ETFs,2008-11-21,0
-BND,Vanguard Total Bond Market ETF,USD,ETFs,2019-10-15,5387628.7895
-BNDX,Vanguard Total International Bond ETF,USD,ETFs,2013-06-04,3789629.7895
-BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF,USD,ETFs,2016-09-13,1071933.9474
-DAX,Global X DAX Germany ETF,USD,,2018-12-24,7883.8947
-DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,USD,ETFs,2013-08-01,28444.3684
-DGRW,WisdomTree U.S. Quality Dividend Growth Fund,USD,ETFs,2013-05-22,333724.2632
-DRIV,Global X Autonomous & Electric Vehicles ETF,USD,,2018-04-17,1045865.4737
-DVY,BTC iShares Select Dividend ETF,USD,ETFs,2017-08-02,527828.6316
-EMB,BTC iShares J.P. Morgan USD Emerging Markets Bond ETF,USD,ETFs,2017-08-02,5110228.8421
-EMIF,BTC iShares Emerging Markets Infrastructure ETF,USD,ETFs,2009-06-19,3368.4737
-ENZL,iShares MSCI New Zealand ETF,USD,ETFs,2016-02-02,50207.0526
-ESGE,iShares Inc iShares ESG MSCI EM ETF,USD,ETFs,2016-06-30,1838846.7368
-EUFN,BTC iShares MSCI Europe Financials ETF,USD,ETFs,2010-01-22,1704831.4211
-FEX,First Trust Large Cap Core AlphaDEX Fund,USD,ETFs,2016-04-08,43734.0000
-FTC,First Trust Large Capital Growth AlphaDEX Fund,USD,,2016-04-08,52498.6316
-FTHI,First Trust BuyWrite Income ETF,USD,ETFs,2014-01-07,10745.4211
-FTSL,First Trust Senior Loan Fund ETF,USD,ETFs,2013-05-02,391510.7368
-GNMA,BTC iShares GNMA Bond ETF,USD,ETFs,2012-02-16,85662.3158
-HLAL,Wahed FTSE USA Shariah ETF,USD,,2019-07-16,21280.1579
-IBB,BTC iShares Nasdaq Biotechnology ETF,USD,ETFs,2008-09-23,2756173.2105
-ICLN,BTC iShares Global Clean Energy ETF,USD,ETFs,2008-06-25,8123689.1053
-IEF,BTC iShares 7-10 Year Treasury Bond ETF,USD,ETFs,2017-08-02,8095490.3158
-IEI,BTC iShares 3-7 Year Treasury Bond ETF,USD,ETFs,2017-08-02,1330114.8421
-IFGL,BTC iShares International Developed Real Estate ETF,USD,ETFs,2007-11-16,43776.2632
-IGF,BTC iShares Global Infrastructure ETF,USD,ETFs,2016-02-02,375849.3684
-IGIB,iShares Intermediate-Term Corporate Bond ETF,USD,ETFs,2017-08-02,1659234.4211
-IGOV,BTC iShares International Treasury Bond ETF,USD,ETFs,2009-01-21,307542.4211
-IGSB,iShares Short-Term Corporate Bond ETF,USD,,2017-08-02,3004166.5789
-IJT,BTC iShares S&P Small-Cap 600 Growth ETF,USD,ETFs,2017-08-02,628510.5789
-INDY,BTC iShares India 50 ETF,USD,ETFs,2009-11-20,92198.7895
-IPKW,Invesco International BuyBack Achievers TM ETF,USD,,2014-02-27,7742.3684
-IUSG,BTC iShares Core S&P U.S.Growth ETF,USD,ETFs,2017-08-02,373095.8421
-IUSV,BTC iShares Core S&P U.S.Value ETF,USD,ETFs,2017-08-02,506639.3684
-JKI,BTC iShares Morningstar Mid-Cap Value ETF,USD,ETFs,2016-02-02,6500.7895
-KBWD,Invesco Capital Management LLC - Invesco KBW High Dividend Yield Financial ETF,USD,,2016-12-07,196933.5263
-KBWR,Invesco KBW Regional Banking ETF,USD,,2016-12-07,18416.5789
-KBWY,Invesco Capital Management LLC - Invesco KBW Premium Yield Equity REIT ETF,USD,,2016-12-07,282929.1579
-KRMA,Global X Conscious Companies ETF,USD,ETFs,2016-07-12,17497.3684
-MBB,BTC iShares MBS ETF,USD,ETFs,2017-08-02,1576520.5263
-MCHI,BTC iShares MSCI China ETF,USD,ETFs,2016-02-02,3847455.1053
-ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund,USD,ETFs,2007-03-05,41834.4211
-PDP,Invesco DWA Momentum ETF,USD,,2016-12-07,104451.6316
-PEY,Invesco High Yield Equity Dividend Achievers ETF,USD,ETFs,2016-12-07,169752.2105
-PEZ,Invesco DWA Consumer Cyclicals Momentum ETF,USD,,2016-12-07,26669.6316
-PFF,iShares Trust iShares Preferred and Income Securities ETF,USD,ETFs,2017-08-02,7573766.5263
-PFI,Invesco DWA Financial Momentum ETF,USD,,2016-12-07,7515.3158
-PFM,Invesco Dividend Achievers ETF,USD,ETFs,2016-12-07,65327.3158
-PGJ,Invesco Golden Dragon China ETF,USD,ETFs,2016-12-07,71556.0000
-PHO,Invesco Water Resources ETF,USD,ETFs,2016-12-07,97733.9474
-PID,Invesco International Dividend Achievers ETF,USD,ETFs,2016-12-07,84080.5789
-PIE,Invesco DWA Emerging Markets Momentum ETF,USD,,2016-12-07,81272.4211
-PIO,Invesco Global Water ETF,USD,,2016-12-07,31270.7368
-PIZ,Invesco DWA Developed Markets Momentum ETF,USD,,2016-12-07,65074.0000
-PKW,Invesco BuyBack Achievers ETF,USD,,2016-12-07,361073.5789
-PLW,Invesco 1-30 Laddered Treasury ETF,USD,,2016-12-07,54848.7368
-PNQI,Invesco NASDAQ Internet ETF,USD,,2008-06-12,24014.8947
-PPH,VanEck Vectors Pharmaceutical ETF,USD,ETFs,2016-02-01,79947.8947
-PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,USD,ETFs,2006-09-20,37369.9474
-PRN,Invesco DWA Industrials Momentum ETF,USD,,2016-12-07,42003.7895
-PSCH,Invesco Capital Management LLC - Invesco S&P SmallCap Health Care ETF,USD,,2010-04-07,17324.3158
-PSL,Invesco DWA Consumer Staples Momentum ETF,USD,,2016-12-07,7226.4737
-PTH,Invesco DWA Healthcare Momentum ETF,USD,ETFs,2016-12-07,54342.5263
-PXI,Invesco DWA Energy Momentum ETF,USD,,2016-12-07,121482.4737
-PYZ,Invesco DWA Basic Materials Momentum ETF,USD,,2016-12-07,19743.8947
-QCLN,First Trust Exchange-Traded Fund III - First Trust Nasdaq Clean Edge Green Energy Index Fund,USD,ETFs,2007-02-08,973962.0526
-QQQ,Invesco QQQ Trust Series 1,USD,ETFs,2011-03-23,41872414.8421
-QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund,USD,ETFs,2006-04-19,200393.7368
-RDVY,First Trust Rising Dividend Achievers ETF,USD,ETFs,2014-01-07,676415.2632
-RING,BTC iShares MSCI Global Gold Miners ETF,USD,ETFs,2017-08-02,142023.3158
-RTH,VanEck Vectors Retail ETF,USD,ETFs,2011-12-21,18475.5789
-SCZ,BTC iShares MSCI EAFE Small-Cap ETF,USD,ETFs,2016-02-02,1740046.2105
-SDG,iShares MSCI Global Impact ETF,USD,ETFs,2016-04-22,40494.1053
-SHV,BTC iShares Short Treasury Bond ETF,USD,ETFs,2017-08-02,1478795.4737
-SHY,BTC iShares 1-3 Year Treasury Bond ETF,USD,ETFs,2017-08-02,3135647.2105
-SKYY,First Trust Cloud Computing ETF,USD,ETFs,2011-07-06,528113.3158
-SMH,VanEck Vectors Semiconductor ETF,USD,ETFs,2011-12-21,3826033.7368
-SOCL,Global X Social Media ETF,USD,ETFs,2011-11-15,90139.9474
-SOXX,BTC iShares PHLX Semiconductor ETF,USD,ETFs,2010-10-15,880386.8421
-SQQQ,ProShares UltraPro Short QQQ,USD,,2020-08-18,89554638.8947
-SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF,USD,,2017-07-13,215978.9474
-TLT,BTC iShares 20+ Year Treasury Bond ETF,USD,ETFs,2016-02-02,15272739.2105
-TQQQ,ProShares UltraPro QQQ,USD,,2010-02-11,28903864.4737
-TUR,BTC iShares MSCI Turkey ETF,USD,ETFs,2017-08-02,334206.0000
-UAE,iShares MSCI UAE ETF,USD,ETFs,2014-05-01,10452.6842
-USIG,iShares Broad USD Investment Grade Corporate Bond ETF,USD,ETFs,2017-08-02,992685.5789
-VCIT,Vanguard Intermediate-Term Corporate Bond ETF,USD,ETFs,2009-11-23,4394859.2632
-VCSH,Vanguard Short-Term Corporate Bond ETF,USD,ETFs,2019-10-15,3541864.4211
-VGLT,Vanguard Long-Term Treasury ETF,USD,,2009-11-23,729728.6842
-VGSH,Vanguard Short-Term Treasury ETF,USD,ETFs,2009-11-23,1442022.5263
-VNQI,Vanguard Global ex-U.S. Real Estate ETF,USD,ETFs,2010-11-01,320880.4737
-VONV,"Vanguard Group, Inc. - Vanguard Russell 1000 Value Index ETF",USD,ETFs,2010-09-22,186104.5263
-VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,USD,ETFs,2012-10-16,1567308.7895
-VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",USD,ETFs,2010-09-22,63378.6316
-VWOB,Vanguard Emerging Markets Government Bond ETF,USD,ETFs,2013-06-04,426766.8947
-VXUS,Vanguard Total International Stock ETF,USD,ETFs,2011-01-28,3411453.6842
-VYMI,Vanguard International High Dividend Yield ETF,USD,ETFs,2016-03-02,281841.8947
-WOOD,BTC iShares Global Timber & Forestry ETF,USD,ETFs,2008-06-25,44735.1579
-XT,BTC iShares Exponential Technologies ETF,USD,ETFs,2017-08-02,274772.0000
+AAXJ,BTC iShares MSCI All Country Asia ex Japan ETF,USD,ETFs,2008-08-15,863994.3478
+ACWI,BTC iShares MSCI ACWI ETF,USD,ETFs,2008-03-28,3696023.0000
+ACWX,BTC iShares MSCI ACWI ex US ETF,USD,ETFs,2008-03-28,1924850.1304
+ADRE,Invesco BLDRS Emerging Markets 50  Index Fund,USD,,2007-03-05,26461.8261
+AIA,BTC iShares Asia 50 ETF,USD,ETFs,2016-02-02,429115.3043
+AIRR,First Trust RBA American Industrial Renaissance ETF,USD,ETFs,2014-03-11,91818.1739
+ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,USD,ETFs,2012-04-11,2464049.6087
+BBH,VanEck Vectors Biotech ETF,USD,ETFs,2016-02-01,10783.0000
+BIB,ProShares Ultra Nasdaq Biotechnology,USD,ETFs,2010-04-08,141101.6957
+BIS,ProShares UltraShort Nasdaq Biotechnology,USD,,2020-08-19,92182.8261
+BJK,VanEck Vectors Gaming ETF,USD,ETFs,2008-11-21,74240.0000
+BND,Vanguard Total Bond Market ETF,USD,ETFs,2019-10-15,5708291.9130
+BNDX,Vanguard Total International Bond ETF,USD,ETFs,2013-06-04,2968911.2609
+BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF,USD,ETFs,2016-09-13,1062948.9565
+DAX,Global X DAX Germany ETF,USD,,2018-12-24,8520.7826
+DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,USD,ETFs,2013-08-01,12494.6957
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,USD,ETFs,2013-05-22,347360.2609
+DRIV,Global X Autonomous & Electric Vehicles ETF,USD,,2018-04-17,593378.0870
+DVY,BTC iShares Select Dividend ETF,USD,ETFs,2017-08-02,993438.5217
+EMB,BTC iShares J.P. Morgan USD Emerging Markets Bond ETF,USD,ETFs,2017-08-02,6336800.6087
+EMIF,BTC iShares Emerging Markets Infrastructure ETF,USD,ETFs,2009-06-19,4954.3478
+ENZL,iShares MSCI New Zealand ETF,USD,ETFs,2016-02-02,36084.1739
+ESGE,iShares Inc iShares ESG MSCI EM ETF,USD,ETFs,2016-06-30,1991355.6957
+ESPO,VanEck Vectors Video Gaming and eSports ETF,USD,,2018-10-17,161259.7391
+EUFN,BTC iShares MSCI Europe Financials ETF,USD,ETFs,2010-01-22,2167812.5217
+FEX,First Trust Large Cap Core AlphaDEX Fund,USD,ETFs,2016-04-08,50814.6957
+FTC,First Trust Large Capital Growth AlphaDEX Fund,USD,,2016-04-08,40427.1739
+FTHI,First Trust BuyWrite Income ETF,USD,ETFs,2014-01-07,10191.5217
+FTSL,First Trust Senior Loan Fund ETF,USD,ETFs,2013-05-02,560440.9565
+GNMA,BTC iShares GNMA Bond ETF,USD,ETFs,2012-02-16,44170.7826
+HLAL,Wahed FTSE USA Shariah ETF,USD,,2019-07-16,18979.3478
+IBB,BTC iShares Nasdaq Biotechnology ETF,USD,ETFs,2008-09-23,4121442.9130
+ICLN,BTC iShares Global Clean Energy ETF,USD,ETFs,2008-06-25,8538193.5652
+IEF,BTC iShares 7-10 Year Treasury Bond ETF,USD,ETFs,2017-08-02,7859422.0870
+IEI,BTC iShares 3-7 Year Treasury Bond ETF,USD,ETFs,2017-08-02,1519379.4348
+IFGL,BTC iShares International Developed Real Estate ETF,USD,ETFs,2007-11-16,24099.3478
+IGF,BTC iShares Global Infrastructure ETF,USD,ETFs,2016-02-02,262285.3043
+IGIB,iShares Intermediate-Term Corporate Bond ETF,USD,ETFs,2017-08-02,1873562.9565
+IGOV,BTC iShares International Treasury Bond ETF,USD,ETFs,2009-01-21,323211.8696
+IGSB,iShares Short-Term Corporate Bond ETF,USD,,2017-08-02,4091317.0870
+IJT,BTC iShares S&P Small-Cap 600 Growth ETF,USD,ETFs,2017-08-02,266221.3913
+IMCV,BTC iShares Morningstar Mid-Cap Value ETF,USD,ETFs,2016-02-02,7140.1739
+INDY,BTC iShares India 50 ETF,USD,ETFs,2009-11-20,70253.8696
+IPKW,Invesco International BuyBack Achievers TM ETF,USD,,2014-02-27,9510.4348
+IUSG,BTC iShares Core S&P U.S.Growth ETF,USD,ETFs,2017-08-02,483912.3043
+IUSV,BTC iShares Core S&P U.S.Value ETF,USD,ETFs,2017-08-02,563835.3478
+KBWD,Invesco Capital Management LLC - Invesco KBW High Dividend Yield Financial ETF,USD,,2016-12-07,196602.6522
+KBWR,Invesco KBW Regional Banking ETF,USD,,2016-12-07,37907.2174
+KBWY,Invesco Capital Management LLC - Invesco KBW Premium Yield Equity REIT ETF,USD,,2016-12-07,212105.8696
+KRMA,Global X Conscious Companies ETF,USD,ETFs,2016-07-12,26015.9565
+MBB,BTC iShares MBS ETF,USD,ETFs,2017-08-02,2057275.0000
+MCHI,BTC iShares MSCI China ETF,USD,ETFs,2016-02-02,4662798.7391
+ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund,USD,ETFs,2007-03-05,500491.3043
+PDP,Invesco DWA Momentum ETF,USD,,2016-12-07,182746.4783
+PEY,Invesco High Yield Equity Dividend Achievers ETF,USD,ETFs,2016-12-07,222346.0435
+PEZ,Invesco DWA Consumer Cyclicals Momentum ETF,USD,,2016-12-07,36233.5217
+PFF,iShares Trust iShares Preferred and Income Securities ETF,USD,ETFs,2017-08-02,4412221.1304
+PFI,Invesco DWA Financial Momentum ETF,USD,,2016-12-07,6750.3913
+PFM,Invesco Dividend Achievers ETF,USD,ETFs,2016-12-07,107139.7391
+PGJ,Invesco Golden Dragon China ETF,USD,ETFs,2016-12-07,69925.5217
+PHO,Invesco Water Resources ETF,USD,ETFs,2016-12-07,70487.6957
+PID,Invesco International Dividend Achievers ETF,USD,ETFs,2016-12-07,92273.8261
+PIE,Invesco DWA Emerging Markets Momentum ETF,USD,,2016-12-07,65079.5652
+PIO,Invesco Global Water ETF,USD,,2016-12-07,21152.0870
+PIZ,Invesco DWA Developed Markets Momentum ETF,USD,,2016-12-07,19562.1304
+PKW,Invesco BuyBack Achievers ETF,USD,,2016-12-07,160404.9565
+PLW,Invesco 1-30 Laddered Treasury ETF,USD,,2016-12-07,18647.0870
+PNQI,Invesco NASDAQ Internet ETF,USD,,2008-06-12,30669.6522
+PPH,VanEck Vectors Pharmaceutical ETF,USD,ETFs,2016-02-01,148721.8696
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,USD,ETFs,2006-09-20,34034.4348
+PRN,Invesco DWA Industrials Momentum ETF,USD,,2016-12-07,51570.7391
+PSCH,Invesco Capital Management LLC - Invesco S&P SmallCap Health Care ETF,USD,,2010-04-07,14596.6087
+PSL,Invesco DWA Consumer Staples Momentum ETF,USD,,2016-12-07,6172.5217
+PTH,Invesco DWA Healthcare Momentum ETF,USD,ETFs,2016-12-07,103518.4348
+PXI,Invesco DWA Energy Momentum ETF,USD,,2016-12-07,251004.7826
+PYZ,Invesco DWA Basic Materials Momentum ETF,USD,,2016-12-07,23246.6957
+QCLN,First Trust Exchange-Traded Fund III - First Trust Nasdaq Clean Edge Green Energy Index Fund,USD,ETFs,2007-02-08,779680.8696
+QQQ,Invesco QQQ Trust Series 1,USD,ETFs,2011-03-23,70502838.3913
+QQQJ,Invesco NASDAQ Next Gen 100 ETF,USD,,2020-10-13,856890.1304
+QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund,USD,ETFs,2006-04-19,595410.0870
+RDVY,First Trust Rising Dividend Achievers ETF,USD,ETFs,2014-01-07,919420.0435
+RING,BTC iShares MSCI Global Gold Miners ETF,USD,ETFs,2017-08-02,256251.2174
+RTH,VanEck Vectors Retail ETF,USD,ETFs,2011-12-21,14196.3043
+SCZ,BTC iShares MSCI EAFE Small-Cap ETF,USD,ETFs,2016-02-02,2271480.6957
+SDG,iShares MSCI Global Impact ETF,USD,ETFs,2016-04-22,24338.5652
+SHV,BTC iShares Short Treasury Bond ETF,USD,ETFs,2017-08-02,2222678.1739
+SHY,BTC iShares 1-3 Year Treasury Bond ETF,USD,ETFs,2017-08-02,3062108.7826
+SMH,VanEck Vectors Semiconductor ETF,USD,ETFs,2011-12-21,5455745.3478
+SOCL,Global X Social Media ETF,USD,ETFs,2011-11-15,117137.0000
+SOXX,BTC iShares PHLX Semiconductor ETF,USD,ETFs,2010-10-15,1727915.3043
+SQQQ,ProShares UltraPro Short QQQ,USD,,2020-08-18,126676306.4348
+SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF,USD,,2017-07-13,247964.1739
+TLT,BTC iShares 20+ Year Treasury Bond ETF,USD,ETFs,2016-02-02,17104584.7391
+TQQQ,ProShares UltraPro QQQ,USD,,2010-02-11,50154116.3478
+TUR,BTC iShares MSCI Turkey ETF,USD,ETFs,2017-08-02,834468.3913
+UAE,iShares MSCI UAE ETF,USD,ETFs,2014-05-01,16350.5217
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,USD,ETFs,2009-11-23,3985488.7391
+VCSH,Vanguard Short-Term Corporate Bond ETF,USD,ETFs,2019-10-15,3375439.1304
+VGLT,Vanguard Long-Term Treasury ETF,USD,,2009-11-23,705925.1739
+VGSH,Vanguard Short-Term Treasury ETF,USD,ETFs,2009-11-23,1218301.0000
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,USD,ETFs,2010-11-01,278766.7826
+VONV,"Vanguard Group, Inc. - Vanguard Russell 1000 Value Index ETF",USD,ETFs,2010-09-22,373261.4783
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,USD,ETFs,2012-10-16,1609300.8261
+VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",USD,ETFs,2010-09-22,108862.0870
+VWOB,Vanguard Emerging Markets Government Bond ETF,USD,ETFs,2013-06-04,381743.3043
+VXUS,Vanguard Total International Stock ETF,USD,ETFs,2011-01-28,3679811.9565
+VYMI,Vanguard International High Dividend Yield ETF,USD,ETFs,2016-03-02,193502.5217
+WCLD,WisdomTree Cloud Computing Fund,USD,,2019-09-06,630385.7826
+WOOD,BTC iShares Global Timber & Forestry ETF,USD,ETFs,2008-06-25,39211.1304
+XT,BTC iShares Exponential Technologies ETF,USD,ETFs,2017-08-02,267147.1304
