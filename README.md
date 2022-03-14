@@ -10,16 +10,17 @@ The `etf_info` folder contains information about ETFs traded in Canada, NASDAQ a
 I made the decision to keep Canadian Assets together since Wealthsimple does not charge fees to trade them.
 
 ### Canada
-Currently lists *1023* Canadian Stocks traded in TSX, TSX-V and NEO, from `Aftermath Silver Ltd` (AAG) to `Sleep Country Canada Holdings Inc` (ZZZ)
-It also lists *1063* Canadian ETFs, from `Middlefield Ltd - Middlefield American Core Dividend ETF` (ACZ) to `BMO Tactical Dividend ETF Fund` (ZZZD)
+Currently lists *3031* Canadian Stocks traded in TSX, TSX-V and NEO, from `First Tidal Acquisition Corp (Class A)` (AAA.P) to `BMO Tactical Dividend ETF Fund` (ZZZD).
+It also lists *410* Canadian ETFs, from `Brompton Global Dividend Growth ETF` (BDIV) to `CI First Asset Mngstar Intl. Mmtm. Index ETF Unhedged` (ZXM.B).
 
 ### NASDAQ
-Currently lists *1596* American Stocks traded in the NASDAQ, from `Atlantic American Corp.` (AAME) to `Zynex Inc` (ZYXI)
-It also lists *110* NASDAQ ETFs, from `BTC iShares MSCI All Country Asia ex Japan ETF` (AAXJ) to `BTC iShares Exponential Technologies ETF` (XT)
+Currently lists *2026* American Stocks traded in the NASDAQ, from `Atlantic American Corporation` (AAME) to `Zynex Inc` (ZYXI).
+It also lists *78* NASDAQ ETFs, from `iShares Trust - MSCI Ac Asia ETF` (AAXJ) to `BTC iShares Exponential Technologies ETF` (XT).
 
 ### NYSE
-Currently lists *1634* American assets traded in the NYSE, from `Agilent Technologies Inc.` (A) to `Zymeworks Inc` (ZYME)
-It also lists *580* NYSE ETFs, from `VanEck Vectors Africa Index ETF` (AFK) to `ProShares UltraShort Silver` (ZSL)
+Currently lists *1985* American assets traded in the NYSE, from `Agilent Technologies Inc.` (A) to `Zymeworks Inc` (ZYME).
+It also lists *415* NYSE ETFs, from `VanEck Vectors Africa Index ETF` (AFK) to `Pimco ETF  - 25Yr+ Zero U Shares` (ZROZ).
+
 
 ### Did you enjoy this?
 

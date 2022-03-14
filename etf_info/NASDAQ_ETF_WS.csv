@@ -1,111 +1,79 @@
-symbol,name,currency,sector,active_date,avg_daily_volume_last_month
-AAXJ,BTC iShares MSCI All Country Asia ex Japan ETF,USD,ETFs,2008-08-15,863994.3478
-ACWI,BTC iShares MSCI ACWI ETF,USD,ETFs,2008-03-28,3696023.0000
-ACWX,BTC iShares MSCI ACWI ex US ETF,USD,ETFs,2008-03-28,1924850.1304
-ADRE,Invesco BLDRS Emerging Markets 50  Index Fund,USD,,2007-03-05,26461.8261
-AIA,BTC iShares Asia 50 ETF,USD,ETFs,2016-02-02,429115.3043
-AIRR,First Trust RBA American Industrial Renaissance ETF,USD,ETFs,2014-03-11,91818.1739
-ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,USD,ETFs,2012-04-11,2464049.6087
-BBH,VanEck Vectors Biotech ETF,USD,ETFs,2016-02-01,10783.0000
-BIB,ProShares Ultra Nasdaq Biotechnology,USD,ETFs,2010-04-08,141101.6957
-BIS,ProShares UltraShort Nasdaq Biotechnology,USD,,2020-08-19,92182.8261
-BJK,VanEck Vectors Gaming ETF,USD,ETFs,2008-11-21,74240.0000
-BND,Vanguard Total Bond Market ETF,USD,ETFs,2019-10-15,5708291.9130
-BNDX,Vanguard Total International Bond ETF,USD,ETFs,2013-06-04,2968911.2609
-BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF,USD,ETFs,2016-09-13,1062948.9565
-DAX,Global X DAX Germany ETF,USD,,2018-12-24,8520.7826
-DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,USD,ETFs,2013-08-01,12494.6957
-DGRW,WisdomTree U.S. Quality Dividend Growth Fund,USD,ETFs,2013-05-22,347360.2609
-DRIV,Global X Autonomous & Electric Vehicles ETF,USD,,2018-04-17,593378.0870
-DVY,BTC iShares Select Dividend ETF,USD,ETFs,2017-08-02,993438.5217
-EMB,BTC iShares J.P. Morgan USD Emerging Markets Bond ETF,USD,ETFs,2017-08-02,6336800.6087
-EMIF,BTC iShares Emerging Markets Infrastructure ETF,USD,ETFs,2009-06-19,4954.3478
-ENZL,iShares MSCI New Zealand ETF,USD,ETFs,2016-02-02,36084.1739
-ESGE,iShares Inc iShares ESG MSCI EM ETF,USD,ETFs,2016-06-30,1991355.6957
-ESPO,VanEck Vectors Video Gaming and eSports ETF,USD,,2018-10-17,161259.7391
-EUFN,BTC iShares MSCI Europe Financials ETF,USD,ETFs,2010-01-22,2167812.5217
-FEX,First Trust Large Cap Core AlphaDEX Fund,USD,ETFs,2016-04-08,50814.6957
-FTC,First Trust Large Capital Growth AlphaDEX Fund,USD,,2016-04-08,40427.1739
-FTHI,First Trust BuyWrite Income ETF,USD,ETFs,2014-01-07,10191.5217
-FTSL,First Trust Senior Loan Fund ETF,USD,ETFs,2013-05-02,560440.9565
-GNMA,BTC iShares GNMA Bond ETF,USD,ETFs,2012-02-16,44170.7826
-HLAL,Wahed FTSE USA Shariah ETF,USD,,2019-07-16,18979.3478
-IBB,BTC iShares Nasdaq Biotechnology ETF,USD,ETFs,2008-09-23,4121442.9130
-ICLN,BTC iShares Global Clean Energy ETF,USD,ETFs,2008-06-25,8538193.5652
-IEF,BTC iShares 7-10 Year Treasury Bond ETF,USD,ETFs,2017-08-02,7859422.0870
-IEI,BTC iShares 3-7 Year Treasury Bond ETF,USD,ETFs,2017-08-02,1519379.4348
-IFGL,BTC iShares International Developed Real Estate ETF,USD,ETFs,2007-11-16,24099.3478
-IGF,BTC iShares Global Infrastructure ETF,USD,ETFs,2016-02-02,262285.3043
-IGIB,iShares Intermediate-Term Corporate Bond ETF,USD,ETFs,2017-08-02,1873562.9565
-IGOV,BTC iShares International Treasury Bond ETF,USD,ETFs,2009-01-21,323211.8696
-IGSB,iShares Short-Term Corporate Bond ETF,USD,,2017-08-02,4091317.0870
-IJT,BTC iShares S&P Small-Cap 600 Growth ETF,USD,ETFs,2017-08-02,266221.3913
-IMCV,BTC iShares Morningstar Mid-Cap Value ETF,USD,ETFs,2016-02-02,7140.1739
-INDY,BTC iShares India 50 ETF,USD,ETFs,2009-11-20,70253.8696
-IPKW,Invesco International BuyBack Achievers TM ETF,USD,,2014-02-27,9510.4348
-IUSG,BTC iShares Core S&P U.S.Growth ETF,USD,ETFs,2017-08-02,483912.3043
-IUSV,BTC iShares Core S&P U.S.Value ETF,USD,ETFs,2017-08-02,563835.3478
-KBWD,Invesco Capital Management LLC - Invesco KBW High Dividend Yield Financial ETF,USD,,2016-12-07,196602.6522
-KBWR,Invesco KBW Regional Banking ETF,USD,,2016-12-07,37907.2174
-KBWY,Invesco Capital Management LLC - Invesco KBW Premium Yield Equity REIT ETF,USD,,2016-12-07,212105.8696
-KRMA,Global X Conscious Companies ETF,USD,ETFs,2016-07-12,26015.9565
-MBB,BTC iShares MBS ETF,USD,ETFs,2017-08-02,2057275.0000
-MCHI,BTC iShares MSCI China ETF,USD,ETFs,2016-02-02,4662798.7391
-ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund,USD,ETFs,2007-03-05,500491.3043
-PDP,Invesco DWA Momentum ETF,USD,,2016-12-07,182746.4783
-PEY,Invesco High Yield Equity Dividend Achievers ETF,USD,ETFs,2016-12-07,222346.0435
-PEZ,Invesco DWA Consumer Cyclicals Momentum ETF,USD,,2016-12-07,36233.5217
-PFF,iShares Trust iShares Preferred and Income Securities ETF,USD,ETFs,2017-08-02,4412221.1304
-PFI,Invesco DWA Financial Momentum ETF,USD,,2016-12-07,6750.3913
-PFM,Invesco Dividend Achievers ETF,USD,ETFs,2016-12-07,107139.7391
-PGJ,Invesco Golden Dragon China ETF,USD,ETFs,2016-12-07,69925.5217
-PHO,Invesco Water Resources ETF,USD,ETFs,2016-12-07,70487.6957
-PID,Invesco International Dividend Achievers ETF,USD,ETFs,2016-12-07,92273.8261
-PIE,Invesco DWA Emerging Markets Momentum ETF,USD,,2016-12-07,65079.5652
-PIO,Invesco Global Water ETF,USD,,2016-12-07,21152.0870
-PIZ,Invesco DWA Developed Markets Momentum ETF,USD,,2016-12-07,19562.1304
-PKW,Invesco BuyBack Achievers ETF,USD,,2016-12-07,160404.9565
-PLW,Invesco 1-30 Laddered Treasury ETF,USD,,2016-12-07,18647.0870
-PNQI,Invesco NASDAQ Internet ETF,USD,,2008-06-12,30669.6522
-PPH,VanEck Vectors Pharmaceutical ETF,USD,ETFs,2016-02-01,148721.8696
-PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,USD,ETFs,2006-09-20,34034.4348
-PRN,Invesco DWA Industrials Momentum ETF,USD,,2016-12-07,51570.7391
-PSCH,Invesco Capital Management LLC - Invesco S&P SmallCap Health Care ETF,USD,,2010-04-07,14596.6087
-PSL,Invesco DWA Consumer Staples Momentum ETF,USD,,2016-12-07,6172.5217
-PTH,Invesco DWA Healthcare Momentum ETF,USD,ETFs,2016-12-07,103518.4348
-PXI,Invesco DWA Energy Momentum ETF,USD,,2016-12-07,251004.7826
-PYZ,Invesco DWA Basic Materials Momentum ETF,USD,,2016-12-07,23246.6957
-QCLN,First Trust Exchange-Traded Fund III - First Trust Nasdaq Clean Edge Green Energy Index Fund,USD,ETFs,2007-02-08,779680.8696
-QQQ,Invesco QQQ Trust Series 1,USD,ETFs,2011-03-23,70502838.3913
-QQQJ,Invesco NASDAQ Next Gen 100 ETF,USD,,2020-10-13,856890.1304
-QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund,USD,ETFs,2006-04-19,595410.0870
-RDVY,First Trust Rising Dividend Achievers ETF,USD,ETFs,2014-01-07,919420.0435
-RING,BTC iShares MSCI Global Gold Miners ETF,USD,ETFs,2017-08-02,256251.2174
-RTH,VanEck Vectors Retail ETF,USD,ETFs,2011-12-21,14196.3043
-SCZ,BTC iShares MSCI EAFE Small-Cap ETF,USD,ETFs,2016-02-02,2271480.6957
-SDG,iShares MSCI Global Impact ETF,USD,ETFs,2016-04-22,24338.5652
-SHV,BTC iShares Short Treasury Bond ETF,USD,ETFs,2017-08-02,2222678.1739
-SHY,BTC iShares 1-3 Year Treasury Bond ETF,USD,ETFs,2017-08-02,3062108.7826
-SMH,VanEck Vectors Semiconductor ETF,USD,ETFs,2011-12-21,5455745.3478
-SOCL,Global X Social Media ETF,USD,ETFs,2011-11-15,117137.0000
-SOXX,BTC iShares PHLX Semiconductor ETF,USD,ETFs,2010-10-15,1727915.3043
-SQQQ,ProShares UltraPro Short QQQ,USD,,2020-08-18,126676306.4348
-SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF,USD,,2017-07-13,247964.1739
-TLT,BTC iShares 20+ Year Treasury Bond ETF,USD,ETFs,2016-02-02,17104584.7391
-TQQQ,ProShares UltraPro QQQ,USD,,2010-02-11,50154116.3478
-TUR,BTC iShares MSCI Turkey ETF,USD,ETFs,2017-08-02,834468.3913
-UAE,iShares MSCI UAE ETF,USD,ETFs,2014-05-01,16350.5217
-VCIT,Vanguard Intermediate-Term Corporate Bond ETF,USD,ETFs,2009-11-23,3985488.7391
-VCSH,Vanguard Short-Term Corporate Bond ETF,USD,ETFs,2019-10-15,3375439.1304
-VGLT,Vanguard Long-Term Treasury ETF,USD,,2009-11-23,705925.1739
-VGSH,Vanguard Short-Term Treasury ETF,USD,ETFs,2009-11-23,1218301.0000
-VNQI,Vanguard Global ex-U.S. Real Estate ETF,USD,ETFs,2010-11-01,278766.7826
-VONV,"Vanguard Group, Inc. - Vanguard Russell 1000 Value Index ETF",USD,ETFs,2010-09-22,373261.4783
-VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,USD,ETFs,2012-10-16,1609300.8261
-VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",USD,ETFs,2010-09-22,108862.0870
-VWOB,Vanguard Emerging Markets Government Bond ETF,USD,ETFs,2013-06-04,381743.3043
-VXUS,Vanguard Total International Stock ETF,USD,ETFs,2011-01-28,3679811.9565
-VYMI,Vanguard International High Dividend Yield ETF,USD,ETFs,2016-03-02,193502.5217
-WCLD,WisdomTree Cloud Computing Fund,USD,,2019-09-06,630385.7826
-WOOD,BTC iShares Global Timber & Forestry ETF,USD,ETFs,2008-06-25,39211.1304
-XT,BTC iShares Exponential Technologies ETF,USD,ETFs,2017-08-02,267147.1304
+symbol,name,security_type,currency,sector,low_52_week,high_52_week,yield,avg_volume,company_ceo,company_debt,company_earnings_growth,company_gross_profit_margin,description,eps,inception_year,industry_name,market_cap,number_of_employees,pe_ratio,total_assets,primary_exchange,amount
+AAXJ,iShares Trust - MSCI Ac Asia ETF,ETF,USD,ETFs,71.13,96.39,0.0257,1210251.1579,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"AAXJ tracks a market-cap weighted index that holds securities from global markets in Asia, excluding Japan",0.0,2005.0,Investment Trusts Or Mutual Funds,3955.384,0.0,15.8806,0.0,NASDAQ,71.1400
+ACWI,iShares Trust - MSCI ACWI ETF,ETF,USD,ETFs,91.53,107.46,0.0188,5187360.8947,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"ACWI tracks a market-cap-weighted index of large- and midcap global stocks, covering 85% of the developed and emerging markets capitalization.",0.0,2005.0,Investment Trusts Or Mutual Funds,17752.92,0.0,20.3933,0.0,NASDAQ,92.8500
+ACWX,BTC iShares MSCI ACWI ex US ETF,ETF,USD,ETFs,48.05,59.1899,0.0293,3545004.4737,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"ACWX tracks the performance of a market-cap-weighted index of international stocks. It captures 85% of the publicly available market, thus excluding small-caps.",0.0,2005.0,Investment Trusts Or Mutual Funds,4044.922,0.0,15.6215,0.0,NASDAQ,48.9700
+AIA,BTC iShares Asia 50 ETF,ETF,USD,ETFs,64.25,95.13,0.0183,87256.6316,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"AIA tracks an index of 50 of the largest companies from Hong Kong, South Korea, Singapore and Taiwan.",0.0,2005.0,Investment Trusts Or Mutual Funds,1757.2375,0.0,14.9662,0.0,NASDAQ,64.2500
+AIRR,First Trust Exchange Traded Fund VI - RBA Industrial ETF,ETF,USD,ETFs,37.6615,47.9945,0.0006,48797.1053,0,0.0,0.0,0.0,AIRR tracks a multifactor-selected index of equities that can benefit from potential regain in market share of US industrial and community banking sector.,0.0,0.0,Investment Trusts Or Mutual Funds,234.08,0.0,25.4147,0.0,NASDAQ,42.5600
+ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,ETF,USD,ETFs,29.94,33.43,0.0417,1993476.0,0,0.0,0.0,0.0,ANGL tracks a market-value-weighted index of bonds that were rated investment grade at issuance but later downgraded to sub-investment grade.,0.0,0.0,Investment Trusts Or Mutual Funds,4181.121,0.0,0.0,0.0,NASDAQ,29.9400
+BBH,VanEck Vectors Biotech ETF,ETF,USD,ETFs,146.88,222.22,0.0027,27467.8947,0,0.0,0.0,0.0,BBH tracks a market-cap-weighted index of the 25 largest biotech firms globally.,0.0,0.0,Investment Trusts Or Mutual Funds,436.1409,0.0,31.7667,0.0,NASDAQ,148.0200
+BIB,ProShares Ultra Nasdaq Biotechnology,ETF,USD,ETFs,50.81,112.0,0.0,53644.4737,0,0.0,0.0,0.0,BIB provides 2x daily exposure to a modified market-cap-weighted index of biotechnology and pharmaceutical companies listed on NASDAQ.,0.0,0.0,Investment Trusts Or Mutual Funds,107.48,0.0,0.0,0.0,NASDAQ,53.7400
+BJK,VanEck ETF Trust - VanEck Gaming ETF,ETF,USD,ETFs,36.0,57.4099,0.0093,22648.4211,0,0.0,0.0,0.0,BJK tracks a market-cap-weighted index of global companies that generate at least 50% of revenues from gaming and related activities.,0.0,0.0,Investment Trusts Or Mutual Funds,82.61,0.0,0.0,0.0,NASDAQ,37.5500
+BND,Vanguard Total Bond Market ETF,ETF,USD,ETFs,80.29,87.075,0.0224,7001562.7368,0,0.0,0.0,0.0,"BND tracks a broad, market-value-weighted index of US dollar-denominated, investment-grade, taxable, fixed-income securities with maturities of at least one year.",0.0,0.0,Investment Trusts Or Mutual Funds,81408.3804,0.0,0.0,0.0,NASDAQ,80.3700
+BNDX,Vanguard Charlotte Funds - Total International Bond ETF,ETF,USD,ETFs,52.83,58.09,0.0387,4237583.6316,0,0.0,0.0,0.0,"BNDX tracks an investment-grade, non-USD denominated bond index, hedged against currency fluctuations for US investors.",0.0,0.0,Investment Trusts Or Mutual Funds,46390.2732,0.0,0.0,0.0,NASDAQ,53.0200
+BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF,ETF,USD,ETFs,26.3503,39.99,0.0022,668684.4211,0,0.0,0.0,0.0,BOTZ provides market- cap selected and weighted exposure to companies involved in the development and production of robots or artificial intelligence.,0.0,0.0,Investment Trusts Or Mutual Funds,1896.0593,0.0,53.4733,0.0,NASDAQ,26.5300
+DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,ETF,USD,ETFs,24.96,30.914,0.0291,14079.5263,0,0.0,0.0,0.0,DGRE is an actively managed portfolio of dividend-paying emerging-market stocks with growth characteristics. The fund seeks income and capital appreciation.,0.0,0.0,Investment Trusts Or Mutual Funds,82.368,0.0,11.2622,0.0,NASDAQ,24.9600
+DGRW,WisdomTree U.S. Quality Dividend Growth Fund,ETF,USD,ETFs,55.55,66.5,0.0192,627285.5789,0,0.0,0.0,0.0,DGRW tracks the performance of an index that invests in large- and midcap dividend-paying US common stocks with growth characteristics.,0.0,0.0,Investment Trusts Or Mutual Funds,6563.148,0.0,23.1714,0.0,NASDAQ,60.2400
+DVY,BTC iShares Select Dividend ETF,ETF,USD,ETFs,110.24,128.045,0.0309,1179074.1579,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,DVY tracks a dividend-weighted index of US companies. The index selects roughly 100 stocks based on dividend yield from a broad market-cap universe.,0.0,2005.0,Investment Trusts Or Mutual Funds,20523.316,0.0,15.1142,0.0,NASDAQ,123.5600
+EMB,BTC iShares J.P. Morgan USD Emerging Markets Bond ETF,ETF,USD,ETFs,93.68,113.64,0.0449,9957653.0,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,EMB tracks an index of US-dollar-denominated sovereign debt issued by emerging-market countries with more than $1B outstanding and at least two years remaining in maturity.,0.0,2005.0,Investment Trusts Or Mutual Funds,16313.217,0.0,0.0,0.0,NASDAQ,95.0100
+EMIF,BTC iShares Emerging Markets Infrastructure ETF,ETF,USD,ETFs,21.33,25.59,0.0452,5199.9474,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,EMIF tracks a market-cap-weighted index of infrastructure companies operating in emerging markets.,0.0,2005.0,Investment Trusts Or Mutual Funds,18.1645,0.0,12.001,0.0,NASDAQ,21.3700
+ENZL,iShares MSCI New Zealand ETF,ETF,USD,ETFs,50.88,65.77,0.0269,13700.0,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,ENZL tracks the performance of a market-cap-weighted index of equity securities in the top 99% of the New Zealand equity market.,0.0,2005.0,Investment Trusts Or Mutual Funds,129.312,0.0,14.7205,0.0,NASDAQ,53.8800
+ESGE,iShares Inc iShares ESG MSCI EM ETF,ETF,USD,ETFs,34.4,45.83,0.0307,2464325.8947,0,0.0,0.0,0.0,"ESGE tracks an index of large- and midcap companies from emerging market economies. Stocks are selected and weighted for positive environmental, social, and governance characteristics while maintaining similar investment risk/return of the market.",0.0,0.0,Investment Trusts Or Mutual Funds,5968.4,0.0,14.8443,0.0,NASDAQ,34.4000
+EUFN,BTC iShares MSCI Europe Financials ETF,ETF,USD,ETFs,15.74,21.94,0.0484,4241752.3684,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,EUFN tracks a market-cap-weighted index of financials stocks in developed European markets.,0.0,2005.0,Investment Trusts Or Mutual Funds,1416.42,0.0,10.925,0.0,NASDAQ,17.2000
+FEX,First  Lrge Corporation Core Alpha Fund - Shares,ETF,USD,ETFs,77.2201,93.29,0.0089,53858.6316,0,0.0,0.0,0.0,FEX tracks a tiered equal-weighted index of large-cap stocks selected from the S&P 500 based on the S&P's AlphaDex selection methodology.,0.0,0.0,Investment Trusts Or Mutual Funds,1126.035,0.0,17.2213,0.0,NASDAQ,83.4100
+FTHI,First Trust BuyWrite Income ETF,ETF,USD,ETFs,20.45,22.86,0.0471,5474.2632,0,0.0,0.0,0.0,"FTHI is an actively managed portfolio of US-listed stocks, with an overlay of short calls on the S&P 500.",0.0,0.0,Investment Trusts Or Mutual Funds,47.5943,0.0,19.9347,0.0,NASDAQ,21.8905
+FTSL,First Trust Senior Loan Fund ETF,ETF,USD,ETFs,46.51,48.31,0.0336,993349.0,0,0.0,0.0,0.0,"FTSL holds senior floating rate bank loans from firms around the globe. The actively managed fund can hold up to 20% of assets in non-senior loans, including high-yield bonds and equities.",0.0,0.0,Investment Trusts Or Mutual Funds,3662.7865,0.0,0.0,0.0,NASDAQ,46.6300
+GNMA,iShares Trust - Gnma Bond ETF,ETF,USD,ETFs,47.9,50.55,0.0047,60598.2632,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"GNMA tracks a market-value-weighted index of US mortgage pass-through securities issued by Government National Mortgage Association (GNMA), with 30- or 15-year maturities.",0.0,2005.0,Investment Trusts Or Mutual Funds,380.78,0.0,0.0,0.0,NASDAQ,48.2000
+IBB,BTC iShares Nasdaq Biotechnology ETF,ETF,USD,ETFs,118.6,177.37,0.0027,2658411.8421,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IBB tracks the performance of a modified market-cap-weighted index of US biotechnology companies listed on US exchanges.,0.0,2005.0,Investment Trusts Or Mutual Funds,7709.535,0.0,949.937,0.0,NASDAQ,120.6500
+ICLN,BTC iShares Global Clean Energy ETF,ETF,USD,ETFs,17.2,25.8,0.0115,6246849.2632,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,ICLN tracks a tiered index of global companies involved in clean energy businesses.,0.0,2005.0,Investment Trusts Or Mutual Funds,5293.476,0.0,38.1857,0.0,NASDAQ,20.7100
+IEF,BTC iShares 7-10 Year Treasury Bond ETF,ETF,USD,ETFs,109.92,118.63,0.0092,10745723.6842,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IEF tracks a market-value-weighted index of debt issued by the US Treasury with 7-10 years to maturity remaining. Treasury STRIPS are excluded.,0.0,2005.0,Investment Trusts Or Mutual Funds,18640.416,0.0,0.0,0.0,NASDAQ,110.5600
+IEI,BTC iShares 3-7 Year Treasury Bond ETF,ETF,USD,ETFs,124.59,132.23,0.0075,1554443.8947,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IEI tracks a market weighted index of debt issued by the U.S. Treasury. Remaining maturity must be 3-7 years. Treasury STRIPS are excluded.,0.0,2005.0,Investment Trusts Or Mutual Funds,10872.693,0.0,0.0,0.0,NASDAQ,124.8300
+IFGL,BTC iShares International Developed Real Estate ETF,ETF,USD,ETFs,25.44,30.838,0.0353,17726.8421,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"IFGL tracks a market-cap-weighted index of companies that own or develop real estate throughout the developed world, excluding the United States.",0.0,2005.0,Investment Trusts Or Mutual Funds,225.664,0.0,13.6702,0.0,NASDAQ,26.2400
+IGF,BTC iShares Global Infrastructure ETF,ETF,USD,ETFs,43.93,48.6,0.0243,398055.8947,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IGF tracks a market-cap-weighted index of global infrastructure companies.,0.0,2005.0,Investment Trusts Or Mutual Funds,3282.741,0.0,37.3697,0.0,NASDAQ,47.3700
+IGIB,iShares Intermediate-Term Corporate Bond ETF,ETF,USD,ETFs,55.245,61.315,0.0268,1997957.1579,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"IGIB tracks a market-value-weighted index of USD-denominated, investment grade corporate debt with maturities between 5-10 years.",0.0,2005.0,Investment Trusts Or Mutual Funds,10979.3855,0.0,0.0,0.0,NASDAQ,55.2700
+IGOV,iShares Trust - International Treasury Bond ETF,ETF,USD,ETFs,46.86,53.735,0.0042,150399.5263,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"IGOV tracks a market-value-weighted index of developed market, non-US government issued debts with minimum maturities of one year.",0.0,2005.0,Investment Trusts Or Mutual Funds,1078.7,0.0,0.0,0.0,NASDAQ,46.9000
+IJT,BTC iShares S&P Small-Cap 600 Growth ETF,ETF,USD,ETFs,116.25,144.69,0.0072,177900.1579,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IJT tracks an index of small-cap US stocks. The index selects growth stocks from the 600 stocks chosen by the S&P Committee.,0.0,2005.0,Investment Trusts Or Mutual Funds,5488.825,0.0,26.6259,0.0,NASDAQ,121.3000
+IMCV,BTC iShares Morningstar Mid-Cap Value ETF,ETF,USD,ETFs,59.52,70.12,0.0194,27509.9474,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IMCV tracks a market-cap-weighted index of US midcap stocks companies selected based on their value characteristics.,0.0,2005.0,Investment Trusts Or Mutual Funds,484.774,0.0,20.1438,0.0,NASDAQ,65.5100
+INDY,BTC iShares India 50 ETF,ETF,USD,ETFs,41.3,53.83,0.0773,77656.2105,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,INDY tracks a market-cap-weighted index of 50 blue-chip companies traded on the National Stock Exchange of India.,0.0,2005.0,Investment Trusts Or Mutual Funds,622.765,0.0,24.3321,0.0,NASDAQ,43.5500
+IUSG,BTC iShares Core S&P U.S.Growth ETF,ETF,USD,ETFs,87.54,117.49,0.0071,760950.8947,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IUSG tracks an index of US large- and midcap growth stocks. The index selects from stocks ranked 1-3000 by market cap based on fundamental growth factors.,0.0,2005.0,Investment Trusts Or Mutual Funds,11598.0375,0.0,28.619,0.0,NASDAQ,96.0500
+IUSV,BTC iShares Core S&P U.S.Value ETF,ETF,USD,ETFs,66.84,78.18,0.0197,659320.6842,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,IUSV tracks an index of large- and midcap value stocks in the US. The index selects from stocks ranked 1-3000 by market-cap based on 3 value factors.,0.0,2005.0,Investment Trusts Or Mutual Funds,11470.645,0.0,20.8562,0.0,NASDAQ,72.3700
+KRMA,Global X Conscious Companies ETF,ETF,USD,ETFs,28.26,34.92,0.0124,22475.3684,0,0.0,0.0,0.0,"KRMA tracks an equal-weighted index composed of U.S.-listed companies that exhibit environmental, social, and corporate governance (ESG) characteristics.",0.0,0.0,Investment Trusts Or Mutual Funds,663.8885,0.0,22.9616,0.0,NASDAQ,29.7800
+MBB,BTC iShares MBS ETF,ETF,USD,ETFs,103.3708,108.88,0.0101,2665542.1579,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"MBB tracks a market-weighted index of investment-grade mortgage pass-through securities. The index includes fixed and floating rate securities issued by GNMA, FNMA and FHLMC.",0.0,2005.0,Investment Trusts Or Mutual Funds,23484.411,0.0,0.0,0.0,NASDAQ,103.4100
+MCHI,iShares Trust - MSCI China ETF,ETF,USD,ETFs,49.09,85.55,0.0133,6031922.6316,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,MCHI tracks a market-cap-weighted index of investable Chinese shares. The fund stretches across all market-cap sizes.,0.0,2005.0,Investment Trusts Or Mutual Funds,5401.0,0.0,14.4075,0.0,NASDAQ,49.1000
+ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund,ETF,USD,ETFs,49.01,63.1122,0.0066,471333.0,0,0.0,0.0,0.0,ONEQ tracks a market-cap-weighted index of Nasdaq-listed companies.,0.0,0.0,Investment Trusts Or Mutual Funds,4046.926,0.0,43.8469,0.0,NASDAQ,50.2100
+PEY,Invesco High Yield Equity Dividend Achievers ETF,ETF,USD,ETFs,19.2713,22.07,0.0389,459111.7368,0,0.0,0.0,0.0,PEY tracks a yield-weighted index of US companies that have increased their annual dividends for at least 10 consecutive years.,0.0,0.0,Investment Trusts Or Mutual Funds,1086.6232,0.0,14.2285,0.0,NASDAQ,21.1900
+PFF,iShares Trust iShares Preferred and Income Securities ETF,ETF,USD,ETFs,35.12,39.64,0.0478,6781460.1579,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"PFF tracks an index of preferred stock traded on the NYSE and NASDAQ. Securities are selected by rules-based, proprietary methods and weighted by market value.",0.0,2005.0,Investment Trusts Or Mutual Funds,17370.207,0.0,13.0477,0.0,NASDAQ,35.3700
+PFM,Invesco Dividend Achievers ETF,ETF,USD,ETFs,33.6575,40.2,0.0183,83286.6316,0,0.0,0.0,0.0,PFM tracks a market-cap-weighted index of dividend-paying US companies that have increased their annual dividends.,0.0,0.0,Investment Trusts Or Mutual Funds,675.2808,0.0,21.6008,0.0,NASDAQ,36.7200
+PGJ,Invesco Exchange Traded Fd  - Global Dragon Cn,ETF,USD,ETFs,24.06,73.56,0.0,109265.7895,0,0.0,0.0,0.0,PGJ tracks a market-cap-weighted index of Chinese stocks.,0.0,0.0,Investment Trusts Or Mutual Funds,154.2246,0.0,33.4487,0.0,NASDAQ,24.0600
+PHO,Invesco Water Resources ETF,ETF,USD,ETFs,47.26,61.109,0.0024,159376.5263,0,0.0,0.0,0.0,PHO tracks a modified liquidity-weighted index of US-listed companies that create products to conserve and purify water.,0.0,0.0,Investment Trusts Or Mutual Funds,1724.9644,0.0,32.5318,0.0,NASDAQ,49.9700
+PID,Invesco International Dividend Achievers ETF,ETF,USD,ETFs,16.5,19.19,0.0321,163002.4737,0,0.0,0.0,0.0,PID tracks a dividend-yield-weighted index of foreign securities with high dividend growth.,0.0,0.0,Investment Trusts Or Mutual Funds,717.6365,0.0,15.3612,0.0,NASDAQ,18.9500
+PPH,VanEck Vectors Pharmaceutical ETF,ETF,USD,ETFs,67.59,78.16,0.0166,146378.6316,0,0.0,0.0,0.0,PPH tracks a market-cap-weighted index of 25 of the largest global pharmaceutical firms.,0.0,0.0,Investment Trusts Or Mutual Funds,296.03,0.0,47.1536,0.0,NASDAQ,75.1700
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,ETF,USD,ETFs,167.3,202.21,0.01,58653.1579,0,0.0,0.0,0.0,"PRFZ tracks a fundamentally-weighted index of 1,500 small- and midcap companies in the US that are selected using fundamental metrics.",0.0,0.0,Investment Trusts Or Mutual Funds,1865.5116,0.0,38.1551,0.0,NASDAQ,177.3300
+PTH,Invesco DWA Healthcare Momentum ETF,ETF,USD,ETFs,119.55,175.85,0.0,14560.4211,0,0.0,0.0,0.0,PTH tracks an index of U.S. healthcare firms selected and weighted by price momentum.,0.0,0.0,Investment Trusts Or Mutual Funds,297.5724,0.0,44.7925,0.0,NASDAQ,126.0900
+QCLN,First Trust Exchange-Traded Fund III - First Trust Nasdaq Clean Edge Green Energy Index Fund,ETF,USD,ETFs,49.131,83.71,0.0001,355144.0,0,0.0,0.0,0.0,QCLN tracks a market-cap-weighted index of US-listed firms involved in clean energy.,0.0,0.0,Investment Trusts Or Mutual Funds,2134.306,0.0,0.0,0.0,NASDAQ,57.2200
+QQQ,Invesco QQQ Trust - Series 1,ETF,USD,ETFs,307.3899,408.71,0.0052,80167661.4737,0,0.0,0.0,0.0,QQQ tracks a modified-market-cap-weighted index of 100 NASDAQ-listed stocks.,0.0,0.0,Investment Trusts Or Mutual Funds,173748.64,0.0,32.3709,0.0,NASDAQ,324.4000
+QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund,ETF,USD,ETFs,134.684,181.83,0.0002,196274.4737,0,0.0,0.0,0.0,QTEC tracks an equal-weighted index of the largest Nasdaq-listed US technology stocks.,0.0,0.0,Investment Trusts Or Mutual Funds,2826.15,0.0,44.9401,0.0,NASDAQ,136.2000
+RDVY,First Trust Rising Dividend Achievers ETF,ETF,USD,ETFs,43.77,53.205,0.0114,1893743.0,0,0.0,0.0,0.0,"RDVY tracks an index of 50 large-cap stocks with rising, high-quality dividends.",0.0,0.0,Investment Trusts Or Mutual Funds,9005.9625,0.0,12.5318,0.0,NASDAQ,47.0900
+RING,BTC iShares MSCI Global Gold Miners ETF,ETF,USD,ETFs,23.91,33.8739,0.0208,200996.3158,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,RING tracks a market-cap-weighted index of companies that generate revenue primarily from gold mining.,0.0,2005.0,Investment Trusts Or Mutual Funds,567.5655,0.0,15.6559,0.0,NASDAQ,30.9300
+RTH,VanEck Vectors Retail ETF,ETF,USD,ETFs,158.14,199.6512,0.0088,8894.2105,0,0.0,0.0,0.0,RTH tracks a market-cap-weighted index of the 25 largest US-listed companies that derive most of their revenue from retail.,0.0,0.0,Investment Trusts Or Mutual Funds,201.386,0.0,28.5033,0.0,NASDAQ,171.9000
+SCZ,BTC iShares MSCI EAFE Small-Cap ETF,ETF,USD,ETFs,60.74,79.23,0.0333,1679770.9474,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"SCZ tracks a market-cap-weighted index of small-cap companies from Europe, Asia and the Far East.",0.0,2005.0,Investment Trusts Or Mutual Funds,13147.956,0.0,23.2124,0.0,NASDAQ,63.0900
+SDG,iShares MSCI Global Impact ETF,ETF,USD,ETFs,82.18,100.88,0.0182,26799.5789,0,0.0,0.0,0.0,SDG tracks an index composed of companies whose revenues are driven by products and services that address at least one of the United Nation's Sustainable Development Goals.,0.0,0.0,Investment Trusts Or Mutual Funds,463.064,0.0,15.6394,0.0,NASDAQ,82.6900
+SHV,BTC iShares Short Treasury Bond ETF,ETF,USD,ETFs,110.23,110.53,0.0,2358901.5263,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,SHV tracks a market-weighted index of debt securities issued by the U.S. Treasury. Remaining maturity must be 1-12 months.,0.0,2005.0,Investment Trusts Or Mutual Funds,15901.2732,0.0,0.0,0.0,NASDAQ,110.2800
+SHY,BTC iShares 1-3 Year Treasury Bond ETF,ETF,USD,ETFs,84.12,86.34,0.0026,5393334.4737,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,SHY tracks a market weighted index of debt issued by the US Treasury with 1-3 years remaining to maturity. Treasury STRIPS are excluded.,0.0,2005.0,Investment Trusts Or Mutual Funds,21825.281,0.0,0.0,0.0,NASDAQ,84.1700
+SMH,VanEck Vectors Semiconductor ETF,ETF,USD,ETFs,222.82,318.82,0.0064,7696779.4737,0,0.0,0.0,0.0,SMH tracks a market-cap-weighted index of 25 of the largest US-listed semiconductors companies.,0.0,0.0,Investment Trusts Or Mutual Funds,8484.892,0.0,28.1192,0.0,NASDAQ,245.7900
+SOCL,Global X Social Media ETF,ETF,USD,ETFs,37.73,72.64,0.0,38869.4737,0,0.0,0.0,0.0,SOCL tracks a modified market-cap-weighted index of social media companies selected by a committee.,0.0,0.0,Investment Trusts Or Mutual Funds,216.6702,0.0,55.704,0.0,NASDAQ,37.8100
+SOXX,BTC iShares PHLX Semiconductor ETF,ETF,USD,ETFs,386.02,559.02,0.0076,1842406.5789,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,SOXX tracks a modified market-cap-weighted index of 30 US-listed semiconductor companies.,0.0,2005.0,Investment Trusts Or Mutual Funds,8145.0,0.0,27.6575,0.0,NASDAQ,434.4000
+TLT,BTC iShares 20+ Year Treasury Bond ETF,ETF,USD,ETFs,133.19,155.12,0.0167,21257351.5789,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,TLT tracks a market-weighted index of debt issued by the US Treasury with remaining maturities of 20 years or more.,0.0,2005.0,Investment Trusts Or Mutual Funds,16135.236,0.0,0.0,0.0,NASDAQ,134.9100
+TUR,iShares Inc. - MSCI Turkey ETF,ETF,USD,ETFs,15.0,28.61,0.0427,410299.8421,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,TUR tracks the performance of a market-cap-weighted index of Turkish stocks.,0.0,2005.0,Investment Trusts Or Mutual Funds,247.86,0.0,4.8113,0.0,NASDAQ,18.3600
+UAE,iShares MSCI UAE ETF,ETF,USD,ETFs,12.95,18.58,0.0434,23920.0,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"UAE tracks a market-cap-weighted index of large-, mid and small-cap UAE companies.",0.0,2005.0,Investment Trusts Or Mutual Funds,39.908,0.0,5.0545,0.0,NASDAQ,18.1400
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,ETF,USD,ETFs,86.465,96.39,0.0307,6108770.5789,0,0.0,0.0,0.0,VCIT tracks a market-weighted index of investment-grade corporate bonds with maturities of 5-10 years.,0.0,0.0,Investment Trusts Or Mutual Funds,45728.6093,0.0,0.0,0.0,NASDAQ,86.5600
+VCSH,Vanguard Short-Term Corporate Bond ETF,ETF,USD,ETFs,78.4,82.9222,0.0182,7641599.6842,0,0.0,0.0,0.0,"VCSH tracks a market-weighted index of investment-grade, fixed-rate corporate bonds with maturities between 1 and 5 years.",0.0,0.0,Investment Trusts Or Mutual Funds,41393.9456,0.0,0.0,0.0,NASDAQ,78.4000
+VGSH,Vanguard Short-Term Treasury ETF,ETF,USD,ETFs,59.81,61.64,0.0066,3437527.3684,0,0.0,0.0,0.0,"VGSH tracks a market-weighted index of fixed income securities issued by the U.S. Treasury, excluding inflation-protected securities, with maturities of 1-3 years.",0.0,0.0,Investment Trusts Or Mutual Funds,13524.751,0.0,0.0,0.0,NASDAQ,59.8300
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,ETF,USD,ETFs,48.82,60.8799,0.0702,349964.2632,0,0.0,0.0,0.0,VNQI tracks a market-cap-weighted index of non-US real estate investment trusts.,0.0,0.0,Investment Trusts Or Mutual Funds,4538.3978,0.0,11.7054,0.0,NASDAQ,49.7800
+VONV,"Vanguard Group, Inc. - Vanguard Russell 1000 Value Index ETF",ETF,USD,ETFs,64.75,75.1897,0.0177,454423.9474,0,0.0,0.0,0.0,"VONV tracks an index of value stocks selected from the 1,000 largest US companies.",0.0,0.0,Investment Trusts Or Mutual Funds,7107.5017,0.0,19.5023,0.0,NASDAQ,69.5600
+VTIP,Vanguard Short-Term Inflation-Protected Securities Index Fund,ETF,USD,ETFs,50.59,52.82,0.0462,4750428.9474,0,0.0,0.0,0.0,VTIP tracks an index of US Treasury Inflation-Protected Securities (TIPS) with less than 5 years remaining to maturity.,0.0,0.0,Investment Trusts Or Mutual Funds,19878.1933,0.0,0.0,0.0,NASDAQ,52.1100
+VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",ETF,USD,ETFs,130.0,156.15,0.017,224269.6842,0,0.0,0.0,0.0,VTWV tracks an index of US small-cap value stocks. Holdings are selected and weighted based on price-to-book-value.,0.0,0.0,Investment Trusts Or Mutual Funds,986.5625,0.0,31.1937,0.0,NASDAQ,137.5000
+VWOB,Vanguard Whitehall - Emerging Market Bond ETF,ETF,USD,ETFs,67.62,80.57,0.0465,505176.2105,0,0.0,0.0,0.0,"VWOB tracks a market value weighted index of emerging market sovereign debt, denominated in USD.",0.0,0.0,Investment Trusts Or Mutual Funds,2911.6649,0.0,0.0,0.0,NASDAQ,68.4000
+VXUS,Vanguard Total International Stock ETF,ETF,USD,ETFs,55.145,67.51,0.035,5202399.2105,0,0.0,0.0,0.0,VXUS tracks a market-cap-weighted index of global stocks covering 99% of the world's global market capitalization outside the US.,0.0,0.0,Investment Trusts Or Mutual Funds,48593.3935,0.0,16.0099,0.0,NASDAQ,56.2600
+VYMI,Vanguard International High Dividend Yield ETF,ETF,USD,ETFs,62.701,71.3699,0.0448,612951.0526,0,0.0,0.0,0.0,VYMI tracks a market-cap-weighted index of developed and emerging market firms (ex-US) that are expected to pay above average dividends over the next 12 months.,0.0,0.0,Investment Trusts Or Mutual Funds,3579.5875,0.0,11.1628,0.0,NASDAQ,64.4200
+WOOD,BTC iShares Global Timber & Forestry ETF,ETF,USD,ETFs,81.7301,98.9799,0.013,33893.4737,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,WOOD tracks a narrow index of the 25 largest publicly listed companies from developed and emerging markets that own or manage forests and timberlands.,0.0,2005.0,Investment Trusts Or Mutual Funds,310.5642,0.0,8.0451,0.0,NASDAQ,87.7300
+XT,BTC iShares Exponential Technologies ETF,ETF,USD,ETFs,53.17,67.48,0.0102,299759.5789,"Paul C. Lohrey, CFA, MBA",0.0,0.0,0.0,"XT tracks an equal-weighted index that provides exposure to firms from developed and emerging markets, which create or use exponential technologies as defined by Morningstar.",0.0,2005.0,Investment Trusts Or Mutual Funds,3506.22,0.0,45.8734,0.0,NASDAQ,54.3600
