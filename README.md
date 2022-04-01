@@ -3,16 +3,17 @@ Collection of information about Stocks in the Toronto Stock Exchange, New York S
 We use this information to populate our research at [https://faidhwealth.com/](https://faidhwealth.com/).
 
 ### Canada
-Currently lists *2850* Canadian Stocks traded in TSX, TSX-V and NEO, from `First Tidal Acquisition Corp (Class A)` (AAA.P) to `Sleep Country Canada Holdings Inc` (ZZZ).
+Currently lists *2859* Canadian Stocks traded in TSX, TSX-V and NEO, from `First Tidal Acquisition Corp (Class A)` (AAA.P) to `Sleep Country Canada Holdings Inc` (ZZZ).
 It also lists *1113* Canadian ETFs, from `Accelerate Carbon Negative Bitcoin ETF` (ABTC) to `BMO Tactical Dividend ETF Fund` (ZZZD).
 
 ### NASDAQ
-Currently lists *1970* American Stocks traded in the NASDAQ, from `Atlantic American Corporation` (AAME) to `Zynex Inc` (ZYXI).
-It also lists *126* NASDAQ ETFs, from `iShares Trust - MSCI Ac Asia ETF` (AAXJ) to `BTC iShares Exponential Technologies ETF` (XT).
+Currently lists *1974* American Stocks traded in the NASDAQ, from `Atlantic American Corporation` (AAME) to `Zynex Inc` (ZYXI).
+It also lists *127* NASDAQ ETFs, from `iShares Trust - MSCI Ac Asia ETF` (AAXJ) to `BTC iShares Exponential Technologies ETF` (XT).
 
 ### NYSE
-Currently lists *1782* American assets traded in the NYSE, from `Agilent Technologies Inc.` (A) to `Zymeworks Inc` (ZYME).
-It also lists *631* NYSE ETFs, from `VanEck Vectors Africa Index ETF` (AFK) to `ProShares UltraShort Silver` (ZSL).
+Currently lists *1779* American assets traded in the NYSE, from `Agilent Technologies Inc.` (A) to `Zymeworks Inc` (ZYME).
+It also lists *632* NYSE ETFs, from `VanEck Vectors Africa Index ETF` (AFK) to `ProShares UltraShort Silver` (ZSL).
+
 
 
 ### Did you enjoy this?

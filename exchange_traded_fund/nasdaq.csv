@@ -1,42 +1,44 @@
 ,security_type,symbol,name,primary_exchange,currency,sector
 sec-s-d046f370bcd747b6b087dea75194214f,exchange_traded_fund,AAXJ,iShares Trust - MSCI Ac Asia ETF,NASDAQ,USD,ETFs
-sec-s-722015415d474776aa7b009f69a4b655,exchange_traded_fund,ACWI,iShares Trust - MSCI ACWI ETF,NASDAQ,USD,ETFs
 sec-s-d27a374e7976426da4e190f8738077db,exchange_traded_fund,ACWX,BTC iShares MSCI ACWI ex US ETF,NASDAQ,USD,ETFs
+sec-s-722015415d474776aa7b009f69a4b655,exchange_traded_fund,ACWI,iShares Trust - MSCI ACWI ETF,NASDAQ,USD,ETFs
 sec-s-15be56c32fc04f91bc1c4623eebccfbb,exchange_traded_fund,PEY,Invesco High Yield Equity Dividend Achievers ETF,NASDAQ,USD,ETFs
 sec-s-d99d8e5a9d494b4fb98511a0b3a7d67c,exchange_traded_fund,PID,Invesco International Dividend Achievers ETF,NASDAQ,USD,ETFs
-sec-s-11d7e6922dd1493abe2657d5608d4607,exchange_traded_fund,IPKW,Invesco International BuyBack Achievers TM ETF,NASDAQ,USD,
 sec-s-8a7e215a41104ca3adfe14f819f1a238,exchange_traded_fund,ADRE,Invesco Bldrs Index Funds - Emgring Markets,NASDAQ,USD,
 sec-s-98f160834e1240eea685d5425dc03b29,exchange_traded_fund,AIA,BTC iShares Asia 50 ETF,NASDAQ,USD,ETFs
 sec-s-fbead9303db1423fa5d8b7ed5a3592c3,exchange_traded_fund,AIRR,First Trust Exchange Traded Fund VI - RBA Industrial ETF,NASDAQ,USD,ETFs
+sec-s-8adaca9a403a4eab820ae4ce4bcffc77,exchange_traded_fund,FTC,First Trust Large Capital Growth AlphaDEX Fund,NASDAQ,USD,
 sec-s-c021938eda3446e3a6db0302aa4a7bff,exchange_traded_fund,ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,NASDAQ,USD,ETFs
 sec-s-77d0c61e43fb4710bbcc9cb99d7f0a84,exchange_traded_fund,ESPO,VanEck Vectors Video Gaming and eSports ETF,NASDAQ,USD,
 sec-s-ce8233ffc6424fb3bccff695674b21a4,exchange_traded_fund,PFF,iShares Trust iShares Preferred and Income Securities ETF,NASDAQ,USD,ETFs
 sec-s-3c3aa1d4cacb4b4e87ba74db9cbb6047,exchange_traded_fund,BOTZ,Global X Funds Global X Robotics & Artificial Intelligence ETF,NASDAQ,USD,ETFs
 sec-s-5ffc450754be45f99596d5288bd35fb9,exchange_traded_fund,DRIV,Global X Autonomous & Electric Vehicles ETF,NASDAQ,USD,
 sec-s-8e9dac910d84435b89e12fcccd027382,exchange_traded_fund,SUSB,iShares Trust iShares ESG Aware 1-5 Year USD Corp Bond ETF,NASDAQ,USD,
-sec-s-af380536efc7404db22ec2b19722d5e2,exchange_traded_fund,PYZ,Invesco DWA Basic Materials Momentum ETF,NASDAQ,USD,
 sec-s-8c7d69fbe67f4f449fe4291454521e73,exchange_traded_fund,BBH,VanEck Vectors Biotech ETF,NASDAQ,USD,ETFs
 sec-s-536852f9469c45d3b7fbac4ba26bf269,exchange_traded_fund,BIS,ProShares UltraShort Nasdaq Biotechnology,NASDAQ,USD,
 sec-s-76319bd236ae4f8fb64d40fefa9845f9,exchange_traded_fund,BIB,ProShares Ultra Nasdaq Biotechnology,NASDAQ,USD,ETFs
+sec-s-6d427e34aa234f3f91a604ab8886c8d8,exchange_traded_fund,IBB,BTC iShares Nasdaq Biotechnology ETF,NASDAQ,USD,ETFs
 sec-s-ab5cbb8ee40948eda0d801392a8f6016,exchange_traded_fund,BJK,VanEck ETF Trust - VanEck Gaming ETF,NASDAQ,USD,ETFs
 sec-s-8c31a31dac6547c69d7e12e7869077aa,exchange_traded_fund,BND,Vanguard Total Bond Market ETF,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-2c78a11d88a14b6e9e862143b6d4b6cc,exchange_traded_fund,BNDX,Vanguard Charlotte Funds - Total International Bond ETF,NASDAQ,USD,ETFs
-sec-s-ad6127865da24aa7ac2dfb985231e2c7,exchange_traded_fund,VWOB,Vanguard Whitehall - Emerging Market Bond ETF,NASDAQ,USD,ETFs
-sec-s-24a8d289dcdf4896ab22593ee2f125d2,exchange_traded_fund,IGSB,iShares Short-Term Corporate Bond ETF,NASDAQ,USD,
-sec-s-bda275048c74454aa5eb76c65dd1c36a,exchange_traded_fund,SCZ,BTC iShares MSCI EAFE Small-Cap ETF,NASDAQ,USD,ETFs
-sec-s-9f1b162e0f464b0ca52953820c220aee,exchange_traded_fund,IMCV,BTC iShares Morningstar Mid-Cap Value ETF,NASDAQ,USD,ETFs
 sec-s-3b95e7ad53cf4b94b366aec29b04b492,exchange_traded_fund,IEI,BTC iShares 3-7 Year Treasury Bond ETF,NASDAQ,USD,ETFs
-sec-s-dc0eaa4baf0547b2b14e46669c1b4e37,exchange_traded_fund,WOOD,BTC iShares Global Timber & Forestry ETF,NASDAQ,USD,ETFs
-sec-s-f71c3d6005254c9facd19d8123ff04ac,exchange_traded_fund,RING,BTC iShares MSCI Global Gold Miners ETF,NASDAQ,USD,ETFs
+sec-s-5b3182b755314191be9758ef713e38ab,exchange_traded_fund,SHY,BTC iShares 1-3 Year Treasury Bond ETF,NASDAQ,USD,"Fractional Trading, ETFs"
+sec-s-24a8d289dcdf4896ab22593ee2f125d2,exchange_traded_fund,IGSB,iShares Short-Term Corporate Bond ETF,NASDAQ,USD,
+sec-s-48070833356a4c52802f7486f08d8b4a,exchange_traded_fund,IUSV,BTC iShares Core S&P U.S.Value ETF,NASDAQ,USD,ETFs
+sec-s-9f1b162e0f464b0ca52953820c220aee,exchange_traded_fund,IMCV,BTC iShares Morningstar Mid-Cap Value ETF,NASDAQ,USD,"Fractional Trading, ETFs"
+sec-s-bda275048c74454aa5eb76c65dd1c36a,exchange_traded_fund,SCZ,BTC iShares MSCI EAFE Small-Cap ETF,NASDAQ,USD,ETFs
 sec-s-c9ad68b770be49a6b339de5cf576d465,exchange_traded_fund,EUFN,BTC iShares MSCI Europe Financials ETF,NASDAQ,USD,ETFs
 sec-s-cef9e7c73dd4478d94d179b1e0c00a74,exchange_traded_fund,INDY,BTC iShares India 50 ETF,NASDAQ,USD,ETFs
-sec-s-6d427e34aa234f3f91a604ab8886c8d8,exchange_traded_fund,IBB,BTC iShares Nasdaq Biotechnology ETF,NASDAQ,USD,ETFs
-sec-s-1adc6d35aa1d4e2c874554a20f5cc663,exchange_traded_fund,IUSG,BTC iShares Core S&P U.S.Growth ETF,NASDAQ,USD,ETFs
+sec-s-dc0eaa4baf0547b2b14e46669c1b4e37,exchange_traded_fund,WOOD,BTC iShares Global Timber & Forestry ETF,NASDAQ,USD,ETFs
+sec-s-f71c3d6005254c9facd19d8123ff04ac,exchange_traded_fund,RING,BTC iShares MSCI Global Gold Miners ETF,NASDAQ,USD,ETFs
+sec-s-26984c4e46164a489f212a645377588f,exchange_traded_fund,IFGL,BTC iShares International Developed Real Estate ETF,NASDAQ,USD,ETFs
 sec-s-23197b39231a4017a22dac654eeb9a1f,exchange_traded_fund,DVY,BTC iShares Select Dividend ETF,NASDAQ,USD,ETFs
-sec-s-8ac91f98cc4d4e7b9fba3a9fab719705,exchange_traded_fund,IEF,BTC iShares 7-10 Year Treasury Bond ETF,NASDAQ,USD,"Fractional Trading, ETFs"
+sec-s-1adc6d35aa1d4e2c874554a20f5cc663,exchange_traded_fund,IUSG,BTC iShares Core S&P U.S.Growth ETF,NASDAQ,USD,ETFs
+sec-s-2aed82397eb542b9bbc38074926c58b1,exchange_traded_fund,EMIF,BTC iShares Emerging Markets Infrastructure ETF,NASDAQ,USD,ETFs
 sec-s-197462ca5b6a4b719574bb9f87ad4ade,exchange_traded_fund,BUG,Global X Funds - Cybrscurty ETF,NASDAQ,USD,
 sec-s-6043f3f41aa4467788784d2eed6cf2f0,exchange_traded_fund,FTHI,First Trust BuyWrite Income ETF,NASDAQ,USD,ETFs
 sec-s-cd7e9fec57d248249b5a929d4471a039,exchange_traded_fund,PKW,Invesco Exchange Traded Fund - Buyback Achiev,NASDAQ,USD,
+sec-s-11d7e6922dd1493abe2657d5608d4607,exchange_traded_fund,IPKW,Invesco International BuyBack Achievers TM ETF,NASDAQ,USD,
 sec-s-1d71cabd1fe5445ea9e4e0a7b44c4eb8,exchange_traded_fund,VPN,Global X Funds - Data Center REITs & Digital Infrastructure ETF,NASDAQ,USD,
 sec-s-941dd0b1ac874ecfa9872b2719733ed5,exchange_traded_fund,MCHI,iShares Trust - MSCI China ETF,NASDAQ,USD,ETFs
 sec-s-9fd281b3b4844b89a992a5ff86175c64,exchange_traded_fund,PGJ,Invesco Exchange Traded Fd  - Global Dragon Cn,NASDAQ,USD,ETFs
@@ -45,9 +47,9 @@ sec-s-2a30f6b612844a54830ec208de2ea627,exchange_traded_fund,DAX,Global X DAX Ger
 sec-s-f23e6ffd14534d01acefe48aa046b073,exchange_traded_fund,PIZ,Invesco DWA Developed Markets Momentum ETF,NASDAQ,USD,
 sec-s-348d3001dacd4995b6bd354fc3d41dab,exchange_traded_fund,DGRW,WisdomTree U.S. Quality Dividend Growth Fund,NASDAQ,USD,ETFs
 sec-s-0f6be1e65740402d9cb55570f61ec702,exchange_traded_fund,DGRE,WisdomTree Emerging Markets Quality Dividend Growth Fund,NASDAQ,USD,ETFs
-sec-s-a38c4dc1b2a24b2abee017fb66c2817e,exchange_traded_fund,VYMI,Vanguard International High Dividend Yield ETF,NASDAQ,USD,ETFs
 sec-s-298a034530404966af0e900c20074792,exchange_traded_fund,PXI,Invesco DWA Energy Momentum ETF,NASDAQ,USD,
 sec-s-946405b6bfb94350854c47b95a5eb385,exchange_traded_fund,PTH,Invesco DWA Healthcare Momentum ETF,NASDAQ,USD,ETFs
+sec-s-af380536efc7404db22ec2b19722d5e2,exchange_traded_fund,PYZ,Invesco DWA Basic Materials Momentum ETF,NASDAQ,USD,
 sec-s-d1d893d7d71d44399d46a511322f0b4d,exchange_traded_fund,PIE,Invesco DWA Emerging Markets Momentum ETF,NASDAQ,USD,
 sec-s-d8671b6976bc4a73b28ba073920064e5,exchange_traded_fund,PRN,Invesco DWA Industrials Momentum ETF,NASDAQ,USD,
 sec-s-1b5c852bc6f7449dbe7e7d28d496c98d,exchange_traded_fund,PSL,Invesco DWA Consumer Staples Momentum ETF,NASDAQ,USD,
@@ -57,42 +59,41 @@ sec-s-07f801d9293048f29933f63774749f79,exchange_traded_fund,GIGE,SoFi Gig Econom
 sec-s-89435b4a3de2463cbc5736e36ff1084a,exchange_traded_fund,QCLN,First Trust Exchange-Traded Fund III - First Trust Nasdaq Clean Edge Green Energy Index Fund,NASDAQ,USD,ETFs
 sec-s-1c6d3ec90b8e4ed99ab635eb5ed5120c,exchange_traded_fund,ESGE,iShares Inc iShares ESG MSCI EM ETF,NASDAQ,USD,ETFs
 sec-s-6ec4821e9f41456a957c3046460cb1eb,exchange_traded_fund,EMB,BTC iShares J.P. Morgan USD Emerging Markets Bond ETF,NASDAQ,USD,"Fractional Trading, ETFs"
-sec-s-2aed82397eb542b9bbc38074926c58b1,exchange_traded_fund,EMIF,BTC iShares Emerging Markets Infrastructure ETF,NASDAQ,USD,ETFs
+sec-s-ad6127865da24aa7ac2dfb985231e2c7,exchange_traded_fund,VWOB,Vanguard Whitehall - Emerging Market Bond ETF,NASDAQ,USD,ETFs
 sec-s-c6497657dd5043f391a9954927c1828c,exchange_traded_fund,ENZL,iShares MSCI New Zealand ETF,NASDAQ,USD,ETFs
 sec-s-13987757a1cd4b48bdafb5942ba669a8,exchange_traded_fund,NFTY,First Trust India Nifty 50 Equal Weight ETF,NASDAQ,USD,
+sec-s-5722fa58822141b097fc725291e18d3c,exchange_traded_fund,UAE,iShares MSCI UAE ETF,NASDAQ,USD,ETFs
+sec-s-59533342009946f9969d6306f7697881,exchange_traded_fund,TUR,iShares Inc. - MSCI Turkey ETF,NASDAQ,USD,ETFs
 sec-s-e3673b9bf62249959c6ef3e7c8a54d08,exchange_traded_fund,VNQI,Vanguard Global ex-U.S. Real Estate ETF,NASDAQ,USD,ETFs
-sec-s-af765cf4dff141269ddc89e683e4664c,exchange_traded_fund,KBWY,Invesco Exchange Traded Fund Trust II - KBW Premium Yield,NASDAQ,USD,
+sec-s-28b34e5db78f4b9f92cb52510dc2b620,exchange_traded_fund,PSCH,Invesco Exchange Traded Fund Trust II - S&p Small-Cap Health,NASDAQ,USD,
 sec-s-30dabc5025904beeb763c86bfdebf9a4,exchange_traded_fund,FTXL,First Trust Exchange-Traded Fund III - First Trust Nasdaq Semiconductor ETF,NASDAQ,USD,
 sec-s-340673f381fd499bb19f54a7b7271b39,exchange_traded_fund,QQC,Simplify Exchange Traded Funds - Simplify Nasdaq 100 Plus Convexity ETF,NASDAQ,USD,
-sec-s-28b34e5db78f4b9f92cb52510dc2b620,exchange_traded_fund,PSCH,Invesco Exchange Traded Fund Trust II - S&p Small-Cap Health,NASDAQ,USD,
+sec-s-af765cf4dff141269ddc89e683e4664c,exchange_traded_fund,KBWY,Invesco Exchange Traded Fund Trust II - KBW Premium Yield,NASDAQ,USD,
 sec-s-f51018c3803448ac8e3537e95868a459,exchange_traded_fund,FEX,First  Lrge Corporation Core Alpha Fund - Shares,NASDAQ,USD,ETFs
-sec-s-8adaca9a403a4eab820ae4ce4bcffc77,exchange_traded_fund,FTC,First Trust Large Capital Growth AlphaDEX Fund,NASDAQ,USD,
 sec-s-99efe0187d9e4c08972f2d3b333a1d90,exchange_traded_fund,FTSL,First Trust Senior Loan Fund ETF,NASDAQ,USD,ETFs
 sec-s-8000e7cdb16840628c5f56347914bc5e,exchange_traded_fund,HLAL,Wahed FTSE USA Shariah ETF,NASDAQ,USD,
-sec-s-34158c1323f84794822e3874b9919f01,exchange_traded_fund,PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,NASDAQ,USD,ETFs
+sec-s-34158c1323f84794822e3874b9919f01,exchange_traded_fund,PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-b5f797101bac43deb13c766608d8f11f,exchange_traded_fund,QQQJ,Invesco NASDAQ Next Gen 100 ETF,NASDAQ,USD,
+sec-s-28bb82bede634c649f0db29ab6ab4911,exchange_traded_fund,SOCL,Global X Social Media ETF,NASDAQ,USD,ETFs
 sec-s-4f767b86f10d44d0a71b68bea18d30f2,exchange_traded_fund,GNMA,iShares Trust - Gnma Bond ETF,NASDAQ,USD,ETFs
 sec-s-f1af011cfc55476da54f45b019387fca,exchange_traded_fund,HERO,Global X Video Games & Esports ETF,NASDAQ,USD,
+sec-s-a38c4dc1b2a24b2abee017fb66c2817e,exchange_traded_fund,VYMI,Vanguard International High Dividend Yield ETF,NASDAQ,USD,ETFs
 sec-s-c98dc61296274ec79a3e7af836d54e4e,exchange_traded_fund,HNDL,Strategy Shares - Ns 7Handl Index,NASDAQ,USD,
 sec-s-0b5a3a922816403c9accb5a260d861b5,exchange_traded_fund,ICLN,BTC iShares Global Clean Energy ETF,NASDAQ,USD,ETFs
-sec-s-26984c4e46164a489f212a645377588f,exchange_traded_fund,IFGL,BTC iShares International Developed Real Estate ETF,NASDAQ,USD,ETFs
+sec-s-8ac91f98cc4d4e7b9fba3a9fab719705,exchange_traded_fund,IEF,BTC iShares 7-10 Year Treasury Bond ETF,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-f6f65dbb92894db289531e0205f30e3f,exchange_traded_fund,IGIB,iShares Intermediate-Term Corporate Bond ETF,NASDAQ,USD,ETFs
 sec-s-106f89ad085e4124a7a876d4c105bc95,exchange_traded_fund,IGOV,iShares Trust - International Treasury Bond ETF,NASDAQ,USD,ETFs
 sec-s-02604a7d98fd41deb0c2b6bd4c88846e,exchange_traded_fund,IGF,BTC iShares Global Infrastructure ETF,NASDAQ,USD,ETFs
-sec-s-af588f5db4de458dba18ceec17db8848,exchange_traded_fund,QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund,NASDAQ,USD,ETFs
+sec-s-af588f5db4de458dba18ceec17db8848,exchange_traded_fund,QTEC,First Trust Exchange-Traded Fund III - First Trust NASDAQ-100 Technology Sector Index Fund,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-b70e3feb8ea242f2acbc64782ab6670b,exchange_traded_fund,IJT,BTC iShares S&P Small-Cap 600 Growth ETF,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-73c59c64bc0b4259ab9e4b4cfca09999,exchange_traded_fund,SDG,iShares MSCI Global Impact ETF,NASDAQ,USD,ETFs
-sec-s-5722fa58822141b097fc725291e18d3c,exchange_traded_fund,UAE,iShares MSCI UAE ETF,NASDAQ,USD,ETFs
-sec-s-48070833356a4c52802f7486f08d8b4a,exchange_traded_fund,IUSV,BTC iShares Core S&P U.S.Value ETF,NASDAQ,USD,ETFs
 sec-s-e8db5c2007764094b25e87213a864732,exchange_traded_fund,KBWR,Invesco KBW Regional Banking ETF,NASDAQ,USD,
 sec-s-f161581e620341db9fde43b82a85c94a,exchange_traded_fund,KBWD,Invesco Capital Management LLC - Invesco KBW High Dividend Yield Financial ETF,NASDAQ,USD,
 sec-s-78a3479348ef45aea5d86e8d0f12c3fe,exchange_traded_fund,KRMA,Global X Conscious Companies ETF,NASDAQ,USD,ETFs
 sec-s-980ceb278d414ce0bc36846d28941c1e,exchange_traded_fund,VGLT,Vanguard Long-Term Treasury ETF,NASDAQ,USD,
 sec-s-3fd09e09ae02441cbae320b19c11f4c3,exchange_traded_fund,MBB,BTC iShares MBS ETF,NASDAQ,USD,ETFs
-sec-s-28bb82bede634c649f0db29ab6ab4911,exchange_traded_fund,SOCL,Global X Social Media ETF,NASDAQ,USD,ETFs
-sec-s-b2bd4066ab094ae6922ec51ca63e2166,exchange_traded_fund,PNQI,Invesco NASDAQ Internet ETF,NASDAQ,USD,Fractional Trading
 sec-s-761bbfcfafd742d5b09331a5863132ec,exchange_traded_fund,QQQN,VictoryShares Nasdaq Next 50 ETF,NASDAQ,USD,
-sec-s-081dd0d8801a488b8c0f656ecd945437,exchange_traded_fund,QYLD,Global X NASDAQ 100 Covered Call ETF,NASDAQ,USD,
+sec-s-b2bd4066ab094ae6922ec51ca63e2166,exchange_traded_fund,PNQI,Invesco NASDAQ Internet ETF,NASDAQ,USD,Fractional Trading
 sec-s-ce0d48f48a184a709a9cd56865a20a30,exchange_traded_fund,ONEQ,Fidelity Covington Trust - Fidelity Nasdaq Composite Index Tracking Stock Fund,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-deea3f7743814edf9caa5f504aee9066,exchange_traded_fund,PFM,Invesco Dividend Achievers ETF,NASDAQ,USD,ETFs
 sec-s-ab11a50c6cb44d41be0807219713239f,exchange_traded_fund,PHO,Invesco Water Resources ETF,NASDAQ,USD,ETFs
@@ -104,20 +105,20 @@ sec-s-2936cdb80dbc48acb8c8fbf8aa9958d4,exchange_traded_fund,QQQ,Invesco QQQ Trus
 sec-s-edc4cdbeedbf487382da7a5537fe9ac9,exchange_traded_fund,QQQM,Invesco NASDAQ 100 ETF,NASDAQ,USD,Fractional Trading
 sec-s-91b76fb5b9814decb7748fdf90794c6a,exchange_traded_fund,SQQQ,ProShares UltraPro Short QQQ,NASDAQ,USD,
 sec-s-61b97929724c4309bbb451c7aafedf03,exchange_traded_fund,TQQQ,ProShares UltraPro QQQ,NASDAQ,USD,Fractional Trading
+sec-s-081dd0d8801a488b8c0f656ecd945437,exchange_traded_fund,QYLD,Global X NASDAQ 100 Covered Call ETF,NASDAQ,USD,
 sec-s-f65a2ba31b9e4e2b9834734079a3df65,exchange_traded_fund,QYLG,Global X Nasdaq 100 Covered Call & Growth ETF,NASDAQ,USD,
 sec-s-aa3cf28260fd474cb699eebd62aca97f,exchange_traded_fund,RDVY,First Trust Rising Dividend Achievers ETF,NASDAQ,USD,ETFs
 sec-s-dc1bd08a2d8343149c8892e423e3064e,exchange_traded_fund,RTH,VanEck Vectors Retail ETF,NASDAQ,USD,ETFs
 sec-s-1554eb05cec2416d88748e45c0103c8f,exchange_traded_fund,VTWO,Vanguard Russell 2000 Index ETF,NASDAQ,USD,
 sec-s-fb755c3169484548945580882b42b9f2,exchange_traded_fund,VONV,"Vanguard Group, Inc. - Vanguard Russell 1000 Value Index ETF",NASDAQ,USD,"Fractional Trading, ETFs"
-sec-s-ce4235f69d364401892d9894a78607c9,exchange_traded_fund,VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",NASDAQ,USD,ETFs
+sec-s-ce4235f69d364401892d9894a78607c9,exchange_traded_fund,VTWV,"Vanguard Group, Inc. - Vanguard Russell 2000 Value Index ETF",NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-c9ad806f64dc4ec8b795557f89b0d2e0,exchange_traded_fund,SHV,BTC iShares Short Treasury Bond ETF,NASDAQ,USD,ETFs
-sec-s-5b3182b755314191be9758ef713e38ab,exchange_traded_fund,SHY,BTC iShares 1-3 Year Treasury Bond ETF,NASDAQ,USD,"Fractional Trading, ETFs"
+sec-s-90604257f70048e99c452e95265c8f0e,exchange_traded_fund,SKYY,First Trust Cloud Computing ETF,NASDAQ,USD,ETFs
 sec-s-eb7d1c4018c041e59ceae555decc431d,exchange_traded_fund,SMH,VanEck Vectors Semiconductor ETF,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-f13e23131d09462f82a3cf82a87d33fe,exchange_traded_fund,SOXX,BTC iShares PHLX Semiconductor ETF,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-7349f1c052e646f7afd893961c2e872a,exchange_traded_fund,SRET,Global X SuperDividend REIT ETF,NASDAQ,USD,
 sec-s-b9a1ae4cf4bb48fa8fbd159ed7e439e3,exchange_traded_fund,TLT,BTC iShares 20+ Year Treasury Bond ETF,NASDAQ,USD,"Fractional Trading, ETFs"
 sec-s-fb922913490c413598be9a2f7a55c690,exchange_traded_fund,VXUS,Vanguard Total International Stock ETF,NASDAQ,USD,"Fractional Trading, ETFs"
-sec-s-59533342009946f9969d6306f7697881,exchange_traded_fund,TUR,iShares Inc. - MSCI Turkey ETF,NASDAQ,USD,ETFs
 sec-s-4d349b8e6685452a9c173d6b25edfc47,exchange_traded_fund,UFO,Procure Space ETF,NASDAQ,USD,
 sec-s-9b7c19da7b2944ca8914fd36648ea059,exchange_traded_fund,VCIT,Vanguard Intermediate-Term Corporate Bond ETF,NASDAQ,USD,ETFs
 sec-s-e579d020ee914170bf8416391a0fbfeb,exchange_traded_fund,VCSH,Vanguard Short-Term Corporate Bond ETF,NASDAQ,USD,ETFs
